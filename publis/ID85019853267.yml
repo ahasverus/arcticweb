@@ -1,0 +1,25 @@
+---
+references:
+- id: ID85019853267
+  type: article-journal
+  author:
+  - family: Clausen
+    given: K. K.
+  - family: Holm
+    given: T. E.
+  - family: Haugaard
+    given: L.
+  - family: Madsen
+    given: J.
+  issued:
+  - year: '2017'
+    month: '9'
+  title: 'Crippling ratio: A novel approach to assess hunting-induced wounding of
+    wild animals'
+  container-title: Ecological Indicators
+  publisher: Elsevier BV
+  page: '242-246'
+  volume: '80'
+  URL: https://doi.org/10.1016%2Fj.ecolind.2017.05.044
+  DOI: 10.1016/j.ecolind.2017.05.044
+...

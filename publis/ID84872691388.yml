@@ -1,0 +1,37 @@
+---
+references:
+- id: ID84872691388
+  type: article-journal
+  author:
+  - family: Tranquilla
+    given: L. M.
+  - family: Montevecchi
+    given: W.
+  - family: Hedd
+    given: A.
+  - family: Fifield
+    dropping-particle: da
+  - family: Burke
+    given: C.
+  - family: Smith
+    given: P.
+  - family: Regular
+    given: P.
+  - family: Robertson
+    given: G.
+  - family: Gaston
+    given: A.
+  - family: Phillips
+    given: R.
+  issued:
+  - year: '2013'
+    month: '1'
+  title: 'Multiple-colony winter habitat use by murres uria spp. in the northwest
+    atlantic ocean: Implications for marine risk assessment'
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '287-303'
+  volume: '472'
+  URL: https://doi.org/10.3354%2Fmeps10053
+  DOI: 10.3354/meps10053
+...

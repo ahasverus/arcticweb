@@ -1,0 +1,21 @@
+---
+references:
+- id: ID65649101947
+  type: article-journal
+  author:
+  - family: Holt
+    given: R. D.
+  - family: Barfield
+    given: M.
+  issued:
+  - year: '2009'
+    month: '2'
+  title: 'Trophic interactions and range limits: The diverse roles of predation'
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '1435-1442'
+  volume: '276'
+  issue: '1661'
+  URL: https://doi.org/10.1098%2Frspb.2008.1536
+  DOI: 10.1098/rspb.2008.1536
+...

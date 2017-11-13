@@ -1,0 +1,23 @@
+---
+references:
+- id: ID82255175166
+  type: article-journal
+  author:
+  - family: Ehrich
+    given: D.
+  - family: Carmichael
+    given: L.
+  - family: Fuglei
+    given: E.
+  issued:
+  - year: '2011'
+    month: '5'
+  title: Age-dependent genetic structure of arctic foxes in Svalbard
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '53-62'
+  volume: '35'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs00300-011-1030-1
+  DOI: 10.1007/s00300-011-1030-1
+...

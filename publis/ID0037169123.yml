@@ -1,0 +1,19 @@
+---
+references:
+- id: ID0037169123
+  type: article-journal
+  author:
+  - family: Duivenvoorden
+    given: J. F.
+  issued:
+  - year: '2002'
+    month: '1'
+  title: Beta diversity in tropical forests
+  container-title: Science
+  publisher: American Association for the Advancement of Science (AAAS)
+  page: '636-637'
+  volume: '295'
+  issue: '5555'
+  URL: https://doi.org/10.1126%2Fscience.295.5555.636
+  DOI: 10.1126/science.295.5555.636
+...

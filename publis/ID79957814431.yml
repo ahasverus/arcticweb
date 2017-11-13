@@ -1,0 +1,74 @@
+---
+references:
+- id: ID79957814431
+  type: article-journal
+  author:
+  - family: Engler
+    given: R.
+  - family: Randin
+    given: C. F.
+  - family: Thuiller
+    given: W.
+  - family: Dullinger
+    given: S.
+  - family: Zimmermann
+    given: N. E.
+  - family: Araújo
+    given: M. B.
+  - family: Pearman
+    given: P. B.
+  - family: Lay
+    given: G. L.
+  - family: Piedallu
+    given: C.
+  - family: Albert
+    given: C. H.
+  - family: Choler
+    given: P.
+  - family: Coldea
+    given: G.
+  - family: Lamo
+    given: X.
+    dropping-particle: de
+  - family: Dirnböck
+    given: T.
+  - family: Gégout
+    given: J.-C.
+  - family: Gómez-García
+    given: D.
+  - family: Grytnes
+    given: J.-A.
+  - family: Heegaard
+    given: E.
+  - family: Høistad
+    given: F.
+  - family: Nogués-Bravo
+    given: D.
+  - family: Normand
+    given: S.
+  - family: Puşcaş
+    given: M.
+  - family: Sebastià
+    given: M.-T.
+  - family: Stanisci
+    given: A.
+  - family: Theurillat
+    given: J.-P.
+  - family: Trivedi
+    given: M. R.
+  - family: Vittoz
+    given: P.
+  - family: Guisan
+    given: A.
+  issued:
+  - year: '2011'
+    month: '1'
+  title: 21st century climate change threatens mountain flora unequally across Europe
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '2330-2341'
+  volume: '17'
+  issue: '7'
+  URL: https://doi.org/10.1111%2Fj.1365-2486.2010.02393.x
+  DOI: 10.1111/j.1365-2486.2010.02393.x
+...

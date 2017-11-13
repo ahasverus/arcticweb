@@ -1,0 +1,33 @@
+---
+references:
+- id: ID28644447666
+  type: article-journal
+  author:
+  - family: Humphries
+    given: M. M.
+  - family: Boutin
+    given: S.
+  - family: Thomas
+    given: D. W.
+  - family: Ryan
+    given: J. D.
+  - family: Selman
+    given: C.
+  - family: McAdam
+    given: A. G.
+  - family: Berteaux
+    given: D.
+  - family: Speakman
+    given: J. R.
+  issued:
+  - year: '2005'
+    month: '12'
+  title: 'Expenditure freeze: The metabolic response of small mammals to cold environments'
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '1326-1333'
+  volume: '8'
+  issue: '12'
+  URL: https://doi.org/10.1111%2Fj.1461-0248.2005.00839.x
+  DOI: 10.1111/j.1461-0248.2005.00839.x
+...

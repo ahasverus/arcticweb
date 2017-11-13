@@ -1,0 +1,31 @@
+---
+references:
+- id: ID66149122704
+  type: article-journal
+  author:
+  - family: Duriez
+    given: O.
+  - family: Bauer
+    given: S.
+  - family: Destin
+    given: A.
+  - family: Madsen
+    given: J.
+  - family: Nolet
+    given: B. A.
+  - family: Stillman
+    given: R. A.
+  - family: Klaassen
+    given: M.
+  issued:
+  - year: '2009'
+  title: What decision rules might pink-footed geese use to depart on migration? An
+    individual-based model
+  container-title: Behavioral Ecology
+  publisher: Oxford University Press (OUP)
+  page: '560-569'
+  volume: '20'
+  issue: '3'
+  URL: https://doi.org/10.1093%2Fbeheco%2Farp032
+  DOI: 10.1093/beheco/arp032
+...

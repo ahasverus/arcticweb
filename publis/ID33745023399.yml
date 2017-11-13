@@ -1,0 +1,29 @@
+---
+references:
+- id: ID33745023399
+  type: article-journal
+  author:
+  - family: Silva
+    given: A.
+    dropping-particle: da
+  - family: Luikart
+    given: G.
+  - family: Yoccoz
+    given: N. G.
+  - family: Cohas
+    given: A.
+  - family: Allainé
+    given: D.
+  issued:
+  - year: '2005'
+    month: '12'
+  title: Genetic diversity-fitness correlation revealed by microsatellite analyses
+    in European alpine marmots (Marmota marmota)
+  container-title: Conservation Genetics
+  publisher: Springer Nature
+  page: '371-382'
+  volume: '7'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs10592-005-9048-y
+  DOI: 10.1007/s10592-005-9048-y
+...

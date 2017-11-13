@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84962523985
+  type: article-journal
+  author:
+  - family: Ordonez
+    given: A.
+  - family: Svenning
+    given: J.-C.
+  editor:
+  - family: Peters
+    given: D. P. C.
+  issued:
+  - year: '2016'
+    month: '2'
+  title: Functional diversity of North American broad-leaved trees is codetermined
+    by past and current environmental factors
+  container-title: Ecosphere
+  publisher: Wiley-Blackwell
+  volume: '7'
+  issue: '2'
+  URL: https://doi.org/10.1002%2Fecs2.1237
+  DOI: 10.1002/ecs2.1237
+...

@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0346034901
+  type: article-journal
+  author:
+  - family: Steen
+    given: H.
+  - family: Taitt
+    given: M.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '2002'
+    month: '7'
+  title: 'Risk of parasite-induced predation: An experimental field study on Townsend’s
+    voles (Microtus townsendii)'
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '1286-1292'
+  volume: '80'
+  issue: '7'
+  URL: https://doi.org/10.1139%2Fz02-115
+  DOI: 10.1139/z02-115
+...

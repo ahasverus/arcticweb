@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84884702783
+  type: article-journal
+  author:
+  - family: Carstensen
+    given: D. W.
+  - family: Dalsgaard
+    given: B.
+  - family: Svenning
+    given: J.-C.
+  - family: Rahbek
+    given: C.
+  - family: Fjeldså
+    given: J.
+  - family: Sutherland
+    given: W. J.
+  - family: Olesen
+    given: J. M.
+  issued:
+  - year: '2013'
+    month: '3'
+  title: 'The functional biogeography of species: Biogeographical species roles
+    of birds in Wallacea and the West Indies'
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '1097-1105'
+  volume: '36'
+  issue: '10'
+  URL: https://doi.org/10.1111%2Fj.1600-0587.2012.00223.x
+  DOI: 10.1111/j.1600-0587.2012.00223.x
+...

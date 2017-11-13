@@ -1,0 +1,23 @@
+---
+references:
+- id: ID0035117132
+  type: article-journal
+  author:
+  - family: Keitt
+    given: T. H.
+  - family: Lewis
+    given: M. A.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2001'
+    month: '2'
+  title: Allee effects, invasion pinning, and species’ borders
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '203-216'
+  volume: '157'
+  issue: '2'
+  URL: https://doi.org/10.1086%2F318633
+  DOI: 10.1086/318633
+...

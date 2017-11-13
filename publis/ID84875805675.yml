@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84875805675
+  type: chapter
+  author:
+  - family: Holt
+    given: R. D.
+  editor:
+  - family: Liu
+    given: Jianguo
+  - family: Hull
+    given: Vanessa
+  - family: Morzillo
+    given: Anita T.
+  - family: Wiens
+    given: John A.
+  issued:
+  - year: '2011'
+  title: 'Evolution in Source-Sink environments: Implications for niche conservatism'
+  container-title: Sources, Sinks and Sustainability
+  publisher: Cambridge University Press
+  page: '23-57'
+  URL: https://doi.org/10.1017%2Fcbo9780511842399.004
+  DOI: 10.1017/cbo9780511842399.004
+...

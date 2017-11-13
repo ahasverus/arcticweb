@@ -1,0 +1,23 @@
+---
+references:
+- id: ID84896958374
+  type: article-journal
+  author:
+  - family: Séguin
+    given: A.
+  - family: Gravel
+    given: D.
+  - family: Archambault
+    given: P.
+  issued:
+  - year: '2013'
+    month: '12'
+  title: Effect of disturbance regime on alpha and beta diversity of rock pools
+  container-title: Diversity
+  publisher: MDPI AG
+  page: '1-17'
+  volume: '6'
+  issue: '1'
+  URL: https://doi.org/10.3390%2Fd6010001
+  DOI: 10.3390/d6010001
+...

@@ -1,0 +1,25 @@
+---
+references:
+- id: ID0036743363
+  type: article-journal
+  author:
+  - family: Cook
+    given: W. M.
+  - family: Lane
+    given: K. T.
+  - family: Foster
+    given: B. L.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2002'
+    month: '9'
+  title: Island theory, matrix effects and species richness patterns in habitat fragments
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '619-623'
+  volume: '5'
+  issue: '5'
+  URL: https://doi.org/10.1046%2Fj.1461-0248.2002.00366.x
+  DOI: 10.1046/j.1461-0248.2002.00366.x
+...

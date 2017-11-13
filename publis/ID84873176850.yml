@@ -1,0 +1,51 @@
+---
+references:
+- id: ID84873176850
+  type: article-journal
+  author:
+  - family: Angerbjörn
+    given: A.
+  - family: Eide
+    given: N. E.
+  - family: Dalén
+    given: L.
+  - family: Elmhagen
+    given: B.
+  - family: Hellström
+    given: P.
+  - family: Ims
+    given: R. A.
+  - family: Killengreen
+    given: S.
+  - family: Landa
+    given: A.
+  - family: Meijer
+    given: T.
+  - family: Mela
+    given: M.
+  - family: Niemimaa
+    given: J.
+  - family: Norén
+    given: K.
+  - family: Tannerfeldt
+    given: M.
+  - family: Yoccoz
+    given: N. G.
+  - family: Henttonen
+    given: H.
+  editor:
+  - family: Pettorelli
+    given: Nathalie
+  issued:
+  - year: '2013'
+    month: '1'
+  title: 'Carnivore conservation in practice: Replicated management actions on a
+    large spatial scale'
+  container-title: Journal of Applied Ecology
+  publisher: Wiley-Blackwell
+  page: '59-67'
+  volume: '50'
+  issue: '1'
+  URL: https://doi.org/10.1111%2F1365-2664.12033
+  DOI: 10.1111/1365-2664.12033
+...

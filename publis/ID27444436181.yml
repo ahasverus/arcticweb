@@ -1,0 +1,25 @@
+---
+references:
+- id: ID27444436181
+  type: article-journal
+  author:
+  - family: Miron
+    given: G.
+  - family: Landry
+    given: T.
+  - family: Archambault
+    given: P.
+  - family: Frenette
+    given: B.
+  issued:
+  - year: '2005'
+    month: '11'
+  title: Effects of mussel culture husbandry practices on various benthic characteristics
+  container-title: Aquaculture
+  publisher: Elsevier BV
+  page: '138-154'
+  volume: '250'
+  issue: '1-2'
+  URL: https://doi.org/10.1016%2Fj.aquaculture.2005.01.030
+  DOI: 10.1016/j.aquaculture.2005.01.030
+...

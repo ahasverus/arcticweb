@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84976320672
+  type: article-journal
+  author:
+  - family: Grasset
+    given: J.
+  - family: Ollivier
+    given: L.
+  - family: Bougas
+    given: B.
+  - family: Yannic
+    given: G.
+  - family: Campbell
+    given: P. G. C.
+  - family: Bernatchez
+    given: L.
+  - family: Couture
+    given: P.
+  issued:
+  - year: '2016'
+    month: '8'
+  title: Combined effects of temperature changes and metal contamination at different
+    levels of biological organization in yellow perch
+  container-title: Aquatic Toxicology
+  publisher: Elsevier BV
+  page: '324-332'
+  volume: '177'
+  URL: https://doi.org/10.1016%2Fj.aquatox.2016.06.008
+  DOI: 10.1016/j.aquatox.2016.06.008
+...

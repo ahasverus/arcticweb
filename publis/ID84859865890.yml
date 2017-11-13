@@ -1,0 +1,42 @@
+---
+references:
+- id: ID84859865890
+  type: article-journal
+  author:
+  - family: Hawkins
+    given: B. A.
+  - family: McCain
+    given: C. M.
+  - family: Davies
+    given: T. J.
+  - family: Buckley
+    given: L. B.
+  - family: Anacker
+    given: B. L.
+  - family: Cornell
+    given: H. V.
+  - family: Damschen
+    given: E. I.
+  - family: Grytnes
+    given: J.-A.
+  - family: Harrison
+    given: S.
+  - family: Holt
+    given: R. D.
+  - family: Kraft
+    given: N. J. B.
+  - family: Stephens
+    given: P. R.
+  issued:
+  - year: '2011'
+    month: '12'
+  title: Different evolutionary histories underlie congruent species richness gradients
+    of birds and mammals
+  container-title: Journal of Biogeography
+  publisher: Wiley-Blackwell
+  page: '825-841'
+  volume: '39'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.1365-2699.2011.02655.x
+  DOI: 10.1111/j.1365-2699.2011.02655.x
+...

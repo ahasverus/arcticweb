@@ -1,0 +1,30 @@
+---
+references:
+- id: ID77949460723
+  type: article-journal
+  author:
+  - family: Strum
+    given: K. M.
+  - family: Hooper
+    given: M. J.
+  - family: Johnson
+    given: K. A.
+  - family: Lanctot
+    given: R. B.
+  - family: Zaccagnini
+    given: M. E.
+  - family: Sandercock
+    given: B. K.
+  issued:
+  - year: '2010'
+    month: '2'
+  title: Exposure of nonbreeding migratory shorebirds to cholinesterase-inhibiting
+    contaminants in the western hemisphere
+  container-title: The Condor
+  publisher: Cooper Ornithological Society
+  page: '15-28'
+  volume: '112'
+  issue: '1'
+  URL: https://doi.org/10.1525%2Fcond.2010.090026
+  DOI: 10.1525/cond.2010.090026
+...

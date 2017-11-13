@@ -1,0 +1,36 @@
+---
+references:
+- id: ID65549157944
+  type: article-journal
+  author:
+  - family: Randin
+    given: C. F.
+  - family: Engler
+    given: R.
+  - family: Normand
+    given: S.
+  - family: Zappa
+    given: M.
+  - family: Zimmermann
+    given: N. E.
+  - family: Pearman
+    given: P. B.
+  - family: Vittoz
+    given: P.
+  - family: Thuiller
+    given: W.
+  - family: Guisan
+    given: A.
+  issued:
+  - year: '2009'
+    month: '6'
+  title: 'Climate change and plant distribution: Local models predict high-elevation
+    persistence'
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '1557-1569'
+  volume: '15'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1365-2486.2008.01766.x
+  DOI: 10.1111/j.1365-2486.2008.01766.x
+...

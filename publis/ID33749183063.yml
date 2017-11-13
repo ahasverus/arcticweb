@@ -1,0 +1,20 @@
+---
+references:
+- id: ID33749183063
+  type: article-journal
+  author:
+  - family: Vezina
+    given: F.
+  issued:
+  - year: '2006'
+    month: '8'
+  title: Acclimation to different thermal conditions in a northerly wintering shorebird
+    is driven by body mass-related changes in organ size
+  container-title: Journal of Experimental Biology
+  publisher: The Company of Biologists
+  page: '3141-3154'
+  volume: '209'
+  issue: '16'
+  URL: https://doi.org/10.1242%2Fjeb.02338
+  DOI: 10.1242/jeb.02338
+...

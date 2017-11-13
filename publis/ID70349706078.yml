@@ -1,0 +1,26 @@
+---
+references:
+- id: ID70349706078
+  type: article-journal
+  author:
+  - family: Iversen
+    given: M.
+  - family: Bråthen
+    given: K. A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2009'
+    month: '10'
+  title: 'Predictors of plant phenology in a diverse high-latitude alpine landscape:
+    Growth forms and topography'
+  container-title: Journal of Vegetation Science
+  publisher: Wiley-Blackwell
+  page: '903-915'
+  volume: '20'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.1654-1103.2009.01088.x
+  DOI: 10.1111/j.1654-1103.2009.01088.x
+...

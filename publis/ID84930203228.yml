@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84930203228
+  type: article-journal
+  author:
+  - family: Berteaux
+    given: D.
+  - family: Gallant
+    given: D.
+  - family: Sacks
+    given: B. N.
+  - family: Statham
+    given: M. J.
+  issued:
+  - year: '2015'
+    month: '2'
+  title: Red foxes (Vulpes vulpes) at their expanding front in the Canadian Arctic
+    have indigenous maternal ancestry
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '913-917'
+  volume: '38'
+  issue: '6'
+  URL: https://doi.org/10.1007%2Fs00300-015-1647-6
+  DOI: 10.1007/s00300-015-1647-6
+...

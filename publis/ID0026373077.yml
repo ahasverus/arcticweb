@@ -1,0 +1,22 @@
+---
+references:
+- id: ID0026373077
+  type: article-journal
+  author:
+  - family: Dimentberg
+    given: M. F.
+  - family: Sokolov
+    given: A. A.
+  issued:
+  - year: '1991'
+    month: '1'
+  title: Identification of restoring force non-linearity from a system’s response
+    to a white-noise excitation
+  container-title: International Journal of Non-Linear Mechanics
+  publisher: Elsevier BV
+  page: '851-855'
+  volume: '26'
+  issue: '6'
+  URL: https://doi.org/10.1016%2F0020-7462%2891%2990036-s
+  DOI: 10.1016/0020-7462(91)90036-s
+...

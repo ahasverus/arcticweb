@@ -1,0 +1,26 @@
+---
+references:
+- id: ID57449103544
+  type: article-journal
+  author:
+  - family: Lemaître
+    given: J.-F.
+  - family: Rigaud
+    given: T.
+  - family: Cornet
+    given: S.
+  - family: Bollache
+    given: L.
+  issued:
+  - year: '2009'
+    month: '1'
+  title: Sperm depletion, male mating behaviour and reproductive ’time-out’ in Gammarus
+    pulex (Crustacea, Amphipoda)
+  container-title: Animal Behaviour
+  publisher: Elsevier BV
+  page: '49-54'
+  volume: '77'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fj.anbehav.2008.08.028
+  DOI: 10.1016/j.anbehav.2008.08.028
+...

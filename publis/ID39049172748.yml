@@ -1,0 +1,26 @@
+---
+references:
+- id: ID39049172748
+  type: article-journal
+  author:
+  - family: Svenning
+    given: J.-C.
+  - family: Borchsenius
+    given: F.
+  - family: Bjorholm
+    given: S.
+  - family: Balslev
+    given: H.
+  issued:
+  - year: '2008'
+    month: '3'
+  title: High tropical net diversification drives the New World latitudinal gradient
+    in palm (Arecaceae) species richness
+  container-title: Journal of Biogeography
+  publisher: Wiley-Blackwell
+  page: '394-406'
+  volume: '35'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1365-2699.2007.01841.x
+  DOI: 10.1111/j.1365-2699.2007.01841.x
+...

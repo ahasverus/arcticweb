@@ -1,0 +1,35 @@
+---
+references:
+- id: ID84995450738
+  type: article-journal
+  author:
+  - family: Amélineau
+    given: F.
+  - family: Bonnet
+    given: D.
+  - family: Heitz
+    given: O.
+  - family: Mortreux
+    given: V.
+  - family: Harding
+    given: A. M. A.
+  - family: Karnovsky
+    given: N.
+  - family: Walkusz
+    given: W.
+  - family: Fort
+    given: J.
+  - family: Grémillet
+    given: D.
+  issued:
+  - year: '2016'
+    month: '12'
+  title: 'Microplastic pollution in the Greenland Sea: Background levels and selective
+    contamination of planktivorous diving seabirds'
+  container-title: Environmental Pollution
+  publisher: Elsevier BV
+  page: '1131-1139'
+  volume: '219'
+  URL: https://doi.org/10.1016%2Fj.envpol.2016.09.017
+  DOI: 10.1016/j.envpol.2016.09.017
+...

@@ -1,0 +1,22 @@
+---
+references:
+- id: ID84858314861
+  type: article-journal
+  author:
+  - family: Høye
+    given: T. T.
+  - family: Skov
+    given: F.
+  - family: Topping
+    given: C. J.
+  issued:
+  - year: '2012'
+    month: '9'
+  title: Interpreting outputs of agent-based models using abundance-occupancy relationships
+  container-title: Ecological Indicators
+  publisher: Elsevier BV
+  page: '221-227'
+  volume: '20'
+  URL: https://doi.org/10.1016%2Fj.ecolind.2012.01.017
+  DOI: 10.1016/j.ecolind.2012.01.017
+...

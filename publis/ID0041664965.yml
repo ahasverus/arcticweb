@@ -1,0 +1,19 @@
+---
+references:
+- id: ID0041664965
+  type: article-journal
+  author:
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2003'
+    month: '8'
+  title: Not so quiet on the high frontier
+  container-title: Trends in Ecology & Evolution
+  publisher: Elsevier BV
+  page: '376-379'
+  volume: '18'
+  issue: '8'
+  URL: https://doi.org/10.1016%2Fs0169-5347%2803%2900186-1
+  DOI: 10.1016/s0169-5347(03)00186-1
+...

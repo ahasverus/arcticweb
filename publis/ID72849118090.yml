@@ -1,0 +1,28 @@
+---
+references:
+- id: ID72849118090
+  type: article-journal
+  author:
+  - family: Cornet
+    given: S.
+  - family: Franceschi
+    given: N.
+  - family: Bollache
+    given: L.
+  - family: Rigaud
+    given: T.
+  - family: Sorci
+    given: G.
+  issued:
+  - year: '2009'
+    month: '9'
+  title: Variation and covariation in infectivity, virulence and immunodepression
+    in the host-parasite association Gammarus pulex-Pomphorhynchus laevis
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '4229-4236'
+  volume: '276'
+  issue: '1676'
+  URL: https://doi.org/10.1098%2Frspb.2009.1299
+  DOI: 10.1098/rspb.2009.1299
+...

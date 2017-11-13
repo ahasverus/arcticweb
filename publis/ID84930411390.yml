@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84930411390
+  type: article-journal
+  author:
+  - family: Deangelis
+    given: D. L.
+  - family: Bryant
+    given: J. P.
+  - family: Liu
+    given: R.
+  - family: Gourley
+    given: S. A.
+  - family: Krebs
+    given: C. J.
+  - family: Reichardt
+    given: P. B.
+  issued:
+  - year: '2015'
+    month: '2'
+  title: A plant toxin mediated mechanism for the lag in snowshoe hare population
+    recovery following cyclic declines
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '796-805'
+  volume: '124'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Foik.01671
+  DOI: 10.1111/oik.01671
+...

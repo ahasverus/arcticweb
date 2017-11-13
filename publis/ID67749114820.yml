@@ -1,0 +1,36 @@
+---
+references:
+- id: ID67749114820
+  type: article-journal
+  author:
+  - family: Ropert-Coudert
+    given: Y.
+  - family: Daunt
+    given: F.
+  - family: Kato
+    given: A.
+  - family: Ryan
+    given: P. G.
+  - family: Lewis
+    given: S.
+  - family: Kobayashi
+    given: K.
+  - family: Mori
+    given: Y.
+  - family: Grémillet
+    given: D.
+  - family: Wanless
+    given: S.
+  issued:
+  - year: '2009'
+    month: '7'
+  title: Underwater wingbeats extend depth and duration of plunge dives in northern
+    gannets morus bassanus
+  container-title: Journal of Avian Biology
+  publisher: Wiley-Blackwell
+  page: '380-387'
+  volume: '40'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1600-048x.2008.04592.x
+  DOI: 10.1111/j.1600-048x.2008.04592.x
+...

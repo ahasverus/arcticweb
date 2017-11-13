@@ -1,0 +1,30 @@
+---
+references:
+- id: ID77956074966
+  type: article-journal
+  author:
+  - family: Hinnebusch
+    given: D. M.
+  - family: Therrien
+    given: J.-F.
+  - family: Valiquette
+    given: M.-A.
+  - family: Robertson
+    given: B.
+  - family: Robertson
+    given: S.
+  - family: Bildstein
+    given: K. L.
+  issued:
+  - year: '2010'
+    month: '9'
+  title: Survival, site fidelity, and population trends of American Kestrels wintering
+    in Southwestern Florida
+  container-title: The Wilson Journal of Ornithology
+  publisher: Wilson Ornithological Society
+  page: '475-483'
+  volume: '122'
+  issue: '3'
+  URL: https://doi.org/10.1676%2F09-170.1
+  DOI: 10.1676/09-170.1
+...

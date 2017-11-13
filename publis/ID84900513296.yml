@@ -1,0 +1,33 @@
+---
+references:
+- id: ID84900513296
+  type: article-journal
+  author:
+  - family: Topping
+    given: C. J.
+  - family: Kjaer
+    given: L. J.
+  - family: Hommen
+    given: U.
+  - family: Høye
+    given: T. T.
+  - family: Preuss
+    given: T. G.
+  - family: Sibly
+    given: R. M.
+  - family: Vliet
+    given: P.
+    dropping-particle: van
+  issued:
+  - year: '2014'
+    month: '5'
+  title: Recovery based on plot experiments is a poor predictor of landscape-level
+    population impacts of agricultural pesticides
+  container-title: Environmental Toxicology and Chemistry
+  publisher: Wiley-Blackwell
+  page: '1499-1507'
+  volume: '33'
+  issue: '7'
+  URL: https://doi.org/10.1002%2Fetc.2388
+  DOI: 10.1002/etc.2388
+...

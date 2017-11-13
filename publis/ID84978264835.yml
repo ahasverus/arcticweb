@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84978264835
+  type: article-journal
+  author:
+  - family: Parain
+    given: E. C.
+  - family: Gravel
+    given: D.
+  - family: Rohr
+    given: R. P.
+  - family: Bersier
+    given: L.-F.
+  - family: Gray
+    given: S. M.
+  issued:
+  - year: '2016'
+    month: '6'
+  title: 'Mismatch in microbial food webs: predators but not prey perform better
+    in their local biotic and abiotic conditions'
+  container-title: Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '4885-4897'
+  volume: '6'
+  issue: '14'
+  URL: https://doi.org/10.1002%2Fece3.2236
+  DOI: 10.1002/ece3.2236
+...

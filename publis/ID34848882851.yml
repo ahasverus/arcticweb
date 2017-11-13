@@ -1,0 +1,37 @@
+---
+references:
+- id: ID34848882851
+  type: article-journal
+  author:
+  - family: Arzel
+    given: C.
+  - family: Elmberg
+    given: J.
+  - family: Guillemain
+    given: M.
+  - family: Legagneux
+    given: P.
+  - family: Bosca
+    given: F.
+  - family: Chambouleyron
+    given: M.
+  - family: Lepley
+    given: M.
+  - family: Pin
+    given: C.
+  - family: Arnaud
+    given: A.
+  - family: Schricke
+    given: V.
+  issued:
+  - year: '2007'
+    month: '9'
+  title: Average mass of seeds encountered by foraging dabbling ducks in western Europe
+  container-title: Wildlife Biology
+  publisher: Wildlife Biology
+  page: '328-336'
+  volume: '13'
+  issue: '3'
+  URL: https://doi.org/10.2981%2F0909-6396%282007%2913%5B328%3Aamoseb%5D2.0.co%3B2
+  DOI: 10.2981/0909-6396(2007)13[328:amoseb]2.0.co;2
+...

@@ -1,0 +1,30 @@
+---
+references:
+- id: ID3042703135
+  type: article-journal
+  author:
+  - family: Arvisais
+    given: M.
+  - family: Lévesque
+    given: E.
+  - family: Bourgeois
+    given: J.-C.
+  - family: Daigle
+    given: C.
+  - family: Masse
+    given: D.
+  - family: Jutras
+    given: J.
+  issued:
+  - year: '2004'
+    month: '3'
+  title: Habitat selection by the wood turtle (Clemmys insculpta) at the northern
+    limit of its range
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '391-398'
+  volume: '82'
+  issue: '3'
+  URL: https://doi.org/10.1139%2Fz04-012
+  DOI: 10.1139/z04-012
+...

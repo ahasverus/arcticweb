@@ -1,0 +1,44 @@
+---
+references:
+- id: ID84956639254
+  type: article-journal
+  author:
+  - family: Doughty
+    given: C. E.
+  - family: Wolf
+    given: A.
+  - family: Morueta-Holme
+    given: N.
+  - family: Jørgensen
+    given: P. M.
+  - family: Sandel
+    given: B.
+  - family: Violle
+    given: C.
+  - family: Boyle
+    given: B.
+  - family: Kraft
+    given: N. J. B.
+  - family: Peet
+    given: R. K.
+  - family: Enquist
+    given: B. J.
+  - family: Svenning
+    given: J.-C.
+  - family: Blake
+    given: S.
+  - family: Galetti
+    given: M.
+  issued:
+  - year: '2015'
+    month: '10'
+  title: Megafauna extinction, tree species range reduction, and carbon storage in
+    Amazonian forests
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '194-203'
+  volume: '39'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fecog.01587
+  DOI: 10.1111/ecog.01587
+...

@@ -1,0 +1,35 @@
+---
+references:
+- id: ID84981528221
+  type: article-journal
+  author:
+  - family: Casajus
+    given: N.
+  - family: Périé
+    given: C.
+  - family: Logan
+    given: T.
+  - family: Lambert
+    given: M.-C.
+  - family: Blois
+    given: S.
+    dropping-particle: de
+  - family: Berteaux
+    given: D.
+  editor:
+  - family: Geraldine Chapman
+    given: Maura
+    dropping-particle: (Gee)
+  issued:
+  - year: '2016'
+    month: '3'
+  title: An Objective Approach to Select Climate Scenarios when Projecting Species
+    Distribution under Climate Change
+  container-title: PLOS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e0152495'
+  volume: '11'
+  issue: '3'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0152495
+  DOI: 10.1371/journal.pone.0152495
+...

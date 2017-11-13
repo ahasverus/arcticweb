@@ -1,0 +1,24 @@
+---
+references:
+- id: ID58149331834
+  type: article-journal
+  author:
+  - family: Gravel
+    given: D.
+  - family: Beaudet
+    given: M.
+  - family: Messier
+    given: C.
+  issued:
+  - year: '2008'
+    month: '10'
+  title: Partitioning the factors of spatial variation in regeneration density of
+    shade-tolerant tree species
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '2879-2888'
+  volume: '89'
+  issue: '10'
+  URL: https://doi.org/10.1890%2F07-1596.1
+  DOI: 10.1890/07-1596.1
+...

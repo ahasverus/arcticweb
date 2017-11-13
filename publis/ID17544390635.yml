@@ -1,0 +1,28 @@
+---
+references:
+- id: ID17544390635
+  type: article-journal
+  author:
+  - family: Pélabon
+    given: C.
+  - family: Carlson
+    given: M. L.
+  - family: Hansen
+    given: T. F.
+  - family: Yoccoz
+    given: N. G.
+  - family: Armbruster
+    given: W. S.
+  issued:
+  - year: '2003'
+    month: '11'
+  title: Consequences of inter-population crosses on developmental stability and canalization
+    of floral traits in Dalechampia scandens (Euphorbiaceae)
+  container-title: Journal of Evolutionary Biology
+  publisher: Wiley-Blackwell
+  page: '19-32'
+  volume: '17'
+  issue: '1'
+  URL: https://doi.org/10.1046%2Fj.1420-9101.2003.00663.x
+  DOI: 10.1046/j.1420-9101.2003.00663.x
+...

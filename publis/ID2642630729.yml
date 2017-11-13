@@ -1,0 +1,28 @@
+---
+references:
+- id: ID2642630729
+  type: article-journal
+  author:
+  - family: Berteaux
+    given: D.
+  - family: Crête
+    given: M.
+  - family: Huot
+    given: J.
+  - family: Maltais
+    given: J.
+  - family: Ouellet
+    given: J.-P.
+  issued:
+  - year: '1998'
+    month: '6'
+  title: 'Food choice by white-tailed deer in relation to protein and energy content
+    of the diet: A field experiment'
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '84-92'
+  volume: '115'
+  issue: '1-2'
+  URL: https://doi.org/10.1007%2Fs004420050494
+  DOI: 10.1007/s004420050494
+...

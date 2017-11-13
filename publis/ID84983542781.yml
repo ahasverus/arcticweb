@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84983542781
+  type: article-journal
+  author:
+  - family: Thierry
+    given: A.-M.
+  - family: Ropert-Coudert
+    given: Y.
+  - family: Raclot
+    given: T.
+  issued:
+  - year: '2013'
+    month: '5'
+  title: Elevated corticosterone levels decrease reproductive output of chick-rearing
+    Adélie penguins but do not affect chick mass at fledging
+  container-title: Conservation Physiology
+  publisher: Oxford University Press (OUP)
+  page: cot007-cot007
+  volume: '1'
+  issue: '1'
+  URL: https://doi.org/10.1093%2Fconphys%2Fcot007
+  DOI: 10.1093/conphys/cot007
+...

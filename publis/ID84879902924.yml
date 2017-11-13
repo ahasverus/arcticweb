@@ -1,0 +1,49 @@
+---
+references:
+- id: ID84879902924
+  type: article-journal
+  author:
+  - family: Normand
+    given: S.
+  - family: Randin
+    given: C.
+  - family: Ohlemuller
+    given: R.
+  - family: Bay
+    given: C.
+  - family: Hoye
+    given: T. T.
+  - family: Kjaer
+    given: E. D.
+  - family: Korner
+    given: C.
+  - family: Lischke
+    given: H.
+  - family: Maiorano
+    given: L.
+  - family: Paulsen
+    given: J.
+  - family: Pearman
+    given: P. B.
+  - family: Psomas
+    given: A.
+  - family: Treier
+    given: U. A.
+  - family: Zimmermann
+    given: N. E.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2013'
+    month: '7'
+  title: A greener Greenland? Climatic potential and long-term constraints on future
+    expansions of trees and shrubs
+  container-title: 'Philosophical Transactions of the Royal Society B: Biological
+    Sciences'
+  publisher: The Royal Society
+  page: '20120479-20120479'
+  volume: '368'
+  issue: '1624'
+  URL: https://doi.org/10.1098%2Frstb.2012.0479
+  DOI: 10.1098/rstb.2012.0479
+...

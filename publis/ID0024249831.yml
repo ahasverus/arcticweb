@@ -1,0 +1,21 @@
+---
+references:
+- id: ID0024249831
+  type: article-journal
+  author:
+  - family: Kempf
+    given: C.
+  - family: Sittler
+    given: B.
+  issued:
+  - year: '1988'
+    month: '12'
+  title: Census of breeding seabirds on the northwest coast of Svalbard 1973 and 1978
+  container-title: Polar Research
+  publisher: Informa UK Limited
+  page: '195-203'
+  volume: '6'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1751-8369.1988.tb00598.x
+  DOI: 10.1111/j.1751-8369.1988.tb00598.x
+...

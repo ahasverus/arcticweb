@@ -1,0 +1,38 @@
+---
+references:
+- id: ID84903822766
+  type: article-journal
+  author:
+  - family: Lewis
+    given: L. R.
+  - family: Behling
+    given: E.
+  - family: Gousse
+    given: H.
+  - family: Qian
+    given: E.
+  - family: Elphick
+    given: C. S.
+  - family: Lamarre
+    given: J.-F.
+  - family: Bêty
+    given: J.
+  - family: Liebezeit
+    given: J.
+  - family: Rozzi
+    given: R.
+  - family: Goffinet
+    given: B.
+  issued:
+  - year: '2014'
+    month: '6'
+  title: First evidence of bryophyte diaspores in the plumage of transequatorial migrant
+    birds
+  container-title: PeerJ
+  publisher: PeerJ
+  page: 'e424'
+  volume: '2'
+  issue: '1'
+  URL: https://doi.org/10.7717%2Fpeerj.424
+  DOI: 10.7717/peerj.424
+...

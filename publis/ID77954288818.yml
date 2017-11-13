@@ -1,0 +1,25 @@
+---
+references:
+- id: ID77954288818
+  type: article-journal
+  author:
+  - family: Gomulkiewicz
+    given: R.
+  - family: Holt
+    given: R. D.
+  - family: Barfield
+    given: M.
+  - family: Nuismer
+    given: S. L.
+  issued:
+  - year: '2010'
+    month: '1'
+  title: Genetics, adaptation, and invasion in harsh environments
+  container-title: Evolutionary Applications
+  publisher: Wiley-Blackwell
+  page: '97-108'
+  volume: '3'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1752-4571.2009.00117.x
+  DOI: 10.1111/j.1752-4571.2009.00117.x
+...

@@ -1,0 +1,22 @@
+---
+references:
+- id: ID20144371369
+  type: article-journal
+  author:
+  - family: Svenning
+    given: J.-C.
+  - family: Skov
+    given: F.
+  issued:
+  - year: '2005'
+    month: '5'
+  title: The relative roles of environment and history as controls of tree species
+    composition and richness in Europe
+  container-title: Journal of Biogeography
+  publisher: Wiley-Blackwell
+  page: '1019-1033'
+  volume: '32'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1365-2699.2005.01219.x
+  DOI: 10.1111/j.1365-2699.2005.01219.x
+...

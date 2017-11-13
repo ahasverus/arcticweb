@@ -1,0 +1,26 @@
+---
+references:
+- id: ID33750950988
+  type: article-journal
+  author:
+  - family: Brunhoff
+    given: C.
+  - family: Yoccoz
+    given: N. G.
+  - family: Ims
+    given: R. A.
+  - family: Jaarola
+    given: M.
+  issued:
+  - year: '2006'
+    month: '12'
+  title: Glacial survival or late glacial colonization? Phylogeography of the root
+    vole (Microtus oeconomus) in north-west Norway
+  container-title: Journal of Biogeography
+  publisher: Wiley-Blackwell
+  page: '2136-2144'
+  volume: '33'
+  issue: '12'
+  URL: https://doi.org/10.1111%2Fj.1365-2699.2006.01573.x
+  DOI: 10.1111/j.1365-2699.2006.01573.x
+...

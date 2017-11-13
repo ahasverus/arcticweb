@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84875425341
+  type: article-journal
+  author:
+  - family: Schott
+    given: T.
+  - family: Kapari
+    given: L.
+  - family: Hagen
+    given: S. B.
+  - family: Vindstad
+    given: O. P. L.
+  - family: Jepsen
+    given: J. U.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2013'
+    month: '1'
+  title: 'Predator release from invertebrate generalists does not explain geometrid
+    moth (Lepidoptera: Geometridae) outbreaks at high altitudes'
+  container-title: The Canadian Entomologist
+  publisher: Cambridge University Press (CUP)
+  page: '184-192'
+  volume: '145'
+  issue: '02'
+  URL: https://doi.org/10.4039%2Ftce.2012.109
+  DOI: 10.4039/tce.2012.109
+...

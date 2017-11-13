@@ -1,0 +1,31 @@
+---
+references:
+- id: ID33847198298
+  type: article-journal
+  author:
+  - family: Brown
+    given: S.
+  - family: Bart
+    given: J.
+  - family: Lanctot
+    given: R. B.
+  - family: Johnson
+    given: J. A.
+  - family: Kendall
+    given: S.
+  - family: Payer
+    given: D.
+  - family: Johnson
+    given: J.
+  issued:
+  - year: '2007'
+  title: Shorebird abundance and distribution on the coastal plain of the Arctic National
+    Wildlife Refuge
+  container-title: The Condor
+  publisher: Cooper Ornithological Society
+  page: '1'
+  volume: '109'
+  issue: '1'
+  URL: https://doi.org/10.1650%2F0010-5422%282007%29109%5B1%3Asaadot%5D2.0.co%3B2
+  DOI: 10.1650/0010-5422(2007)109[1:saadot]2.0.co;2
+...

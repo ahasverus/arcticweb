@@ -1,0 +1,38 @@
+---
+references:
+- id: ID34250742432
+  type: article-journal
+  author:
+  - family: Christe
+    given: P.
+  - family: Glaizot
+    given: O.
+  - family: Evanno
+    given: G.
+  - family: Bruyndonckx
+    given: N.
+  - family: Devevey
+    given: G.
+  - family: Yannic
+    given: G.
+  - family: Patthey
+    given: P.
+  - family: Maeder
+    given: A.
+  - family: Vogel
+    given: P.
+  - family: Arlettaz
+    given: R.
+  issued:
+  - year: '2007'
+    month: '7'
+  title: 'Host sex and ectoparasites choice: Preference for, and higher survival
+    on female hosts'
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '703-710'
+  volume: '76'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2007.01255.x
+  DOI: 10.1111/j.1365-2656.2007.01255.x
+...

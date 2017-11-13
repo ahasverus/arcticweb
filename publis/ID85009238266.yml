@@ -1,0 +1,27 @@
+---
+references:
+- id: ID85009238266
+  type: article-journal
+  author:
+  - family: Poon
+    given: F. E.
+  - family: Provencher
+    given: J. F.
+  - family: Mallory
+    given: M. L.
+  - family: Braune
+    given: B. M.
+  - family: Smith
+    given: P. A.
+  issued:
+  - year: '2017'
+    month: '3'
+  title: Levels of ingested debris vary across species in Canadian Arctic seabirds
+  container-title: Marine Pollution Bulletin
+  publisher: Elsevier BV
+  page: '517-520'
+  volume: '116'
+  issue: '1-2'
+  URL: https://doi.org/10.1016%2Fj.marpolbul.2016.11.051
+  DOI: 10.1016/j.marpolbul.2016.11.051
+...

@@ -1,0 +1,35 @@
+---
+references:
+- id: ID34547689661
+  type: article-journal
+  author:
+  - family: Carmichael
+    given: L. E.
+  - family: Krizan
+    given: J.
+  - family: Nagy
+    given: J. A.
+  - family: Fuglei
+    given: E.
+  - family: Dumond
+    given: M.
+  - family: Johnson
+    given: D.
+  - family: Veitch
+    given: A.
+  - family: Berteaux
+    given: D.
+  - family: Strobeck
+    given: C.
+  issued:
+  - year: '2007'
+    month: '8'
+  title: Historical and ecological determinants of genetic structure in arctic canids
+  container-title: Molecular Ecology
+  publisher: Wiley-Blackwell
+  page: '3466-3483'
+  volume: '16'
+  issue: '16'
+  URL: https://doi.org/10.1111%2Fj.1365-294x.2007.03381.x
+  DOI: 10.1111/j.1365-294x.2007.03381.x
+...

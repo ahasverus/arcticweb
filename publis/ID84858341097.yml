@@ -1,0 +1,23 @@
+---
+references:
+- id: ID84858341097
+  type: article-journal
+  author:
+  - family: Tack
+    given: A. J. M.
+  - family: Johnson
+    given: M. T. J.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2011'
+    month: '11'
+  title: 'Sizing up community genetics: It’s a matter of scale'
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '481-488'
+  volume: '121'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1600-0706.2011.19926.x
+  DOI: 10.1111/j.1600-0706.2011.19926.x
+...

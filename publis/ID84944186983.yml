@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84944186983
+  type: article-journal
+  author:
+  - family: Baldo
+    given: S.
+  - family: Mennill
+    given: D. J.
+  - family: Guindre-Parker
+    given: S.
+  - family: Gilchrist
+    given: H. G.
+  - family: Love
+    given: O. P.
+  editor:
+  - family: Foster
+    given: S.
+  issued:
+  - year: '2015'
+    month: '10'
+  title: 'The Oxidative Cost of Acoustic Signals: Examining Steroid Versus Aerobic
+    Activity Hypotheses in a Wild Bird'
+  container-title: Ethology
+  publisher: Wiley-Blackwell
+  page: '1081-1090'
+  volume: '121'
+  issue: '11'
+  URL: https://doi.org/10.1111%2Feth.12424
+  DOI: 10.1111/eth.12424
+...

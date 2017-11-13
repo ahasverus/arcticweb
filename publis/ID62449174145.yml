@@ -1,0 +1,33 @@
+---
+references:
+- id: ID62449174145
+  type: article-journal
+  author:
+  - family: Harding
+    given: A. M. A.
+  - family: Kitaysky
+    given: A. S.
+  - family: Hall
+    given: M. E.
+  - family: Welcker
+    given: J.
+  - family: Karnovsky
+    given: N. J.
+  - family: Talbot
+    given: S. L.
+  - family: Hamer
+    given: K. C.
+  - family: Grémillet
+    given: D.
+  issued:
+  - year: '2009'
+    month: '4'
+  title: Flexibility in the parental effort of an Arctic-breeding seabird
+  container-title: Functional Ecology
+  publisher: Wiley-Blackwell
+  page: '348-358'
+  volume: '23'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1365-2435.2008.01488.x
+  DOI: 10.1111/j.1365-2435.2008.01488.x
+...

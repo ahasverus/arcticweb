@@ -1,0 +1,40 @@
+---
+references:
+- id: ID80051666460
+  type: article-journal
+  author:
+  - family: Harding
+    given: A. M. A.
+  - family: Welcker
+    given: J.
+  - family: Steen
+    given: H.
+  - family: Hamer
+    given: K. C.
+  - family: Kitaysky
+    given: A. S.
+  - family: Fort
+    given: J.
+  - family: Talbot
+    given: S. L.
+  - family: Cornick
+    given: L. A.
+  - family: Karnovsky
+    given: N. J.
+  - family: Gabrielsen
+    given: G. W.
+  - family: Grémillet
+    given: D.
+  issued:
+  - year: '2011'
+    month: '3'
+  title: Adverse foraging conditions may impact body mass and survival of a high Arctic
+    seabird
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '49-59'
+  volume: '167'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs00442-011-1971-7
+  DOI: 10.1007/s00442-011-1971-7
+...

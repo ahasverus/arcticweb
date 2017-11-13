@@ -1,0 +1,24 @@
+---
+references:
+- id: ID79952704338
+  type: article-journal
+  author:
+  - family: Sittler
+    given: B.
+  - family: Aebischer
+    given: A.
+  - family: Gilg
+    given: O.
+  issued:
+  - year: '2010'
+    month: '11'
+  title: Post-breeding migration of four Long-tailed Skuas (Stercorarius longicaudus)
+    from North and East Greenland to West Africa
+  container-title: Journal of Ornithology
+  publisher: Springer Nature
+  page: '375-381'
+  volume: '152'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs10336-010-0597-6
+  DOI: 10.1007/s10336-010-0597-6
+...

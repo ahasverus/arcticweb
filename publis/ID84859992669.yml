@@ -1,0 +1,35 @@
+---
+references:
+- id: ID84859992669
+  type: article-journal
+  author:
+  - family: Sheriff
+    given: M. J.
+  - family: Wheeler
+    given: H.
+  - family: Donker
+    given: S. A.
+  - family: Krebs
+    given: C. J.
+  - family: Palme
+    given: R.
+  - family: Hik
+    given: D. S.
+  - family: Boonstra
+    given: R.
+  editor:
+  - family: Bennett
+    given: Nigel
+  issued:
+  - year: '2012'
+    month: '2'
+  title: 'Mountain-top and valley-bottom experiences: The stress axis as an integrator
+    of environmental variability in arctic ground squirrel populations'
+  container-title: Journal of Zoology
+  publisher: Wiley-Blackwell
+  page: '65-75'
+  volume: '287'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1469-7998.2011.00888.x
+  DOI: 10.1111/j.1469-7998.2011.00888.x
+...

@@ -1,0 +1,28 @@
+---
+references:
+- id: ID80054800928
+  type: article-journal
+  author:
+  - family: Médoc
+    given: V.
+  - family: Rigaud
+    given: T.
+  - family: Motreuil
+    given: S.
+  - family: Perrot-Minnot
+    given: M.-J.
+  - family: Bollache
+    given: L.
+  issued:
+  - year: '2011'
+    month: '8'
+  title: 'Paratenic hosts as regular transmission route in the acanthocephalan Pomphorhynchus
+    laevis: Potential implications for food webs'
+  container-title: Naturwissenschaften
+  publisher: Springer Nature
+  page: '825-835'
+  volume: '98'
+  issue: '10'
+  URL: https://doi.org/10.1007%2Fs00114-011-0831-y
+  DOI: 10.1007/s00114-011-0831-y
+...

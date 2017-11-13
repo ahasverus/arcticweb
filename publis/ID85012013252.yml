@@ -1,0 +1,94 @@
+---
+references:
+- id: ID85012013252
+  type: article-journal
+  author:
+  - family: Sonne
+    given: J.
+  - family: González
+    given: A. M. M.
+  - family: Maruyama
+    given: P. K.
+  - family: Sandel
+    given: B.
+  - family: Vizentin-Bugoni
+    given: J.
+  - family: Schleuning
+    given: M.
+  - family: Abrahamczyk
+    given: S.
+  - family: Alarcón
+    given: R.
+  - family: Araujo
+    given: A. C.
+  - family: Araújo
+    given: F. P.
+  - family: Azevedo
+    given: S. M.
+    dropping-particle: de
+  - family: Baquero
+    given: A. C.
+  - family: Cotton
+    given: P. A.
+  - family: Ingversen
+    given: T. T.
+  - family: Kohler
+    given: G.
+  - family: Lara
+    given: C.
+  - family: Las-Casas
+    given: F. M. G.
+  - family: Machado
+    given: A. O.
+  - family: Machado
+    given: C. G.
+  - family: Maglianesi
+    given: M. A.
+  - family: Moura
+    given: A. C.
+  - family: Nogués-Bravo
+    given: D.
+  - family: Oliveira
+    given: G. M.
+  - family: Oliveira
+    given: P. E.
+  - family: Ornelas
+    given: J. F.
+  - family: Rodrigues
+    given: L. C.
+    dropping-particle: da
+  - family: Rosero-Lasprilla
+    given: L.
+  - family: Rui
+    given: A. M.
+  - family: Sazima
+    given: M.
+  - family: Timmermann
+    given: A.
+  - family: Varassin
+    given: I. G.
+  - family: Wang
+    given: Z.
+  - family: Watts
+    given: S.
+  - family: Fjeldså
+    given: J.
+  - family: Svenning
+    given: J.-C.
+  - family: Rahbek
+    given: C.
+  - family: Dalsgaard
+    given: B.
+  issued:
+  - year: '2016'
+    month: '2'
+  title: High proportion of smaller ranged hummingbird species coincides with ecological
+    specialization across the Americas
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '20152512'
+  volume: '283'
+  issue: '1824'
+  URL: https://doi.org/10.1098%2Frspb.2015.2512
+  DOI: 10.1098/rspb.2015.2512
+...

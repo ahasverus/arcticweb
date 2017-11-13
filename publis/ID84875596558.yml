@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84875596558
+  type: article-journal
+  author:
+  - family: Andreassen
+    given: H. P.
+  - family: Glorvigen
+    given: P.
+  - family: Rémy
+    given: A.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2013'
+    month: '1'
+  title: New views on how population-intrinsic and community-extrinsic processes interact
+    during the vole population cycles
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '507-515'
+  volume: '122'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1600-0706.2012.00238.x
+  DOI: 10.1111/j.1600-0706.2012.00238.x
+...

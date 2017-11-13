@@ -1,0 +1,30 @@
+---
+references:
+- id: ID78649540757
+  type: article-journal
+  author:
+  - family: Albert
+    given: C. H.
+  - family: Thuiller
+    given: W.
+  - family: Yoccoz
+    given: N. G.
+  - family: Douzet
+    given: R.
+  - family: Aubert
+    given: S.
+  - family: Lavorel
+    given: S.
+  issued:
+  - year: '2010'
+    month: '5'
+  title: A multi-trait approach reveals the structure and the relative importance
+    of intra- vs. interspecific variability in plant traits
+  container-title: Functional Ecology
+  publisher: Wiley-Blackwell
+  page: '1192-1201'
+  volume: '24'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1365-2435.2010.01727.x
+  DOI: 10.1111/j.1365-2435.2010.01727.x
+...

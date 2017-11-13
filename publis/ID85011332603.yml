@@ -1,0 +1,42 @@
+---
+references:
+- id: ID85011332603
+  type: article-journal
+  author:
+  - family: Blonder
+    given: B.
+  - family: Moulton
+    given: D. E.
+  - family: Blois
+    given: J.
+  - family: Enquist
+    given: B. J.
+  - family: Graae
+    given: B. J.
+  - family: Macias-Fauria
+    given: M.
+  - family: McGill
+    given: B.
+  - family: Nogué
+    given: S.
+  - family: Ordonez
+    given: A.
+  - family: Sandel
+    given: B.
+  - family: Svenning
+    given: J.-C.
+  editor:
+  - family: Storch
+    given: David
+  issued:
+  - year: '2017'
+    month: '2'
+  title: Predictability in community dynamics
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '293-306'
+  volume: '20'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fele.12736
+  DOI: 10.1111/ele.12736
+...

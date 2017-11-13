@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84888870151
+  type: article-journal
+  author:
+  - family: Carstensen
+    given: D. W.
+  - family: Lessard
+    given: J.-P.
+  - family: Holt
+    given: B. G.
+  - family: Borregaard
+    given: M. K.
+  - family: Rahbek
+    given: C.
+  issued:
+  - year: '2013'
+    month: '8'
+  title: Introducing the biogeographic species pool
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '1310-1318'
+  volume: '36'
+  issue: '12'
+  URL: https://doi.org/10.1111%2Fj.1600-0587.2013.00329.x
+  DOI: 10.1111/j.1600-0587.2013.00329.x
+...

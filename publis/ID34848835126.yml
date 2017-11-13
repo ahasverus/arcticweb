@@ -1,0 +1,23 @@
+---
+references:
+- id: ID34848835126
+  type: article-journal
+  author:
+  - family: Outreman
+    given: Y.
+  - family: Cézilly
+    given: F.
+  - family: Bollache
+    given: L.
+  issued:
+  - year: '2007'
+    month: '8'
+  title: Field evidence of host size-dependent parasitism in two manipulative parasites
+  container-title: Journal of Parasitology
+  publisher: American Society of Parasitologists
+  page: '750-754'
+  volume: '93'
+  issue: '4'
+  URL: https://doi.org/10.1645%2Fge-1108r.1
+  DOI: 10.1645/ge-1108r.1
+...

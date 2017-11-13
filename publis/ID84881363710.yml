@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84881363710
+  type: article-journal
+  author:
+  - family: Penttilä
+    given: A.
+  - family: Slade
+    given: E. M.
+  - family: Simojoki
+    given: A.
+  - family: Riutta
+    given: T.
+  - family: Minkkinen
+    given: K.
+  - family: Roslin
+    given: T.
+  editor:
+  - family: Fuller
+    given: Dorian Q.
+  issued:
+  - year: '2013'
+    month: '8'
+  title: Quantifying Beetle-Mediated Effects on Gas Fluxes from Dung Pats
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e71454'
+  volume: '8'
+  issue: '8'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0071454
+  DOI: 10.1371/journal.pone.0071454
+...

@@ -1,0 +1,33 @@
+---
+references:
+- id: ID85015179778
+  type: article-journal
+  author:
+  - family: Baubin
+    given: C.
+  - family: Ehrich
+    given: D.
+  - family: Ravolainen
+    given: V.
+  - family: Abdulmanova
+    given: S. S.
+  - family: Ektova
+    given: S.
+  - family: Sokolova
+    given: N.
+  - family: Ims
+    given: R. A.
+  - family: Sokolov
+    given: A.
+  issued:
+  - year: '2016'
+  title: First results from an experiment excluding three sizes classes of herbivores
+    from tundra vegetation in southern yamal, Russia
+  container-title: Czech Polar Reports
+  publisher: Masaryk University Press
+  page: '132-140'
+  volume: '6'
+  issue: '2'
+  URL: https://doi.org/10.5817%2Fcpr2016-2-12
+  DOI: 10.5817/cpr2016-2-12
+...

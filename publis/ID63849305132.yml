@@ -1,0 +1,23 @@
+---
+references:
+- id: ID63849305132
+  type: article-journal
+  author:
+  - family: Mysterud
+    given: A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Langvatn
+    given: R.
+  issued:
+  - year: '2009'
+    month: '5'
+  title: Maturation trends in red deer females over 39 years in harvested populations
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '595-599'
+  volume: '78'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2008.01514.x
+  DOI: 10.1111/j.1365-2656.2008.01514.x
+...

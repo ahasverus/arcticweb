@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84923882066
+  type: article-journal
+  author:
+  - family: Doll
+    given: A. C.
+  - family: Lanctot
+    given: R. B.
+  - family: Stricker
+    given: C. A.
+  - family: Yezerinac
+    given: S. M.
+  - family: Wunder
+    given: M. B.
+  issued:
+  - year: '2015'
+    month: '4'
+  title: Improved arrival-date estimates of Arctic-breeding Dunlin (Calidris alpina
+    arcticola)
+  container-title: The Auk
+  publisher: American Ornithologists Union
+  page: '408-421'
+  volume: '132'
+  issue: '2'
+  URL: https://doi.org/10.1642%2Fauk-14-227.1
+  DOI: 10.1642/auk-14-227.1
+...

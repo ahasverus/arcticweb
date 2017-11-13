@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84857031217
+  type: article-journal
+  author:
+  - family: Andersen
+    given: S. M.
+  - family: Teilmann
+    given: J.
+  - family: Dietz
+    given: R.
+  - family: Schmidt
+    given: N. M.
+  - family: Miller
+    given: L. A.
+  issued:
+  - year: '2011'
+    month: '12'
+  title: Behavioural responses of harbour seals to human-induced disturbances
+  container-title: 'Aquatic Conservation: Marine and Freshwater Ecosystems'
+  publisher: Wiley-Blackwell
+  page: '113-121'
+  volume: '22'
+  issue: '1'
+  URL: https://doi.org/10.1002%2Faqc.1244
+  DOI: 10.1002/aqc.1244
+...

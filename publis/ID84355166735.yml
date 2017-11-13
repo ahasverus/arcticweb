@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84355166735
+  type: article-journal
+  author:
+  - family: Albert
+    given: C. H.
+  - family: Bello
+    given: F.
+    dropping-particle: de
+  - family: Boulangeat
+    given: I.
+  - family: Pellet
+    given: G.
+  - family: Lavorel
+    given: S.
+  - family: Thuiller
+    given: W.
+  issued:
+  - year: '2011'
+    month: '7'
+  title: On the importance of intraspecific variability for the quantification of
+    functional diversity
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '116-126'
+  volume: '121'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1600-0706.2011.19672.x
+  DOI: 10.1111/j.1600-0706.2011.19672.x
+...

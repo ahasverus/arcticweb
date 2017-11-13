@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84856013423
+  type: article-journal
+  author:
+  - family: Cook
+    given: T. R.
+  - family: Hamann
+    given: M.
+  - family: Pichegru
+    given: L.
+  - family: Bonadonna
+    given: F.
+  - family: Grémillet
+    given: D.
+  - family: Ryan
+    given: P. G.
+  issued:
+  - year: '2011'
+    month: '10'
+  title: GPS and time-depth loggers reveal underwater foraging plasticity in a flying
+    diver, the Cape Cormorant
+  container-title: Marine Biology
+  publisher: Springer Nature
+  page: '373-387'
+  volume: '159'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs00227-011-1815-3
+  DOI: 10.1007/s00227-011-1815-3
+...

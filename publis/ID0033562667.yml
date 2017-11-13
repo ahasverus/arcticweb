@@ -1,0 +1,22 @@
+---
+references:
+- id: ID0033562667
+  type: article-journal
+  author:
+  - family: Archambault
+    given: P.
+  - family: Bourget
+    given: E.
+  issued:
+  - year: '1999'
+    month: '5'
+  title: Influence of shoreline configuration on spatial variation of meroplanktonic
+    larvae, recruitment and diversity of benthic subtidal communities
+  container-title: Journal of Experimental Marine Biology and Ecology
+  publisher: Elsevier BV
+  page: '161-184'
+  volume: '238'
+  issue: '2'
+  URL: https://doi.org/10.1016%2Fs0022-0981%2898%2900146-4
+  DOI: 10.1016/s0022-0981(98)00146-4
+...

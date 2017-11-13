@@ -1,0 +1,38 @@
+---
+references:
+- id: ID84955607088
+  type: article-journal
+  author:
+  - family: Morueta-Holme
+    given: N.
+  - family: Blonder
+    given: B.
+  - family: Sandel
+    given: B.
+  - family: McGill
+    given: B. J.
+  - family: Peet
+    given: R. K.
+  - family: Ott
+    given: J. E.
+  - family: Violle
+    given: C.
+  - family: Enquist
+    given: B. J.
+  - family: Jørgensen
+    given: P. M.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2016'
+    month: '1'
+  title: A network approach for inferring species associations from co-occurrence
+    data
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '1139-1150'
+  volume: '39'
+  issue: '12'
+  URL: https://doi.org/10.1111%2Fecog.01892
+  DOI: 10.1111/ecog.01892
+...

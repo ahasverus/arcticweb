@@ -1,0 +1,35 @@
+---
+references:
+- id: ID3242673146
+  type: article-journal
+  author:
+  - family: Stenseth
+    given: N. C.
+  - family: Shabbar
+    given: A.
+  - family: Chan
+    given: K.-S.
+  - family: Boutin
+    given: S.
+  - family: Rueness
+    given: E. K.
+  - family: Ehrich
+    given: D.
+  - family: Hurrell
+    given: J. W.
+  - family: Lingjaerde
+    given: O. C.
+  - family: Jakobsen
+    given: K. S.
+  issued:
+  - year: '2004'
+    month: '7'
+  title: Snow conditions may create an invisible barrier for lynx
+  container-title: Proceedings of the National Academy of Sciences
+  publisher: Proceedings of the National Academy of Sciences
+  page: '10632-10634'
+  volume: '101'
+  issue: '29'
+  URL: https://doi.org/10.1073%2Fpnas.0308674101
+  DOI: 10.1073/pnas.0308674101
+...

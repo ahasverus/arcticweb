@@ -1,0 +1,28 @@
+---
+references:
+- id: ID28044468599
+  type: article-journal
+  author:
+  - family: Mysterud
+    given: A.
+  - family: Meisingset
+    given: E.
+  - family: Langvatn
+    given: R.
+  - family: Yoccoz
+    given: N. G.
+  - family: Stenseth
+    given: N. C.
+  issued:
+  - year: '2005'
+    month: '11'
+  title: Climate-dependent allocation of resources to secondary sexual traits in red
+    deer
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '245-252'
+  volume: '111'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.0030-1299.2005.14197.x
+  DOI: 10.1111/j.0030-1299.2005.14197.x
+...

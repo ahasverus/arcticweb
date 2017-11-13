@@ -1,0 +1,20 @@
+---
+references:
+- id: ID0037195004
+  type: article-journal
+  author:
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '2002'
+    month: '9'
+  title: Two complementary paradigms for analyzing population dynamics
+  container-title: 'Philosophical Transactions of the Royal Society B: Biological
+    Sciences'
+  publisher: The Royal Society
+  page: '1211-1219'
+  volume: '357'
+  issue: '1425'
+  URL: https://doi.org/10.1098%2Frstb.2002.1122
+  DOI: 10.1098/rstb.2002.1122
+...

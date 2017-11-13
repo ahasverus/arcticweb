@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84931749087
+  type: article-journal
+  author:
+  - family: Poisot
+    given: T.
+  - family: Mouquet
+    given: N.
+  - family: Gravel
+    given: D.
+  editor:
+  - family: Adler
+    given: Frederick
+  issued:
+  - year: '2013'
+    month: '5'
+  title: Trophic complementarity drives the biodiversity-ecosystem functioning relationship
+    in food webs
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '853-861'
+  volume: '16'
+  issue: '7'
+  URL: https://doi.org/10.1111%2Fele.12118
+  DOI: 10.1111/ele.12118
+...

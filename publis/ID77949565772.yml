@@ -1,0 +1,27 @@
+---
+references:
+- id: ID77949565772
+  type: article-journal
+  author:
+  - family: Pokrovsky
+    given: I.
+  - family: Lecomte
+    given: N.
+  - family: Sokolov
+    given: A.
+  - family: Sokolov
+    given: V.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2010'
+    month: '3'
+  title: Peregrine Falcons kill a Gyrfalcon feeding on their nestling
+  container-title: Journal of Raptor Research
+  publisher: The Raptor Research Foundation, Inc.
+  page: '66-69'
+  volume: '44'
+  issue: '1'
+  URL: https://doi.org/10.3356%2Fjrr-09-38.1
+  DOI: 10.3356/jrr-09-38.1
+...

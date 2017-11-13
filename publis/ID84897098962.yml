@@ -1,0 +1,19 @@
+---
+references:
+- id: ID84897098962
+  type: article-journal
+  author:
+  - family: Sandel
+    given: B.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2013'
+    month: '9'
+  title: Human impacts drive a global topographic signature in tree cover
+  container-title: Nature Communications
+  publisher: Springer Nature
+  volume: '4'
+  URL: https://doi.org/10.1038%2Fncomms3474
+  DOI: 10.1038/ncomms3474
+...

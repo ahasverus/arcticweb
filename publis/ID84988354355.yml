@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84988354355
+  type: article-journal
+  author:
+  - family: Tyler
+    given: N. J. C.
+  - family: Gregorini
+    given: P.
+  - family: Forchhammer
+    given: M. C.
+  - family: Stokkan
+    given: K.-A.
+  - family: Oort
+    given: B. E. H.
+    dropping-particle: van
+  - family: Hazlerigg
+    given: D. G.
+  issued:
+  - year: '2016'
+    month: '9'
+  title: 'Behavioral timing without clockwork: Photoperiod-dependent trade-off between
+    predation hazard and energy balance in an arctic ungulate'
+  container-title: Journal of Biological Rhythms
+  publisher: SAGE Publications
+  page: '522-533'
+  volume: '31'
+  issue: '5'
+  URL: https://doi.org/10.1177%2F0748730416662778
+  DOI: 10.1177/0748730416662778
+...

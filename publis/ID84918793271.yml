@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84918793271
+  type: article-journal
+  author:
+  - family: Ntiamoa-Baidu
+    given: Y.
+  - family: Nuoh
+    given: A. A.
+  - family: Reneerkens
+    given: J.
+  - family: Piersma
+    given: T.
+  issued:
+  - year: '2014'
+    month: '7'
+  title: Population increases in non-breeding sanderlings in ghana indicate site preference
+  container-title: Ardea
+  publisher: Netherlands Ornithologists Union
+  page: '131-138'
+  volume: '102'
+  issue: '2'
+  URL: https://doi.org/10.5253%2Farde.v102i2.a3
+  DOI: 10.5253/arde.v102i2.a3
+...

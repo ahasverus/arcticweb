@@ -1,0 +1,40 @@
+---
+references:
+- id: ID84857942999
+  type: article-journal
+  author:
+  - family: Yannic
+    given: G.
+  - family: Pellissier
+    given: L.
+  - family: Dubey
+    given: S.
+  - family: Vega
+    given: R.
+  - family: Basset
+    given: P.
+  - family: Mazzotti
+    given: S.
+  - family: Pecchioli
+    given: E.
+  - family: Vernesi
+    given: C.
+  - family: Hauffe
+    given: H. C.
+  - family: Searle
+    given: J. B.
+  - family: Hausser
+    given: J.
+  issued:
+  - year: '2012'
+    month: '2'
+  title: 'Multiple refugia and barriers explain the phylogeography of the Valais
+    shrew, Sorex antinorii (Mammalia: Soricomorpha)'
+  container-title: Biological Journal of the Linnean Society
+  publisher: Oxford University Press (OUP)
+  page: '864-880'
+  volume: '105'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1095-8312.2011.01824.x
+  DOI: 10.1111/j.1095-8312.2011.01824.x
+...

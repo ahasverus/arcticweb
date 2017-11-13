@@ -1,0 +1,24 @@
+---
+references:
+- id: ID51549105705
+  type: article-journal
+  author:
+  - family: Knight
+    given: T. M.
+  - family: Barfield
+    given: M.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2008'
+    month: '9'
+  title: 'Evolutionary dynamics as a component of stage-structured matrix models:
+    An example using Trillium grandiflorum'
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '375-392'
+  volume: '172'
+  issue: '3'
+  URL: https://doi.org/10.1086%2F589898
+  DOI: 10.1086/589898
+...

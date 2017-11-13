@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84883272392
+  type: article-journal
+  author:
+  - family: Moeslund
+    given: J. E.
+  - family: Arge
+    given: L.
+  - family: Bøcher
+    given: P. K.
+  - family: Dalgaard
+    given: T.
+  - family: Ejrnæs
+    given: R.
+  - family: Odgaard
+    given: M. V.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2013'
+    month: '2'
+  title: Topographically controlled soil moisture drives plant diversity patterns
+    within grasslands
+  container-title: Biodiversity and Conservation
+  publisher: Springer Nature
+  page: '2151-2166'
+  volume: '22'
+  issue: '10'
+  URL: https://doi.org/10.1007%2Fs10531-013-0442-3
+  DOI: 10.1007/s10531-013-0442-3
+...

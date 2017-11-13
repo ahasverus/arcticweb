@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84934777422
+  type: article-journal
+  author:
+  - family: Yannic
+    given: G.
+  - family: Aebischer
+    given: A.
+  - family: Sabard
+    given: B.
+  - family: Gilg
+    given: O.
+  issued:
+  - year: '2014'
+    month: '1'
+  title: Complete breeding failures in ivory gull following unusual rainy storms in
+    North Greenland
+  container-title: Polar Research
+  publisher: Informa UK Limited
+  page: '22749'
+  volume: '33'
+  issue: '1'
+  URL: https://doi.org/10.3402%2Fpolar.v33.22749
+  DOI: 10.3402/polar.v33.22749
+...

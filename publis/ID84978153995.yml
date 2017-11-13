@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84978153995
+  type: article-journal
+  author:
+  - family: Mosbacher
+    given: J. B.
+  - family: Michelsen
+    given: A.
+  - family: Stelvig
+    given: M.
+  - family: Hendrichsen
+    given: D. K.
+  - family: Schmidt
+    given: N. M.
+  editor:
+  - family: Hansen
+    given: Peter J.
+  issued:
+  - year: '2016'
+    month: '4'
+  title: Show me your rump hair and i will tell you what you ate - The dietary history
+    of muskoxen (ovibos moschatus) revealed by sequential stable isotope analysis
+    of guard hairs
+  container-title: PLOS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e0152874'
+  volume: '11'
+  issue: '4'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0152874
+  DOI: 10.1371/journal.pone.0152874
+...

@@ -1,0 +1,25 @@
+---
+references:
+- id: ID41349121142
+  type: chapter
+  author:
+  - family: Meltofte
+    given: H.
+  - family: Christensen
+    given: T. R.
+  - family: Elberling
+    given: B.
+  - family: Forchhammer
+    given: M. C.
+  - family: Rasch
+    given: M.
+  issued:
+  - year: '2008'
+  title: Preface
+  container-title: High-Arctic Ecosystem Dynamics in a Changing Climate
+  publisher: Elsevier
+  page: XXI-XXII
+  volume: '40'
+  URL: https://doi.org/10.1016%2Fs0065-2504%2807%2900023-2
+  DOI: 10.1016/s0065-2504(07)00023-2
+...

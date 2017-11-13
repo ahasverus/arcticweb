@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84953369627
+  type: article-journal
+  author:
+  - family: Crossin
+    given: G. T.
+  - family: Love
+    given: O. P.
+  - family: Cooke
+    given: S. J.
+  - family: Williams
+    given: T. D.
+  editor:
+  - family: Grindstaff
+    given: Jennifer
+  issued:
+  - year: '2015'
+    month: '6'
+  title: 'Glucocorticoid manipulations in free-living animals: Considerations of
+    dose delivery, life-history context and reproductive state'
+  container-title: Functional Ecology
+  publisher: Wiley-Blackwell
+  page: '116-125'
+  volume: '30'
+  issue: '1'
+  URL: https://doi.org/10.1111%2F1365-2435.12482
+  DOI: 10.1111/1365-2435.12482
+...

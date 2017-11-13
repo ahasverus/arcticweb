@@ -1,0 +1,20 @@
+---
+references:
+- id: ID70350075805
+  type: article-journal
+  author:
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2009'
+    month: '11'
+  title: 'Up against the edge: Invasive species as testbeds for basic questions
+    about evolution in heterogeneous environments'
+  container-title: Molecular Ecology
+  publisher: Wiley-Blackwell
+  page: '4347-4348'
+  volume: '18'
+  issue: '21'
+  URL: https://doi.org/10.1111%2Fj.1365-294x.2009.04358.x
+  DOI: 10.1111/j.1365-294x.2009.04358.x
+...

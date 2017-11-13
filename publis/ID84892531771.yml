@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84892531771
+  type: article-journal
+  author:
+  - family: Julien
+    given: J.-R.
+  - family: Legagneux
+    given: P.
+  - family: Gauthier
+    given: G.
+  - family: Morrison
+    given: R. I. G.
+  - family: Therrien
+    given: J.-F.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2013'
+    month: '11'
+  title: Contribution of allochthonous resources to breeding in a high-arctic avian
+    predator
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '193-203'
+  volume: '37'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs00300-013-1423-4
+  DOI: 10.1007/s00300-013-1423-4
+...

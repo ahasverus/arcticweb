@@ -1,0 +1,27 @@
+---
+references:
+- id: ID12744278282
+  type: article-journal
+  author:
+  - family: Schmidt
+    given: N. M.
+  - family: Olsen
+    given: H.
+  - family: Bildsøe
+    given: M.
+  - family: Sluydts
+    given: V.
+  - family: Leirs
+    given: H.
+  issued:
+  - year: '2005'
+    month: '1'
+  title: Effects of grazing intensity on small mammal population ecology in wet meadows
+  container-title: Basic and Applied Ecology
+  publisher: Elsevier BV
+  page: '57-66'
+  volume: '6'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fj.baae.2004.09.009
+  DOI: 10.1016/j.baae.2004.09.009
+...

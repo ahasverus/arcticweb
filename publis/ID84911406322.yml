@@ -1,0 +1,22 @@
+---
+references:
+- id: ID84911406322
+  type: paper-conference
+  author:
+  - family: Provencher-Nolet
+    given: L.
+  - family: Bernier
+    given: M.
+  - family: Levesque
+    given: E.
+  issued:
+  - year: '2014'
+    month: '7'
+  title: Short term change detection in tundra vegetation near Umiujaq, subarctic
+    Quebec, Canada
+  container-title: 2014 IEEE Geoscience and Remote Sensing Symposium
+  publisher: IEEE
+  page: '4668-4670'
+  URL: https://doi.org/10.1109%2Figarss.2014.6947534
+  DOI: 10.1109/igarss.2014.6947534
+...

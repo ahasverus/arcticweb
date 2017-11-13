@@ -1,0 +1,27 @@
+---
+references:
+- id: ID77956398618
+  type: article-journal
+  author:
+  - family: Morueta-Holme
+    given: N.
+  - family: Fløjgaard
+    given: C.
+  - family: Svenning
+    given: J.-C.
+  editor:
+  - family: Willis
+    given: Stephen
+  issued:
+  - year: '2010'
+    month: '4'
+  title: Climate change risks and conservation implications for a threatened small-range
+    mammal species
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e10360'
+  volume: '5'
+  issue: '4'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0010360
+  DOI: 10.1371/journal.pone.0010360
+...

@@ -1,0 +1,28 @@
+---
+references:
+- id: ID80052536791
+  type: article-journal
+  author:
+  - family: Madsen
+    given: J.
+  - family: Jaspers
+    given: C.
+  - family: Tamstorf
+    given: M.
+  - family: Mortensen
+    given: C. E.
+  - family: Rigét
+    given: F.
+  issued:
+  - year: '2011'
+    month: '8'
+  title: Long-term effects of grazing and global warming on the composition and carrying
+    capacity of graminoid marshes for moulting geese in east Greenland
+  container-title: AMBIO
+  publisher: Springer Nature
+  page: '638-649'
+  volume: '40'
+  issue: '6'
+  URL: https://doi.org/10.1007%2Fs13280-011-0170-4
+  DOI: 10.1007/s13280-011-0170-4
+...

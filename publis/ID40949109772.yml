@@ -1,0 +1,39 @@
+---
+references:
+- id: ID40949109772
+  type: article-journal
+  author:
+  - family: Grémillet
+    given: D.
+  - family: Lewis
+    given: S.
+  - family: Drapeau
+    given: L.
+  - family: Lingen
+    given: C. D.
+    dropping-particle: van der
+  - family: Huggett
+    given: J. A.
+  - family: Coetzee
+    given: J. C.
+  - family: Verheye
+    given: H. M.
+  - family: Daunt
+    given: F.
+  - family: Wanless
+    given: S.
+  - family: Ryan
+    given: P. G.
+  issued:
+  - year: '2008'
+    month: '4'
+  title: 'Spatial match-mismatch in the Benguela upwelling zone: Should we expect
+    chlorophyll and sea-surface temperature to predict marine predator distributions?'
+  container-title: Journal of Applied Ecology
+  publisher: Wiley-Blackwell
+  page: '610-621'
+  volume: '45'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1365-2664.2007.01447.x
+  DOI: 10.1111/j.1365-2664.2007.01447.x
+...

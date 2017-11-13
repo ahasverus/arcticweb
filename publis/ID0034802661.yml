@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0034802661
+  type: article-journal
+  author:
+  - family: Yoccoz
+    given: N. G.
+  - family: Stenseth
+    given: N. C.
+  - family: Henttonen
+    given: H.
+  - family: Prévot-Julliard
+    given: A.-C.
+  issued:
+  - year: '2001'
+    month: '9'
+  title: Effects of food addition on the seasonal density-dependent structure of bank
+    vole Clethrionomys glareolus populations
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '713-720'
+  volume: '70'
+  issue: '5'
+  URL: https://doi.org/10.1046%2Fj.0021-8790.2001.00531.x
+  DOI: 10.1046/j.0021-8790.2001.00531.x
+...

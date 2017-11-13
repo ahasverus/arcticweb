@@ -1,0 +1,19 @@
+---
+references:
+- id: ID84987654878
+  type: article-journal
+  author:
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2016'
+    month: '8'
+  title: Green roofs may cast shadows
+  container-title: Israel Journal of Ecology & Evolution
+  publisher: Brill Academic Publishers
+  page: '15-22'
+  volume: '62'
+  issue: '1-2'
+  URL: https://doi.org/10.1080%2F15659801.2015.1118844
+  DOI: 10.1080/15659801.2015.1118844
+...

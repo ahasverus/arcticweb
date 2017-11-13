@@ -1,0 +1,36 @@
+---
+references:
+- id: ID33745602744
+  type: article-journal
+  author:
+  - family: Dobson
+    given: A.
+  - family: Cattadori
+    given: I.
+  - family: Holt
+    given: R. D.
+  - family: Ostfeld
+    given: R. S.
+  - family: Keesing
+    given: F.
+  - family: Krichbaum
+    given: K.
+  - family: Rohr
+    given: J. R.
+  - family: Perkins
+    given: S. E.
+  - family: Hudson
+    given: P. J.
+  issued:
+  - year: '2006'
+    month: '6'
+  title: 'Sacred cows and sympathetic squirrels: The importance of biological diversity
+    to human health'
+  container-title: PLoS Medicine
+  publisher: Public Library of Science (PLoS)
+  page: 'e231'
+  volume: '3'
+  issue: '6'
+  URL: https://doi.org/10.1371%2Fjournal.pmed.0030231
+  DOI: 10.1371/journal.pmed.0030231
+...

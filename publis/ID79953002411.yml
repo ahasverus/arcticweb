@@ -1,0 +1,23 @@
+---
+references:
+- id: ID79953002411
+  type: article-journal
+  author:
+  - family: Barfield
+    given: M.
+  - family: Holt
+    given: R. D.
+  - family: Gomulkiewicz
+    given: R.
+  issued:
+  - year: '2011'
+    month: '4'
+  title: Evolution in stage-structured populations
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '397-409'
+  volume: '177'
+  issue: '4'
+  URL: https://doi.org/10.1086%2F658903
+  DOI: 10.1086/658903
+...

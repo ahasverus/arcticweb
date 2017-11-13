@@ -1,0 +1,58 @@
+---
+references:
+- id: ID84960193149
+  type: article-journal
+  author:
+  - family: Goldsmith
+    given: G. R.
+  - family: Morueta-Holme
+    given: N.
+  - family: Sandel
+    given: B.
+  - family: Fitz
+    given: E. D.
+  - family: Fitz
+    given: S. D.
+  - family: Boyle
+    given: B.
+  - family: Casler
+    given: N.
+  - family: Engemann
+    given: K.
+  - family: Jørgensen
+    given: P. M.
+  - family: Kraft
+    given: N. J. B.
+  - family: McGill
+    given: B.
+  - family: Peet
+    given: R. K.
+  - family: Piel
+    given: W. H.
+  - family: Spencer
+    given: N.
+  - family: Svenning
+    given: J.-C.
+  - family: Thiers
+    given: B. M.
+  - family: Violle
+    given: C.
+  - family: Wiser
+    given: S. K.
+  - family: Enquist
+    given: B. J.
+  editor:
+  - family: Freckleton
+    given: Robert
+  issued:
+  - year: '2016'
+    month: '3'
+  title: 'Plant-O-Matic: a dynamic and mobile guide to all plants of the Americas'
+  container-title: Methods in Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '960-965'
+  volume: '7'
+  issue: '8'
+  URL: https://doi.org/10.1111%2F2041-210x.12548
+  DOI: 10.1111/2041-210x.12548
+...

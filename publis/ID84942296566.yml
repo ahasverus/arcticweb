@@ -1,0 +1,36 @@
+---
+references:
+- id: ID84942296566
+  type: article-journal
+  author:
+  - family: Norén
+    given: K.
+  - family: Statham
+    given: M. J.
+  - family: Ågren
+    given: E. O.
+  - family: Isomursu
+    given: M.
+  - family: Flagstad
+    given: Y.
+  - family: Eide
+    given: N. E.
+  - family: Berg
+    given: T. B. G.
+  - family: Bech-Sanderhoff
+    given: L.
+  - family: Sacks
+    given: B. N.
+  issued:
+  - year: '2015'
+    month: '6'
+  title: Genetic footprints reveal geographic patterns of expansion in Fennoscandian
+    red foxes
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '3299-3312'
+  volume: '21'
+  issue: '9'
+  URL: https://doi.org/10.1111%2Fgcb.12922
+  DOI: 10.1111/gcb.12922
+...

@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84983803005
+  type: article-journal
+  author:
+  - family: Smith
+    given: V. H.
+  - family: Holt
+    given: R. D.
+  - family: Smith
+    given: M. S.
+  - family: Niu
+    given: Y.
+  - family: Barfield
+    given: M.
+  issued:
+  - year: '2015'
+    month: '1'
+  title: 'Resources, mortality, and disease ecology: Importance of positive feedbacks
+    between host growth rate and pathogen dynamics'
+  container-title: Israel Journal of Ecology & Evolution
+  publisher: Brill Academic Publishers
+  page: '37-49'
+  volume: '61'
+  issue: '1'
+  URL: https://doi.org/10.1080%2F15659801.2015.1035508
+  DOI: 10.1080/15659801.2015.1035508
+...

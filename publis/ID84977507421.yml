@@ -1,0 +1,34 @@
+---
+references:
+- id: ID84977507421
+  type: article-journal
+  author:
+  - family: Zhang
+    given: J.
+  - family: Nielsen
+    given: S. E.
+  - family: Chen
+    given: Y.
+  - family: Georges
+    given: D.
+  - family: Qin
+    given: Y.
+  - family: Wang
+    given: S.-S.
+  - family: Svenning
+    given: J.-C.
+  - family: Thuiller
+    given: W.
+  issued:
+  - year: '2016'
+    month: '6'
+  title: Extinction risk of North American seed plants elevated by climate and land-use
+    change
+  container-title: Journal of Applied Ecology
+  publisher: Wiley-Blackwell
+  page: '303-312'
+  volume: '54'
+  issue: '1'
+  URL: https://doi.org/10.1111%2F1365-2664.12701
+  DOI: 10.1111/1365-2664.12701
+...

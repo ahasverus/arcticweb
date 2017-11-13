@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84867479070
+  type: article-journal
+  author:
+  - family: Poisot
+    given: T.
+  - family: Canard
+    given: E.
+  - family: Mouillot
+    given: D.
+  - family: Mouquet
+    given: N.
+  - family: Gravel
+    given: D.
+  editor:
+  - family: Jordan
+    given: Ferenc
+  issued:
+  - year: '2012'
+    month: '9'
+  title: The dissimilarity of species interaction networks
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '1353-1361'
+  volume: '15'
+  issue: '12'
+  URL: https://doi.org/10.1111%2Fele.12002
+  DOI: 10.1111/ele.12002
+...

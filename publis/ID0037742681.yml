@@ -1,0 +1,21 @@
+---
+references:
+- id: ID0037742681
+  type: article-journal
+  author:
+  - family: Lafferty
+    given: K. D.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2003'
+    month: '6'
+  title: How should environmental stress affect the population dynamics of disease?
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '654-664'
+  volume: '6'
+  issue: '7'
+  URL: https://doi.org/10.1046%2Fj.1461-0248.2003.00480.x
+  DOI: 10.1046/j.1461-0248.2003.00480.x
+...

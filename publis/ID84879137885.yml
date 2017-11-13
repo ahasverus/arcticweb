@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84879137885
+  type: article-journal
+  author:
+  - family: Vindstad
+    given: O. P. L.
+  - family: Schott
+    given: T.
+  - family: Hagen
+    given: S. B.
+  - family: Jepsen
+    given: J. U.
+  - family: Kapari
+    given: L.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2013'
+    month: '1'
+  title: How rapidly do invasive birch forest geometrids recruit larval parasitoids?
+    Insights from comparison with a sympatric native geometrid
+  container-title: Biological Invasions
+  publisher: Springer Nature
+  page: '1573-1589'
+  volume: '15'
+  issue: '7'
+  URL: https://doi.org/10.1007%2Fs10530-012-0393-8
+  DOI: 10.1007/s10530-012-0393-8
+...

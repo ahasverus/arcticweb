@@ -1,0 +1,37 @@
+---
+references:
+- id: ID84878206931
+  type: article-journal
+  author:
+  - family: Kai
+    given: E. T.
+  - family: Benhamou
+    given: S.
+  - family: Lingen
+    given: C. D.
+    dropping-particle: van der
+  - family: Coetzee
+    given: J. C.
+  - family: Pichegru
+    given: L.
+  - family: Ryan
+    given: P. G.
+  - family: Grémillet
+    given: D.
+  editor:
+  - family: Votier
+    given: Steve
+  issued:
+  - year: '2013'
+    month: '5'
+  title: Are Cape gannets dependent upon fishery waste? A multi-scale analysis using
+    seabird GPS-tracking, hydro-acoustic surveys of pelagic fish and vessel monitoring
+    systems
+  container-title: Journal of Applied Ecology
+  publisher: Wiley-Blackwell
+  page: '659-670'
+  volume: '50'
+  issue: '3'
+  URL: https://doi.org/10.1111%2F1365-2664.12086
+  DOI: 10.1111/1365-2664.12086
+...

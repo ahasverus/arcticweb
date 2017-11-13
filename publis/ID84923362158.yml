@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84923362158
+  type: article-journal
+  author:
+  - family: Poisot
+    given: T.
+  - family: Stouffer
+    given: D. B.
+  - family: Gravel
+    given: D.
+  issued:
+  - year: '2014'
+    month: '11'
+  title: 'Beyond species: Why ecological interaction networks vary through space
+    and time'
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '243-251'
+  volume: '124'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Foik.01719
+  DOI: 10.1111/oik.01719
+...

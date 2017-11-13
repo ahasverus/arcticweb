@@ -1,0 +1,33 @@
+---
+references:
+- id: ID84979501937
+  type: article-journal
+  author:
+  - family: Navarro
+    given: J.
+  - family: Grémillet
+    given: D.
+  - family: Afán
+    given: I.
+  - family: Ramírez
+    given: F.
+  - family: Bouten
+    given: W.
+  - family: Forero
+    given: M. G.
+  editor:
+  - family: Lambertucci
+    given: Sergio A
+  issued:
+  - year: '2016'
+    month: '7'
+  title: 'Feathered Detectives: Real-Time GPS Tracking of Scavenging Gulls Pinpoints
+    Illegal Waste Dumping'
+  container-title: PLOS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e0159974'
+  volume: '11'
+  issue: '7'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0159974
+  DOI: 10.1371/journal.pone.0159974
+...

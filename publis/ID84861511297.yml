@@ -1,0 +1,46 @@
+---
+references:
+- id: ID84861511297
+  type: article-journal
+  author:
+  - family: Kissling
+    given: W. D.
+  - family: Dormann
+    given: C. F.
+  - family: Groeneveld
+    given: J.
+  - family: Hickler
+    given: T.
+  - family: Kühn
+    given: I.
+  - family: McInerny
+    given: G. J.
+  - family: Montoya
+    given: J. M.
+  - family: Römermann
+    given: C.
+  - family: Schiffers
+    given: K.
+  - family: Schurr
+    given: F. M.
+  - family: Singer
+    given: A.
+  - family: Svenning
+    given: J.-C.
+  - family: Zimmermann
+    given: N. E.
+  - family: O’hara
+    given: R. B.
+  issued:
+  - year: '2011'
+    month: '12'
+  title: Towards novel approaches to modelling biotic interactions in multispecies
+    assemblages at large spatial extents
+  container-title: Journal of Biogeography
+  publisher: Wiley-Blackwell
+  page: '2163-2178'
+  volume: '39'
+  issue: '12'
+  URL: https://doi.org/10.1111%2Fj.1365-2699.2011.02663.x
+  DOI: 10.1111/j.1365-2699.2011.02663.x
+...

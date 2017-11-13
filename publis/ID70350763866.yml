@@ -1,0 +1,26 @@
+---
+references:
+- id: ID70350763866
+  type: article-journal
+  author:
+  - family: Ropert-Coudert
+    given: Y.
+  - family: Kato
+    given: A.
+  - family: Poulin
+    given: N.
+  - family: Grémillet
+    given: D.
+  issued:
+  - year: '2009'
+    month: '11'
+  title: Leg-attached data loggers do not modify the diving performances of a foot-propelled
+    seabird
+  container-title: Journal of Zoology
+  publisher: Wiley-Blackwell
+  page: '294-297'
+  volume: '279'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1469-7998.2009.00619.x
+  DOI: 10.1111/j.1469-7998.2009.00619.x
+...

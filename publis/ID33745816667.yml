@@ -1,0 +1,28 @@
+---
+references:
+- id: ID33745816667
+  type: article-journal
+  author:
+  - family: Jamieson
+    given: S. E.
+  - family: Gilchrist
+    given: H. G.
+  - family: Merkel
+    given: F. R.
+  - family: Falk
+    given: K.
+  - family: Diamond
+    given: A. W.
+  issued:
+  - year: '2006'
+    month: '6'
+  title: An evaluation of methods used to estimate carcass composition of common eiders
+    Somateria mollissima
+  container-title: Wildlife Biology
+  publisher: Wildlife Biology
+  page: '219-226'
+  volume: '12'
+  issue: '2'
+  URL: https://doi.org/10.2981%2F0909-6396%282006%2912%5B219%3Aaeomut%5D2.0.co%3B2
+  DOI: 10.2981/0909-6396(2006)12[219:aeomut]2.0.co;2
+...

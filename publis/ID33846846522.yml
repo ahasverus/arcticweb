@@ -1,0 +1,25 @@
+---
+references:
+- id: ID33846846522
+  type: article-journal
+  author:
+  - family: Smith
+    given: P. A.
+  - family: Gilchrist
+    given: H. G.
+  - family: Smith
+    given: J. N. M.
+  - family: Nol
+    given: E.
+  issued:
+  - year: '2007'
+  title: Annual variation in the benefits of a nesting association between Red Phalaropes
+    (Phalaropus fulicarius) and Sabine’s Gulls (Xema sabini)
+  container-title: The Auk
+  publisher: American Ornithologists Union
+  page: '276'
+  volume: '124'
+  issue: '1'
+  URL: https://doi.org/10.1642%2F0004-8038%282007%29124%5B276%3Aavitbo%5D2.0.co%3B2
+  DOI: 10.1642/0004-8038(2007)124[276:avitbo]2.0.co;2
+...

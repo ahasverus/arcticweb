@@ -1,0 +1,40 @@
+---
+references:
+- id: ID84867668768
+  type: article-journal
+  author:
+  - family: Ferguson
+    given: S. H.
+  - family: Berteaux
+    given: D.
+  - family: Gaston
+    given: A. J.
+  - family: Higdon
+    given: J. W.
+  - family: Lecomte
+    given: N.
+  - family: Lunn
+    given: N.
+  - family: Mallory
+    given: M. L.
+  - family: Reist
+    given: J.
+  - family: Russell
+    given: D.
+  - family: Yoccoz
+    given: N. G.
+  - family: Zhu
+    given: X.
+  issued:
+  - year: '2012'
+    month: '5'
+  title: 'Time series data for Canadian arctic vertebrates: IPY contributions to
+    science, management, and policy'
+  container-title: Climatic Change
+  publisher: Springer Nature
+  page: '235-258'
+  volume: '115'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs10584-012-0476-7
+  DOI: 10.1007/s10584-012-0476-7
+...

@@ -1,0 +1,35 @@
+---
+references:
+- id: ID84873546370
+  type: article-journal
+  author:
+  - family: Hamel
+    given: S.
+  - family: Killengreen
+    given: S. T.
+  - family: Henden
+    given: J.-A.
+  - family: Eide
+    given: N. E.
+  - family: Roed-Eriksen
+    given: L.
+  - family: Ims
+    given: R. A.
+  - family: Yoccoz
+    given: N. G.
+  editor:
+  - family: O'Hara
+    given: Robert B.
+  issued:
+  - year: '2012'
+    month: '11'
+  title: 'Towards good practice guidance in using camera-traps in ecology: Influence
+    of sampling design on validity of ecological inferences'
+  container-title: Methods in Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '105-113'
+  volume: '4'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.2041-210x.2012.00262.x
+  DOI: 10.1111/j.2041-210x.2012.00262.x
+...

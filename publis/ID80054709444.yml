@@ -1,0 +1,41 @@
+---
+references:
+- id: ID80054709444
+  type: article-journal
+  author:
+  - family: Ewers
+    given: R. M.
+  - family: Didham
+    given: R. K.
+  - family: Fahrig
+    given: L.
+  - family: Ferraz
+    given: G.
+  - family: Hector
+    given: A.
+  - family: Holt
+    given: R. D.
+  - family: Kapos
+    given: V.
+  - family: Reynolds
+    given: G.
+  - family: Sinun
+    given: W.
+  - family: Snaddon
+    given: J. L.
+  - family: Turner
+    given: E. C.
+  issued:
+  - year: '2011'
+    month: '10'
+  title: 'A large-scale forest fragmentation experiment: The stability of altered
+    forest ecosystems project'
+  container-title: 'Philosophical Transactions of the Royal Society B: Biological
+    Sciences'
+  publisher: The Royal Society
+  page: '3292-3302'
+  volume: '366'
+  issue: '1582'
+  URL: https://doi.org/10.1098%2Frstb.2011.0049
+  DOI: 10.1098/rstb.2011.0049
+...

@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84856253747
+  type: article-journal
+  author:
+  - family: Legagneux
+    given: P.
+  - family: Fast
+    given: P. L. F.
+  - family: Gauthier
+    given: G.
+  - family: Bety
+    given: J.
+  issued:
+  - year: '2011'
+    month: '8'
+  title: Manipulating individual state during migration provides evidence for carry-over
+    effects modulated by environmental conditions
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '876-883'
+  volume: '279'
+  issue: '1730'
+  URL: https://doi.org/10.1098%2Frspb.2011.1351
+  DOI: 10.1098/rspb.2011.1351
+...

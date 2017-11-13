@@ -1,0 +1,22 @@
+---
+references:
+- id: ID84971246159
+  type: article-journal
+  author:
+  - family: Borja
+    given: N.
+  - family: Halpern
+    given: B. S.
+  - family: Archambault
+    given: P.
+  issued:
+  - year: '2016'
+    month: '6'
+  title: Assessing marine ecosystems health, in an integrative way
+  container-title: Continental Shelf Research
+  publisher: Elsevier BV
+  page: '1-2'
+  volume: '121'
+  URL: https://doi.org/10.1016%2Fj.csr.2016.05.002
+  DOI: 10.1016/j.csr.2016.05.002
+...

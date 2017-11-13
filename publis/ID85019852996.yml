@@ -1,0 +1,25 @@
+---
+references:
+- id: ID85019852996
+  type: article-journal
+  author:
+  - family: Lewden
+    given: A.
+  - family: Nord
+    given: A.
+  - family: Petit
+    given: M.
+  - family: Vézina
+    given: F.
+  issued:
+  - year: '2017'
+    month: '10'
+  title: Body temperature responses to handling stress in wintering Black-capped Chickadees
+    (Poecile atricapillus L.)
+  container-title: Physiology & Behavior
+  publisher: Elsevier BV
+  page: '49-54'
+  volume: '179'
+  URL: https://doi.org/10.1016%2Fj.physbeh.2017.05.024
+  DOI: 10.1016/j.physbeh.2017.05.024
+...

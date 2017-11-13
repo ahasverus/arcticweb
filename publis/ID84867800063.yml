@@ -1,0 +1,23 @@
+---
+references:
+- id: ID84867800063
+  type: article-journal
+  author:
+  - family: Therrien
+    given: J.-F.
+  - family: Gauthier
+    given: G.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2012'
+    month: '7'
+  title: Survival and reproduction of adult snowy owls tracked by satellite
+  container-title: The Journal of Wildlife Management
+  publisher: Wiley-Blackwell
+  page: '1562-1567'
+  volume: '76'
+  issue: '8'
+  URL: https://doi.org/10.1002%2Fjwmg.414
+  DOI: 10.1002/jwmg.414
+...

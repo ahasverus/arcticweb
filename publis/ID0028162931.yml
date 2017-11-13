@@ -1,0 +1,22 @@
+---
+references:
+- id: ID0028162931
+  type: article-journal
+  author:
+  - family: Krebs
+    given: C.
+  - family: Singleton
+    given: G.
+  - family: Kenney
+    given: A.
+  issued:
+  - year: '1994'
+  title: Six reasons why feral house mouse populations might have low recapture rates
+  container-title: Wildlife Research
+  publisher: CSIRO Publishing
+  page: '559'
+  volume: '21'
+  issue: '5'
+  URL: https://doi.org/10.1071%2Fwr9940559
+  DOI: 10.1071/wr9940559
+...

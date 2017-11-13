@@ -1,0 +1,60 @@
+---
+references:
+- id: ID84860669527
+  type: article-journal
+  author:
+  - family: Franks
+    given: S. E.
+  - family: Norris
+    given: D. R.
+  - family: Kyser
+    given: T. K.
+  - family: Fernández
+    given: G.
+  - family: Schwarz
+    given: B.
+  - family: Carmona
+    given: R.
+  - family: Colwell
+    given: M. A.
+  - family: Sandoval
+    given: J. C.
+  - family: Dondua
+    given: A.
+  - family: Gates
+    given: H. R.
+  - family: Haase
+    given: B.
+  - family: Hodkinson
+    given: D. J.
+  - family: Jiménez
+    given: A.
+  - family: Lanctot
+    given: R. B.
+  - family: Ortego
+    given: B.
+  - family: Sandercock
+    given: B. K.
+  - family: Sanders
+    given: F.
+  - family: Takekawa
+    given: J. Y.
+  - family: Warnock
+    given: N.
+  - family: Ydenberg
+    given: R. C.
+  - family: Lank
+    given: D. B.
+  issued:
+  - year: '2012'
+    month: '3'
+  title: Range-wide patterns of migratory connectivity in the western sandpiper Calidris
+    mauri
+  container-title: Journal of Avian Biology
+  publisher: Wiley-Blackwell
+  page: '155-167'
+  volume: '43'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1600-048x.2012.05573.x
+  DOI: 10.1111/j.1600-048x.2012.05573.x
+...

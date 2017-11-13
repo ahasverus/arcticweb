@@ -1,0 +1,28 @@
+---
+references:
+- id: ID77955556020
+  type: article-journal
+  author:
+  - family: Belley
+    given: R.
+  - family: Archambault
+    given: P.
+  - family: Sundby
+    given: B.
+  - family: Gilbert
+    given: F.
+  - family: Gagnon
+    given: J.-M.
+  issued:
+  - year: '2010'
+    month: '7'
+  title: Effects of hypoxia on benthic macrofauna and bioturbation in the Estuary
+    and Gulf of St. Lawrence, Canada
+  container-title: Continental Shelf Research
+  publisher: Elsevier BV
+  page: '1302-1313'
+  volume: '30'
+  issue: '12'
+  URL: https://doi.org/10.1016%2Fj.csr.2010.04.010
+  DOI: 10.1016/j.csr.2010.04.010
+...

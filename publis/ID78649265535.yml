@@ -1,0 +1,26 @@
+---
+references:
+- id: ID78649265535
+  type: article-journal
+  author:
+  - family: Schmidt
+    given: N. M.
+  - family: Baittinger
+    given: C.
+  - family: Kollmann
+    given: J.
+  - family: Forchhammer
+    given: M. C.
+  issued:
+  - year: '2010'
+    month: '11'
+  title: Consistent dendrochronological response of the dioecious Salix arctica to
+    variation in local snow precipitation across gender and vegetation types
+  container-title: Arctic, Antarctic, and Alpine Research
+  publisher: Institute of Arctic; Alpine Research (INSTAAR)
+  page: '471-475'
+  volume: '42'
+  issue: '4'
+  URL: https://doi.org/10.1657%2F1938-4246-42.4.471
+  DOI: 10.1657/1938-4246-42.4.471
+...

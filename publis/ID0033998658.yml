@@ -1,0 +1,21 @@
+---
+references:
+- id: ID0033998658
+  type: article-journal
+  author:
+  - family: Debinski
+    given: D. M.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2000'
+    month: '4'
+  title: A survey and overview of habitat fragmentation experiments
+  container-title: Conservation Biology
+  publisher: Wiley-Blackwell
+  page: '342-355'
+  volume: '14'
+  issue: '2'
+  URL: https://doi.org/10.1046%2Fj.1523-1739.2000.98081.x
+  DOI: 10.1046/j.1523-1739.2000.98081.x
+...

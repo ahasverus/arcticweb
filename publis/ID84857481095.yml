@@ -1,0 +1,43 @@
+---
+references:
+- id: ID84857481095
+  type: article-journal
+  author:
+  - family: Gilg
+    given: O.
+  - family: Kovacs
+    given: K. M.
+  - family: Aars
+    given: J.
+  - family: Fort
+    given: J.
+  - family: Gauthier
+    given: G.
+  - family: Grémillet
+    given: D.
+  - family: Ims
+    given: R. A.
+  - family: Meltofte
+    given: H.
+  - family: Moreau
+    given: J.
+  - family: Post
+    given: E.
+  - family: Schmidt
+    given: N. M.
+  - family: Yannic
+    given: G.
+  - family: Bollache
+    given: L.
+  issued:
+  - year: '2012'
+    month: '2'
+  title: Climate change and the ecology and evolution of Arctic vertebrates
+  container-title: Annals of the New York Academy of Sciences
+  publisher: Wiley-Blackwell
+  page: '166-190'
+  volume: '1249'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1749-6632.2011.06412.x
+  DOI: 10.1111/j.1749-6632.2011.06412.x
+...

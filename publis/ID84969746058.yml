@@ -1,0 +1,36 @@
+---
+references:
+- id: ID84969746058
+  type: article-journal
+  author:
+  - family: Greve
+    given: M.
+  - family: Lykke
+    given: A. M.
+  - family: Fagg
+    given: C. W.
+  - family: Gereau
+    given: R. E.
+  - family: Lewis
+    given: G. P.
+  - family: Marchant
+    given: R.
+  - family: Marshall
+    given: A. R.
+  - family: Ndayishimiye
+    given: J.
+  - family: Bogaert
+    given: J.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2016'
+    month: '7'
+  title: Realising the potential of herbarium records for conservation biology
+  container-title: South African Journal of Botany
+  publisher: Elsevier BV
+  page: '317-323'
+  volume: '105'
+  URL: https://doi.org/10.1016%2Fj.sajb.2016.03.017
+  DOI: 10.1016/j.sajb.2016.03.017
+...

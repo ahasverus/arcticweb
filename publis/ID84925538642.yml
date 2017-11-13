@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84925538642
+  type: article-journal
+  author:
+  - family: Hennin
+    given: H. L.
+  - family: Legagneux
+    given: P.
+  - family: Bêty
+    given: J.
+  - family: Williams
+    given: T. D.
+  - family: Gilchrist
+    given: H. G.
+  - family: Baker
+    given: T. M.
+  - family: Love
+    given: O. P.
+  issued:
+  - year: '2014'
+    month: '11'
+  title: Pre-breeding energetic management in a mixed-strategy breeder
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '235-243'
+  volume: '177'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs00442-014-3145-x
+  DOI: 10.1007/s00442-014-3145-x
+...

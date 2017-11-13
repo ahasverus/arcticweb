@@ -1,0 +1,27 @@
+---
+references:
+- id: ID85032653820
+  type: article-journal
+  author:
+  - family: Ellingsen
+    given: K. E.
+  - family: Yoccoz
+    given: N. G.
+  - family: Tveraa
+    given: T.
+  - family: Hewitt
+    given: J. E.
+  - family: Thrush
+    given: S. F.
+  issued:
+  - year: '2017'
+    month: '10'
+  title: 'Long-term environmental monitoring for assessment of change: measurement
+    inconsistencies over time and potential solutions'
+  container-title: Environmental Monitoring and Assessment
+  publisher: Springer Nature
+  volume: '189'
+  issue: '11'
+  URL: https://doi.org/10.1007%2Fs10661-017-6317-4
+  DOI: 10.1007/s10661-017-6317-4
+...

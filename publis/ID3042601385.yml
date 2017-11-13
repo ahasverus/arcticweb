@@ -1,0 +1,22 @@
+---
+references:
+- id: ID3042601385
+  type: article-journal
+  author:
+  - family: Post
+    given: E.
+  - family: Forchhammer
+    given: M. C.
+  issued:
+  - year: '2004'
+    month: '6'
+  title: Spatial synchrony of local populations has increased in association with
+    the recent Northern Hemisphere climate trend
+  container-title: Proceedings of the National Academy of Sciences
+  publisher: Proceedings of the National Academy of Sciences
+  page: '9286-9290'
+  volume: '101'
+  issue: '25'
+  URL: https://doi.org/10.1073%2Fpnas.0305029101
+  DOI: 10.1073/pnas.0305029101
+...

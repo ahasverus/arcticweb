@@ -1,0 +1,29 @@
+---
+references:
+- id: ID83555178529
+  type: article-journal
+  author:
+  - family: Boulangeat
+    given: I.
+  - family: Lavergne
+    given: S.
+  - family: Es
+    given: J.
+    dropping-particle: van
+  - family: Garraud
+    given: L.
+  - family: Thuiller
+    given: W.
+  issued:
+  - year: '2011'
+    month: '8'
+  title: Niche breadth, rarity and ecological characteristics within a regional flora
+    spanning large environmental gradients
+  container-title: Journal of Biogeography
+  publisher: Wiley-Blackwell
+  page: '204-214'
+  volume: '39'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1365-2699.2011.02581.x
+  DOI: 10.1111/j.1365-2699.2011.02581.x
+...

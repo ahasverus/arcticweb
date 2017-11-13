@@ -1,0 +1,47 @@
+---
+references:
+- id: ID85030655453
+  type: article-journal
+  author:
+  - family: Galetti
+    given: M.
+  - family: Moleón
+    given: M.
+  - family: Jordano
+    given: P.
+  - family: Pires
+    given: M. M.
+  - family: Guimarães
+    given: P. R.
+  - family: Pape
+    given: T.
+  - family: Nichols
+    given: E.
+  - family: Hansen
+    given: D.
+  - family: Olesen
+    given: J. M.
+  - family: Munk
+    given: M.
+  - family: Mattos
+    given: J. S.
+    dropping-particle: de
+  - family: Schweiger
+    given: A. H.
+  - family: Owen-Smith
+    given: N.
+  - family: Johnson
+    given: C. N.
+  - family: Marquis
+    given: R. J.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2017'
+    month: '10'
+  title: Ecological and evolutionary legacy of megafauna extinctions
+  container-title: Biological Reviews
+  publisher: Wiley-Blackwell
+  URL: https://doi.org/10.1111%2Fbrv.12374
+  DOI: 10.1111/brv.12374
+...

@@ -1,0 +1,31 @@
+---
+references:
+- id: ID41649089518
+  type: article-journal
+  author:
+  - family: Gremillet
+    given: D.
+  - family: Pichegru
+    given: L.
+  - family: Kuntz
+    given: G.
+  - family: Woakes
+    given: A. G.
+  - family: Wilkinson
+    given: S.
+  - family: Crawford
+    given: R. J. M.
+  - family: Ryan
+    given: P. G.
+  issued:
+  - year: '2008'
+    month: '5'
+  title: A junk-food hypothesis for gannets feeding on fishery waste
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '1149-1156'
+  volume: '275'
+  issue: '1639'
+  URL: https://doi.org/10.1098%2Frspb.2007.1763
+  DOI: 10.1098/rspb.2007.1763
+...

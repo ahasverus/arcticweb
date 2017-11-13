@@ -1,0 +1,20 @@
+---
+references:
+- id: ID77956817093
+  type: chapter
+  author:
+  - family: Krebs
+    given: C. J.
+  - family: Myers
+    given: J. H.
+  issued:
+  - year: '1974'
+  title: Population Cycles in Small Mammals
+  container-title: Advances in Ecological Research Volume 8
+  collection-number: C
+  publisher: Elsevier
+  page: '267-399'
+  volume: '8'
+  URL: https://doi.org/10.1016%2Fs0065-2504%2808%2960280-9
+  DOI: 10.1016/s0065-2504(08)60280-9
+...

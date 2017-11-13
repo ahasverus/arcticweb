@@ -1,0 +1,27 @@
+---
+references:
+- id: ID67349215786
+  type: article-journal
+  author:
+  - family: Bladt
+    given: J.
+  - family: Strange
+    given: N.
+  - family: Abildtrup
+    given: J.
+  - family: Svenning
+    given: J.-C.
+  - family: Skov
+    given: F.
+  issued:
+  - year: '2009'
+    month: '5'
+  title: Conservation efficiency of geopolitical coordination in the EU
+  container-title: Journal for Nature Conservation
+  publisher: Elsevier BV
+  page: '72-86'
+  volume: '17'
+  issue: '2'
+  URL: https://doi.org/10.1016%2Fj.jnc.2008.12.003
+  DOI: 10.1016/j.jnc.2008.12.003
+...

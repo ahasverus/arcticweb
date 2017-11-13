@@ -1,0 +1,30 @@
+---
+references:
+- id: ID85010924584
+  type: article-journal
+  author:
+  - family: Løvschal
+    given: M.
+  - family: Bøcher
+    given: P. K.
+  - family: Pilgaard
+    given: J.
+  - family: Amoke
+    given: I.
+  - family: Odingo
+    given: A.
+  - family: Thuo
+    given: A.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2017'
+    month: '1'
+  title: Fencing bodes a rapid collapse of the unique Greater Mara ecosystem
+  container-title: Scientific Reports
+  publisher: Springer Nature
+  page: '41450'
+  volume: '7'
+  URL: https://doi.org/10.1038%2Fsrep41450
+  DOI: 10.1038/srep41450
+...

@@ -1,0 +1,26 @@
+---
+references:
+- id: ID70350618931
+  type: article-journal
+  author:
+  - family: Singh
+    given: N. J.
+  - family: Yoccoz
+    given: N. G.
+  - family: Bhatnagar
+    given: Y. V.
+  - family: Fox
+    given: J. L.
+  issued:
+  - year: '2009'
+    month: '3'
+  title: 'Using habitat suitability models to sample rare species in high-altitude
+    ecosystems: A case study with Tibetan argali'
+  container-title: Biodiversity and Conservation
+  publisher: Springer Nature
+  page: '2893-2908'
+  volume: '18'
+  issue: '11'
+  URL: https://doi.org/10.1007%2Fs10531-009-9615-5
+  DOI: 10.1007/s10531-009-9615-5
+...

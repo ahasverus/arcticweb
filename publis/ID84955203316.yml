@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84955203316
+  type: article-journal
+  author:
+  - family: Feng
+    given: G.
+  - family: Mao
+    given: L.
+  - family: Sandel
+    given: B.
+  - family: Swenson
+    given: N. G.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2015'
+    month: '9'
+  title: High plant endemism in China is partially linked to reduced glacial-interglacial
+    climate change
+  container-title: Journal of Biogeography
+  publisher: Wiley-Blackwell
+  page: '145-154'
+  volume: '43'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fjbi.12613
+  DOI: 10.1111/jbi.12613
+...

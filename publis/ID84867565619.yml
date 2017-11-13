@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84867565619
+  type: article-journal
+  author:
+  - family: Hallanger
+    given: I. G.
+  - family: Jørgensen
+    given: E. H.
+  - family: Fuglei
+    given: E.
+  - family: Ahlstrøm
+    given: Y.
+  - family: Muir
+    given: D. C. G.
+  - family: Jenssen
+    given: B. M.
+  issued:
+  - year: '2012'
+    month: '10'
+  title: Dietary contaminant exposure affects plasma testosterone, but not thyroid
+    hormones, vitamin A, and vitamin E, in male juvenile arctic foxes (Vulpes lagopus)
+  container-title: Journal of Toxicology and Environmental Health, Part A
+  publisher: Informa UK Limited
+  page: '1298-1313'
+  volume: '75'
+  issue: '21'
+  URL: https://doi.org/10.1080%2F15287394.2012.709445
+  DOI: 10.1080/15287394.2012.709445
+...

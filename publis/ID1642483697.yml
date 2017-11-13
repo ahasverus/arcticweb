@@ -1,0 +1,27 @@
+---
+references:
+- id: ID1642483697
+  type: article-journal
+  author:
+  - family: Clinchy
+    given: M.
+  - family: Taylor
+    given: A. C.
+  - family: Zanette
+    given: L. Y.
+  - family: Krebs
+    given: C. J.
+  - family: Jarman
+    given: P. J.
+  issued:
+  - year: '2004'
+    month: '1'
+  title: Body size, age and paternity in common brushtail possums (Trichosurus vulpecula)
+  container-title: Molecular Ecology
+  publisher: Wiley-Blackwell
+  page: '195-202'
+  volume: '13'
+  issue: '1'
+  URL: https://doi.org/10.1046%2Fj.1365-294x.2003.02029.x
+  DOI: 10.1046/j.1365-294x.2003.02029.x
+...

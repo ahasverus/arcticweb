@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84984837659
+  type: article-journal
+  author:
+  - family: Beardsell
+    given: A.
+  - family: Gauthier
+    given: G.
+  - family: Therrien
+    given: J.-F.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2016'
+    month: '10'
+  title: Nest site characteristics, patterns of nest reuse, and reproductive output
+    in an Arctic-nesting raptor, the Rough-legged Hawk
+  container-title: The Auk
+  publisher: American Ornithologists Union
+  page: '718-732'
+  volume: '133'
+  issue: '4'
+  URL: https://doi.org/10.1642%2Fauk-16-54.1
+  DOI: 10.1642/auk-16-54.1
+...

@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84990059411
+  type: article-journal
+  author:
+  - family: Dey
+    given: C. J.
+  - family: Richardson
+    given: E.
+  - family: McGeachy
+    given: D.
+  - family: Iverson
+    given: S. A.
+  - family: Gilchrist
+    given: H. G.
+  - family: Semeniuk
+    given: C. A. D.
+  issued:
+  - year: '2016'
+    month: '9'
+  title: Increasing nest predation will be insufficient to maintain polar bear body
+    condition in the face of sea ice loss
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '1821-1831'
+  volume: '23'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fgcb.13499
+  DOI: 10.1111/gcb.13499
+...

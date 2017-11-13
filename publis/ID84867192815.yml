@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84867192815
+  type: article-journal
+  author:
+  - family: Lessard
+    given: J.-P.
+  - family: Belmaker
+    given: J.
+  - family: Myers
+    given: J. A.
+  - family: Chase
+    given: J. M.
+  - family: Rahbek
+    given: C.
+  issued:
+  - year: '2012'
+    month: '11'
+  title: Inferring local ecological processes amid species pool influences
+  container-title: Trends in Ecology & Evolution
+  publisher: Elsevier BV
+  page: '600-607'
+  volume: '27'
+  issue: '11'
+  URL: https://doi.org/10.1016%2Fj.tree.2012.07.006
+  DOI: 10.1016/j.tree.2012.07.006
+...

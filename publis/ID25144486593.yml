@@ -1,0 +1,30 @@
+---
+references:
+- id: ID25144486593
+  type: article-journal
+  author:
+  - family: Våge
+    given: D. I.
+  - family: Fuglei
+    given: E.
+  - family: Snipstad
+    given: K.
+  - family: Beheim
+    given: J.
+  - family: Landsem
+    given: V. M.
+  - family: Klungland
+    given: H.
+  issued:
+  - year: '2005'
+    month: '10'
+  title: Two cysteine substitutions in the MC1R generate the blue variant of the arctic
+    fox (Alopex lagopus) and prevent expression of the white winter coat
+  container-title: Peptides
+  publisher: Elsevier BV
+  page: '1814-1817'
+  volume: '26'
+  issue: '10'
+  URL: https://doi.org/10.1016%2Fj.peptides.2004.11.040
+  DOI: 10.1016/j.peptides.2004.11.040
+...

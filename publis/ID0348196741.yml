@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0348196741
+  type: article-journal
+  author:
+  - family: Hagen
+    given: S. B.
+  - family: Ims
+    given: R. A.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2003'
+    month: '12'
+  title: Density-dependent melanism in sub-arctic populations of winter moth larvae
+    (Operophtera brumata)
+  container-title: Ecological Entomology
+  publisher: Wiley-Blackwell
+  page: '659-665'
+  volume: '28'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1365-2311.2003.00555.x
+  DOI: 10.1111/j.1365-2311.2003.00555.x
+...

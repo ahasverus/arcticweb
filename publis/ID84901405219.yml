@@ -1,0 +1,36 @@
+---
+references:
+- id: ID84901405219
+  type: article-journal
+  author:
+  - family: Bidon
+    given: T.
+  - family: Janke
+    given: A.
+  - family: Fain
+    given: S. R.
+  - family: Eiken
+    given: H. G.
+  - family: Hagen
+    given: S. B.
+  - family: Saarma
+    given: U.
+  - family: Hallström
+    given: B. M.
+  - family: Lecomte
+    given: N.
+  - family: Hailer
+    given: F.
+  issued:
+  - year: '2014'
+    month: '3'
+  title: Brown and polar bear y chromosomes reveal extensive male-biased gene flow
+    within brother lineages
+  container-title: Molecular Biology and Evolution
+  publisher: Oxford University Press (OUP)
+  page: '1353-1363'
+  volume: '31'
+  issue: '6'
+  URL: https://doi.org/10.1093%2Fmolbev%2Fmsu109
+  DOI: 10.1093/molbev/msu109
+...

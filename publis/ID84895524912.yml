@@ -1,0 +1,45 @@
+---
+references:
+- id: ID84895524912
+  type: article-journal
+  author:
+  - family: Schleuning
+    given: M.
+  - family: Ingmann
+    given: L.
+  - family: Strauß
+    given: R.
+  - family: Fritz
+    given: S. A.
+  - family: Dalsgaard
+    given: B.
+  - family: Dehling
+    given: D. M.
+  - family: Plein
+    given: M.
+  - family: Saavedra
+    given: F.
+  - family: Sandel
+    given: B.
+  - family: Svenning
+    given: J.-C.
+  - family: Böhning-Gaese
+    given: K.
+  - family: Dormann
+    given: C. F.
+  editor:
+  - family: Gomez
+    given: Jose
+  issued:
+  - year: '2014'
+    month: '1'
+  title: Ecological, historical and evolutionary determinants of modularity in weighted
+    seed-dispersal networks
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '454-463'
+  volume: '17'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fele.12245
+  DOI: 10.1111/ele.12245
+...

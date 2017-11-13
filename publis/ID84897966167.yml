@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84897966167
+  type: article-journal
+  author:
+  - family: Plante
+    given: S.
+  - family: Champagne
+    given: E.
+  - family: Ropars
+    given: P.
+  - family: Boudreau
+    given: S.
+  - family: Lévesque
+    given: E.
+  - family: Tremblay
+    given: B.
+  - family: Tremblay
+    given: J.-P.
+  issued:
+  - year: '2014'
+    month: '2'
+  title: 'Shrub cover in northern Nunavik: Can herbivores limit shrub expansion?'
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '611-619'
+  volume: '37'
+  issue: '5'
+  URL: https://doi.org/10.1007%2Fs00300-014-1461-6
+  DOI: 10.1007/s00300-014-1461-6
+...

@@ -1,0 +1,33 @@
+---
+references:
+- id: ID85003502868
+  type: article-journal
+  author:
+  - family: Legrand
+    given: D.
+  - family: Cote
+    given: J.
+  - family: Fronhofer
+    given: E. A.
+  - family: Holt
+    given: R. D.
+  - family: Ronce
+    given: O.
+  - family: Schtickzelle
+    given: N.
+  - family: Travis
+    given: J. M. J.
+  - family: Clobert
+    given: J.
+  issued:
+  - year: '2016'
+    month: '11'
+  title: Eco-evolutionary dynamics in fragmented landscapes
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '9-25'
+  volume: '40'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fecog.02537
+  DOI: 10.1111/ecog.02537
+...

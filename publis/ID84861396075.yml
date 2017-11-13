@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84861396075
+  type: article-journal
+  author:
+  - family: Grémillet
+    given: D.
+  - family: Nazirides
+    given: T.
+  - family: Nikolaou
+    given: H.
+  - family: Crivelli
+    given: A.
+  issued:
+  - year: '2012'
+    month: '5'
+  title: Fish are not safe from great cormorants in turbid water
+  container-title: Aquatic Biology
+  publisher: Inter-Research Science Center
+  page: '187-194'
+  volume: '15'
+  issue: '2'
+  URL: https://doi.org/10.3354%2Fab00430
+  DOI: 10.3354/ab00430
+...

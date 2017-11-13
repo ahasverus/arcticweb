@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84859615147
+  type: article-journal
+  author:
+  - family: Eide
+    given: N. E.
+  - family: Stien
+    given: A.
+  - family: Prestrud
+    given: P.
+  - family: Yoccoz
+    given: N. G.
+  - family: Fuglei
+    given: E.
+  issued:
+  - year: '2011'
+    month: '12'
+  title: Reproductive responses to spatial and temporal prey availability in a coastal
+    Arctic fox population
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '640-648'
+  volume: '81'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2011.01936.x
+  DOI: 10.1111/j.1365-2656.2011.01936.x
+...

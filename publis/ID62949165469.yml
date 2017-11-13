@@ -1,0 +1,26 @@
+---
+references:
+- id: ID62949165469
+  type: article-journal
+  author:
+  - family: Mallory
+    given: M. L.
+  - family: Gaston
+    given: A. J.
+  - family: Forbes
+    given: M. R.
+  - family: Gilchrist
+    given: H. G.
+  issued:
+  - year: '2008'
+    month: '11'
+  title: Influence of weather on reproductive success of northern fulmars in the Canadian
+    high Arctic
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '529-538'
+  volume: '32'
+  issue: '4'
+  URL: https://doi.org/10.1007%2Fs00300-008-0547-4
+  DOI: 10.1007/s00300-008-0547-4
+...

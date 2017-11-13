@@ -1,0 +1,23 @@
+---
+references:
+- id: ID0028177094
+  type: article-journal
+  author:
+  - family: Tannerfeldt
+    given: M.
+  - family: Angerbjorn
+    given: A.
+  - family: Arvidson
+    given: B.
+  issued:
+  - year: '1994'
+    month: '3'
+  title: The effect of summer feeding on juvenile arctic fox survival ‐ a field experiment
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '88-96'
+  volume: '17'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1600-0587.1994.tb00080.x
+  DOI: 10.1111/j.1600-0587.1994.tb00080.x
+...

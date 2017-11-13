@@ -1,0 +1,26 @@
+---
+references:
+- id: ID77956577777
+  type: article-journal
+  author:
+  - family: Tack
+    given: A. J. M.
+  - family: Ovaskainen
+    given: O.
+  - family: Pulkkinen
+    given: P.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2010'
+    month: '9'
+  title: Spatial location dominates over host plant genotype in structuring an herbivore
+    community
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '2660-2672'
+  volume: '91'
+  issue: '9'
+  URL: https://doi.org/10.1890%2F09-1027.1
+  DOI: 10.1890/09-1027.1
+...

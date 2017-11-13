@@ -1,0 +1,26 @@
+---
+references:
+- id: ID78649664210
+  type: article-journal
+  author:
+  - family: Yannic
+    given: G.
+  - family: Dubey
+    given: S.
+  - family: Hausser
+    given: J.
+  - family: Basset
+    given: P.
+  issued:
+  - year: '2010'
+    month: '12'
+  title: Additional data for nuclear DNA give new insights into the phylogenetic position
+    of Sorex granarius within the Sorex araneus group
+  container-title: Molecular Phylogenetics and Evolution
+  publisher: Elsevier BV
+  page: '1062-1071'
+  volume: '57'
+  issue: '3'
+  URL: https://doi.org/10.1016%2Fj.ympev.2010.09.015
+  DOI: 10.1016/j.ympev.2010.09.015
+...

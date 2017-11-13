@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84960903095
+  type: article-journal
+  author:
+  - family: Hattab
+    given: T.
+  - family: Leprieur
+    given: F.
+  - family: Lasram
+    given: F. B. R.
+  - family: Gravel
+    given: D.
+  - family: Loc'H
+    given: F. L.
+  - family: Albouy
+    given: C.
+  issued:
+  - year: '2016'
+    month: '3'
+  title: Forecasting fine-scale changes in the food-web structure of coastal marine
+    communities under climate change
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '1227-1237'
+  volume: '39'
+  issue: '12'
+  URL: https://doi.org/10.1111%2Fecog.01937
+  DOI: 10.1111/ecog.01937
+...

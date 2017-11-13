@@ -1,0 +1,44 @@
+---
+references:
+- id: ID58849160016
+  type: article-journal
+  author:
+  - family: Silva
+    given: A.
+    dropping-particle: da
+  - family: Gaillard
+    given: J.-M.
+  - family: Yoccoz
+    given: N. G.
+  - family: Hewison
+    given: A. J. M.
+  - family: Galan
+    given: M.
+  - family: Coulson
+    given: T.
+  - family: Allainé
+    given: D.
+  - family: Vial
+    given: L.
+  - family: Delorme
+    given: D.
+  - family: Laere
+    given: G.
+    dropping-particle: van
+  - family: Klein
+    given: F.
+  - family: Luikart
+    given: G.
+  issued:
+  - year: '2009'
+    month: '2'
+  title: Heterozygosity-fitness correlations revealed by neutral and candidate gene
+    markers in roe deer from a long-term study
+  container-title: Evolution
+  publisher: Wiley-Blackwell
+  page: '403-417'
+  volume: '63'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1558-5646.2008.00542.x
+  DOI: 10.1111/j.1558-5646.2008.00542.x
+...

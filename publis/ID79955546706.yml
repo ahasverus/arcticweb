@@ -1,0 +1,28 @@
+---
+references:
+- id: ID79955546706
+  type: article-journal
+  author:
+  - family: White
+    given: C. R.
+  - family: Grémillet
+    given: D.
+  - family: Green
+    given: J. A.
+  - family: Martin
+    given: G. R.
+  - family: Butler
+    given: P. J.
+  issued:
+  - year: '2011'
+    month: '2'
+  title: Metabolic rate throughout the annual cycle reveals the demands of an Arctic
+    existence in Great Cormorants
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '475-486'
+  volume: '92'
+  issue: '2'
+  URL: https://doi.org/10.1890%2F09-1951.1
+  DOI: 10.1890/09-1951.1
+...

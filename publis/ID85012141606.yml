@@ -1,0 +1,26 @@
+---
+references:
+- id: ID85012141606
+  type: article-journal
+  author:
+  - family: Klaassen
+    given: M.
+  - family: Hahn
+    given: S.
+  - family: Korthals
+    given: H.
+  - family: Madsen
+    given: J.
+  issued:
+  - year: '2017'
+    month: '1'
+  title: 'Eggs brought in from afar: Svalbard-breeding pink-footed geese can fly
+    their eggs across the Barents Sea'
+  container-title: Journal of Avian Biology
+  publisher: Wiley-Blackwell
+  page: '173-179'
+  volume: '48'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fjav.01364
+  DOI: 10.1111/jav.01364
+...

@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0036123353
+  type: article-journal
+  author:
+  - family: Gundersen
+    given: G.
+  - family: Andreassen
+    given: H. P.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2002'
+    month: '3'
+  title: 'Individual and population level determinants of immigration success on
+    local habitat patches: An experimental approach'
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '294-301'
+  volume: '5'
+  issue: '2'
+  URL: https://doi.org/10.1046%2Fj.1461-0248.2002.00320.x
+  DOI: 10.1046/j.1461-0248.2002.00320.x
+...

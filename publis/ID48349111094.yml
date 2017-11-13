@@ -1,0 +1,24 @@
+---
+references:
+- id: ID48349111094
+  type: article-journal
+  author:
+  - family: Bauer
+    given: S.
+  - family: Gienapp
+    given: P.
+  - family: Madsen
+    given: J.
+  issued:
+  - year: '2008'
+    month: '7'
+  title: The relevance of environmental conditions for departure decision changes
+    en route in migrating geese
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '1953-1960'
+  volume: '89'
+  issue: '7'
+  URL: https://doi.org/10.1890%2F07-1101.1
+  DOI: 10.1890/07-1101.1
+...

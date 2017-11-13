@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84879547239
+  type: article-journal
+  author:
+  - family: Petit
+    given: M.
+  - family: Lewden
+    given: A.
+  - family: Vézina
+    given: F.
+  editor:
+  - family: Munn
+    given: Adam J.
+  issued:
+  - year: '2013'
+    month: '6'
+  title: Intra-Seasonal Flexibility in Avian Metabolic Performance Highlights the
+    Uncoupling of Basal Metabolic Rate and Thermogenic Capacity
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e68292'
+  volume: '8'
+  issue: '6'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0068292
+  DOI: 10.1371/journal.pone.0068292
+...

@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84991447762
+  type: article-journal
+  author:
+  - family: Pentinsaari
+    given: M.
+  - family: Salmela
+    given: H.
+  - family: Mutanen
+    given: M.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2016'
+    month: '10'
+  title: Molecular evolution of a widely-adopted taxonomic marker (COI) across the
+    animal tree of life
+  container-title: Scientific Reports
+  publisher: Springer Nature
+  volume: '6'
+  issue: '1'
+  URL: https://doi.org/10.1038%2Fsrep35275
+  DOI: 10.1038/srep35275
+...

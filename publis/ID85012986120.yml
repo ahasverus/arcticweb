@@ -1,0 +1,53 @@
+---
+references:
+- id: ID85012986120
+  type: article-journal
+  author:
+  - family: Krüger
+    given: L.
+  - family: Ramos
+    given: J. A.
+  - family: Xavier
+    given: J. C.
+  - family: Grémillet
+    given: D.
+  - family: González-Solís
+    given: J.
+  - family: Kolbeinsson
+    given: Y.
+  - family: Militão
+    given: T.
+  - family: Navarro
+    given: J.
+  - family: Petry
+    given: M. V.
+  - family: Phillips
+    given: R. A.
+  - family: Ramírez
+    given: I.
+  - family: Reyes-González
+    given: J. M.
+  - family: Ryan
+    given: P. G.
+  - family: Sigurdsson
+    given: I. A.
+  - family: Sebille
+    given: E.
+    dropping-particle: van
+  - family: Wanless
+    given: R. M.
+  - family: Paiva
+    given: V. H.
+  issued:
+  - year: '2017'
+    month: '2'
+  title: Identification of candidate pelagic marine protected areas through a seabird
+    seasonal-, multispecific- and extinction risk-based approach
+  container-title: Animal Conservation
+  publisher: Wiley-Blackwell
+  page: '409-424'
+  volume: '20'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Facv.12339
+  DOI: 10.1111/acv.12339
+...

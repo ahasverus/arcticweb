@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84919847379
+  type: article-journal
+  author:
+  - family: Bustnes
+    given: J. O.
+  - family: Bangjord
+    given: G.
+  - family: Ahrens
+    given: L.
+  - family: Herzke
+    given: D.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2014'
+    month: '12'
+  title: 'Perfluoroalkyl substance concentrations in a terrestrial raptor: Relationships
+    to environmental conditions and individual traits'
+  container-title: Environmental Toxicology and Chemistry
+  publisher: Wiley-Blackwell
+  page: '184-191'
+  volume: '34'
+  issue: '1'
+  URL: https://doi.org/10.1002%2Fetc.2782
+  DOI: 10.1002/etc.2782
+...

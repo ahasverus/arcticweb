@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84992751878
+  type: article-journal
+  author:
+  - family: Legagneux
+    given: P.
+  - family: Hennin
+    given: H. L.
+  - family: Gilchrist
+    given: H. G.
+  - family: Williams
+    given: T. D.
+  - family: Love
+    given: O. P.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2016'
+    month: '6'
+  title: Unpredictable perturbation reduces breeding propensity regardless of pre-laying
+    reproductive readiness in a partial capital breeder
+  container-title: Journal of Avian Biology
+  publisher: Wiley-Blackwell
+  page: '880-886'
+  volume: '47'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fjav.00824
+  DOI: 10.1111/jav.00824
+...

@@ -1,0 +1,23 @@
+---
+references:
+- id: ID36348929831
+  type: article-journal
+  author:
+  - family: Martcheva
+    given: M.
+  - family: Bolker
+    given: B. M.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2008'
+    month: '1'
+  title: 'Vaccine-induced pathogen strain replacement: What are the mechanisms?'
+  container-title: Journal of The Royal Society Interface
+  publisher: The Royal Society
+  page: '3-13'
+  volume: '5'
+  issue: '18'
+  URL: https://doi.org/10.1098%2Frsif.2007.0236
+  DOI: 10.1098/rsif.2007.0236
+...

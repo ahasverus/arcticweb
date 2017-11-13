@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84875847058
+  type: article-journal
+  author:
+  - family: Alexander
+    given: C.
+  - family: Moeslund
+    given: J. E.
+  - family: Bøcher
+    given: P. K.
+  - family: Arge
+    given: L.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2013'
+    month: '7'
+  title: Airborne laser scanner (LiDAR) proxies for understory light conditions
+  container-title: Remote Sensing of Environment
+  publisher: Elsevier BV
+  page: '152-161'
+  volume: '134'
+  URL: https://doi.org/10.1016%2Fj.rse.2013.02.028
+  DOI: 10.1016/j.rse.2013.02.028
+...

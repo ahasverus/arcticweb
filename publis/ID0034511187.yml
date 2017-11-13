@@ -1,0 +1,28 @@
+---
+references:
+- id: ID0034511187
+  type: article-journal
+  author:
+  - family: Gaillard
+    given: J.-M.
+  - family: Festa-Bianchet
+    given: M.
+  - family: Yoccoz
+    given: N. G.
+  - family: Loison
+    given: A.
+  - family: Toïgo
+    given: C.
+  issued:
+  - year: '2000'
+    month: '11'
+  title: Temporal variation in fitness components and population dynamics of large
+    herbivores
+  container-title: Annual Review of Ecology and Systematics
+  publisher: Annual Reviews
+  page: '367-393'
+  volume: '31'
+  issue: '1'
+  URL: https://doi.org/10.1146%2Fannurev.ecolsys.31.1.367
+  DOI: 10.1146/annurev.ecolsys.31.1.367
+...

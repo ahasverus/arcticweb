@@ -1,0 +1,26 @@
+---
+references:
+- id: ID77951269170
+  type: article-journal
+  author:
+  - family: Krebs
+    given: C. J.
+  - family: Cowcill
+    given: K.
+  - family: Boonstra
+    given: R.
+  - family: Kenney
+    given: A. J.
+  issued:
+  - year: '2010'
+    month: '4'
+  title: Do changes in berry crops drive population fluctuations in small rodents
+    in the southwestern Yukon?
+  container-title: Journal of Mammalogy
+  publisher: Oxford University Press (OUP)
+  page: '500-509'
+  volume: '91'
+  issue: '2'
+  URL: https://doi.org/10.1644%2F09-mamm-a-005.1
+  DOI: 10.1644/09-mamm-a-005.1
+...

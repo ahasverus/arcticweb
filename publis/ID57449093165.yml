@@ -1,0 +1,34 @@
+---
+references:
+- id: ID57449093165
+  type: article-journal
+  author:
+  - family: Routti
+    given: H.
+  - family: Letcher
+    given: R. J.
+  - family: Arukwe
+    given: A.
+  - family: Bavel
+    given: B.
+    dropping-particle: van
+  - family: Yoccoz
+    given: N. G.
+  - family: Chu
+    given: S.
+  - family: Gabrielsen
+    given: G. W.
+  issued:
+  - year: '2008'
+    month: '12'
+  title: Biotransformation of PCBs in relation to phase I and II xenobiotic-metabolizing
+    enzyme activities in ringed seals (Phoca hispida) from Svalbard and the Baltic
+    Sea
+  container-title: Environmental Science & Technology
+  publisher: American Chemical Society (ACS)
+  page: '8952-8958'
+  volume: '42'
+  issue: '23'
+  URL: https://doi.org/10.1021%2Fes801682f
+  DOI: 10.1021/es801682f
+...

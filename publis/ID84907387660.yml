@@ -1,0 +1,45 @@
+---
+references:
+- id: ID84907387660
+  type: article-journal
+  author:
+  - family: Reiertsen
+    given: T.
+  - family: Erikstad
+    given: K.
+  - family: Anker-Nilssen
+    given: T.
+  - family: Barrett
+    given: R.
+  - family: Boulinier
+    given: T.
+  - family: Frederiksen
+    given: M.
+  - family: González-Solís
+    given: J.
+  - family: Gremillet
+    given: D.
+  - family: Johns
+    given: D.
+  - family: Moe
+    given: B.
+  - family: Ponchon
+    given: A.
+  - family: Skern-Mauritzen
+    given: M.
+  - family: Sandvik
+    given: H.
+  - family: Yoccoz
+    given: N.
+  issued:
+  - year: '2014'
+    month: '8'
+  title: Prey density in non-breeding areas affects adult survival of black-legged
+    kittiwakes Rissa tridactyla
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '289-302'
+  volume: '509'
+  URL: https://doi.org/10.3354%2Fmeps10825
+  DOI: 10.3354/meps10825
+...

@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84971654657
+  type: article-journal
+  author:
+  - family: Routti
+    given: H.
+  - family: Andersen
+    given: M. S.
+  - family: Fuglei
+    given: E.
+  - family: Polder
+    given: A.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2016'
+    month: '9'
+  title: Concentrations and patterns of hydroxylated polybrominated diphenyl ethers
+    and polychlorinated biphenyls in arctic foxes (Vulpes lagopus) from Svalbard
+  container-title: Environmental Pollution
+  publisher: Elsevier BV
+  page: '264-272'
+  volume: '216'
+  URL: https://doi.org/10.1016%2Fj.envpol.2016.05.056
+  DOI: 10.1016/j.envpol.2016.05.056
+...

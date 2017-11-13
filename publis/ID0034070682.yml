@@ -1,0 +1,22 @@
+---
+references:
+- id: ID0034070682
+  type: article-journal
+  author:
+  - family: Aars
+    given: J.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2000'
+    month: '2'
+  title: Population dynamic and genetic consequences of spatial density-dependent
+    dispersal in patchy populations
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '252-265'
+  volume: '155'
+  issue: '2'
+  URL: https://doi.org/10.1086%2F303317
+  DOI: 10.1086/303317
+...

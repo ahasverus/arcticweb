@@ -1,0 +1,36 @@
+---
+references:
+- id: ID0038419605
+  type: article-journal
+  author:
+  - family: Piersma
+    given: T.
+  - family: Lindstrom
+    given: A.
+  - family: Drent
+    given: R. H.
+  - family: Tulp
+    given: I.
+  - family: Jukema
+    given: J.
+  - family: Morrison
+    given: R. I. G.
+  - family: Reneerkens
+    given: J.
+  - family: Schekkerman
+    given: H.
+  - family: Visser
+    given: G. H.
+  issued:
+  - year: '2003'
+    month: '6'
+  title: 'High daily energy expenditure of incubating shorebirds on High Arctic
+    tundra: A circumpolar study'
+  container-title: Functional Ecology
+  publisher: Wiley-Blackwell
+  page: '356-362'
+  volume: '17'
+  issue: '3'
+  URL: https://doi.org/10.1046%2Fj.1365-2435.2003.00741.x
+  DOI: 10.1046/j.1365-2435.2003.00741.x
+...

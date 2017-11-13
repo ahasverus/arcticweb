@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84907976864
+  type: article-journal
+  author:
+  - family: Andersen
+    given: S. M.
+  - family: Teilmann
+    given: J.
+  - family: Dietz
+    given: R.
+  - family: Schmidt
+    given: N. M.
+  - family: Miller
+    given: L. A.
+  issued:
+  - year: '2013'
+    month: '9'
+  title: Disturbance-induced responses of VHF and satellite tagged harbour seals
+  container-title: 'Aquatic Conservation: Marine and Freshwater Ecosystems'
+  publisher: Wiley-Blackwell
+  page: '712-723'
+  volume: '24'
+  issue: '5'
+  URL: https://doi.org/10.1002%2Faqc.2393
+  DOI: 10.1002/aqc.2393
+...

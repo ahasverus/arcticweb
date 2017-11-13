@@ -1,0 +1,31 @@
+---
+references:
+- id: ID85029511492
+  type: article-journal
+  author:
+  - family: Ehrich
+    given: D.
+  - family: Cerezo
+    given: M.
+  - family: Rodnikova
+    given: A. Y.
+  - family: Sokolova
+    given: N. A.
+  - family: Fuglei
+    given: E.
+  - family: Shtro
+    given: V. G.
+  - family: Sokolov
+    given: A. A.
+  issued:
+  - year: '2017'
+    month: '9'
+  title: Vole abundance and reindeer carcasses determine breeding activity of Arctic
+    foxes in low Arctic Yamal, Russia
+  container-title: BMC Ecology
+  publisher: Springer Nature
+  volume: '17'
+  issue: '1'
+  URL: https://doi.org/10.1186%2Fs12898-017-0142-z
+  DOI: 10.1186/s12898-017-0142-z
+...

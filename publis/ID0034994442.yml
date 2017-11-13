@@ -1,0 +1,31 @@
+---
+references:
+- id: ID0034994442
+  type: article-journal
+  author:
+  - family: Gremillet
+    given: D.
+  - family: Wanless
+    given: S.
+  - family: Carss
+    given: D. N.
+  - family: Linton
+    given: D.
+  - family: Harris
+    given: M. P.
+  - family: Speakman
+    given: J. R.
+  - family: Maho
+    given: Y. L.
+  issued:
+  - year: '2001'
+    month: '5'
+  title: Foraging energetics of arctic cormorants and the evolution of diving birds
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '180-184'
+  volume: '4'
+  issue: '3'
+  URL: https://doi.org/10.1046%2Fj.1461-0248.2001.00214.x
+  DOI: 10.1046/j.1461-0248.2001.00214.x
+...

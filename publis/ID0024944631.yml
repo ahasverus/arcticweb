@@ -1,0 +1,27 @@
+---
+references:
+- id: ID0024944631
+  type: article-journal
+  author:
+  - family: Reid
+    given: D. G.
+  - family: Jinchu
+    given: H.
+  - family: Sai
+    given: D.
+  - family: Wei
+    given: W.
+  - family: Yan
+    given: H.
+  issued:
+  - year: '1989'
+  title: Giant Panda Ailuropoda melanoleuca behaviour and carrying capacity following
+    a bamboo die-off
+  container-title: Biological Conservation
+  publisher: Elsevier BV
+  page: '85-104'
+  volume: '49'
+  issue: '2'
+  URL: https://doi.org/10.1016%2F0006-3207%2889%2990081-5
+  DOI: 10.1016/0006-3207(89)90081-5
+...

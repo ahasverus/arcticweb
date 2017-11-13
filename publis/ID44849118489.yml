@@ -1,0 +1,30 @@
+---
+references:
+- id: ID44849118489
+  type: article-journal
+  author:
+  - family: Roslin
+    given: T.
+  - family: Syrjälä
+    given: H.
+  - family: Roland
+    given: J.
+  - family: Harrison
+    given: P. J.
+  - family: Fownes
+    given: S.
+  - family: Matter
+    given: S. F.
+  issued:
+  - year: '2008'
+    month: '6'
+  title: Caterpillars on the run - Induced defences create spatial patterns in host
+    plant damage
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '335-347'
+  volume: '31'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.0906-7590.2008.05365.x
+  DOI: 10.1111/j.0906-7590.2008.05365.x
+...

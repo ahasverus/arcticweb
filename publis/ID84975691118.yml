@@ -1,0 +1,23 @@
+---
+references:
+- id: ID84975691118
+  type: article-journal
+  author:
+  - family: Hennin
+    given: H. L.
+  - family: Wells-Berlin
+    given: A. M.
+  - family: Love
+    given: O. P.
+  issued:
+  - year: '2016'
+    month: '2'
+  title: Baseline glucocorticoids are drivers of body mass gain in a diving seabird
+  container-title: Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '1702-1711'
+  volume: '6'
+  issue: '6'
+  URL: https://doi.org/10.1002%2Fece3.1999
+  DOI: 10.1002/ece3.1999
+...

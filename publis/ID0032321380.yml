@@ -1,0 +1,18 @@
+---
+references:
+- id: ID0032321380
+  type: article-journal
+  author:
+  - family: Alexander
+    given: H.
+  issued:
+  - year: '1998'
+  title: The interaction between plant competition and disease
+  container-title: Perspectives in Plant Ecology, Evolution and Systematics
+  publisher: Elsevier BV
+  page: '206-220'
+  volume: '1'
+  issue: '2'
+  URL: https://doi.org/10.1078%2F1433-8319-00059
+  DOI: 10.1078/1433-8319-00059
+...

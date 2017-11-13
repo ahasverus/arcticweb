@@ -1,0 +1,25 @@
+---
+references:
+- id: ID77949892839
+  type: article-journal
+  author:
+  - family: Gripenberg
+    given: S.
+  - family: Mayhew
+    given: P. J.
+  - family: Parnell
+    given: M.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2010'
+    month: '3'
+  title: A meta-analysis of preference-performance relationships in phytophagous insects
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '383-393'
+  volume: '13'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1461-0248.2009.01433.x
+  DOI: 10.1111/j.1461-0248.2009.01433.x
+...

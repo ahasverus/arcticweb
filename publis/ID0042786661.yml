@@ -1,0 +1,27 @@
+---
+references:
+- id: ID0042786661
+  type: article-journal
+  author:
+  - family: Holt
+    given: R. D.
+  - family: Dobson
+    given: A. P.
+  - family: Begon
+    given: M.
+  - family: Bowers
+    given: R. G.
+  - family: Schauber
+    given: E. M.
+  issued:
+  - year: '2003'
+    month: '9'
+  title: Parasite establishment in host communities
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '837-842'
+  volume: '6'
+  issue: '9'
+  URL: https://doi.org/10.1046%2Fj.1461-0248.2003.00501.x
+  DOI: 10.1046/j.1461-0248.2003.00501.x
+...

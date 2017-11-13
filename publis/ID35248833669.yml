@@ -1,0 +1,23 @@
+---
+references:
+- id: ID35248833669
+  type: article-journal
+  author:
+  - family: Careau
+    given: V.
+  - family: Giroux
+    given: J.-F.
+  - family: Berteaux
+    given: D.
+  issued:
+  - year: '2007'
+    month: '7'
+  title: 'Cache and carry: Hoarding behavior of arctic fox'
+  container-title: Behavioral Ecology and Sociobiology
+  publisher: Springer Nature
+  page: '87-96'
+  volume: '62'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs00265-007-0441-z
+  DOI: 10.1007/s00265-007-0441-z
+...

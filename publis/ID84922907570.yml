@@ -1,0 +1,36 @@
+---
+references:
+- id: ID84922907570
+  type: article-journal
+  author:
+  - family: Büntgen
+    given: U.
+  - family: Hellmann
+    given: L.
+  - family: Tegel
+    given: W.
+  - family: Normand
+    given: S.
+  - family: Myers-Smith
+    given: I.
+  - family: Kirdyanov
+    given: A. V.
+  - family: Nievergelt
+    given: D.
+  - family: Schweingruber
+    given: F. H.
+  editor:
+  - family: Lee
+    given: John
+  issued:
+  - year: '2015'
+    month: '1'
+  title: Temperature-induced recruitment pulses of Arctic dwarf shrub communities
+  container-title: Journal of Ecology
+  publisher: Wiley-Blackwell
+  page: '489-501'
+  volume: '103'
+  issue: '2'
+  URL: https://doi.org/10.1111%2F1365-2745.12361
+  DOI: 10.1111/1365-2745.12361
+...

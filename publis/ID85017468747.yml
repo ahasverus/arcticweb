@@ -1,0 +1,24 @@
+---
+references:
+- id: ID85017468747
+  type: article-journal
+  author:
+  - family: Swanson
+    given: D. L.
+  - family: McKechnie
+    given: A. E.
+  - family: Vézina
+    given: F.
+  issued:
+  - year: '2017'
+    month: '4'
+  title: How low can you go? An adaptive energetic framework for interpreting basal
+    metabolic rate variation in endotherms
+  container-title: Journal of Comparative Physiology B
+  publisher: Springer Nature
+  page: '1039-1056'
+  volume: '187'
+  issue: '8'
+  URL: https://doi.org/10.1007%2Fs00360-017-1096-3
+  DOI: 10.1007/s00360-017-1096-3
+...

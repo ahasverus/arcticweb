@@ -1,0 +1,34 @@
+---
+references:
+- id: ID75149195768
+  type: article-journal
+  author:
+  - family: Stien
+    given: A.
+  - family: Voutilainen
+    given: L.
+  - family: Haukisalmi
+    given: V.
+  - family: Fuglei
+    given: E.
+  - family: Mørk
+    given: T.
+  - family: Yoccoz
+    given: N. G.
+  - family: Ims
+    given: R. A.
+  - family: Henttonen
+    given: H.
+  issued:
+  - year: '2009'
+    month: '9'
+  title: Intestinal parasites of the Arctic fox in relation to the abundance and distribution
+    of intermediate hosts
+  container-title: Parasitology
+  publisher: Cambridge University Press (CUP)
+  page: '149'
+  volume: '137'
+  issue: '01'
+  URL: https://doi.org/10.1017%2Fs0031182009990953
+  DOI: 10.1017/s0031182009990953
+...

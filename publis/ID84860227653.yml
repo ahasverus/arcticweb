@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84860227653
+  type: article-journal
+  author:
+  - family: Largaespada
+    given: C.
+  - family: Guichard
+    given: F.
+  - family: Archambault
+    given: P.
+  issued:
+  - year: '2012'
+    month: '2'
+  title: 'Meta-ecosystem engineering: Nutrient fluxes reveal intraspecific and interspecific
+    feedbacks in fragmented mussel beds'
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '324-333'
+  volume: '93'
+  issue: '2'
+  URL: https://doi.org/10.1890%2F10-2359.1
+  DOI: 10.1890/10-2359.1
+...

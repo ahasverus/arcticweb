@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0032143492
+  type: article-journal
+  author:
+  - family: Lanctot
+    given: R. B.
+  - family: Weatherhead
+    given: P. J.
+  - family: Kempenaers
+    given: B.
+  - family: Scribner
+    given: K. T.
+  issued:
+  - year: '1998'
+    month: '8'
+  title: Male traits, mating tactics and reproductive success in the buff-breasted
+    sandpiper, Tryngites subruficollis
+  container-title: Animal Behaviour
+  publisher: Elsevier BV
+  page: '419-432'
+  volume: '56'
+  issue: '2'
+  URL: https://doi.org/10.1006%2Fanbe.1998.0841
+  DOI: 10.1006/anbe.1998.0841
+...

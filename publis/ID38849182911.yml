@@ -1,0 +1,28 @@
+---
+references:
+- id: ID38849182911
+  type: article-journal
+  author:
+  - family: Descamps
+    given: S.
+  - family: Boutin
+    given: S.
+  - family: Berteaux
+    given: D.
+  - family: McAdam
+    given: A. G.
+  - family: Gaillard
+    given: J.-M.
+  issued:
+  - year: '2008'
+    month: '3'
+  title: 'Cohort effects in red squirrels: The influence of density, food abundance
+    and temperature on future survival and reproductive success'
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '305-314'
+  volume: '77'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2007.01340.x
+  DOI: 10.1111/j.1365-2656.2007.01340.x
+...

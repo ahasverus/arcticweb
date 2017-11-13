@@ -1,0 +1,19 @@
+---
+references:
+- id: ID0025262824
+  type: article-journal
+  author:
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '1990'
+    month: '5'
+  title: The ecology and evolution of reproductive synchrony
+  container-title: Trends in Ecology & Evolution
+  publisher: Elsevier BV
+  page: '135-140'
+  volume: '5'
+  issue: '5'
+  URL: https://doi.org/10.1016%2F0169-5347%2890%2990218-3
+  DOI: 10.1016/0169-5347(90)90218-3
+...

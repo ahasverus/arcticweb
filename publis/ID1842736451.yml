@@ -1,0 +1,25 @@
+---
+references:
+- id: ID1842736451
+  type: article-journal
+  author:
+  - family: Williams
+    given: T. D.
+  - family: Kitaysky
+    given: A. S.
+  - family: Vézina
+    given: F.
+  issued:
+  - year: '2004'
+    month: '5'
+  title: 'Individual variation in plasma estradiol-17β and androgen levels during
+    egg formation in the European starling Sturnus vulgaris: Implications for regulation
+    of yolk steroids'
+  container-title: General and Comparative Endocrinology
+  publisher: Elsevier BV
+  page: '346-352'
+  volume: '136'
+  issue: '3'
+  URL: https://doi.org/10.1016%2Fj.ygcen.2004.01.010
+  DOI: 10.1016/j.ygcen.2004.01.010
+...

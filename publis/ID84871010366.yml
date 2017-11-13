@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84871010366
+  type: article-journal
+  author:
+  - family: Hamel
+    given: S.
+  - family: Yoccoz
+    given: N. G.
+  - family: Gaillard
+    given: J.-M.
+  issued:
+  - year: '2012'
+    month: '3'
+  title: Statistical evaluation of parameters estimating autocorrelation and individual
+    heterogeneity in longitudinal studies
+  container-title: Methods in Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '731-742'
+  volume: '3'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.2041-210x.2012.00195.x
+  DOI: 10.1111/j.2041-210x.2012.00195.x
+...

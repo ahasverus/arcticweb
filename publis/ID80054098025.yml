@@ -1,0 +1,23 @@
+---
+references:
+- id: ID80054098025
+  type: article-journal
+  author:
+  - family: Hone
+    given: J.
+  - family: Krebs
+    given: C. J.
+  - family: O'Donoghue
+    given: M.
+  issued:
+  - year: '2011'
+  title: Is the relationship between predator and prey abundances related to climate
+    for lynx and snowshoe hares?
+  container-title: Wildlife Research
+  publisher: CSIRO Publishing
+  page: '419'
+  volume: '38'
+  issue: '5'
+  URL: https://doi.org/10.1071%2Fwr11009
+  DOI: 10.1071/wr11009
+...

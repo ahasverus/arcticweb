@@ -1,0 +1,62 @@
+---
+references:
+- id: ID85015582693
+  type: article-journal
+  author:
+  - family: Urban
+    given: M. C.
+  - family: Bocedi
+    given: G.
+  - family: Hendry
+    given: A. P.
+  - family: Mihoub
+    given: J.-B.
+  - family: Peer
+    given: G.
+  - family: Singer
+    given: A.
+  - family: Bridle
+    given: J. R.
+  - family: Crozier
+    given: L. G.
+  - family: Meester
+    given: L.
+    dropping-particle: de
+  - family: Godsoe
+    given: W.
+  - family: Gonzalez
+    given: A.
+  - family: Hellmann
+    given: J. J.
+  - family: Holt
+    given: R. D.
+  - family: Huth
+    given: A.
+  - family: Johst
+    given: K.
+  - family: Krug
+    given: C. B.
+  - family: Leadley
+    given: P. W.
+  - family: Palmer
+    given: S. C. F.
+  - family: Pantel
+    given: J. H.
+  - family: Schmitz
+    given: A.
+  - family: Zollner
+    given: P. A.
+  - family: Travis
+    given: J. M. J.
+  issued:
+  - year: '2016'
+    month: '9'
+  title: Improving the forecast for biodiversity under climate change
+  container-title: Science
+  publisher: American Association for the Advancement of Science (AAAS)
+  page: aad8466-aad8466
+  volume: '353'
+  issue: '6304'
+  URL: https://doi.org/10.1126%2Fscience.aad8466
+  DOI: 10.1126/science.aad8466
+...

@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84882709676
+  type: article-journal
+  author:
+  - family: Nabe-Nielsen
+    given: J.
+  - family: Tougaard
+    given: J.
+  - family: Teilmann
+    given: J.
+  - family: Lucke
+    given: K.
+  - family: Forchhammer
+    given: M. C.
+  issued:
+  - year: '2013'
+    month: '2'
+  title: How a simple adaptive foraging strategy can lead to emergent home ranges
+    and increased food intake
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '1307-1316'
+  volume: '122'
+  issue: '9'
+  URL: https://doi.org/10.1111%2Fj.1600-0706.2013.00069.x
+  DOI: 10.1111/j.1600-0706.2013.00069.x
+...

@@ -1,0 +1,35 @@
+---
+references:
+- id: ID85008259040
+  type: article-journal
+  author:
+  - family: Jouta
+    given: J.
+  - family: Dietz
+    given: M. W.
+  - family: Reneerkens
+    given: J.
+  - family: Piersma
+    given: T.
+  - family: Rakhimberdiev
+    given: E.
+  - family: Hallgrímsson
+    given: G. T.
+  - family: Pen
+    given: I.
+  editor:
+  - family: Freckleton
+    given: Robert
+  issued:
+  - year: '2016'
+    month: '12'
+  title: 'Ecological forensics: using single point stable isotope values to infer
+    seasonal schedules of animals after two diet switches'
+  container-title: Methods in Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '492-500'
+  volume: '8'
+  issue: '4'
+  URL: https://doi.org/10.1111%2F2041-210x.12695
+  DOI: 10.1111/2041-210x.12695
+...

@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84872605345
+  type: article-journal
+  author:
+  - family: Özkan
+    given: K.
+  - family: Svenning
+    given: J.-C.
+  - family: Jeppesen
+    given: E.
+  editor:
+  - family: Webb
+    given: Tom
+  issued:
+  - year: '2012'
+    month: '7'
+  title: Environmental species sorting dominates forest-bird community assembly across
+    scales
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '266-274'
+  volume: '82'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2012.02019.x
+  DOI: 10.1111/j.1365-2656.2012.02019.x
+...

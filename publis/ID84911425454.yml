@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84911425454
+  type: paper-conference
+  author:
+  - family: Duguay
+    given: Y.
+  - family: Bernier
+    given: M.
+  - family: Levesque
+    given: E.
+  - family: Tremblay
+    given: B.
+  issued:
+  - year: '2014'
+    month: '7'
+  title: Monitoring of subarctic shrub vegetation characteristics using TerraSAR-X
+    and RADARSAT-2 data
+  container-title: 2014 IEEE Geoscience and Remote Sensing Symposium
+  publisher: IEEE
+  page: '1194-1197'
+  URL: https://doi.org/10.1109%2Figarss.2014.6946645
+  DOI: 10.1109/igarss.2014.6946645
+...

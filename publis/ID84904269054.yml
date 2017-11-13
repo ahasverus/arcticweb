@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84904269054
+  type: article-journal
+  author:
+  - family: Gravel
+    given: D.
+  - family: Poisot
+    given: T.
+  - family: Desjardins-Proulx
+    given: P.
+  issued:
+  - year: '2014'
+    month: '4'
+  title: Using neutral theory to reveal the contribution of meta-community processes
+    to assembly in complex landscapes
+  container-title: Journal of Limnology
+  publisher: PAGEPress Publications
+  page: '61-73'
+  volume: '73'
+  issue: s1
+  URL: https://doi.org/10.4081%2Fjlimnol.2014.807
+  DOI: 10.4081/jlimnol.2014.807
+...

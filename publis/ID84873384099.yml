@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84873384099
+  type: article-journal
+  author:
+  - family: Lagrue
+    given: C.
+  - family: Güvenatam
+    given: A.
+  - family: Bollache
+    given: L.
+  issued:
+  - year: '2012'
+    month: '10'
+  title: 'Manipulative parasites may not alter intermediate host distribution but
+    still enhance their transmission: Field evidence for increased vulnerability to
+    definitive hosts and non-host predator avoidance'
+  container-title: Parasitology
+  publisher: Cambridge University Press (CUP)
+  page: '258-265'
+  volume: '140'
+  issue: '02'
+  URL: https://doi.org/10.1017%2Fs0031182012001552
+  DOI: 10.1017/s0031182012001552
+...

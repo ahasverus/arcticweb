@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84855305013
+  type: article-journal
+  author:
+  - family: Franke
+    given: A.
+  - family: Therrien
+    given: J.-F.
+  - family: Descamps
+    given: S.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2011'
+    month: '11'
+  title: Climatic conditions during outward migration affect apparent survival of
+    an arctic top predator, the peregrine falcon Falco peregrinus
+  container-title: Journal of Avian Biology
+  publisher: Wiley-Blackwell
+  page: '544-551'
+  volume: '42'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1600-048x.2011.05466.x
+  DOI: 10.1111/j.1600-048x.2011.05466.x
+...

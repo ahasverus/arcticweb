@@ -1,0 +1,27 @@
+---
+references:
+- id: ID82255170829
+  type: article-journal
+  author:
+  - family: Jørgensen
+    given: M. H.
+  - family: Ehrich
+    given: D.
+  - family: Schmickl
+    given: R.
+  - family: Koch
+    given: M. A.
+  - family: Brysting
+    given: A. K.
+  issued:
+  - year: '2011'
+  title: Interspecific and interploidal gene flow in Central European Arabidopsis
+    (Brassicaceae)
+  container-title: BMC Evolutionary Biology
+  publisher: Springer Nature
+  page: '346'
+  volume: '11'
+  issue: '1'
+  URL: https://doi.org/10.1186%2F1471-2148-11-346
+  DOI: 10.1186/1471-2148-11-346
+...

@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0038209141
+  type: article-journal
+  author:
+  - family: Lanctot
+    given: R. B.
+  - family: Hatch
+    given: S. A.
+  - family: Gill
+    given: V. A.
+  - family: Eens
+    given: M.
+  issued:
+  - year: '2003'
+    month: '4'
+  title: Are corticosterone levels a good indicator of food availability and reproductive
+    performance in a kittiwake colony?
+  container-title: Hormones and Behavior
+  publisher: Elsevier BV
+  page: '489-502'
+  volume: '43'
+  issue: '4'
+  URL: https://doi.org/10.1016%2Fs0018-506x%2803%2900030-8
+  DOI: 10.1016/s0018-506x(03)00030-8
+...

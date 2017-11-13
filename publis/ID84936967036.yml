@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84936967036
+  type: article-journal
+  author:
+  - family: Descamps
+    given: S.
+  - family: Tarroux
+    given: A.
+  - family: Lorentsen
+    given: S.-H.
+  - family: Love
+    given: O. P.
+  - family: Varpe
+    given: Y.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2015'
+    month: '7'
+  title: Large-scale oceanographic fluctuations drive Antarctic petrel survival and
+    reproduction
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '496-505'
+  volume: '39'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fecog.01659
+  DOI: 10.1111/ecog.01659
+...

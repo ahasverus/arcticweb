@@ -1,0 +1,34 @@
+---
+references:
+- id: ID84860825145
+  type: article-journal
+  author:
+  - family: Kissling
+    given: W. D.
+  - family: Baker
+    given: W. J.
+  - family: Balslev
+    given: H.
+  - family: Barfod
+    given: A. S.
+  - family: Borchsenius
+    given: F.
+  - family: Dransfield
+    given: J.
+  - family: Govaerts
+    given: R.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2011'
+    month: '11'
+  title: Quaternary and pre-Quaternary historical legacies in the global distribution
+    of a major tropical plant lineage
+  container-title: Global Ecology and Biogeography
+  publisher: Wiley-Blackwell
+  page: '909-921'
+  volume: '21'
+  issue: '9'
+  URL: https://doi.org/10.1111%2Fj.1466-8238.2011.00728.x
+  DOI: 10.1111/j.1466-8238.2011.00728.x
+...

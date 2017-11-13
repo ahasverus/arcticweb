@@ -1,0 +1,21 @@
+---
+references:
+- id: ID84920885282
+  type: article-journal
+  author:
+  - family: Faurby
+    given: S.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2015'
+    month: '3'
+  title: A species-level phylogeny of all extant and late Quaternary extinct mammals
+    using a novel heuristic-hierarchical Bayesian approach
+  container-title: Molecular Phylogenetics and Evolution
+  publisher: Elsevier BV
+  page: '14-26'
+  volume: '84'
+  URL: https://doi.org/10.1016%2Fj.ympev.2014.11.001
+  DOI: 10.1016/j.ympev.2014.11.001
+...

@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84896446961
+  type: article-journal
+  author:
+  - family: Jean
+    given: P.-O.
+  - family: Bradley
+    given: R. L.
+  - family: Giroux
+    given: M.-A.
+  - family: Tremblay
+    given: J.-P.
+  - family: Côté
+    given: S. D.
+  issued:
+  - year: '2014'
+    month: '3'
+  title: Near infrared spectroscopy and fecal chemistry as predictors of the diet
+    composition of white-tailed deer
+  container-title: Rangeland Ecology & Management
+  publisher: Elsevier BV
+  page: '154-159'
+  volume: '67'
+  issue: '2'
+  URL: https://doi.org/10.2111%2Frem-d-13-00112.1
+  DOI: 10.2111/rem-d-13-00112.1
+...

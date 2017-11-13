@@ -1,0 +1,30 @@
+---
+references:
+- id: ID85027943002
+  type: article-journal
+  author:
+  - family: Olivier
+    given: F.
+  - family: Grant
+    given: C.
+  - family: Martín
+    given: G.
+    dropping-particle: san
+  - family: Archambault
+    given: P.
+  - family: McKindsey
+    given: C. W.
+  issued:
+  - year: '2011'
+    month: '4'
+  title: 'Syllidae (Annelida: Polychaeta: Phyllodocida) from the Chausey Archipelago
+    (English Channel, France), with a description of two new species of the Exogoninae
+    Prosphaerosyllis'
+  container-title: Marine Biodiversity
+  publisher: Springer Nature
+  page: '55-63'
+  volume: '42'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs12526-011-0092-1
+  DOI: 10.1007/s12526-011-0092-1
+...

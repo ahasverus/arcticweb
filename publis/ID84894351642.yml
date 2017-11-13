@@ -1,0 +1,19 @@
+---
+references:
+- id: ID84894351642
+  type: article-journal
+  author:
+  - family: Barraquand
+    given: F.
+  issued:
+  - year: '2013'
+    month: '10'
+  title: 'Functional responses and predator-prey models: A critique of ratio dependence'
+  container-title: Theoretical Ecology
+  publisher: Springer Nature
+  page: '3-20'
+  volume: '7'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs12080-013-0201-9
+  DOI: 10.1007/s12080-013-0201-9
+...

@@ -1,0 +1,36 @@
+---
+references:
+- id: ID70349603607
+  type: article-journal
+  author:
+  - family: Norén
+    given: K.
+  - family: Kvaløy
+    given: K.
+  - family: Nyström
+    given: V.
+  - family: Landa
+    given: A.
+  - family: Dalén
+    given: L.
+  - family: Eide
+    given: N. E.
+  - family: Østbye
+    given: E.
+  - family: Henttonen
+    given: H.
+  - family: Angerbjörn
+    given: A.
+  issued:
+  - year: '2009'
+    month: '10'
+  title: 'Farmed arctic foxes on the Fennoscandian mountain tundra: implications
+    for conservation'
+  container-title: Animal Conservation
+  publisher: Wiley-Blackwell
+  page: '434-444'
+  volume: '12'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.1469-1795.2009.00269.x
+  DOI: 10.1111/j.1469-1795.2009.00269.x
+...

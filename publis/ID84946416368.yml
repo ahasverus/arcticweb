@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84946416368
+  type: article-journal
+  author:
+  - family: Göldel
+    given: B.
+  - family: Kissling
+    given: W. D.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2015'
+    month: '10'
+  title: Geographical variation and environmental correlates of functional trait distributions
+    in palms (Arecaceae) across the New World
+  container-title: Botanical Journal of the Linnean Society
+  publisher: Oxford University Press (OUP)
+  page: '602-617'
+  volume: '179'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fboj.12349
+  DOI: 10.1111/boj.12349
+...

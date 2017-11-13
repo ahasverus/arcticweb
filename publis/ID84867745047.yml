@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84867745047
+  type: article-journal
+  author:
+  - family: Beaune
+    given: D.
+  - family: Bollache
+    given: L.
+  - family: Fruth
+    given: B.
+  - family: Bretagnolle
+    given: F.
+  issued:
+  - year: '2012'
+    month: '6'
+  title: Bush pig (Potamochoerus porcus) seed predation of bush mango (Irvingia gabonensis)
+    and other plant species in Democratic Republic of Congo
+  container-title: African Journal of Ecology
+  publisher: Wiley-Blackwell
+  page: '509-512'
+  volume: '50'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1365-2028.2012.01345.x
+  DOI: 10.1111/j.1365-2028.2012.01345.x
+...

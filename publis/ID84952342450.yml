@@ -1,0 +1,52 @@
+---
+references:
+- id: ID84952342450
+  type: article-journal
+  author:
+  - family: Kirchheimer
+    given: B.
+  - family: Schinkel
+    given: C. C. F.
+  - family: Dellinger
+    given: A. S.
+  - family: Klatt
+    given: S.
+  - family: Moser
+    given: D.
+  - family: Winkler
+    given: M.
+  - family: Lenoir
+    given: J.
+  - family: Caccianiga
+    given: M.
+  - family: Guisan
+    given: A.
+  - family: Nieto-Lugilde
+    given: D.
+  - family: Svenning
+    given: J.-C.
+  - family: Thuiller
+    given: W.
+  - family: Vittoz
+    given: P.
+  - family: Willner
+    given: W.
+  - family: Zimmermann
+    given: N. E.
+  - family: Hörandl
+    given: E.
+  - family: Dullinger
+    given: S.
+  issued:
+  - year: '2015'
+    month: '12'
+  title: 'A matter of scale: Apparent niche differentiation of diploid and tetraploid
+    plants may depend on extent and grain of analysis'
+  container-title: Journal of Biogeography
+  publisher: Wiley-Blackwell
+  page: '716-726'
+  volume: '43'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fjbi.12663
+  DOI: 10.1111/jbi.12663
+...

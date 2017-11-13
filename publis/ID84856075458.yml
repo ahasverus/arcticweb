@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84856075458
+  type: article-journal
+  author:
+  - family: Sandel
+    given: B.
+  - family: Arge
+    given: L.
+  - family: Dalsgaard
+    given: B.
+  - family: Davies
+    given: R. G.
+  - family: Gaston
+    given: K. J.
+  - family: Sutherland
+    given: W. J.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2012'
+    month: '1'
+  title: Response - Global endemism needs spatial integration
+  container-title: Science
+  publisher: American Association for the Advancement of Science (AAAS)
+  page: '285-286'
+  volume: '335'
+  issue: '6066'
+  URL: https://doi.org/10.1126%2Fscience.335.6066.285-a
+  DOI: 10.1126/science.335.6066.285-a
+...

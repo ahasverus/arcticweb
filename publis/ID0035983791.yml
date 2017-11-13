@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0035983791
+  type: article-journal
+  author:
+  - family: Bollache
+    given: L.
+  - family: Rigaud
+    given: T.
+  - family: Cézilly
+    given: F.
+  issued:
+  - year: '2002'
+    month: '2'
+  title: 'Effects of two acanthocephalan parasites on the fecundity and pairing
+    status of female Gammarus pulex (Crustacea: Amphipoda)'
+  container-title: Journal of Invertebrate Pathology
+  publisher: Elsevier BV
+  page: '102-110'
+  volume: '79'
+  issue: '2'
+  URL: https://doi.org/10.1016%2Fs0022-2011%2802%2900027-7
+  DOI: 10.1016/s0022-2011(02)00027-7
+...

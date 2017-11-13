@@ -1,0 +1,26 @@
+---
+references:
+- id: ID32544447962
+  type: article-journal
+  author:
+  - family: Sandvik
+    given: H.
+  - family: Erikstad
+    given: K. E.
+  - family: Barrett
+    given: R. T.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2005'
+    month: '9'
+  title: The effect of climate on adult survival in five species of North Atlantic
+    seabirds
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '817-831'
+  volume: '74'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2005.00981.x
+  DOI: 10.1111/j.1365-2656.2005.00981.x
+...

@@ -1,0 +1,26 @@
+---
+references:
+- id: ID47249118728
+  type: article-journal
+  author:
+  - family: Post
+    given: E.
+  - family: Pedersen
+    given: C.
+  - family: Wilmers
+    given: C. C.
+  - family: Forchhammer
+    given: M. C.
+  issued:
+  - year: '2008'
+    month: '9'
+  title: Warming, plant phenology and the spatial dimension of trophic mismatch for
+    large herbivores
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '2005-2013'
+  volume: '275'
+  issue: '1646'
+  URL: https://doi.org/10.1098%2Frspb.2008.0463
+  DOI: 10.1098/rspb.2008.0463
+...

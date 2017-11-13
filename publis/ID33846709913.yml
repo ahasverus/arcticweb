@@ -1,0 +1,34 @@
+---
+references:
+- id: ID33846709913
+  type: article-journal
+  author:
+  - family: Mysterud
+    given: A.
+  - family: Bartoń
+    given: K. A.
+  - family: Jedrzejewska
+    given: B.
+  - family: Krasiński
+    given: Z. A.
+  - family: Niedziałkowska
+    given: M.
+  - family: Kamler
+    given: J. F.
+  - family: Yoccoz
+    given: N. G.
+  - family: Stenseth
+    given: N. C.
+  issued:
+  - year: '2007'
+    month: '2'
+  title: 'Population ecology and conservation of endangered megafauna: The case
+    of European bison in Białowieża Primeval Forest, Poland'
+  container-title: Animal Conservation
+  publisher: Wiley-Blackwell
+  page: '77-87'
+  volume: '10'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1469-1795.2006.00075.x
+  DOI: 10.1111/j.1469-1795.2006.00075.x
+...

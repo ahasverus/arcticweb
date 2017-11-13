@@ -1,0 +1,24 @@
+---
+references:
+- id: ID81755169115
+  type: article-journal
+  author:
+  - family: Blaustein
+    given: L.
+  - family: Ostfeld
+    given: R. S.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2010'
+    month: '1'
+  title: A community-ecology framework for understanding vector and vector-borne disease
+    dynamics
+  container-title: Israel Journal of Ecology & Evolution
+  publisher: Brill Academic Publishers
+  page: '237-237'
+  volume: '56'
+  issue: '3-4'
+  URL: https://doi.org/10.1560%2Fijee.56.3-4.237
+  DOI: 10.1560/ijee.56.3-4.237
+...

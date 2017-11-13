@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84925538743
+  type: article-journal
+  author:
+  - family: Beaulieu
+    given: M.
+  - family: González-Acuña
+    given: D.
+  - family: Thierry
+    given: A.-M.
+  - family: Polito
+    given: M. J.
+  issued:
+  - year: '2015'
+    month: '2'
+  title: 'Relationships between isotopic values and oxidative status: insights from
+    populations of gentoo penguins'
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '1211-1220'
+  volume: '177'
+  issue: '4'
+  URL: https://doi.org/10.1007%2Fs00442-015-3267-9
+  DOI: 10.1007/s00442-015-3267-9
+...

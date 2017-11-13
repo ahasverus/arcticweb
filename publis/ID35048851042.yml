@@ -1,0 +1,45 @@
+---
+references:
+- id: ID35048851042
+  type: article-journal
+  author:
+  - family: Reneerkens
+    given: J.
+  - family: Almeida
+    given: J. B.
+  - family: Lank
+    given: D. B.
+  - family: Jukema
+    given: J.
+  - family: Lanctot
+    given: R. B.
+  - family: Morrison
+    given: R. I. G.
+  - family: Rijpstra
+    given: W. I. C.
+  - family: Schamel
+    given: D.
+  - family: Schekkerman
+    given: H.
+  - family: Damsté
+    given: J. S. S.
+  - family: Tomkovich
+    given: P. S.
+  - family: Tracy
+    given: D. M.
+  - family: Tulp
+    given: I.
+  - family: Piersma
+    given: T.
+  issued:
+  - year: '2007'
+    month: '4'
+  title: Parental role division predicts avian preen wax cycles
+  container-title: Ibis
+  publisher: Wiley-Blackwell
+  page: '721-729'
+  volume: '149'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1474-919x.2007.00693.x
+  DOI: 10.1111/j.1474-919x.2007.00693.x
+...

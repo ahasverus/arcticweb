@@ -1,0 +1,19 @@
+---
+references:
+- id: ID79551653609
+  type: article-journal
+  author:
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '2010'
+    month: '10'
+  title: 'Of lemmings and snowshoe hares: The ecology of northern Canada'
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '481-489'
+  volume: '278'
+  issue: '1705'
+  URL: https://doi.org/10.1098%2Frspb.2010.1992
+  DOI: 10.1098/rspb.2010.1992
+...

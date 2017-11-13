@@ -1,0 +1,28 @@
+---
+references:
+- id: ID77956301458
+  type: article-journal
+  author:
+  - family: Lenoir
+    given: J.
+  - family: Gégout
+    given: J. C.
+  - family: Dupouey
+    given: J. L.
+  - family: Bert
+    given: D.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2010'
+    month: '9'
+  title: Forest plant community changes during 1989-2007 in response to climate warming
+    in the Jura Mountains (France and Switzerland)
+  container-title: Journal of Vegetation Science
+  publisher: Wiley-Blackwell
+  page: '949-964'
+  volume: '21'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.1654-1103.2010.01201.x
+  DOI: 10.1111/j.1654-1103.2010.01201.x
+...

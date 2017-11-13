@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84856306053
+  type: article-journal
+  author:
+  - family: Yannic
+    given: G.
+  - family: Burri
+    given: R.
+  - family: Malikov
+    given: V. G.
+  - family: Vogel
+    given: P.
+  issued:
+  - year: '2012'
+    month: '3'
+  title: Systematics of snow voles (Chionomys, Arvicolinae) revisited
+  container-title: Molecular Phylogenetics and Evolution
+  publisher: Elsevier BV
+  page: '806-815'
+  volume: '62'
+  issue: '3'
+  URL: https://doi.org/10.1016%2Fj.ympev.2011.12.004
+  DOI: 10.1016/j.ympev.2011.12.004
+...

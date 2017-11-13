@@ -1,0 +1,22 @@
+---
+references:
+- id: ID84902839910
+  type: article-journal
+  author:
+  - family: Petit
+    given: M.
+  - family: Vezina
+    given: F.
+  issued:
+  - year: '2013'
+    month: '11'
+  title: Phenotype manipulations confirm the role of pectoral muscles and haematocrit
+    in avian maximal thermogenic capacity
+  container-title: Journal of Experimental Biology
+  publisher: The Company of Biologists
+  page: '824-830'
+  volume: '217'
+  issue: '6'
+  URL: https://doi.org/10.1242%2Fjeb.095703
+  DOI: 10.1242/jeb.095703
+...

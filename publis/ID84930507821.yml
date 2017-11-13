@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84930507821
+  type: article-journal
+  author:
+  - family: Steenweg
+    given: R. J.
+  - family: Hennin
+    given: H. L.
+  - family: Bêty
+    given: J.
+  - family: Gilchrist
+    given: H. G.
+  - family: Williams
+    given: T. D.
+  - family: Crossin
+    given: G. T.
+  - family: Love
+    given: O. P.
+  issued:
+  - year: '2015'
+    month: '5'
+  title: Sources of diel variation in energetic physiology in an Arctic-breeding,
+    diving seaduck
+  container-title: General and Comparative Endocrinology
+  publisher: Elsevier BV
+  page: '39-45'
+  volume: '216'
+  URL: https://doi.org/10.1016%2Fj.ygcen.2015.04.012
+  DOI: 10.1016/j.ygcen.2015.04.012
+...

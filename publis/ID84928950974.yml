@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84928950974
+  type: article-journal
+  author:
+  - family: Dumais
+    given: C.
+  - family: Ropars
+    given: P.
+  - family: Denis
+    given: M.-P.
+  - family: Dufour-Tremblay
+    given: G.
+  - family: Boudreau
+    given: S.
+  issued:
+  - year: '2014'
+    month: '9'
+  title: Are low altitude alpine tundra ecosystems under threat? A case study from
+    the Parc National de la Gaspésie, Québec
+  container-title: Environmental Research Letters
+  publisher: IOP Publishing
+  page: '094001'
+  volume: '9'
+  issue: '9'
+  URL: https://doi.org/10.1088%2F1748-9326%2F9%2F9%2F094001
+  DOI: 10.1088/1748-9326/9/9/094001
+...

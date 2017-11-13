@@ -1,0 +1,23 @@
+---
+references:
+- id: ID2642541810
+  type: article-journal
+  author:
+  - family: Bregnballe
+    given: T.
+  - family: Madsen
+    given: J.
+  - family: Rasmussen
+    given: P. A. F.
+  issued:
+  - year: '2004'
+    month: '9'
+  title: Effects of temporal and spatial hunting control in waterbird reserves
+  container-title: Biological Conservation
+  publisher: Elsevier BV
+  page: '93-104'
+  volume: '119'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fj.biocon.2003.10.025
+  DOI: 10.1016/j.biocon.2003.10.025
+...

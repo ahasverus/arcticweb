@@ -1,0 +1,32 @@
+---
+references:
+- id: ID85010380084
+  type: article-journal
+  author:
+  - family: Westergaard-Nielsen
+    given: A.
+  - family: Lund
+    given: M.
+  - family: Pedersen
+    given: S. H.
+  - family: Schmidt
+    given: N. M.
+  - family: Klosterman
+    given: S.
+  - family: Abermann
+    given: J.
+  - family: Hansen
+    given: B. U.
+  issued:
+  - year: '2017'
+    month: '1'
+  title: Transitions in high-Arctic vegetation growth patterns and ecosystem productivity
+    tracked with automated cameras from 2000 to 2013
+  container-title: Ambio
+  publisher: Springer Nature
+  page: '39-52'
+  volume: '46'
+  issue: S1
+  URL: https://doi.org/10.1007%2Fs13280-016-0864-8
+  DOI: 10.1007/s13280-016-0864-8
+...

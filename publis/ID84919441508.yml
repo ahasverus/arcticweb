@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84919441508
+  type: article-journal
+  author:
+  - family: Lavergne
+    given: S. G.
+  - family: McGowan
+    given: P. O.
+  - family: Krebs
+    given: C. J.
+  - family: Boonstra
+    given: R.
+  issued:
+  - year: '2014'
+    month: '9'
+  title: Impact of high predation risk on genome-wide hippocampal gene expression
+    in snowshoe hares
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '613-624'
+  volume: '176'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs00442-014-3053-0
+  DOI: 10.1007/s00442-014-3053-0
+...

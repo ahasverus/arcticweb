@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84899742119
+  type: article-journal
+  author:
+  - family: Glaz
+    given: P.
+  - family: Sirois
+    given: P.
+  - family: Archambault
+    given: P.
+  - family: Nozais
+    given: C.
+  editor:
+  - family: Ban
+    given: Syuhei
+  issued:
+  - year: '2014'
+    month: '4'
+  title: 'Impact of forest harvesting on trophic structure of eastern Canadian Boreal
+    Shield lakes: Insights from stable isotope analyses'
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e96143'
+  volume: '9'
+  issue: '4'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0096143
+  DOI: 10.1371/journal.pone.0096143
+...

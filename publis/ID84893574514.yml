@@ -1,0 +1,117 @@
+---
+references:
+- id: ID84893574514
+  type: article-journal
+  author:
+  - family: Willerslev
+    given: E.
+  - family: Davison
+    given: J.
+  - family: Moora
+    given: M.
+  - family: Zobel
+    given: M.
+  - family: Coissac
+    given: E.
+  - family: Edwards
+    given: M. E.
+  - family: Lorenzen
+    given: E. D.
+  - family: Vestergård
+    given: M.
+  - family: Gussarova
+    given: G.
+  - family: Haile
+    given: J.
+  - family: Craine
+    given: J.
+  - family: Gielly
+    given: L.
+  - family: Boessenkool
+    given: S.
+  - family: Epp
+    given: L. S.
+  - family: Pearman
+    given: P. B.
+  - family: Cheddadi
+    given: R.
+  - family: Murray
+    given: D.
+  - family: Bråthen
+    given: K. A.
+  - family: Yoccoz
+    given: N.
+  - family: Binney
+    given: H.
+  - family: Cruaud
+    given: C.
+  - family: Wincker
+    given: P.
+  - family: Goslar
+    given: T.
+  - family: Alsos
+    given: I. G.
+  - family: Bellemain
+    given: E.
+  - family: Brysting
+    given: A. K.
+  - family: Elven
+    given: R.
+  - family: Sønstebø
+    given: J. H.
+  - family: Murton
+    given: J.
+  - family: Sher
+    given: A.
+  - family: Rasmussen
+    given: M.
+  - family: Rønn
+    given: R.
+  - family: Mourier
+    given: T.
+  - family: Cooper
+    given: A.
+  - family: Austin
+    given: J.
+  - family: Möller
+    given: P.
+  - family: Froese
+    given: D.
+  - family: Zazula
+    given: G.
+  - family: Pompanon
+    given: F.
+  - family: Rioux
+    given: D.
+  - family: Niderkorn
+    given: V.
+  - family: Tikhonov
+    given: A.
+  - family: Savvinov
+    given: G.
+  - family: Roberts
+    given: R. G.
+  - family: Macphee
+    given: R. D. E.
+  - family: Gilbert
+    given: M. T. P.
+  - family: Kjær
+    given: K. H.
+  - family: Orlando
+    given: L.
+  - family: Brochmann
+    given: C.
+  - family: Taberlet
+    given: P.
+  issued:
+  - year: '2014'
+    month: '2'
+  title: Fifty thousand years of Arctic vegetation and megafaunal diet
+  container-title: Nature
+  publisher: Springer Nature
+  page: '47-51'
+  volume: '506'
+  issue: '7486'
+  URL: https://doi.org/10.1038%2Fnature12921
+  DOI: 10.1038/nature12921
+...

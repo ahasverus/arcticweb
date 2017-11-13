@@ -1,0 +1,24 @@
+---
+references:
+- id: ID33746289287
+  type: article-journal
+  author:
+  - family: Lecomte
+    given: N.
+  - family: Simard
+    given: M.
+  - family: Bergeron
+    given: Y.
+  issued:
+  - year: '2006'
+    month: '1'
+  title: Effects of fire severity and initial tree composition on stand structural
+    development in the coniferous boreal forest of northwestern Québec, Canada
+  container-title: Écoscience
+  publisher: Informa UK Limited
+  page: '152-163'
+  volume: '13'
+  issue: '2'
+  URL: https://doi.org/10.2980%2Fi1195-6860-13-2-152.1
+  DOI: 10.2980/i1195-6860-13-2-152.1
+...

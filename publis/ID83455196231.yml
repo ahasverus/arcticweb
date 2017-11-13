@@ -1,0 +1,28 @@
+---
+references:
+- id: ID83455196231
+  type: article-journal
+  author:
+  - family: Taylor
+    given: A. R.
+  - family: Lanctot
+    given: R. B.
+  - family: Powell
+    given: A. N.
+  - family: Kendall
+    given: S. J.
+  - family: Nigro
+    given: D. A.
+  issued:
+  - year: '2011'
+    month: '11'
+  title: Residence time and movements of postbreeding shorebirds on the northern coast
+    of Alaska
+  container-title: The Condor
+  publisher: Cooper Ornithological Society
+  page: '779-794'
+  volume: '113'
+  issue: '4'
+  URL: https://doi.org/10.1525%2Fcond.2011.100083
+  DOI: 10.1525/cond.2011.100083
+...

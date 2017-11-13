@@ -1,0 +1,25 @@
+---
+references:
+- id: ID0344171993
+  type: article-journal
+  author:
+  - family: Prevot-Julliard
+    given: A.-C.
+  - family: Henttonen
+    given: H.
+  - family: Yoccoz
+    given: N. G.
+  - family: Stenseth
+    given: N. C.
+  issued:
+  - year: '1999'
+    month: '7'
+  title: 'Delayed maturation in female bank voles: Optimal decision or social constraint?'
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '684-697'
+  volume: '68'
+  issue: '4'
+  URL: https://doi.org/10.1046%2Fj.1365-2656.1999.00307.x
+  DOI: 10.1046/j.1365-2656.1999.00307.x
+...

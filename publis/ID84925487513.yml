@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84925487513
+  type: article-journal
+  author:
+  - family: Olivares
+    given: I.
+  - family: Svenning
+    given: J.-C.
+  - family: Bodegom
+    given: P. M.
+    dropping-particle: van
+  - family: Balslev
+    given: H.
+  issued:
+  - year: '2015'
+    month: '2'
+  title: Effects of Warming and Drought on the Vegetation and Plant Diversity in the
+    Amazon Basin
+  container-title: The Botanical Review
+  publisher: Springer Nature
+  page: '42-69'
+  volume: '81'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs12229-014-9149-8
+  DOI: 10.1007/s12229-014-9149-8
+...

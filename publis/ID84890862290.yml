@@ -1,0 +1,50 @@
+---
+references:
+- id: ID84890862290
+  type: article-journal
+  author:
+  - family: Hanssen
+    given: S. A.
+  - family: Bustnes
+    given: J. O.
+  - family: Schnug
+    given: L.
+  - family: Bourgeon
+    given: S.
+  - family: Johnsen
+    given: T. V.
+  - family: Ballesteros
+    given: M.
+  - family: Sonne
+    given: C.
+  - family: Herzke
+    given: D.
+  - family: Eulaers
+    given: I.
+  - family: Jaspers
+    given: V. L. B.
+  - family: Covaci
+    given: A.
+  - family: Eens
+    given: M.
+  - family: Halley
+    given: D. J.
+  - family: Moum
+    given: T.
+  - family: Ims
+    given: R. A.
+  - family: Erikstad
+    given: K. E.
+  issued:
+  - year: '2013'
+    month: '11'
+  title: Antiparasite treatments reduce humoral immunity and impact oxidative status
+    in raptor nestlings
+  container-title: Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '5157-5166'
+  volume: '3'
+  issue: '16'
+  URL: https://doi.org/10.1002%2Fece3.891
+  DOI: 10.1002/ece3.891
+...

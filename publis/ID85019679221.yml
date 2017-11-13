@@ -1,0 +1,35 @@
+---
+references:
+- id: ID85019679221
+  type: article-journal
+  author:
+  - family: Sandom
+    given: C. J.
+  - family: Faurby
+    given: S.
+  - family: Svenning
+    given: J.-C.
+  - family: Burnham
+    given: D.
+  - family: Dickman
+    given: A.
+  - family: Hinks
+    given: A. E.
+  - family: Macdonald
+    given: E. A.
+  - family: Ripple
+    given: W. J.
+  - family: Williams
+    given: J.
+  - family: Macdonald
+    given: D. W.
+  issued:
+  - year: '2017'
+    month: '5'
+  title: 'Learning from the past to prepare for the future: Felids face continued
+    threat from declining prey'
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  URL: https://doi.org/10.1111%2Fecog.03303
+  DOI: 10.1111/ecog.03303
+...

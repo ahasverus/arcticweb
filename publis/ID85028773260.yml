@@ -1,0 +1,27 @@
+---
+references:
+- id: ID85028773260
+  type: article-journal
+  author:
+  - family: Soininen
+    given: E. M.
+  - family: Hamel
+    given: S.
+  - family: Yoccoz
+    given: N. G.
+  editor:
+  - family: Fox
+    given: Charles
+  issued:
+  - year: '2017'
+    month: '9'
+  title: Importance of study design and robust analyses in ecology – what is the evidence
+    for silica–vole interactions?
+  container-title: Functional Ecology
+  publisher: Wiley-Blackwell
+  page: '1847-1852'
+  volume: '31'
+  issue: '9'
+  URL: https://doi.org/10.1111%2F1365-2435.12830
+  DOI: 10.1111/1365-2435.12830
+...

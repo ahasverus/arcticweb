@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0036523390
+  type: article-journal
+  author:
+  - family: Ruesink
+    given: J. L.
+  - family: Hodges
+    given: K. E.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '2002'
+    month: '3'
+  title: 'Mass-balance analyses of boreal forest population cycles: Merging demographic
+    and ecosystem approaches'
+  container-title: Ecosystems
+  publisher: Springer Nature
+  page: '138-158'
+  volume: '5'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs10021-001-0061-9
+  DOI: 10.1007/s10021-001-0061-9
+...

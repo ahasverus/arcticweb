@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84870884584
+  type: article-journal
+  author:
+  - family: Mouquet
+    given: N.
+  - family: Gravel
+    given: D.
+  - family: Massol
+    given: F.
+  - family: Calcagno
+    given: V.
+  editor:
+  - family: Blasius
+    given: Bernd
+  issued:
+  - year: '2012'
+    month: '10'
+  title: Extending the concept of keystone species to communities and ecosystems
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '1-8'
+  volume: '16'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fele.12014
+  DOI: 10.1111/ele.12014
+...

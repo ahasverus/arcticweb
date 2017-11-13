@@ -1,0 +1,47 @@
+---
+references:
+- id: ID84856229480
+  type: article-journal
+  author:
+  - family: Lessard
+    given: J.-P.
+  - family: Reynolds
+    given: W. N.
+  - family: Bunn
+    given: W. A.
+  - family: Genung
+    given: M. A.
+  - family: Cregger
+    given: M. A.
+  - family: Felker-Quinn
+    given: E.
+  - family: Barrios-Garcia
+    given: M. N.
+  - family: Stevenson
+    given: M. L.
+  - family: Lawton
+    given: R. M.
+  - family: Brown
+    given: C. B.
+  - family: Patrick
+    given: M.
+  - family: Rock
+    given: J. H.
+  - family: Jenkins
+    given: M. A.
+  - family: Bailey
+    given: J. K.
+  - family: Schweitzer
+    given: J. A.
+  issued:
+  - year: '2012'
+    month: '2'
+  title: Equivalence in the strength of deer herbivory on above and below ground communities
+  container-title: Basic and Applied Ecology
+  publisher: Elsevier BV
+  page: '59-66'
+  volume: '13'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fj.baae.2011.11.001
+  DOI: 10.1016/j.baae.2011.11.001
+...

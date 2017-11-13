@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84892509064
+  type: article-journal
+  author:
+  - family: Therrien
+    given: J.-F.
+  - family: Gauthier
+    given: G.
+  - family: Korpimäki
+    given: E.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2014'
+    month: '1'
+  title: Predation pressure by avian predators suggests summer limitation of small-mammal
+    populations in the Canadian Arctic
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '56-67'
+  volume: '95'
+  issue: '1'
+  URL: https://doi.org/10.1890%2F13-0458.1
+  DOI: 10.1890/13-0458.1
+...

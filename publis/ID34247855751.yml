@@ -1,0 +1,36 @@
+---
+references:
+- id: ID34247855751
+  type: article-journal
+  author:
+  - family: Guillemain
+    given: M.
+  - family: Arzel
+    given: C.
+  - family: Legagneux
+    given: P.
+  - family: Elmberg
+    given: J.
+  - family: Fritz
+    given: H.
+  - family: Lepley
+    given: M.
+  - family: Pin
+    given: C.
+  - family: Arnaud
+    given: A.
+  - family: Massez
+    given: G.
+  issued:
+  - year: '2007'
+    month: '5'
+  title: 'Predation risk constrains the plasticity of foraging behaviour in teals,
+    Anas crecca: a flyway-level circumannual approach'
+  container-title: Animal Behaviour
+  publisher: Elsevier BV
+  page: '845-854'
+  volume: '73'
+  issue: '5'
+  URL: https://doi.org/10.1016%2Fj.anbehav.2006.06.019
+  DOI: 10.1016/j.anbehav.2006.06.019
+...

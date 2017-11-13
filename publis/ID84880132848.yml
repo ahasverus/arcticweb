@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84880132848
+  type: article-journal
+  author:
+  - family: Iler
+    given: A. M.
+  - family: Inouye
+    given: D. W.
+  - family: Høye
+    given: T. T.
+  - family: Miller-Rushing
+    given: A. J.
+  - family: Burkle
+    given: L. A.
+  - family: Johnston
+    given: E. B.
+  issued:
+  - year: '2013'
+    month: '5'
+  title: Maintenance of temporal synchrony between syrphid flies and floral resources
+    despite differential phenological responses to climate
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '2348-2359'
+  volume: '19'
+  issue: '8'
+  URL: https://doi.org/10.1111%2Fgcb.12246
+  DOI: 10.1111/gcb.12246
+...

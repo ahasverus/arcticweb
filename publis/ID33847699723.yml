@@ -1,0 +1,32 @@
+---
+references:
+- id: ID33847699723
+  type: article-journal
+  author:
+  - family: Fauchald
+    given: P.
+  - family: Rødven
+    given: R.
+  - family: Bårdsen
+    given: B.-J.
+  - family: Langeland
+    given: K.
+  - family: Tveraa
+    given: T.
+  - family: Yoccoz
+    given: N. G.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2007'
+    month: '3'
+  title: 'Escaping parasitism in the selfish herd: Age, size and density-dependent
+    warble fly infestation in reindeer'
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '491-499'
+  volume: '116'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.0030-1299.2007.15390.x
+  DOI: 10.1111/j.0030-1299.2007.15390.x
+...

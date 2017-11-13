@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84870309623
+  type: article-journal
+  author:
+  - family: Juillet
+    given: C.
+  - family: Choquet
+    given: R.
+  - family: Gauthier
+    given: G.
+  - family: Lefebvre
+    given: J.
+  - family: Pradel
+    given: R.
+  editor:
+  - family: Stephens
+    given: Phil
+  issued:
+  - year: '2012'
+    month: '9'
+  title: Carry-over effects of spring hunt and climate on recruitment to the natal
+    colony in a migratory species
+  container-title: Journal of Applied Ecology
+  publisher: Wiley-Blackwell
+  page: '1237-1246'
+  volume: '49'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1365-2664.2012.02199.x
+  DOI: 10.1111/j.1365-2664.2012.02199.x
+...

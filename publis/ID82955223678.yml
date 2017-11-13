@@ -1,0 +1,19 @@
+---
+references:
+- id: ID82955223678
+  type: chapter
+  author:
+  - family: Singleton
+    given: G.
+  - family: Krebs
+    given: C.
+  issued:
+  - year: '2007'
+  title: The Secret World of Wild Mice
+  container-title: The Mouse in Biomedical Research
+  publisher: Elsevier
+  page: '25-51'
+  volume: '1'
+  URL: https://doi.org/10.1016%2Fb978-012369454-6%2F50015-7
+  DOI: 10.1016/b978-012369454-6/50015-7
+...

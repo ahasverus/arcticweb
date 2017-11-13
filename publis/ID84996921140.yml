@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84996921140
+  type: article-journal
+  author:
+  - family: Flemming
+    given: S. A.
+  - family: Calvert
+    given: A.
+  - family: Nol
+    given: E.
+  - family: Smith
+    given: P. A.
+  issued:
+  - year: '2016'
+    month: '12'
+  title: Do hyperabundant Arctic-nesting geese pose a problem for sympatric species?
+  container-title: Environmental Reviews
+  publisher: Canadian Science Publishing
+  page: '393-402'
+  volume: '24'
+  issue: '4'
+  URL: https://doi.org/10.1139%2Fer-2016-0007
+  DOI: 10.1139/er-2016-0007
+...

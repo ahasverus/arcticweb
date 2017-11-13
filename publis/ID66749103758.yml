@@ -1,0 +1,36 @@
+---
+references:
+- id: ID66749103758
+  type: article-journal
+  author:
+  - family: Glass
+    given: G. E.
+  - family: Gardner-Santana
+    given: L. C.
+  - family: Holt
+    given: R. D.
+  - family: Chen
+    given: J.
+  - family: Shields
+    given: T. M.
+  - family: Roy
+    given: M.
+  - family: Schachterle
+    given: S.
+  - family: Klein
+    given: S. L.
+  editor:
+  - family: Plaistow
+    given: Stewart
+  issued:
+  - year: '2009'
+    month: '6'
+  title: 'Trophic garnishes: Cat-rat interactions in an urban environment'
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e5794'
+  volume: '4'
+  issue: '6'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0005794
+  DOI: 10.1371/journal.pone.0005794
+...

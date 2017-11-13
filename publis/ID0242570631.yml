@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0242570631
+  type: article-journal
+  author:
+  - family: Tveraa
+    given: T.
+  - family: Fauchald
+    given: P.
+  - family: Henaug
+    given: C.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2003'
+    month: '11'
+  title: An examination of a compensatory relationship between food limitation and
+    predation in semi-domestic reindeer
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '370-376'
+  volume: '137'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs00442-003-1373-6
+  DOI: 10.1007/s00442-003-1373-6
+...

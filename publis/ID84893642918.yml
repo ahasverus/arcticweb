@@ -1,0 +1,22 @@
+---
+references:
+- id: ID84893642918
+  type: article-journal
+  author:
+  - family: Madliger
+    given: C. L.
+  - family: Love
+    given: O. P.
+  issued:
+  - year: '2013'
+    month: '11'
+  title: The need for a predictive, context-dependent approach to the application
+    of stress hormones in conservation
+  container-title: Conservation Biology
+  publisher: Wiley-Blackwell
+  page: '283-287'
+  volume: '28'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fcobi.12185
+  DOI: 10.1111/cobi.12185
+...

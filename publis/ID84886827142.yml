@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84886827142
+  type: article-journal
+  author:
+  - family: Granados
+    given: J. A.
+  - family: Bonnet
+    given: P.
+  - family: Hansen
+    given: L. H.
+  - family: Schmidt
+    given: N. M.
+  issued:
+  - year: '2013'
+    month: '11'
+  title: 'EcoIS: An image serialization library for plot-based plant flowering phenology'
+  container-title: Ecological Informatics
+  publisher: Elsevier BV
+  page: '194-202'
+  volume: '18'
+  URL: https://doi.org/10.1016%2Fj.ecoinf.2013.09.006
+  DOI: 10.1016/j.ecoinf.2013.09.006
+...

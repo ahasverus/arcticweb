@@ -1,0 +1,25 @@
+---
+references:
+- id: ID70349957913
+  type: article-journal
+  author:
+  - family: Lessard
+    given: J.-P.
+  - family: Fordyce
+    given: J. A.
+  - family: Gotelli
+    given: N. J.
+  - family: Sanders
+    given: N. J.
+  issued:
+  - year: '2009'
+    month: '10'
+  title: Invasive ants alter the phylogenetic structure of ant communities
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '2664-2669'
+  volume: '90'
+  issue: '10'
+  URL: https://doi.org/10.1890%2F09-0503.1
+  DOI: 10.1890/09-0503.1
+...

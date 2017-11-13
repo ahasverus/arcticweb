@@ -1,0 +1,59 @@
+---
+references:
+- id: ID84886724815
+  type: article-journal
+  author:
+  - family: Morueta-Holme
+    given: N.
+  - family: Enquist
+    given: B. J.
+  - family: McGill
+    given: B. J.
+  - family: Boyle
+    given: B.
+  - family: Jørgensen
+    given: P. M.
+  - family: Ott
+    given: J. E.
+  - family: Peet
+    given: R. K.
+  - family: Šímová
+    given: I.
+  - family: Sloat
+    given: L. L.
+  - family: Thiers
+    given: B.
+  - family: Violle
+    given: C.
+  - family: Wiser
+    given: S. K.
+  - family: Dolins
+    given: S.
+  - family: Donoghue
+    given: J. C.
+  - family: Kraft
+    given: N. J. B.
+  - family: Regetz
+    given: J.
+  - family: Schildhauer
+    given: M.
+  - family: Spencer
+    given: N.
+  - family: Svenning
+    given: J.-C.
+  editor:
+  - family: He
+    given: Fangliang
+  issued:
+  - year: '2013'
+    month: '10'
+  title: Habitat area and climate stability determine geographical variation in plant
+    species range sizes
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '1446-1454'
+  volume: '16'
+  issue: '12'
+  URL: https://doi.org/10.1111%2Fele.12184
+  DOI: 10.1111/ele.12184
+...

@@ -1,0 +1,25 @@
+---
+references:
+- id: ID66749179868
+  type: article-journal
+  author:
+  - family: Tack
+    given: A. J. M.
+  - family: Ovaskainen
+    given: O.
+  - family: Harrison
+    given: P. J.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2009'
+    month: '6'
+  title: Competition as a structuring force in leaf miner communities
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '809-818'
+  volume: '118'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1600-0706.2008.17397.x
+  DOI: 10.1111/j.1600-0706.2008.17397.x
+...

@@ -1,0 +1,24 @@
+---
+references:
+- id: ID63849324192
+  type: article-journal
+  author:
+  - family: Williams
+    given: T. D.
+  - family: Vezina
+    given: F.
+  - family: Speakman
+    given: J. R.
+  issued:
+  - year: '2009'
+    month: '3'
+  title: Individually variable energy management during egg production is repeatable
+    across breeding attempts
+  container-title: Journal of Experimental Biology
+  publisher: The Company of Biologists
+  page: '1101-1105'
+  volume: '212'
+  issue: '8'
+  URL: https://doi.org/10.1242%2Fjeb.026815
+  DOI: 10.1242/jeb.026815
+...

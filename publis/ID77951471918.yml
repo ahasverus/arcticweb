@@ -1,0 +1,34 @@
+---
+references:
+- id: ID77951471918
+  type: article-journal
+  author:
+  - family: Thaxter
+    given: C. B.
+  - family: Wanless
+    given: S.
+  - family: Daunt
+    given: F.
+  - family: Harris
+    given: M. P.
+  - family: Benvenuti
+    given: S.
+  - family: Watanuki
+    given: Y.
+  - family: Gremillet
+    given: D.
+  - family: Hamer
+    given: K. C.
+  issued:
+  - year: '2010'
+    month: '3'
+  title: Influence of wing loading on the trade-off between pursuit-diving and flight
+    in common guillemots and razorbills
+  container-title: Journal of Experimental Biology
+  publisher: The Company of Biologists
+  page: '1018-1025'
+  volume: '213'
+  issue: '7'
+  URL: https://doi.org/10.1242%2Fjeb.037390
+  DOI: 10.1242/jeb.037390
+...

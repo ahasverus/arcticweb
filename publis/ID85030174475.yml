@@ -1,0 +1,54 @@
+---
+references:
+- id: ID85030174475
+  type: article-journal
+  author:
+  - family: Carboni
+    given: M.
+  - family: Guéguen
+    given: M.
+  - family: Barros
+    given: C.
+  - family: Georges
+    given: D.
+  - family: Boulangeat
+    given: I.
+  - family: Douzet
+    given: R.
+  - family: Dullinger
+    given: S.
+  - family: Klonner
+    given: G.
+  - family: Kleunen
+    given: M.
+    dropping-particle: van
+  - family: Essl
+    given: F.
+  - family: Bossdorf
+    given: O.
+  - family: Haeuser
+    given: E.
+  - family: Talluto
+    given: M. V.
+  - family: Moser
+    given: D.
+  - family: Block
+    given: S.
+  - family: Conti
+    given: L.
+  - family: Dullinger
+    given: I.
+  - family: Münkemüller
+    given: T.
+  - family: Thuiller
+    given: W.
+  issued:
+  - year: '2017'
+    month: '9'
+  title: Simulating plant invasion dynamics in mountain ecosystems under global change
+    scenarios
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  URL: https://doi.org/10.1111%2Fgcb.13879
+  DOI: 10.1111/gcb.13879
+...

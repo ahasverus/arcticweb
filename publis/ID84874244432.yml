@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84874244432
+  type: article-journal
+  author:
+  - family: Glorvigen
+    given: P.
+  - family: Andreassen
+    given: H. P.
+  - family: Ims
+    given: R. A.
+  editor:
+  - family: Fenton
+    given: Brock
+  issued:
+  - year: '2013'
+    month: '2'
+  title: Local and Regional Determinants of Colonisation-Extinction Dynamics of a
+    Riparian Mainland-Island Root Vole Metapopulation
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e56462'
+  volume: '8'
+  issue: '2'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0056462
+  DOI: 10.1371/journal.pone.0056462
+...

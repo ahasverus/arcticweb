@@ -1,0 +1,22 @@
+---
+references:
+- id: ID79953324134
+  type: article-journal
+  author:
+  - family: Kaartinen
+    given: R.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2011'
+    month: '2'
+  title: 'Shrinking by numbers: Landscape context affects the species composition
+    but not the quantitative structure of local food webs'
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '622-631'
+  volume: '80'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2011.01811.x
+  DOI: 10.1111/j.1365-2656.2011.01811.x
+...

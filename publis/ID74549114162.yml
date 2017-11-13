@@ -1,0 +1,35 @@
+---
+references:
+- id: ID74549114162
+  type: article-journal
+  author:
+  - family: McKinnon
+    given: L.
+  - family: Smith
+    given: P. A.
+  - family: Nol
+    given: E.
+  - family: Martin
+    given: J. L.
+  - family: Doyle
+    given: F. I.
+  - family: Abraham
+    given: K. F.
+  - family: Gilchrist
+    given: H. G.
+  - family: Morrison
+    given: R. I. G.
+  - family: Bety
+    given: J.
+  issued:
+  - year: '2010'
+    month: '1'
+  title: Lower predation risk for migratory birds at high latitudes
+  container-title: Science
+  publisher: American Association for the Advancement of Science (AAAS)
+  page: '326-327'
+  volume: '327'
+  issue: '5963'
+  URL: https://doi.org/10.1126%2Fscience.1183010
+  DOI: 10.1126/science.1183010
+...

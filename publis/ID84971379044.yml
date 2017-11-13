@@ -1,0 +1,53 @@
+---
+references:
+- id: ID84971379044
+  type: article-journal
+  author:
+  - family: Barrio
+    given: I. C.
+  - family: Bueno
+    given: C. G.
+  - family: Gartzia
+    given: M.
+  - family: Soininen
+    given: E. M.
+  - family: Christie
+    given: K. S.
+  - family: Speed
+    given: J. D. M.
+  - family: Ravolainen
+    given: V. T.
+  - family: Forbes
+    given: B. C.
+  - family: Gauthier
+    given: G.
+  - family: Horstkotte
+    given: T.
+  - family: Hoset
+    given: K. S.
+  - family: Høye
+    given: T. T.
+  - family: Jónsdóttir
+    given: I. S.
+  - family: Lévesque
+    given: E.
+  - family: Mörsdorf
+    given: M. A.
+  - family: Olofsson
+    given: J.
+  - family: Wookey
+    given: P. A.
+  - family: Hik
+    given: D. S.
+  issued:
+  - year: '2016'
+    month: '5'
+  title: Biotic interactions mediate patterns of herbivore diversity in the Arctic
+  container-title: Global Ecology and Biogeography
+  publisher: Wiley-Blackwell
+  page: '1108-1118'
+  volume: '25'
+  issue: '9'
+  URL: https://doi.org/10.1111%2Fgeb.12470
+  DOI: 10.1111/geb.12470
+...

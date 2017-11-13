@@ -1,0 +1,35 @@
+---
+references:
+- id: ID84862684747
+  type: article-journal
+  author:
+  - family: Kristiansen
+    given: T.
+  - family: Svenning
+    given: J.-C.
+  - family: Eiserhardt
+    given: W. L.
+  - family: Pedersen
+    given: D.
+  - family: Brix
+    given: H.
+  - family: Kristiansen
+    given: S. M.
+  - family: Knadel
+    given: M.
+  - family: Grández
+    given: C.
+  - family: Balslev
+    given: H.
+  issued:
+  - year: '2012'
+    month: '2'
+  title: Environment versus dispersal in the assembly of western Amazonian palm communities
+  container-title: Journal of Biogeography
+  publisher: Wiley-Blackwell
+  page: '1318-1332'
+  volume: '39'
+  issue: '7'
+  URL: https://doi.org/10.1111%2Fj.1365-2699.2012.02689.x
+  DOI: 10.1111/j.1365-2699.2012.02689.x
+...

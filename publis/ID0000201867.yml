@@ -1,0 +1,20 @@
+---
+references:
+- id: ID0000201867
+  type: article-journal
+  author:
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '1985'
+    month: '10'
+  title: 'Population dynamics in two-patch environments: Some anomalous consequences
+    of an optimal habitat distribution'
+  container-title: Theoretical Population Biology
+  publisher: Elsevier BV
+  page: '181-208'
+  volume: '28'
+  issue: '2'
+  URL: https://doi.org/10.1016%2F0040-5809%2885%2990027-9
+  DOI: 10.1016/0040-5809(85)90027-9
+...

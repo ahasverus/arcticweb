@@ -1,0 +1,32 @@
+---
+references:
+- id: ID0033024257
+  type: article-journal
+  author:
+  - family: Julliard
+    given: R.
+  - family: Leirs
+    given: H.
+  - family: Stenseth
+    given: N. C.
+  - family: Yoccoz
+    given: N. G.
+  - family: Prevot-Julliard
+    given: A.-C.
+  - family: Verhagen
+    given: R.
+  - family: Verheyen
+    given: W.
+  issued:
+  - year: '1999'
+    month: '5'
+  title: Survival-variation within and between functional categories of the African
+    multimammate rat
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '550-561'
+  volume: '68'
+  issue: '3'
+  URL: https://doi.org/10.1046%2Fj.1365-2656.1999.00304.x
+  DOI: 10.1046/j.1365-2656.1999.00304.x
+...

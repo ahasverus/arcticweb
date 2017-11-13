@@ -1,0 +1,24 @@
+---
+references:
+- id: ID77953702285
+  type: article-journal
+  author:
+  - family: Hargreaves
+    given: A. L.
+  - family: Whiteside
+    given: D. P.
+  - family: Gilchrist
+    given: G.
+  issued:
+  - year: '2010'
+    month: '7'
+  title: Concentrations of 17 elements, including mercury, and their relationship
+    to fitness measures in arctic shorebirds and their eggs
+  container-title: Science of The Total Environment
+  publisher: Elsevier BV
+  page: '3153-3161'
+  volume: '408'
+  issue: '16'
+  URL: https://doi.org/10.1016%2Fj.scitotenv.2010.03.027
+  DOI: 10.1016/j.scitotenv.2010.03.027
+...

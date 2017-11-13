@@ -1,0 +1,40 @@
+---
+references:
+- id: ID70349272591
+  type: article-journal
+  author:
+  - family: Soininen
+    given: E. M.
+  - family: Valentini
+    given: A.
+  - family: Coissac
+    given: E.
+  - family: Miquel
+    given: C.
+  - family: Gielly
+    given: L.
+  - family: Brochmann
+    given: C.
+  - family: Brysting
+    given: A. K.
+  - family: Sønstebø
+    given: J. H.
+  - family: Ims
+    given: R. A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Taberlet
+    given: P.
+  issued:
+  - year: '2009'
+  title: 'Analysing diet of small herbivores: The efficiency of DNA barcoding coupled
+    with high-throughput pyrosequencing for deciphering the composition of complex
+    plant mixtures'
+  container-title: Frontiers in Zoology
+  publisher: Springer Nature
+  page: '16'
+  volume: '6'
+  issue: '1'
+  URL: https://doi.org/10.1186%2F1742-9994-6-16
+  DOI: 10.1186/1742-9994-6-16
+...

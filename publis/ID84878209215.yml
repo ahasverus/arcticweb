@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84878209215
+  type: article-journal
+  author:
+  - family: McCafferty
+    given: D. J.
+  - family: Gilbert
+    given: C.
+  - family: Thierry
+    given: A.-M.
+  - family: Currie
+    given: J.
+  - family: Maho
+    given: Y. L.
+  - family: Ancel
+    given: A.
+  issued:
+  - year: '2013'
+    month: '3'
+  title: Emperor penguin body surfaces cool below air temperature
+  container-title: Biology Letters
+  publisher: The Royal Society
+  page: '20121192-20121192'
+  volume: '9'
+  issue: '3'
+  URL: https://doi.org/10.1098%2Frsbl.2012.1192
+  DOI: 10.1098/rsbl.2012.1192
+...

@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0032991399
+  type: article-journal
+  author:
+  - family: Haydon
+    given: D. T.
+  - family: Gillis
+    given: E. A.
+  - family: Stefan
+    given: C. I.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '1999'
+    month: '5'
+  title: Biases in the estimation of the demographic parameters of a snowshoe hare
+    population
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '501-512'
+  volume: '68'
+  issue: '3'
+  URL: https://doi.org/10.1046%2Fj.1365-2656.1999.00309.x
+  DOI: 10.1046/j.1365-2656.1999.00309.x
+...

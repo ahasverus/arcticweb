@@ -1,0 +1,36 @@
+---
+references:
+- id: ID84922922406
+  type: article-journal
+  author:
+  - family: Nogués-Bravo
+    given: D.
+  - family: Pulido
+    given: F.
+  - family: Araújo
+    given: M. B.
+  - family: Diniz-Filho
+    given: J. A. F.
+  - family: García-Valdés
+    given: R.
+  - family: Kollmann
+    given: J.
+  - family: Svenning
+    given: J.-C.
+  - family: Valladares
+    given: F.
+  - family: Zavala
+    given: M. A.
+  issued:
+  - year: '2014'
+    month: '10'
+  title: Phenotypic correlates of potential range size and range filling in European
+    trees
+  container-title: Perspectives in Plant Ecology, Evolution and Systematics
+  publisher: Elsevier BV
+  page: '219-227'
+  volume: '16'
+  issue: '5'
+  URL: https://doi.org/10.1016%2Fj.ppees.2014.05.005
+  DOI: 10.1016/j.ppees.2014.05.005
+...

@@ -1,0 +1,37 @@
+---
+references:
+- id: ID84866872812
+  type: article-journal
+  author:
+  - family: Schmidt
+    given: N. M.
+  - family: Ims
+    given: R. A.
+  - family: Hoye
+    given: T. T.
+  - family: Gilg
+    given: O.
+  - family: Hansen
+    given: L. H.
+  - family: Hansen
+    given: J.
+  - family: Lund
+    given: M.
+  - family: Fuglei
+    given: E.
+  - family: Forchhammer
+    given: M. C.
+  - family: Sittler
+    given: B.
+  issued:
+  - year: '2012'
+    month: '9'
+  title: Response of an arctic predator guild to collapsing lemming cycles
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '4417-4422'
+  volume: '279'
+  issue: '1746'
+  URL: https://doi.org/10.1098%2Frspb.2012.1490
+  DOI: 10.1098/rspb.2012.1490
+...

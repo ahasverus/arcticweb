@@ -1,0 +1,28 @@
+---
+references:
+- id: ID85007362713
+  type: article-journal
+  author:
+  - family: Gauthier
+    given: G.
+  - family: Péron
+    given: G.
+  - family: Lebreton
+    given: J.-D.
+  - family: Grenier
+    given: P.
+  - family: Oudenhove
+    given: L.
+    dropping-particle: van
+  issued:
+  - year: '2016'
+    month: '12'
+  title: Partitioning prediction uncertainty in climate-dependent population models
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '20162353'
+  volume: '283'
+  issue: '1845'
+  URL: https://doi.org/10.1098%2Frspb.2016.2353
+  DOI: 10.1098/rspb.2016.2353
+...

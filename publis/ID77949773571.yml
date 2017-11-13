@@ -1,0 +1,24 @@
+---
+references:
+- id: ID77949773571
+  type: article-journal
+  author:
+  - family: Gravel
+    given: D.
+  - family: Beaudet
+    given: M.
+  - family: Messier
+    given: C.
+  issued:
+  - year: '2009'
+    month: '8'
+  title: Large-scale synchrony of gap dynamics and the distribution of understory
+    tree species in maple-beech forests
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '153-161'
+  volume: '162'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs00442-009-1426-6
+  DOI: 10.1007/s00442-009-1426-6
+...

@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0035036483
+  type: article-journal
+  author:
+  - family: Predavec
+    given: M.
+  - family: Krebs
+    given: C. J.
+  - family: Danell
+    given: K.
+  - family: Hyndman
+    given: R.
+  issued:
+  - year: '2001'
+    month: '1'
+  title: Cycles and synchrony in the collared lemming (Dicrostonyx groenlandicus)
+    in Arctic North America
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '216-224'
+  volume: '126'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs004420000516
+  DOI: 10.1007/s004420000516
+...

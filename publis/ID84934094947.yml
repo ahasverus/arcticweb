@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84934094947
+  type: article-journal
+  author:
+  - family: Eiserhardt
+    given: W. L.
+  - family: Borchsenius
+    given: F.
+  - family: Plum
+    given: C. M.
+  - family: Ordonez
+    given: A.
+  - family: Svenning
+    given: J.-C.
+  editor:
+  - family: Morlon
+    given: Helene
+  issued:
+  - year: '2015'
+    month: '1'
+  title: Climate-driven extinctions shape the phylogenetic structure of temperate
+    tree floras
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '263-272'
+  volume: '18'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fele.12409
+  DOI: 10.1111/ele.12409
+...

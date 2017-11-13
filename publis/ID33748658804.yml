@@ -1,0 +1,25 @@
+---
+references:
+- id: ID33748658804
+  type: article-journal
+  author:
+  - family: Descamps
+    given: S.
+  - family: Boutin
+    given: S.
+  - family: Berteaux
+    given: D.
+  - family: Gaillard
+    given: J.-M.
+  issued:
+  - year: '2006'
+    month: '9'
+  title: Best squirrels trade a long life for an early reproduction
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '2369-2374'
+  volume: '273'
+  issue: '1599'
+  URL: https://doi.org/10.1098%2Frspb.2006.3588
+  DOI: 10.1098/rspb.2006.3588
+...

@@ -1,0 +1,30 @@
+---
+references:
+- id: ID0036090360
+  type: article-journal
+  author:
+  - family: Arvisais
+    given: M.
+  - family: Bourgeois
+    given: J.-C.
+  - family: Lévesque
+    given: E.
+  - family: Daigle
+    given: C.
+  - family: Masse
+    given: D.
+  - family: Jutras
+    given: J.
+  issued:
+  - year: '2002'
+    month: '3'
+  title: Home range and movements of a wood turtle (Clemmys insculpta) population
+    at the northern limit of its range
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '402-408'
+  volume: '80'
+  issue: '3'
+  URL: https://doi.org/10.1139%2Fz02-013
+  DOI: 10.1139/z02-013
+...

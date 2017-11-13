@@ -1,0 +1,25 @@
+---
+references:
+- id: ID77952582163
+  type: article-journal
+  author:
+  - family: Klausen
+    given: K. B.
+  - family: Pedersen
+    given: S. Ø.
+  - family: Yoccoz
+    given: N. G.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2009'
+    month: '8'
+  title: Prevalence of nest predators in a sub-Arctic ecosystem
+  container-title: European Journal of Wildlife Research
+  publisher: Springer Nature
+  page: '221-232'
+  volume: '56'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs10344-009-0304-1
+  DOI: 10.1007/s10344-009-0304-1
+...

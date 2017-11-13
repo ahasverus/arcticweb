@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84957828115
+  type: article-journal
+  author:
+  - family: Pohjanmies
+    given: T.
+  - family: Elshibli
+    given: S.
+  - family: Pulkkinen
+    given: P.
+  - family: Rusanen
+    given: M.
+  - family: Vakkari
+    given: P.
+  - family: Korpelainen
+    given: H.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2016'
+  title: Fragmentation-related patterns of genetic differentiation in pedunculate
+    oak (Quercus robur) at two hierarchical scales
+  container-title: Silva Fennica
+  publisher: Finnish Society of Forest Science
+  volume: '50'
+  issue: '2'
+  URL: https://doi.org/10.14214%2Fsf.1510
+  DOI: 10.14214/sf.1510
+...

@@ -1,0 +1,30 @@
+---
+references:
+- id: ID0036211697
+  type: article-journal
+  author:
+  - family: Jodice
+    given: P. G.
+  - family: Roby
+    given: D. D.
+  - family: Hatch
+    given: S. A.
+  - family: Gill
+    given: V. A.
+  - family: Lanctot
+    given: R. B.
+  - family: Visser
+    given: G. H.
+  issued:
+  - year: '2002'
+    month: '2'
+  title: Does food availability affect energy expenditure rates of nesting seabirds?
+    A supplemental-feeding experiment with Black-legged Kittiwakes (Rissa tridactyla)
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '214-222'
+  volume: '80'
+  issue: '2'
+  URL: https://doi.org/10.1139%2Fz01-221
+  DOI: 10.1139/z01-221
+...

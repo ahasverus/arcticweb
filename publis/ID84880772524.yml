@@ -1,0 +1,52 @@
+---
+references:
+- id: ID84880772524
+  type: article-journal
+  author:
+  - family: Krebs
+    given: C. J.
+  - family: Kielland
+    given: K.
+  - family: Bryant
+    given: J.
+  - family: O’donoghue
+    given: M.
+  - family: Doyle
+    given: F.
+  - family: McIntyre
+    given: C.
+  - family: Difolco
+    given: D.
+  - family: Berg
+    given: N.
+  - family: Carriere
+    given: S.
+  - family: Boonstra
+    given: R.
+  - family: Boutin
+    given: S.
+  - family: Kenney
+    given: A. J.
+  - family: Reid
+    given: D. G.
+  - family: Bodony
+    given: K.
+  - family: Putera
+    given: J.
+  - family: Timm
+    given: H. K.
+  - family: Burke
+    given: T.
+  issued:
+  - year: '2013'
+    month: '8'
+  title: Synchrony in the snowshoe hare (Lepus americanus) cycle in northwestern North
+    America, 1970-2012
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '562-572'
+  volume: '91'
+  issue: '8'
+  URL: https://doi.org/10.1139%2Fcjz-2013-0012
+  DOI: 10.1139/cjz-2013-0012
+...

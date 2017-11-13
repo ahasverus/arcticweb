@@ -1,0 +1,61 @@
+---
+references:
+- id: ID84879758627
+  type: article-journal
+  author:
+  - family: Wakefield
+    given: E. D.
+  - family: Bodey
+    given: T. W.
+  - family: Bearhop
+    given: S.
+  - family: Blackburn
+    given: J.
+  - family: Colhoun
+    given: K.
+  - family: Davies
+    given: R.
+  - family: Dwyer
+    given: R. G.
+  - family: Green
+    given: J. A.
+  - family: Gremillet
+    given: D.
+  - family: Jackson
+    given: A. L.
+  - family: Jessopp
+    given: M. J.
+  - family: Kane
+    given: A.
+  - family: Langston
+    given: R. H. W.
+  - family: Lescroel
+    given: A.
+  - family: Murray
+    given: S.
+  - family: Nuz
+    given: M. L.
+  - family: Patrick
+    given: S. C.
+  - family: Peron
+    given: C.
+  - family: Soanes
+    given: L. M.
+  - family: Wanless
+    given: S.
+  - family: Votier
+    given: S. C.
+  - family: Hamer
+    given: K. C.
+  issued:
+  - year: '2013'
+    month: '6'
+  title: Space partitioning without territoriality in gannets
+  container-title: Science
+  publisher: American Association for the Advancement of Science (AAAS)
+  page: '68-70'
+  volume: '341'
+  issue: '6141'
+  URL: https://doi.org/10.1126%2Fscience.1236077
+  DOI: 10.1126/science.1236077
+...

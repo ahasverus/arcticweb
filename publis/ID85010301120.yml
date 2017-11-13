@@ -1,0 +1,30 @@
+---
+references:
+- id: ID85010301120
+  type: article-journal
+  author:
+  - family: Lund
+    given: M.
+  - family: Raundrup
+    given: K.
+  - family: Westergaard-Nielsen
+    given: A.
+  - family: López-Blanco
+    given: E.
+  - family: Nymand
+    given: J.
+  - family: Aastrup
+    given: P.
+  issued:
+  - year: '2017'
+    month: '1'
+  title: 'Larval outbreaks in West Greenland: Instant and subsequent effects on
+    tundra ecosystem productivity and CO&lt;inf&gt;2&lt;/inf&gt; exchange'
+  container-title: Ambio
+  publisher: Springer Nature
+  page: '26-38'
+  volume: '46'
+  issue: S1
+  URL: https://doi.org/10.1007%2Fs13280-016-0863-9
+  DOI: 10.1007/s13280-016-0863-9
+...

@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84955579020
+  type: article-journal
+  author:
+  - family: Hansen
+    given: R. R.
+  - family: Hansen
+    given: O. L. P.
+  - family: Bowden
+    given: J. J.
+  - family: Normand
+    given: S.
+  - family: Bay
+    given: C.
+  - family: Sørensen
+    given: J. G.
+  - family: Høye
+    given: T. T.
+  issued:
+  - year: '2016'
+    month: '1'
+  title: High spatial variation in terrestrial arthropod species diversity and composition
+    near the Greenland ice cap
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '2263-2272'
+  volume: '39'
+  issue: '12'
+  URL: https://doi.org/10.1007%2Fs00300-016-1893-2
+  DOI: 10.1007/s00300-016-1893-2
+...

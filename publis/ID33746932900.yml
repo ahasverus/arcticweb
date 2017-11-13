@@ -1,0 +1,25 @@
+---
+references:
+- id: ID33746932900
+  type: article-journal
+  author:
+  - family: Lecomte
+    given: N.
+  - family: Gauthier
+    given: G.
+  - family: Bernatchez
+    given: L.
+  - family: Giroux
+    given: J.-F.
+  issued:
+  - year: '2006'
+    month: '3'
+  title: A nondamaging blood sampling technique for waterfowl embryos
+  container-title: Journal of Field Ornithology
+  publisher: Wiley-Blackwell
+  page: '67-70'
+  volume: '77'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1557-9263.2006.00005.x
+  DOI: 10.1111/j.1557-9263.2006.00005.x
+...

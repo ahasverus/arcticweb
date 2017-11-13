@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84941142989
+  type: article-journal
+  author:
+  - family: Ponchon
+    given: A.
+  - family: Chambert
+    given: T.
+  - family: Lobato
+    given: E.
+  - family: Tveraa
+    given: T.
+  - family: Grémillet
+    given: D.
+  - family: Boulinier
+    given: T.
+  issued:
+  - year: '2015'
+    month: '12'
+  title: Breeding failure induces large scale prospecting movements in the black-legged
+    kittiwake
+  container-title: Journal of Experimental Marine Biology and Ecology
+  publisher: Elsevier BV
+  page: '138-145'
+  volume: '473'
+  URL: https://doi.org/10.1016%2Fj.jembe.2015.08.013
+  DOI: 10.1016/j.jembe.2015.08.013
+...

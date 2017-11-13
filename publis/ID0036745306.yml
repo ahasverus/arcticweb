@@ -1,0 +1,29 @@
+---
+references:
+- id: ID0036745306
+  type: article-journal
+  author:
+  - family: Crespin
+    given: L.
+  - family: Verhagen
+    given: R.
+  - family: Stenseth
+    given: N. C.
+  - family: Yoccoz
+    given: N. G.
+  - family: Prevot-Julliard
+    given: A.-C.
+  - family: Lebreton
+    given: J.-D.
+  issued:
+  - year: '2002'
+    month: '9'
+  title: 'Survival in fluctuating bank vole populations: Seasonal and yearly variations'
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '467-479'
+  volume: '98'
+  issue: '3'
+  URL: https://doi.org/10.1034%2Fj.1600-0706.2002.980311.x
+  DOI: 10.1034/j.1600-0706.2002.980311.x
+...

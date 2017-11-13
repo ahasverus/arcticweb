@@ -1,0 +1,39 @@
+---
+references:
+- id: ID84923277445
+  type: article-journal
+  author:
+  - family: Petersen
+    given: A.
+  - family: Irons
+    given: D. B.
+  - family: Gilchrist
+    given: H. G.
+  - family: Robertson
+    given: G. J.
+  - family: Boertmann
+    given: D.
+  - family: Strøm
+    given: H.
+  - family: Gavrilo
+    given: M.
+  - family: Artukhin
+    given: Y.
+  - family: Clausen
+    given: D. S.
+  - family: Kuletz
+    given: K. J.
+  - family: Mallory
+    given: M. L.
+  issued:
+  - year: '2015'
+    month: '2'
+  title: The status of Glaucous Gulls Larus hyperboreus in the circumpolar Arctic
+  container-title: ARCTIC
+  publisher: The Arctic Institute of North America
+  page: '107'
+  volume: '68'
+  issue: '1'
+  URL: https://doi.org/10.14430%2Farctic4462
+  DOI: 10.14430/arctic4462
+...

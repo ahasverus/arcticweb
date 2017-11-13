@@ -1,0 +1,21 @@
+---
+references:
+- id: ID84879567491
+  type: article-journal
+  author:
+  - family: Fryxell
+    given: J. M.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2013'
+    month: '6'
+  title: Environmental change and the evolution of migration
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '1274-1279'
+  volume: '94'
+  issue: '6'
+  URL: https://doi.org/10.1890%2F12-0668.1
+  DOI: 10.1890/12-0668.1
+...

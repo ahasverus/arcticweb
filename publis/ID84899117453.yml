@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84899117453
+  type: article-journal
+  author:
+  - family: Mikalsen
+    given: S. K. R.
+  - family: Folstad
+    given: I.
+  - family: Yoccoz
+    given: N. G.
+  - family: Laeng
+    given: B.
+  issued:
+  - year: '2014'
+    month: '4'
+  title: 'The spectacular human nose: An amplifier of individual quality?'
+  container-title: PeerJ
+  publisher: PeerJ
+  page: 'e357'
+  volume: '2'
+  issue: '1'
+  URL: https://doi.org/10.7717%2Fpeerj.357
+  DOI: 10.7717/peerj.357
+...

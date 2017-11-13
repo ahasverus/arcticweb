@@ -1,0 +1,28 @@
+---
+references:
+- id: ID3042738390
+  type: article-journal
+  author:
+  - family: Naud
+    given: M.-J.
+  - family: Hanlon
+    given: R. T.
+  - family: Hall
+    given: K. C.
+  - family: Shaw
+    given: P. W.
+  - family: Havenhand
+    given: J. N.
+  issued:
+  - year: '2004'
+    month: '6'
+  title: Behavioural and genetic assessment of reproductive success in a spawning
+    aggregation of the Australian giant cuttlefish, Sepia apama
+  container-title: Animal Behaviour
+  publisher: Elsevier BV
+  page: '1043-1050'
+  volume: '67'
+  issue: '6'
+  URL: https://doi.org/10.1016%2Fj.anbehav.2003.10.005
+  DOI: 10.1016/j.anbehav.2003.10.005
+...

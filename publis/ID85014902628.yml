@@ -1,0 +1,32 @@
+---
+references:
+- id: ID85014902628
+  type: article-journal
+  author:
+  - family: Cornelius
+    given: E. A.
+  - family: Vézina
+    given: F.
+  - family: Regimbald
+    given: L.
+  - family: Hallot
+    given: F.
+  - family: Petit
+    given: M.
+  - family: Love
+    given: O. P.
+  - family: Karasov
+    given: W. H.
+  issued:
+  - year: '2017'
+    month: '3'
+  title: Chickadees faced with unpredictable food increase fat reserves but certain
+    components of their immune function decline
+  container-title: Physiological and Biochemical Zoology
+  publisher: University of Chicago Press
+  page: '190-200'
+  volume: '90'
+  issue: '2'
+  URL: https://doi.org/10.1086%2F689913
+  DOI: 10.1086/689913
+...

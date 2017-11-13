@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84880270739
+  type: article-journal
+  author:
+  - family: Helgason
+    given: L. B.
+  - family: Wolkers
+    given: H.
+  - family: Fuglei
+    given: E.
+  - family: Ahlstrøm
+    given: Y.
+  - family: Muir
+    given: D.
+  - family: Jørgensen
+    given: E. H.
+  issued:
+  - year: '2013'
+    month: '6'
+  title: Seasonal emaciation causes tissue redistribution and an increased potential
+    for toxicity of lipophilic pollutants in farmed arctic fox (Vulpes lagopus)
+  container-title: Environmental Toxicology and Chemistry
+  publisher: Wiley-Blackwell
+  page: '1784-1792'
+  volume: '32'
+  issue: '8'
+  URL: https://doi.org/10.1002%2Fetc.2241
+  DOI: 10.1002/etc.2241
+...

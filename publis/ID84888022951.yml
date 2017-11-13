@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84888022951
+  type: article-journal
+  author:
+  - family: Guindre-Parker
+    given: S.
+  - family: Baldo
+    given: S.
+  - family: Gilchrist
+    given: H. G.
+  - family: Macdonald
+    given: C. A.
+  - family: Harris
+    given: C. M.
+  - family: Love
+    given: O. P.
+  issued:
+  - year: '2013'
+    month: '10'
+  title: The oxidative costs of territory quality and offspring provisioning
+  container-title: Journal of Evolutionary Biology
+  publisher: Wiley-Blackwell
+  page: '2558-2565'
+  volume: '26'
+  issue: '12'
+  URL: https://doi.org/10.1111%2Fjeb.12256
+  DOI: 10.1111/jeb.12256
+...

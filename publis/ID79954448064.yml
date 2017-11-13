@@ -1,0 +1,26 @@
+---
+references:
+- id: ID79954448064
+  type: article-journal
+  author:
+  - family: Therrien
+    given: J.-F.
+  - family: Fitzgerald
+    given: G.
+  - family: Gauthier
+    given: G.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2011'
+    month: '4'
+  title: Diet-tissue discrimination factors of carbon and nitrogen Stable isotopes
+    in blood of Snowy Owl (Bubo scandiacus)
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '343-347'
+  volume: '89'
+  issue: '4'
+  URL: https://doi.org/10.1139%2Fz11-008
+  DOI: 10.1139/z11-008
+...

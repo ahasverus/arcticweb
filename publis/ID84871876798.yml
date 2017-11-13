@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84871876798
+  type: article-journal
+  author:
+  - family: Chevin
+    given: L.-M.
+  - family: Gallet
+    given: R.
+  - family: Gomulkiewicz
+    given: R.
+  - family: Holt
+    given: R. D.
+  - family: Fellous
+    given: S.
+  issued:
+  - year: '2012'
+    month: '12'
+  title: Phenotypic plasticity in evolutionary rescue experiments
+  container-title: 'Philosophical Transactions of the Royal Society B: Biological
+    Sciences'
+  publisher: The Royal Society
+  page: '20120089-20120089'
+  volume: '368'
+  issue: '1610'
+  URL: https://doi.org/10.1098%2Frstb.2012.0089
+  DOI: 10.1098/rstb.2012.0089
+...

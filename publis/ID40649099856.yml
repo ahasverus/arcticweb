@@ -1,0 +1,35 @@
+---
+references:
+- id: ID40649099856
+  type: article-journal
+  author:
+  - family: Bohec
+    given: C. L.
+  - family: Durant
+    given: J. M.
+  - family: Gauthier-Clerc
+    given: M.
+  - family: Stenseth
+    given: N. C.
+  - family: Park
+    given: Y.-H.
+  - family: Pradel
+    given: R.
+  - family: Gremillet
+    given: D.
+  - family: Gendner
+    given: J.-P.
+  - family: Maho
+    given: Y. L.
+  issued:
+  - year: '2008'
+    month: '2'
+  title: King penguin population threatened by Southern Ocean warming
+  container-title: Proceedings of the National Academy of Sciences
+  publisher: Proceedings of the National Academy of Sciences
+  page: '2493-2497'
+  volume: '105'
+  issue: '7'
+  URL: https://doi.org/10.1073%2Fpnas.0712031105
+  DOI: 10.1073/pnas.0712031105
+...

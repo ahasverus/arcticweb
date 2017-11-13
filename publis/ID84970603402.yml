@@ -1,0 +1,18 @@
+---
+references:
+- id: ID84970603402
+  type: article-journal
+  author:
+  - family: Krebs
+    given: C.
+  issued:
+  - year: '1995'
+  title: Two paradigms of population regulation
+  container-title: Wildlife Research
+  publisher: CSIRO Publishing
+  page: '1'
+  volume: '22'
+  issue: '1'
+  URL: https://doi.org/10.1071%2Fwr9950001
+  DOI: 10.1071/wr9950001
+...

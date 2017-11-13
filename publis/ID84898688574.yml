@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84898688574
+  type: article-journal
+  author:
+  - family: Turner
+    given: K. G.
+  - family: Odgaard
+    given: M. V.
+  - family: Bøcher
+    given: P. K.
+  - family: Dalgaard
+    given: T.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2014'
+    month: '5'
+  title: 'Bundling ecosystem services in Denmark: Trade-offs and synergies in a
+    cultural landscape'
+  container-title: Landscape and Urban Planning
+  publisher: Elsevier BV
+  page: '89-104'
+  volume: '125'
+  URL: https://doi.org/10.1016%2Fj.landurbplan.2014.02.007
+  DOI: 10.1016/j.landurbplan.2014.02.007
+...

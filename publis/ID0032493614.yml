@@ -1,0 +1,22 @@
+---
+references:
+- id: ID0032493614
+  type: article-journal
+  author:
+  - family: Holt
+    given: R. D.
+  - family: Hochberg
+    given: M. E.
+  issued:
+  - year: '1998'
+    month: '8'
+  title: The coexistence of competing parasites. Part II - Hyperparasitism and food
+    chain dynamics
+  container-title: Journal of Theoretical Biology
+  publisher: Elsevier BV
+  page: '485-495'
+  volume: '193'
+  issue: '3'
+  URL: https://doi.org/10.1006%2Fjtbi.1998.0717
+  DOI: 10.1006/jtbi.1998.0717
+...

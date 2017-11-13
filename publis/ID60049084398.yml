@@ -1,0 +1,27 @@
+---
+references:
+- id: ID60049084398
+  type: article-journal
+  author:
+  - family: Descamps
+    given: S.
+  - family: Boutin
+    given: S.
+  - family: McAdam
+    given: A. G.
+  - family: Berteaux
+    given: D.
+  - family: Gaillard
+    given: J.-M.
+  issued:
+  - year: '2009'
+    month: '3'
+  title: Survival costs of reproduction vary with age in North American red squirrels
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '1129-1135'
+  volume: '276'
+  issue: '1659'
+  URL: https://doi.org/10.1098%2Frspb.2008.1401
+  DOI: 10.1098/rspb.2008.1401
+...

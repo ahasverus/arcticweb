@@ -1,0 +1,21 @@
+---
+references:
+- id: ID84880396826
+  type: article-journal
+  author:
+  - family: Desjardins-Proulx
+    given: P.
+  - family: Gravel
+    given: D.
+  issued:
+  - year: '2012'
+    month: '6'
+  title: A complex speciation-richness relationship in a simple neutral model
+  container-title: Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '1781-1790'
+  volume: '2'
+  issue: '8'
+  URL: https://doi.org/10.1002%2Fece3.292
+  DOI: 10.1002/ece3.292
+...

@@ -1,0 +1,42 @@
+---
+references:
+- id: ID84955693608
+  type: article-journal
+  author:
+  - family: Yannic
+    given: G.
+  - family: Yearsley
+    given: J. M.
+  - family: Sermier
+    given: R.
+  - family: Dufresnes
+    given: C.
+  - family: Gilg
+    given: O.
+  - family: Aebischer
+    given: A.
+  - family: Gavrilo
+    given: M. V.
+  - family: Strøm
+    given: H.
+  - family: Mallory
+    given: M. L.
+  - family: Morrison
+    given: R. I. G.
+  - family: Gilchrist
+    given: H. G.
+  - family: Broquet
+    given: T.
+  issued:
+  - year: '2015'
+    month: '8'
+  title: High connectivity in a long-lived high-Arctic seabird, the ivory gull Pagophila
+    eburnea
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '221-236'
+  volume: '39'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs00300-015-1775-z
+  DOI: 10.1007/s00300-015-1775-z
+...

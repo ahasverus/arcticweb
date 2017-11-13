@@ -1,0 +1,28 @@
+---
+references:
+- id: ID79955109833
+  type: article-journal
+  author:
+  - family: Roncal
+    given: J.
+  - family: Blach-Overgaard
+    given: A.
+  - family: Borchsenius
+    given: F.
+  - family: Balslev
+    given: H.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2010'
+    month: '8'
+  title: A dated phylogeny complements macroecological analysis to explain the diversity
+    patterns in Geonoma (Arecaceae)
+  container-title: Biotropica
+  publisher: Wiley-Blackwell
+  page: '324-334'
+  volume: '43'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1744-7429.2010.00696.x
+  DOI: 10.1111/j.1744-7429.2010.00696.x
+...

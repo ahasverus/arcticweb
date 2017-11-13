@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84897100708
+  type: article-journal
+  author:
+  - family: Alexander
+    given: C.
+  - family: Bøcher
+    given: P. K.
+  - family: Arge
+    given: L.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2014'
+    month: '5'
+  title: Regional-scale mapping of tree cover, height and main phenological tree types
+    using airborne laser scanning data
+  container-title: Remote Sensing of Environment
+  publisher: Elsevier BV
+  page: '156-172'
+  volume: '147'
+  URL: https://doi.org/10.1016%2Fj.rse.2014.02.013
+  DOI: 10.1016/j.rse.2014.02.013
+...

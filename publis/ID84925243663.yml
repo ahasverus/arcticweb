@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84925243663
+  type: article-journal
+  author:
+  - family: Tveraa
+    given: T.
+  - family: Stien
+    given: A.
+  - family: Brøseth
+    given: H.
+  - family: Yoccoz
+    given: N. G.
+  editor:
+  - family: Hayward
+    given: Matt
+  issued:
+  - year: '2014'
+    month: '9'
+  title: The role of predation and food limitation on claims for compensation, reindeer
+    demography and population dynamics
+  container-title: Journal of Applied Ecology
+  publisher: Wiley-Blackwell
+  page: '1264-1272'
+  volume: '51'
+  issue: '5'
+  URL: https://doi.org/10.1111%2F1365-2664.12322
+  DOI: 10.1111/1365-2664.12322
+...

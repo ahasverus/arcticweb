@@ -1,0 +1,24 @@
+---
+references:
+- id: ID80455177352
+  type: article-journal
+  author:
+  - family: Cameron
+    given: C.
+  - family: Berteaux
+    given: D.
+  - family: Dufresne
+    given: F.
+  issued:
+  - year: '2011'
+    month: '9'
+  title: Spatial variation in food availability predicts extrapair paternity in the
+    arctic fox
+  container-title: Behavioral Ecology
+  publisher: Oxford University Press (OUP)
+  page: '1364-1373'
+  volume: '22'
+  issue: '6'
+  URL: https://doi.org/10.1093%2Fbeheco%2Farr158
+  DOI: 10.1093/beheco/arr158
+...

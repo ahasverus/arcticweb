@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84886480218
+  type: article-journal
+  author:
+  - family: Turcotte
+    given: Y.
+  - family: Lamarre
+    given: J.-F.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2013'
+    month: '11'
+  title: Staging ecology of Semipalmated Plover (Charadrius semipalmatus) and Semipalmated
+    Sandpiper (Calidris pusilla) juveniles in the St. Lawrence River Estuary during
+    fall migration
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '802-809'
+  volume: '91'
+  issue: '11'
+  URL: https://doi.org/10.1139%2Fcjz-2013-0101
+  DOI: 10.1139/cjz-2013-0101
+...

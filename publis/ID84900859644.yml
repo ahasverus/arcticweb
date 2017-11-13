@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84900859644
+  type: article-journal
+  author:
+  - family: Bilodeau
+    given: F.
+  - family: Gauthier
+    given: G.
+  - family: Fauteux
+    given: D.
+  - family: Berteaux
+    given: D.
+  issued:
+  - year: '2014'
+    month: '3'
+  title: Does lemming winter grazing impact vegetation in the Canadian Arctic?
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '845-857'
+  volume: '37'
+  issue: '6'
+  URL: https://doi.org/10.1007%2Fs00300-014-1486-x
+  DOI: 10.1007/s00300-014-1486-x
+...

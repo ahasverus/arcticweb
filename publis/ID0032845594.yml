@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0032845594
+  type: article-journal
+  author:
+  - family: Archambault
+    given: P.
+  - family: McKindsey
+    given: C. W.
+  - family: Bourget
+    given: E.
+  issued:
+  - year: '1999'
+    month: '8'
+  title: Large-scale shoreline configuration influences phytoplankton concentration
+    and mussel growth
+  container-title: Estuarine, Coastal and Shelf Science
+  publisher: Elsevier BV
+  page: '193-208'
+  volume: '49'
+  issue: '2'
+  URL: https://doi.org/10.1006%2Fecss.1999.0481
+  DOI: 10.1006/ecss.1999.0481
+...

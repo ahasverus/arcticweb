@@ -1,0 +1,39 @@
+---
+references:
+- id: ID85024481200
+  type: article-journal
+  author:
+  - family: Bergstad
+    given: O. A.
+  - family: Johannesen
+    given: E.
+  - family: Høines
+    given: G.
+  - family: Ellingsen
+    given: K. E.
+  - family: Lien
+    given: V. S.
+  - family: Byrkjedal
+    given: I.
+  - family: Yoccoz
+    given: N. G.
+  - family: Tveraa
+    given: T.
+  - family: Wienerroither
+    given: R.
+  - family: Langhelle
+    given: G.
+  - family: Wenneck
+    given: T. L.
+    dropping-particle: de
+  issued:
+  - year: '2017'
+    month: '7'
+  title: Demersal fish assemblages in the boreo-Arctic shelf waters around Svalbard
+    during the warm period 2007–2014
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '1-18'
+  URL: https://doi.org/10.1007%2Fs00300-017-2176-2
+  DOI: 10.1007/s00300-017-2176-2
+...

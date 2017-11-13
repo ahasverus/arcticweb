@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0035026950
+  type: article-journal
+  author:
+  - family: Cook
+    given: W. M.
+  - family: Holt
+    given: R. D.
+  - family: Yao
+    given: J.
+  issued:
+  - year: '2001'
+    month: '3'
+  title: Spatial variability in oviposition damage by periodical cicadas in a fragmented
+    landscape
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '51-61'
+  volume: '127'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs004420000559
+  DOI: 10.1007/s004420000559
+...

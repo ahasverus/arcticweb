@@ -1,0 +1,23 @@
+---
+references:
+- id: ID0142182693
+  type: article-journal
+  author:
+  - family: Stensland
+    given: E.
+  - family: Angerbjorn
+    given: A.
+  - family: Berggren
+    given: P.
+  issued:
+  - year: '2003'
+    month: '9'
+  title: Mixed species groups in mammals
+  container-title: Mammal Review
+  publisher: Wiley-Blackwell
+  page: '205-223'
+  volume: '33'
+  issue: '3-4'
+  URL: https://doi.org/10.1046%2Fj.1365-2907.2003.00022.x
+  DOI: 10.1046/j.1365-2907.2003.00022.x
+...

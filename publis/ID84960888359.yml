@@ -1,0 +1,37 @@
+---
+references:
+- id: ID84960888359
+  type: article-journal
+  author:
+  - family: Vesterinen
+    given: E. J.
+  - family: Ruokolainen
+    given: L.
+  - family: Wahlberg
+    given: N.
+  - family: Peña
+    given: C.
+  - family: Roslin
+    given: T.
+  - family: Laine
+    given: V. N.
+  - family: Vasko
+    given: V.
+  - family: Sääksjärvi
+    given: I. E.
+  - family: Norrdahl
+    given: K.
+  - family: Lilley
+    given: T. M.
+  issued:
+  - year: '2016'
+    month: '3'
+  title: What you need is what you eat? Prey selection by the bat Myotis daubentonii
+  container-title: Molecular Ecology
+  publisher: Wiley-Blackwell
+  page: '1581-1594'
+  volume: '25'
+  issue: '7'
+  URL: https://doi.org/10.1111%2Fmec.13564
+  DOI: 10.1111/mec.13564
+...

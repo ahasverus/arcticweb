@@ -1,0 +1,32 @@
+---
+references:
+- id: ID57649213549
+  type: article-journal
+  author:
+  - family: Arzel
+    given: C.
+  - family: Elmberg
+    given: J.
+  - family: Guillemain
+    given: M.
+  - family: Lepley
+    given: M.
+  - family: Bosca
+    given: F.
+  - family: Legagneux
+    given: P.
+  - family: Nogues
+    given: J.-B.
+  issued:
+  - year: '2008'
+    month: '6'
+  title: A flyway perspective on food resource abundance in a long-distance migrant,
+    the Eurasian teal (Anas crecca)
+  container-title: Journal of Ornithology
+  publisher: Springer Nature
+  page: '61-73'
+  volume: '150'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs10336-008-0318-6
+  DOI: 10.1007/s10336-008-0318-6
+...

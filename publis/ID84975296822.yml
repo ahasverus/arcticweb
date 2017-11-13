@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84975296822
+  type: article-journal
+  author:
+  - family: Pinot
+    given: A.
+  - family: Barraquand
+    given: F.
+  - family: Tedesco
+    given: E.
+  - family: Lecoustre
+    given: V.
+  - family: Bretagnolle
+    given: V.
+  - family: Gauffre
+    given: B.
+  issued:
+  - year: '2016'
+    month: '6'
+  title: Density-dependent reproduction causes winter crashes in a common vole population
+  container-title: Population Ecology
+  publisher: Springer Nature
+  page: '395-405'
+  volume: '58'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs10144-016-0552-3
+  DOI: 10.1007/s10144-016-0552-3
+...

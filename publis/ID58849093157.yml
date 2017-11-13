@@ -1,0 +1,28 @@
+---
+references:
+- id: ID58849093157
+  type: article-journal
+  author:
+  - family: Lecomte
+    given: N.
+  - family: Gauthier
+    given: G.
+  - family: Giroux
+    given: J.-F.
+  - family: Milot
+    given: E.
+  - family: Bernatchez
+    given: L.
+  issued:
+  - year: '2009'
+    month: '2'
+  title: 'Tug of war between continental gene flow and rearing site philopatry in
+    a migratory bird: The sex-biased dispersal paradigm reconsidered'
+  container-title: Molecular Ecology
+  publisher: Wiley-Blackwell
+  page: '593-602'
+  volume: '18'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1365-294x.2008.04067.x
+  DOI: 10.1111/j.1365-294x.2008.04067.x
+...

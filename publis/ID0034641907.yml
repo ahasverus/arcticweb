@@ -1,0 +1,19 @@
+---
+references:
+- id: ID0034641907
+  type: article-journal
+  author:
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2000'
+    month: '10'
+  title: Use it or lose it
+  container-title: Nature
+  publisher: Springer Nature
+  page: '689-690'
+  volume: '407'
+  issue: '6805'
+  URL: https://doi.org/10.1038%2F35037703
+  DOI: 10.1038/35037703
+...

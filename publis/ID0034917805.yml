@@ -1,0 +1,21 @@
+---
+references:
+- id: ID0034917805
+  type: article-journal
+  author:
+  - family: Ganter
+    given: B.
+  - family: Madsen
+    given: J.
+  issued:
+  - year: '2001'
+    month: '3'
+  title: An examination of methods to estimate population size in wintering geese
+  container-title: Bird Study
+  publisher: Informa UK Limited
+  page: '90-101'
+  volume: '48'
+  issue: '1'
+  URL: https://doi.org/10.1080%2F00063650109461206
+  DOI: 10.1080/00063650109461206
+...

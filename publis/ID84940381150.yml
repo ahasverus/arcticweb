@@ -1,0 +1,21 @@
+---
+references:
+- id: ID84940381150
+  type: article-journal
+  author:
+  - family: Ginzburg
+    given: L.
+  - family: Krebs
+    given: C.
+  issued:
+  - year: '2015'
+    month: '8'
+  title: 'Mammalian cycles: Internally defined periods and interaction-driven amplitudes'
+  container-title: PeerJ
+  publisher: PeerJ
+  page: 'e1180'
+  volume: '3'
+  issue: '8'
+  URL: https://doi.org/10.7717%2Fpeerj.1180
+  DOI: 10.7717/peerj.1180
+...

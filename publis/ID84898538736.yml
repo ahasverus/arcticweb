@@ -1,0 +1,37 @@
+---
+references:
+- id: ID84898538736
+  type: article-journal
+  author:
+  - family: Lagerholm
+    given: V. K.
+  - family: Sandoval-Castellanos
+    given: E.
+  - family: Ehrich
+    given: D.
+  - family: Abramson
+    given: N. I.
+  - family: Nadachowski
+    given: A.
+  - family: Kalthoff
+    given: D. C.
+  - family: Germonpré
+    given: M.
+  - family: Angerbjörn
+    given: A.
+  - family: Stewart
+    given: J. R.
+  - family: Dalén
+    given: L.
+  issued:
+  - year: '2014'
+    month: '3'
+  title: On the origin of the Norwegian lemming
+  container-title: Molecular Ecology
+  publisher: Wiley-Blackwell
+  page: '2060-2071'
+  volume: '23'
+  issue: '8'
+  URL: https://doi.org/10.1111%2Fmec.12698
+  DOI: 10.1111/mec.12698
+...

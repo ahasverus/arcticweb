@@ -1,0 +1,22 @@
+---
+references:
+- id: ID77953687542
+  type: article-journal
+  author:
+  - family: Smith
+    given: P. A.
+  - family: Wilson
+    given: S.
+  issued:
+  - year: '2010'
+    month: '5'
+  title: Intraseasonal patterns in shorebird nest survival are related to nest age
+    and defence behaviour
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '613-624'
+  volume: '163'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs00442-010-1644-y
+  DOI: 10.1007/s00442-010-1644-y
+...

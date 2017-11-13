@@ -1,0 +1,27 @@
+---
+references:
+- id: ID0033913628
+  type: article-journal
+  author:
+  - family: Gomulkiewicz
+    given: R.
+  - family: Thompson
+    given: J. N.
+  - family: Holt
+    given: R. D.
+  - family: Nuismer
+    given: S. L.
+  - family: Hochberg
+    given: M. E.
+  issued:
+  - year: '2000'
+    month: '8'
+  title: Hot spots, cold spots, and the geographic mosaic theory of coevolution
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '156-174'
+  volume: '156'
+  issue: '2'
+  URL: https://doi.org/10.1086%2F303382
+  DOI: 10.1086/303382
+...

@@ -1,0 +1,40 @@
+---
+references:
+- id: ID84904260293
+  type: article-journal
+  author:
+  - family: Biuw
+    given: M.
+  - family: Jepsen
+    given: J. U.
+  - family: Cohen
+    given: J.
+  - family: Ahonen
+    given: S. H.
+  - family: Tejesvi
+    given: M.
+  - family: Aikio
+    given: S.
+  - family: Wäli
+    given: P. R.
+  - family: Vindstad
+    given: O. P. L.
+  - family: Markkola
+    given: A.
+  - family: Niemelä
+    given: P.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2014'
+    month: '4'
+  title: 'Long-term Impacts of Contrasting Management of Large Ungulates in the
+    Arctic Tundra-Forest Ecotone: Ecosystem Structure and Climate Feedback'
+  container-title: Ecosystems
+  publisher: Springer Nature
+  page: '890-905'
+  volume: '17'
+  issue: '5'
+  URL: https://doi.org/10.1007%2Fs10021-014-9767-3
+  DOI: 10.1007/s10021-014-9767-3
+...

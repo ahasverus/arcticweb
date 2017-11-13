@@ -1,0 +1,24 @@
+---
+references:
+- id: ID51249096943
+  type: article-journal
+  author:
+  - family: Clynick
+    given: B. G.
+  - family: McKindsey
+    given: C. W.
+  - family: Archambault
+    given: P.
+  issued:
+  - year: '2008'
+    month: '10'
+  title: Distribution and productivity of fish and macroinvertebrates in mussel aquaculture
+    sites in the Magdalen islands (Québec, Canada)
+  container-title: Aquaculture
+  publisher: Elsevier BV
+  page: '203-210'
+  volume: '283'
+  issue: '1-4'
+  URL: https://doi.org/10.1016%2Fj.aquaculture.2008.06.009
+  DOI: 10.1016/j.aquaculture.2008.06.009
+...

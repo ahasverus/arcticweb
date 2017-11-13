@@ -1,0 +1,21 @@
+---
+references:
+- id: ID84885592062
+  type: article-journal
+  author:
+  - family: Legagneux
+    given: P.
+  - family: Ducatez
+    given: S.
+  issued:
+  - year: '2013'
+    month: '8'
+  title: European birds adjust their flight initiation distance to road speed limits.
+  container-title: Biology Letters
+  publisher: The Royal Society
+  page: '20130417-20130417'
+  volume: '9'
+  issue: '5'
+  URL: https://doi.org/10.1098%2Frsbl.2013.0417
+  DOI: 10.1098/rsbl.2013.0417
+...

@@ -1,0 +1,24 @@
+---
+references:
+- id: ID74149092365
+  type: article-journal
+  author:
+  - family: Collin
+    given: A.
+  - family: Long
+    given: B.
+  - family: Archambault
+    given: P.
+  issued:
+  - year: '2010'
+    month: '3'
+  title: Salt-marsh characterization, zonation assessment and mapping through a dual-wavelength
+    LiDAR
+  container-title: Remote Sensing of Environment
+  publisher: Elsevier BV
+  page: '520-530'
+  volume: '114'
+  issue: '3'
+  URL: https://doi.org/10.1016%2Fj.rse.2009.10.011
+  DOI: 10.1016/j.rse.2009.10.011
+...

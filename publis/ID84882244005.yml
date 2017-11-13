@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84882244005
+  type: article-journal
+  author:
+  - family: Sokolov
+    given: A. A.
+  - family: Tizik
+    given: A. P.
+  - family: Tsurkov
+    given: V. I.
+  issued:
+  - year: '2013'
+    month: '7'
+  title: Iterative method for the transportation problem with additional supply and
+    consumption points and quadratic cost
+  container-title: Journal of Computer and Systems Sciences International
+  publisher: Pleiades Publishing Ltd
+  page: '588-598'
+  volume: '52'
+  issue: '4'
+  URL: https://doi.org/10.1134%2Fs106423071304014x
+  DOI: 10.1134/s106423071304014x
+...

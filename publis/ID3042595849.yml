@@ -1,0 +1,26 @@
+---
+references:
+- id: ID3042595849
+  type: article-journal
+  author:
+  - family: Bråthen
+    given: K. A.
+  - family: Agrell
+    given: J.
+  - family: Berteaux
+    given: D.
+  - family: Jónsdóttir
+    given: I. S.
+  issued:
+  - year: '2004'
+    month: '6'
+  title: 'Intraclonal variation in defence substances and palatability: A study
+    on Carex and lemmings'
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '461-470'
+  volume: '105'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.0030-1299.2004.12926.x
+  DOI: 10.1111/j.0030-1299.2004.12926.x
+...

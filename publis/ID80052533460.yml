@@ -1,0 +1,32 @@
+---
+references:
+- id: ID80052533460
+  type: article-journal
+  author:
+  - family: Myers-Smith
+    given: I. H.
+  - family: Hik
+    given: D. S.
+  - family: Kennedy
+    given: C.
+  - family: Cooley
+    given: D.
+  - family: Johnstone
+    given: J. F.
+  - family: Kenney
+    given: A. J.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '2011'
+    month: '8'
+  title: Expansion of canopy-forming willows over the twentieth century on Herschel
+    Island, Yukon Territory, Canada
+  container-title: AMBIO
+  publisher: Springer Nature
+  page: '610-623'
+  volume: '40'
+  issue: '6'
+  URL: https://doi.org/10.1007%2Fs13280-011-0168-y
+  DOI: 10.1007/s13280-011-0168-y
+...

@@ -1,0 +1,43 @@
+---
+references:
+- id: ID85010378826
+  type: article-journal
+  author:
+  - family: Schmidt
+    given: N. M.
+  - family: Hardwick
+    given: B.
+  - family: Gilg
+    given: O.
+  - family: Høye
+    given: T. T.
+  - family: Krogh
+    given: P. H.
+  - family: Meltofte
+    given: H.
+  - family: Michelsen
+    given: A.
+  - family: Mosbacher
+    given: J. B.
+  - family: Raundrup
+    given: K.
+  - family: Reneerkens
+    given: J.
+  - family: Stewart
+    given: L.
+  - family: Wirta
+    given: H.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2017'
+    month: '1'
+  title: 'Interaction webs in arctic ecosystems: Determinants of arctic change?'
+  container-title: Ambio
+  publisher: Springer Nature
+  page: '12-25'
+  volume: '46'
+  issue: S1
+  URL: https://doi.org/10.1007%2Fs13280-016-0862-x
+  DOI: 10.1007/s13280-016-0862-x
+...

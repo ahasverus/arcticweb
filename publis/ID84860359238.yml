@@ -1,0 +1,35 @@
+---
+references:
+- id: ID84860359238
+  type: article-journal
+  author:
+  - family: Münkemüller
+    given: T.
+  - family: Bello
+    given: F.
+    dropping-particle: de
+  - family: Meynard
+    given: C. N.
+  - family: Gravel
+    given: D.
+  - family: Lavergne
+    given: S.
+  - family: Mouillot
+    given: D.
+  - family: Mouquet
+    given: N.
+  - family: Thuiller
+    given: W.
+  issued:
+  - year: '2011'
+    month: '11'
+  title: 'From diversity indices to community assembly processes: A test with simulated
+    data'
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '468-480'
+  volume: '35'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.1600-0587.2011.07259.x
+  DOI: 10.1111/j.1600-0587.2011.07259.x
+...

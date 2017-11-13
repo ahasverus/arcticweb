@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84893698270
+  type: article-journal
+  author:
+  - family: Albouy
+    given: C.
+  - family: Velez
+    given: L.
+  - family: Coll
+    given: M.
+  - family: Colloca
+    given: F.
+  - family: Loc'H
+    given: F. L.
+  - family: Mouillot
+    given: D.
+  - family: Gravel
+    given: D.
+  issued:
+  - year: '2014'
+    month: '1'
+  title: From projected species distribution to food-web structure under climate change
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '730-741'
+  volume: '20'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fgcb.12467
+  DOI: 10.1111/gcb.12467
+...

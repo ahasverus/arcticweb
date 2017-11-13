@@ -1,0 +1,28 @@
+---
+references:
+- id: ID10344257553
+  type: article-journal
+  author:
+  - family: Devin
+    given: S.
+  - family: Bollache
+    given: L.
+  - family: Beisel
+    given: J.-N.
+  - family: Moreteau
+    given: J.-C.
+  - family: Perrot-Minnot
+    given: M.-J.
+  issued:
+  - year: '2004'
+    month: '12'
+  title: 'Pigmentation polymorphism in the invasive amphipod Dikerogammarus villosus:
+    Some insights into its maintenance'
+  container-title: Journal of Zoology
+  publisher: Wiley-Blackwell
+  page: '391-397'
+  volume: '264'
+  issue: '4'
+  URL: https://doi.org/10.1017%2Fs0952836904005862
+  DOI: 10.1017/s0952836904005862
+...

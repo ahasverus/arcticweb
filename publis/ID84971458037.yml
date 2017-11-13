@@ -1,0 +1,55 @@
+---
+references:
+- id: ID84971458037
+  type: article-journal
+  author:
+  - family: Frederiksen
+    given: M.
+  - family: Descamps
+    given: S.
+  - family: Erikstad
+    given: K. E.
+  - family: Gaston
+    given: A. J.
+  - family: Gilchrist
+    given: H. G.
+  - family: Grémillet
+    given: D.
+  - family: Johansen
+    given: K. L.
+  - family: Kolbeinsson
+    given: Y.
+  - family: Linnebjerg
+    given: J. F.
+  - family: Mallory
+    given: M. L.
+  - family: Tranquilla
+    given: L. A. M.
+  - family: Merkel
+    given: F. R.
+  - family: Montevecchi
+    given: W. A.
+  - family: Mosbech
+    given: A.
+  - family: Reiertsen
+    given: T. K.
+  - family: Robertson
+    given: G. J.
+  - family: Steen
+    given: H.
+  - family: Strøm
+    given: H.
+  - family: Thórarinsson
+    given: T. L.
+  issued:
+  - year: '2016'
+    month: '8'
+  title: 'Migration and wintering of a declining seabird, the thick-billed murre
+    Uria lomvia, on an ocean basin scale: Conservation implications'
+  container-title: Biological Conservation
+  publisher: Elsevier BV
+  page: '26-35'
+  volume: '200'
+  URL: https://doi.org/10.1016%2Fj.biocon.2016.05.011
+  DOI: 10.1016/j.biocon.2016.05.011
+...

@@ -1,0 +1,28 @@
+---
+references:
+- id: ID33847626039
+  type: article-journal
+  author:
+  - family: Kebede
+    given: M.
+  - family: Ehrich
+    given: D.
+  - family: Taberlet
+    given: P.
+  - family: Nemomissa
+    given: S.
+  - family: Brochmann
+    given: C.
+  issued:
+  - year: '2007'
+    month: '1'
+  title: Phylogeography and conservation genetics of a giant lobelia (Lobelia giberroa)
+    in Ethiopian and Tropical East African mountains
+  container-title: Molecular Ecology
+  publisher: Wiley-Blackwell
+  page: '1233-1243'
+  volume: '16'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1365-294x.2007.03232.x
+  DOI: 10.1111/j.1365-294x.2007.03232.x
+...

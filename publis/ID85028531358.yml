@@ -1,0 +1,27 @@
+---
+references:
+- id: ID85028531358
+  type: article-journal
+  author:
+  - family: Mäkelä
+    given: A.
+  - family: Witte
+    given: U.
+  - family: Archambault
+    given: P.
+  editor:
+  - family: Khim
+    given: Jong Seong
+  issued:
+  - year: '2017'
+    month: '8'
+  title: Benthic macroinfaunal community structure, resource utilisation and trophic
+    relationships in two Canadian Arctic Archipelago polynyas
+  container-title: PLOS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e0183034'
+  volume: '12'
+  issue: '8'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0183034
+  DOI: 10.1371/journal.pone.0183034
+...

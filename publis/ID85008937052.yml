@@ -1,0 +1,23 @@
+---
+references:
+- id: ID85008937052
+  type: article-journal
+  author:
+  - family: Collin
+    given: A.
+  - family: Archambault
+    given: P.
+  - family: Planes
+    given: S.
+  issued:
+  - year: '2014'
+    month: '11'
+  title: Revealing the regime of shallow coral reefs at patch scale by continuous
+    spatial modeling
+  container-title: Frontiers in Marine Science
+  publisher: Frontiers Media SA
+  volume: '1'
+  issue: NOV
+  URL: https://doi.org/10.3389%2Ffmars.2014.00065
+  DOI: 10.3389/fmars.2014.00065
+...

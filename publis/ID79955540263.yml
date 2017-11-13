@@ -1,0 +1,58 @@
+---
+references:
+- id: ID79955540263
+  type: article-journal
+  author:
+  - family: Certain
+    given: G.
+  - family: Skarpaas
+    given: O.
+  - family: Bjerke
+    given: J.-W.
+  - family: Framstad
+    given: E.
+  - family: Lindholm
+    given: M.
+  - family: Nilsen
+    given: J.-E.
+  - family: Norderhaug
+    given: A.
+  - family: Oug
+    given: E.
+  - family: Pedersen
+    given: H.-C.
+  - family: Schartau
+    given: A.-K.
+  - family: Meeren
+    given: G. I.
+    dropping-particle: van der
+  - family: Aslaksen
+    given: I.
+  - family: Engen
+    given: S.
+  - family: Garnåsjordet
+    given: P.-A.
+  - family: Kvaløy
+    given: P.
+  - family: Lillegård
+    given: M.
+  - family: Yoccoz
+    given: N. G.
+  - family: Nybø
+    given: S.
+  editor:
+  - family: Schierwater
+    given: Bernd
+  issued:
+  - year: '2011'
+    month: '4'
+  title: 'The nature index: A general framework for synthesizing knowledge on the
+    state of biodiversity'
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e18930'
+  volume: '6'
+  issue: '4'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0018930
+  DOI: 10.1371/journal.pone.0018930
+...

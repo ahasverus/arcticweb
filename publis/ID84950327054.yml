@@ -1,0 +1,83 @@
+---
+references:
+- id: ID84950327054
+  type: article-journal
+  author:
+  - family: Wirta
+    given: H.
+  - family: Várkonyi
+    given: G.
+  - family: Rasmussen
+    given: C.
+  - family: Kaartinen
+    given: R.
+  - family: Schmidt
+    given: N. M.
+  - family: Hebert
+    given: P. D. N.
+  - family: Barták
+    given: M.
+  - family: Blagoev
+    given: G.
+  - family: Disney
+    given: H.
+  - family: Ertl
+    given: S.
+  - family: Gjelstrup
+    given: P.
+  - family: Gwiazdowicz
+    given: D. J.
+  - family: Huldén
+    given: L.
+  - family: Ilmonen
+    given: J.
+  - family: Jakovlev
+    given: J.
+  - family: Jaschhof
+    given: M.
+  - family: Kahanpää
+    given: J.
+  - family: Kankaanpää
+    given: T.
+  - family: Krogh
+    given: P. H.
+  - family: Labbee
+    given: R.
+  - family: Lettner
+    given: C.
+  - family: Michelsen
+    given: V.
+  - family: Nielsen
+    given: S. A.
+  - family: Nielsen
+    given: T. R.
+  - family: Paasivirta
+    given: L.
+  - family: Pedersen
+    given: S.
+  - family: Pohjoismäki
+    given: J.
+  - family: Salmela
+    given: J.
+  - family: Vilkamaa
+    given: P.
+  - family: Väre
+    given: H.
+  - family: Tschirnhaus
+    given: M.
+    dropping-particle: von
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2015'
+    month: '12'
+  title: Establishing a community-wide DNA barcode library as a new tool for arctic
+    research
+  container-title: Molecular Ecology Resources
+  publisher: Wiley-Blackwell
+  page: '809-822'
+  volume: '16'
+  issue: '3'
+  URL: https://doi.org/10.1111%2F1755-0998.12489
+  DOI: 10.1111/1755-0998.12489
+...

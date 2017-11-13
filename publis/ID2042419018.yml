@@ -1,0 +1,29 @@
+---
+references:
+- id: ID2042419018
+  type: article-journal
+  author:
+  - family: Ropert-Coudert
+    given: Y.
+  - family: Grémillet
+    given: D.
+  - family: Ryan
+    given: P.
+  - family: Kato
+    given: A.
+  - family: Naito
+    given: Y.
+  - family: Maho
+    given: Y. L.
+  issued:
+  - year: '2003'
+    month: '12'
+  title: 'Between air and water: The plunge dive of the Cape Gannet Morus capensis'
+  container-title: Ibis
+  publisher: Wiley-Blackwell
+  page: '281-290'
+  volume: '146'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1474-919x.2003.00250.x
+  DOI: 10.1111/j.1474-919x.2003.00250.x
+...

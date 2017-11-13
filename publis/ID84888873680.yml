@@ -1,0 +1,44 @@
+---
+references:
+- id: ID84888873680
+  type: article-journal
+  author:
+  - family: Dalsgaard
+    given: B.
+  - family: Trøjelsgaard
+    given: K.
+  - family: González
+    given: A. M. M.
+  - family: Nogués-Bravo
+    given: D.
+  - family: Ollerton
+    given: J.
+  - family: Petanidou
+    given: T.
+  - family: Sandel
+    given: B.
+  - family: Schleuning
+    given: M.
+  - family: Wang
+    given: Z.
+  - family: Rahbek
+    given: C.
+  - family: Sutherland
+    given: W. J.
+  - family: Svenning
+    given: J.-C.
+  - family: Olesen
+    given: J. M.
+  issued:
+  - year: '2013'
+    month: '5'
+  title: Historical climate-change influences modularity and nestedness of pollination
+    networks
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '1331-1340'
+  volume: '36'
+  issue: '12'
+  URL: https://doi.org/10.1111%2Fj.1600-0587.2013.00201.x
+  DOI: 10.1111/j.1600-0587.2013.00201.x
+...

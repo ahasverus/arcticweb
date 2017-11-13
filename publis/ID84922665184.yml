@@ -1,0 +1,22 @@
+---
+references:
+- id: ID84922665184
+  type: article-journal
+  author:
+  - family: Liénard
+    given: J. F.
+  - family: Gravel
+    given: D.
+  - family: Strigul
+    given: N. S.
+  issued:
+  - year: '2015'
+    month: '5'
+  title: Data-intensive modeling of forest dynamics
+  container-title: Environmental Modelling & Software
+  publisher: Elsevier BV
+  page: '138-148'
+  volume: '67'
+  URL: https://doi.org/10.1016%2Fj.envsoft.2015.01.010
+  DOI: 10.1016/j.envsoft.2015.01.010
+...

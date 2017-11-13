@@ -1,0 +1,31 @@
+---
+references:
+- id: ID34248665569
+  type: article-journal
+  author:
+  - family: Lyberth
+    given: B.
+  - family: Landa
+    given: A.
+  - family: Nagy
+    given: J.
+  - family: Loison
+    given: A.
+  - family: Olesen
+    given: C. R.
+  - family: Gunn
+    given: A.
+  - family: Forchhammer
+    given: M. C.
+  issued:
+  - year: '2007'
+    month: '6'
+  title: Muskoxen in the high Arctic-temporal and spatial differences in body size
+  container-title: Journal of Zoology
+  publisher: Wiley-Blackwell
+  page: '227-234'
+  volume: '272'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1469-7998.2006.00262.x
+  DOI: 10.1111/j.1469-7998.2006.00262.x
+...

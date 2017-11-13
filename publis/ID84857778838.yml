@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84857778838
+  type: article-journal
+  author:
+  - family: Krebs
+    given: C. J.
+  - family: Lamontagne
+    given: J. M.
+  - family: Kenney
+    given: A. J.
+  - family: Boutin
+    given: S.
+  issued:
+  - year: '2012'
+    month: '2'
+  title: Climatic determinants of white spruce cone crops in the boreal forest of
+    southwestern Yukon
+  container-title: Botany
+  publisher: Canadian Science Publishing
+  page: '113-119'
+  volume: '90'
+  issue: '2'
+  URL: https://doi.org/10.1139%2Fb11-088
+  DOI: 10.1139/b11-088
+...

@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84880508928
+  type: article-journal
+  author:
+  - family: Grabowski
+    given: M. M.
+  - family: Doyle
+    given: F. I.
+  - family: Reid
+    given: D. G.
+  - family: Mossop
+    given: D.
+  - family: Talarico
+    given: D.
+  issued:
+  - year: '2013'
+    month: '5'
+  title: Do Arctic-nesting birds respond to earlier snowmelt? A multi-species study
+    in north Yukon, Canada
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '1097-1105'
+  volume: '36'
+  issue: '8'
+  URL: https://doi.org/10.1007%2Fs00300-013-1332-6
+  DOI: 10.1007/s00300-013-1332-6
+...

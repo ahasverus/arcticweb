@@ -1,0 +1,32 @@
+---
+references:
+- id: ID85025083202
+  type: article-journal
+  author:
+  - family: Mallory
+    given: C. D.
+  - family: Gilchrist
+    given: H. G.
+  - family: Robertson
+    given: G. J.
+  - family: Provencher
+    given: J. F.
+  - family: Braune
+    given: B. M.
+  - family: Forbes
+    given: M. R.
+  - family: Mallory
+    given: M. L.
+  issued:
+  - year: '2017'
+    month: '11'
+  title: Hepatic trace element concentrations of breeding female common eiders across
+    a latitudinal gradient in the eastern Canadian Arctic
+  container-title: Marine Pollution Bulletin
+  publisher: Elsevier BV
+  page: '252-257'
+  volume: '124'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fj.marpolbul.2017.07.050
+  DOI: 10.1016/j.marpolbul.2017.07.050
+...

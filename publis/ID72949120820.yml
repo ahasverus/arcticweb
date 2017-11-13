@@ -1,0 +1,28 @@
+---
+references:
+- id: ID72949120820
+  type: article-journal
+  author:
+  - family: Henden
+    given: J.-A.
+  - family: Ims
+    given: R. A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Hellström
+    given: P.
+  - family: Angerbjörn
+    given: A.
+  issued:
+  - year: '2010'
+    month: '1'
+  title: 'Strength of asymmetric competition between predators in food webs ruled
+    by fluctuating prey: The case of foxes in tundra'
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '27-34'
+  volume: '119'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1600-0706.2009.17604.x
+  DOI: 10.1111/j.1600-0706.2009.17604.x
+...

@@ -1,0 +1,32 @@
+---
+references:
+- id: ID77957742274
+  type: article-journal
+  author:
+  - family: Fort
+    given: J.
+  - family: Cherel
+    given: Y.
+  - family: Harding
+    given: A.
+  - family: Welcker
+    given: J.
+  - family: Jakubas
+    given: D.
+  - family: Steen
+    given: H.
+  - family: Karnovsky
+    given: N.
+  - family: Grémillet
+    given: D.
+  issued:
+  - year: '2010'
+    month: '9'
+  title: Geographic and seasonal variability in the isotopic niche of little auks
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '293-302'
+  volume: '414'
+  URL: https://doi.org/10.3354%2Fmeps08721
+  DOI: 10.3354/meps08721
+...

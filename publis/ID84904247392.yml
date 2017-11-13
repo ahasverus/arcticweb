@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84904247392
+  type: article-journal
+  author:
+  - family: Roy
+    given: V.
+  - family: Iken
+    given: K.
+  - family: Archambault
+    given: P.
+  editor:
+  - family: Hewitt
+    given: Judi
+  issued:
+  - year: '2014'
+    month: '7'
+  title: Environmental drivers of the Canadian Arctic megabenthic communities
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e100900'
+  volume: '9'
+  issue: '7'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0100900
+  DOI: 10.1371/journal.pone.0100900
+...

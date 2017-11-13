@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84864008971
+  type: article-journal
+  author:
+  - family: Fort
+    given: J.
+  - family: Beaugrand
+    given: G.
+  - family: Grémillet
+    given: D.
+  - family: Phillips
+    given: R. A.
+  editor:
+  - family: Hyrenbach
+    given: David
+  issued:
+  - year: '2012'
+    month: '7'
+  title: Biologging, remotely-sensed oceanography and the continuous plankton recorder
+    reveal the environmental determinants of a seabird wintering hotspot
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e41194'
+  volume: '7'
+  issue: '7'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0041194
+  DOI: 10.1371/journal.pone.0041194
+...

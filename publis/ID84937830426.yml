@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84937830426
+  type: article-journal
+  author:
+  - family: Duguay
+    given: Y.
+  - family: Bernier
+    given: M.
+  - family: Lévesque
+    given: E.
+  - family: Tremblay
+    given: B.
+  issued:
+  - year: '2015'
+    month: '7'
+  title: Potential of C and X band SAR for shrub growth monitoring in sub-arctic environments
+  container-title: Remote Sensing
+  publisher: MDPI AG
+  page: '9410-9430'
+  volume: '7'
+  issue: '7'
+  URL: https://doi.org/10.3390%2Frs70709410
+  DOI: 10.3390/rs70709410
+...

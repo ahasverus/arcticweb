@@ -1,0 +1,22 @@
+---
+references:
+- id: ID80053244012
+  type: article-journal
+  author:
+  - family: Holt
+    given: R. D.
+  - family: Barfield
+    given: M.
+  issued:
+  - year: '2011'
+    month: '10'
+  title: Theoretical perspectives on the statics and dynamics of species’ borders
+    in patchy environments
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: S6-S25
+  volume: '178'
+  issue: S1
+  URL: https://doi.org/10.1086%2F661784
+  DOI: 10.1086/661784
+...

@@ -1,0 +1,33 @@
+---
+references:
+- id: ID84939264893
+  type: article-journal
+  author:
+  - family: Plard
+    given: F.
+  - family: Yoccoz
+    given: N. G.
+  - family: Bonenfant
+    given: C.
+  - family: Klein
+    given: F.
+  - family: Warnant
+    given: C.
+  - family: Gaillard
+    given: J.-M.
+  editor:
+  - family: Jones
+    given: James
+  issued:
+  - year: '2015'
+    month: '6'
+  title: 'Disentangling direct and growth-mediated influences on early survival:
+    A mechanistic approach'
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '1363-1372'
+  volume: '84'
+  issue: '5'
+  URL: https://doi.org/10.1111%2F1365-2656.12378
+  DOI: 10.1111/1365-2656.12378
+...

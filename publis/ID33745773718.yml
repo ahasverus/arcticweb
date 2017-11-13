@@ -1,0 +1,26 @@
+---
+references:
+- id: ID33745773718
+  type: article-journal
+  author:
+  - family: Richard
+    given: M.
+  - family: Archambault
+    given: P.
+  - family: Thouzeau
+    given: G.
+  - family: Desrosiers
+    given: G.
+  issued:
+  - year: '2006'
+    month: '6'
+  title: Influence of suspended mussel lines on the biogeochemical fluxes in adjacent
+    water in the Îles-de-la-Madeleine (Quebec, Canada)
+  container-title: Canadian Journal of Fisheries and Aquatic Sciences
+  publisher: Canadian Science Publishing
+  page: '1198-1213'
+  volume: '63'
+  issue: '6'
+  URL: https://doi.org/10.1139%2Ff06-030
+  DOI: 10.1139/f06-030
+...

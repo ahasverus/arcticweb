@@ -1,0 +1,26 @@
+---
+references:
+- id: ID34547997185
+  type: article-journal
+  author:
+  - family: Sanders
+    given: N. J.
+  - family: Lessard
+    given: J.-P.
+  - family: Fitzpatrick
+    given: M. C.
+  - family: Dunn
+    given: R. R.
+  issued:
+  - year: '2007'
+    month: '9'
+  title: Temperature, but not productivity or geometry, predicts elevational diversity
+    gradients in ants across spatial grains
+  container-title: Global Ecology and Biogeography
+  publisher: Wiley-Blackwell
+  page: '640-649'
+  volume: '16'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.1466-8238.2007.00316.x
+  DOI: 10.1111/j.1466-8238.2007.00316.x
+...

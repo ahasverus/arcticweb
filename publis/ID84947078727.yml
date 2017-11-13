@@ -1,0 +1,33 @@
+---
+references:
+- id: ID84947078727
+  type: article-journal
+  author:
+  - family: Monti
+    given: F.
+  - family: Duriez
+    given: O.
+  - family: Arnal
+    given: V.
+  - family: Dominici
+    given: J.-M.
+  - family: Sforzi
+    given: A.
+  - family: Fusani
+    given: L.
+  - family: Grémillet
+    given: D.
+  - family: Montgelard
+    given: C.
+  issued:
+  - year: '2015'
+    month: '11'
+  title: 'Being cosmopolitan: evolutionary history and phylogeography of a specialized
+    raptor, the Osprey Pandion haliaetus'
+  container-title: BMC Evolutionary Biology
+  publisher: Springer Nature
+  volume: '15'
+  issue: '1'
+  URL: https://doi.org/10.1186%2Fs12862-015-0535-6
+  DOI: 10.1186/s12862-015-0535-6
+...

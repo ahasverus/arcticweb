@@ -1,0 +1,23 @@
+---
+references:
+- id: ID0043130217
+  type: article-journal
+  author:
+  - family: Loreau
+    given: M.
+  - family: Mouquet
+    given: N.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2003'
+    month: '8'
+  title: 'Meta-ecosystems: A theoretical framework for a spatial ecosystem ecology'
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '673-679'
+  volume: '6'
+  issue: '8'
+  URL: https://doi.org/10.1046%2Fj.1461-0248.2003.00483.x
+  DOI: 10.1046/j.1461-0248.2003.00483.x
+...

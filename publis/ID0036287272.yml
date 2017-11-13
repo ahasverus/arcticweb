@@ -1,0 +1,23 @@
+---
+references:
+- id: ID0036287272
+  type: article-journal
+  author:
+  - family: Schmid
+    given: H.-J.
+  - family: Stolz
+    given: S.
+  - family: Buggisch
+    given: H.
+  issued:
+  - year: '2002'
+  title: On the modelling of the electro-hydrodynamic flow field in electrostatic
+    precipitators
+  container-title: Flow, Turbulence and Combustion
+  publisher: Springer Nature
+  page: '63-89'
+  volume: '68'
+  issue: '1'
+  URL: https://doi.org/10.1023%2Fa%3A1015666116174
+  DOI: 10.1023/a:1015666116174
+...

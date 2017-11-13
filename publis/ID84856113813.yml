@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84856113813
+  type: article-journal
+  author:
+  - family: Pedersen
+    given: S. Ø.
+  - family: Bårdsen
+    given: B.-J.
+  - family: Yoccoz
+    given: N. G.
+  - family: Lecomte
+    given: N.
+  - family: Fuglei
+    given: E.
+  issued:
+  - year: '2011'
+    month: '12'
+  title: 'Monitoring Svalbard rock ptarmigan: Distance sampling and occupancy modeling'
+  container-title: The Journal of Wildlife Management
+  publisher: Wiley-Blackwell
+  page: '308-316'
+  volume: '76'
+  issue: '2'
+  URL: https://doi.org/10.1002%2Fjwmg.276
+  DOI: 10.1002/jwmg.276
+...

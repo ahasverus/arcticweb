@@ -1,0 +1,27 @@
+---
+references:
+- id: ID85020422201
+  type: article-journal
+  author:
+  - family: Quinzin
+    given: M. C.
+  - family: Normand
+    given: S.
+  - family: Dellicour
+    given: S.
+  - family: Svenning
+    given: J.-C.
+  - family: Mardulyn
+    given: P.
+  issued:
+  - year: '2017'
+    month: '6'
+  title: Glacial survival of trophically linked boreal species in northern Europe
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '20162799'
+  volume: '284'
+  issue: '1856'
+  URL: https://doi.org/10.1098%2Frspb.2016.2799
+  DOI: 10.1098/rspb.2016.2799
+...

@@ -1,0 +1,27 @@
+---
+references:
+- id: ID77950225646
+  type: article-journal
+  author:
+  - family: Buisson
+    given: L.
+  - family: Thuiller
+    given: W.
+  - family: Casajus
+    given: N.
+  - family: Lek
+    given: S.
+  - family: Grenouillet
+    given: G.
+  issued:
+  - year: '2010'
+    month: '4'
+  title: Uncertainty in ensemble forecasting of species distribution
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '1145-1157'
+  volume: '16'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1365-2486.2009.02000.x
+  DOI: 10.1111/j.1365-2486.2009.02000.x
+...

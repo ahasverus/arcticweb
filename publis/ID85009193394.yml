@@ -1,0 +1,50 @@
+---
+references:
+- id: ID85009193394
+  type: article-journal
+  author:
+  - family: Ballard
+    given: J. R.
+  - family: Mickley
+    given: R.
+  - family: Gibbs
+    given: S. E. J.
+  - family: Dwyer
+    given: C.
+  - family: Soos
+    given: C.
+  - family: Harms
+    given: N. J.
+  - family: Gilchrist
+    given: H. G.
+  - family: Hall
+    given: J. S.
+  - family: Franson
+    given: J. C.
+  - family: Milton
+    given: G. R.
+  - family: Parsons
+    given: G.
+  - family: Allen
+    given: B.
+  - family: Giroux
+    given: J.-F.
+  - family: Lair
+    given: S.
+  - family: Mead
+    given: D. G.
+  - family: Fischer
+    given: J. R.
+  issued:
+  - year: '2017'
+    month: '1'
+  title: Prevalence and distribution of wellfleet bay virus exposure in the common
+    eider (Somateria mollissima)
+  container-title: Journal of Wildlife Diseases
+  publisher: Wildlife Disease Association
+  page: '81-90'
+  volume: '53'
+  issue: '1'
+  URL: https://doi.org/10.7589%2F2016-01-019
+  DOI: 10.7589/2016-01-019
+...

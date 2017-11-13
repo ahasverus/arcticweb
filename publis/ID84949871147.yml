@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84949871147
+  type: article-journal
+  author:
+  - family: Slade
+    given: E. M.
+  - family: Roslin
+    given: T.
+  - family: Santalahti
+    given: M.
+  - family: Bell
+    given: T.
+  issued:
+  - year: '2015'
+    month: '10'
+  title: 'Disentangling the ’brown world’ faecal-detritus interaction web: Dung
+    beetle effects on soil microbial properties'
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '629-635'
+  volume: '125'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Foik.02640
+  DOI: 10.1111/oik.02640
+...

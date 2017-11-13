@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84889607613
+  type: article-journal
+  author:
+  - family: Johnson
+    given: F. A.
+  - family: Jensen
+    given: G. H.
+  - family: Madsen
+    given: J.
+  - family: Williams
+    given: B. K.
+  issued:
+  - year: '2014'
+    month: '2'
+  title: Uncertainty, robustness, and the value of information in managing an expanding
+    Arctic goose population
+  container-title: Ecological Modelling
+  publisher: Elsevier BV
+  page: '186-199'
+  volume: '273'
+  URL: https://doi.org/10.1016%2Fj.ecolmodel.2013.10.031
+  DOI: 10.1016/j.ecolmodel.2013.10.031
+...

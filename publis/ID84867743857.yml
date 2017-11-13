@@ -1,0 +1,22 @@
+---
+references:
+- id: ID84867743857
+  type: article-journal
+  author:
+  - family: Kaartinen
+    given: R.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2012'
+    month: '3'
+  title: High temporal consistency in quantitative food web structure in the face
+    of extreme species turnover
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '1771-1782'
+  volume: '121'
+  issue: '11'
+  URL: https://doi.org/10.1111%2Fj.1600-0706.2012.20108.x
+  DOI: 10.1111/j.1600-0706.2012.20108.x
+...

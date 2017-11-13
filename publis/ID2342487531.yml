@@ -1,0 +1,30 @@
+---
+references:
+- id: ID2342487531
+  type: article-journal
+  author:
+  - family: Ropert-Coudert
+    given: Y.
+  - family: Grémillet
+    given: D.
+  - family: Kato
+    given: A.
+  - family: Ryan
+    given: P. G.
+  - family: Naito
+    given: Y.
+  - family: Maho
+    given: Y. L.
+  issued:
+  - year: '2004'
+    month: '5'
+  title: A fine-scale time budget of Cape gannets provides insights into the foraging
+    strategies of coastal seabirds
+  container-title: Animal Behaviour
+  publisher: Elsevier BV
+  page: '985-992'
+  volume: '67'
+  issue: '5'
+  URL: https://doi.org/10.1016%2Fj.anbehav.2003.09.010
+  DOI: 10.1016/j.anbehav.2003.09.010
+...

@@ -1,0 +1,23 @@
+---
+references:
+- id: ID0032749618
+  type: article-journal
+  author:
+  - family: Hovland
+    given: N.
+  - family: Andreassen
+    given: H. P.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '1999'
+    month: '11'
+  title: Foraging behaviour of the root vole Microtus oeconomus in fragmented habitats
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '236-244'
+  volume: '121'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs004420050925
+  DOI: 10.1007/s004420050925
+...

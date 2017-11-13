@@ -1,0 +1,28 @@
+---
+references:
+- id: ID77955768766
+  type: article-journal
+  author:
+  - family: Love
+    given: O. P.
+  - family: Gilchrist
+    given: H. G.
+  - family: Descamps
+    given: S.
+  - family: Semeniuk
+    given: C. A. D.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2010'
+    month: '7'
+  title: Pre-laying climatic cues can time reproduction to optimally match offspring
+    hatching and ice conditions in an Arctic marine bird
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '277-286'
+  volume: '164'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs00442-010-1678-1
+  DOI: 10.1007/s00442-010-1678-1
+...

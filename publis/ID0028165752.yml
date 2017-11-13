@@ -1,0 +1,23 @@
+---
+references:
+- id: ID0028165752
+  type: article-journal
+  author:
+  - family: Hertzberg
+    given: K.
+  - family: Leinaas
+    given: H. P.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '1994'
+    month: '12'
+  title: 'Patterns of abundance and demography: Collembola in a habitat patch gradient'
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '349-359'
+  volume: '17'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1600-0587.1994.tb00112.x
+  DOI: 10.1111/j.1600-0587.1994.tb00112.x
+...

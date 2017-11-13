@@ -1,0 +1,41 @@
+---
+references:
+- id: ID77958063737
+  type: article-journal
+  author:
+  - family: Karnovsky
+    given: N.
+  - family: Harding
+    given: A.
+  - family: Walkusz
+    given: W.
+  - family: Kwasniewski
+    given: S.
+  - family: Goszczko
+    given: I.
+  - family: J
+    given: J. W.
+  - family: Routti
+    given: H.
+  - family: Bailey
+    given: A.
+  - family: McFadden
+    given: L.
+  - family: Brown
+    given: Z.
+  - family: Beaugrand
+    given: G.
+  - family: Grémillet
+    given: D.
+  issued:
+  - year: '2010'
+    month: '9'
+  title: 'Foraging distributions of little auks Alle alle across the Greenland Sea:
+    Implications of present and future Arctic climate change'
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '283-293'
+  volume: '415'
+  URL: https://doi.org/10.3354%2Fmeps08749
+  DOI: 10.3354/meps08749
+...

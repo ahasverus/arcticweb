@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84990934083
+  type: article-journal
+  author:
+  - family: Gallant
+    given: D.
+  - family: Léger
+    given: L.
+  - family: Tremblay
+    given: R.
+  - family: Berteaux
+    given: D.
+  - family: Lecomte
+    given: N.
+  - family: Vasseur
+    given: L.
+  issued:
+  - year: '2016'
+    month: '10'
+  title: Linking time budgets to habitat quality suggests that beavers (Castor canadensis)
+    are energy maximizers
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '671-676'
+  volume: '94'
+  issue: '10'
+  URL: https://doi.org/10.1139%2Fcjz-2016-0016
+  DOI: 10.1139/cjz-2016-0016
+...

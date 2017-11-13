@@ -1,0 +1,24 @@
+---
+references:
+- id: ID69449103750
+  type: article-journal
+  author:
+  - family: Collins
+    given: C. D.
+  - family: Holt
+    given: R. D.
+  - family: Foster
+    given: B. L.
+  issued:
+  - year: '2009'
+    month: '9'
+  title: Patch size effects on plant species decline in an experimentally fragmented
+    landscape
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '2577-2588'
+  volume: '90'
+  issue: '9'
+  URL: https://doi.org/10.1890%2F08-1405.1
+  DOI: 10.1890/08-1405.1
+...

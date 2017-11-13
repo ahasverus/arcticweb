@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84930322803
+  type: article-journal
+  author:
+  - family: Beck
+    given: I.
+  - family: Ludwig
+    given: R.
+  - family: Bernier
+    given: M.
+  - family: Lévesque
+    given: E.
+  - family: Boike
+    given: J.
+  issued:
+  - year: '2015'
+    month: '3'
+  title: Assessing Permafrost Degradation and Land Cover Changes (1986-2009) using
+    Remote Sensing Data over Umiujaq, Sub-Arctic Québec
+  container-title: Permafrost and Periglacial Processes
+  publisher: Wiley-Blackwell
+  page: '129-141'
+  volume: '26'
+  issue: '2'
+  URL: https://doi.org/10.1002%2Fppp.1839
+  DOI: 10.1002/ppp.1839
+...

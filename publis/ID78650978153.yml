@@ -1,0 +1,32 @@
+---
+references:
+- id: ID78650978153
+  type: article-journal
+  author:
+  - family: Gravel
+    given: D.
+  - family: Bell
+    given: T.
+  - family: Barbera
+    given: C.
+  - family: Bouvier
+    given: T.
+  - family: Pommier
+    given: T.
+  - family: Venail
+    given: P.
+  - family: Mouquet
+    given: N.
+  issued:
+  - year: '2010'
+    month: '12'
+  title: Experimental niche evolution alters the strength of the diversity-productivity
+    relationship
+  container-title: Nature
+  publisher: Springer Nature
+  page: '89-92'
+  volume: '469'
+  issue: '7328'
+  URL: https://doi.org/10.1038%2Fnature09592
+  DOI: 10.1038/nature09592
+...

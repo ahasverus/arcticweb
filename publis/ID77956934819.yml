@@ -1,0 +1,27 @@
+---
+references:
+- id: ID77956934819
+  type: article-journal
+  author:
+  - family: Dennehy
+    given: J. J.
+  - family: Friedenberg
+    given: N. A.
+  - family: McBride
+    given: R. C.
+  - family: Holt
+    given: R. D.
+  - family: Turner
+    given: P. E.
+  issued:
+  - year: '2010'
+    month: '5'
+  title: Experimental evidence that source genetic variation drives pathogen emergence
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '3113-3121'
+  volume: '277'
+  issue: '1697'
+  URL: https://doi.org/10.1098%2Frspb.2010.0342
+  DOI: 10.1098/rspb.2010.0342
+...

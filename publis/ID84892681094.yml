@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84892681094
+  type: article-journal
+  author:
+  - family: Morris
+    given: R. J.
+  - family: Gripenberg
+    given: S.
+  - family: Lewis
+    given: O. T.
+  - family: Roslin
+    given: T.
+  editor:
+  - family: Jordan
+    given: Ferenc
+  issued:
+  - year: '2013'
+    month: '12'
+  title: Antagonistic interaction networks are structured independently of latitude
+    and host guild
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '340-349'
+  volume: '17'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fele.12235
+  DOI: 10.1111/ele.12235
+...

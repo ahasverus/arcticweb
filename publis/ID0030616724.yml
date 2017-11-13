@@ -1,0 +1,27 @@
+---
+references:
+- id: ID0030616724
+  type: article-journal
+  author:
+  - family: Lanctot
+    given: R. B.
+  - family: Scribner
+    given: K. T.
+  - family: Lanctot
+    given: R. B.
+  - family: Weatherhead
+    given: P. J.
+  - family: Kempenaers
+    given: B.
+  issued:
+  - year: '1997'
+    month: '6'
+  title: Lekking without a paradox in the buff-breasted sandpiper
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '1051-1070'
+  volume: '149'
+  issue: '6'
+  URL: https://doi.org/10.1086%2F286038
+  DOI: 10.1086/286038
+...

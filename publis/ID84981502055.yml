@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84981502055
+  type: article-journal
+  author:
+  - family: Hansen
+    given: R. R.
+  - family: Hansen
+    given: O. L. P.
+  - family: Bowden
+    given: J. J.
+  - family: Treier
+    given: U. A.
+  - family: Normand
+    given: S.
+  - family: Høye
+    given: T.
+  issued:
+  - year: '2016'
+    month: '7'
+  title: Meter scale variation in shrub dominance and soil moisture structure Arctic
+    arthropod communities
+  container-title: PeerJ
+  publisher: PeerJ
+  page: 'e2224'
+  volume: '4'
+  issue: '7'
+  URL: https://doi.org/10.7717%2Fpeerj.2224
+  DOI: 10.7717/peerj.2224
+...

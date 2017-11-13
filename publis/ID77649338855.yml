@@ -1,0 +1,29 @@
+---
+references:
+- id: ID77649338855
+  type: article-journal
+  author:
+  - family: Pichegru
+    given: L.
+  - family: Ryan
+    given: P. G.
+  - family: Crawford
+    given: R. J. M.
+  - family: Lingen
+    given: C. D.
+    dropping-particle: van der
+  - family: Grémillet
+    given: D.
+  issued:
+  - year: '2009'
+    month: '12'
+  title: Behavioural inertia places a top marine predator at risk from environmental
+    change in the Benguela upwelling system
+  container-title: Marine Biology
+  publisher: Springer Nature
+  page: '537-544'
+  volume: '157'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs00227-009-1339-2
+  DOI: 10.1007/s00227-009-1339-2
+...

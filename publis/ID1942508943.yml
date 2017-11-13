@@ -1,0 +1,22 @@
+---
+references:
+- id: ID1942508943
+  type: article-journal
+  author:
+  - family: Bollache
+    given: L.
+  - family: Cezilly
+    given: F.
+  issued:
+  - year: '2004'
+    month: '5'
+  title: 'State-dependent pairing behaviour in male Gammarus pulex (L.) (Crustacea,
+    Amphipoda): Effects of time left to moult and prior pairing status'
+  container-title: Behavioural Processes
+  publisher: Elsevier BV
+  page: '131-137'
+  volume: '66'
+  issue: '2'
+  URL: https://doi.org/10.1016%2Fj.beproc.2004.01.010
+  DOI: 10.1016/j.beproc.2004.01.010
+...

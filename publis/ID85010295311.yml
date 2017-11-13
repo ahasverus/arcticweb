@@ -1,0 +1,25 @@
+---
+references:
+- id: ID85010295311
+  type: article-journal
+  author:
+  - family: Christensen
+    given: T. R.
+  - family: Topp-Jørgensen
+    given: E.
+  - family: Sejr
+    given: M. K.
+  - family: Schmidt
+    given: N. M.
+  issued:
+  - year: '2017'
+    month: '1'
+  title: 'Foreword: Synthesis of the Greenland Ecosystem Monitoring program'
+  container-title: Ambio
+  publisher: Springer Nature
+  page: '1-2'
+  volume: '46'
+  issue: S1
+  URL: https://doi.org/10.1007%2Fs13280-016-0860-z
+  DOI: 10.1007/s13280-016-0860-z
+...

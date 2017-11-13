@@ -1,0 +1,22 @@
+---
+references:
+- id: ID0031973593
+  type: article-journal
+  author:
+  - family: Lambin
+    given: X.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '1998'
+    month: '1'
+  title: The impact of population kin-structure on nestling survival in Townsend’s
+    voles, Microtus townsendii
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '1-16'
+  volume: '67'
+  issue: '1'
+  URL: https://doi.org/10.1046%2Fj.1365-2656.1998.00181.x
+  DOI: 10.1046/j.1365-2656.1998.00181.x
+...

@@ -1,0 +1,26 @@
+---
+references:
+- id: ID34247197776
+  type: article-journal
+  author:
+  - family: Beaudet
+    given: M.
+  - family: Brisson
+    given: J.
+  - family: Gravel
+    given: D.
+  - family: Messier
+    given: C.
+  issued:
+  - year: '2007'
+    month: '5'
+  title: Effect of a major canopy disturbance on the coexistence of Acer saccharum
+    and Fagus grandifolia in the understorey of an old-growth forest
+  container-title: Journal of Ecology
+  publisher: Wiley-Blackwell
+  page: '458-467'
+  volume: '95'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1365-2745.2007.01219.x
+  DOI: 10.1111/j.1365-2745.2007.01219.x
+...

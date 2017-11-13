@@ -1,0 +1,67 @@
+---
+references:
+- id: ID85019038936
+  type: article-journal
+  author:
+  - family: Descamps
+    given: S.
+  - family: Anker-Nilssen
+    given: T.
+  - family: Barrett
+    given: R. T.
+  - family: Irons
+    given: D. B.
+  - family: Merkel
+    given: F.
+  - family: Robertson
+    given: G. J.
+  - family: Yoccoz
+    given: N. G.
+  - family: Mallory
+    given: M. L.
+  - family: Montevecchi
+    given: W. A.
+  - family: Boertmann
+    given: D.
+  - family: Artukhin
+    given: Y.
+  - family: Christensen-Dalsgaard
+    given: S.
+  - family: Erikstad
+    given: K.-E.
+  - family: Gilchrist
+    given: H. G.
+  - family: Labansen
+    given: A. L.
+  - family: Lorentsen
+    given: S.-H.
+  - family: Mosbech
+    given: A.
+  - family: Olsen
+    given: B.
+  - family: Petersen
+    given: A.
+  - family: Rail
+    given: J.-F.
+  - family: Renner
+    given: H. M.
+  - family: Strøm
+    given: H.
+  - family: Systad
+    given: G. H.
+  - family: Wilhelm
+    given: S. I.
+  - family: Zelenskaya
+    given: L.
+  issued:
+  - year: '2017'
+    month: '5'
+  title: Circumpolar dynamics of a marine top-predator track ocean warming rates
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '3770-3780'
+  volume: '23'
+  issue: '9'
+  URL: https://doi.org/10.1111%2Fgcb.13715
+  DOI: 10.1111/gcb.13715
+...

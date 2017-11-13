@@ -1,0 +1,27 @@
+---
+references:
+- id: ID80052787665
+  type: article-journal
+  author:
+  - family: Gravel
+    given: D.
+  - family: Massol
+    given: F.
+  - family: Canard
+    given: E.
+  - family: Mouillot
+    given: D.
+  - family: Mouquet
+    given: N.
+  issued:
+  - year: '2011'
+    month: '8'
+  title: Trophic theory of island biogeography
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '1010-1016'
+  volume: '14'
+  issue: '10'
+  URL: https://doi.org/10.1111%2Fj.1461-0248.2011.01667.x
+  DOI: 10.1111/j.1461-0248.2011.01667.x
+...

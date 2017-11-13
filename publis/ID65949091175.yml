@@ -1,0 +1,26 @@
+---
+references:
+- id: ID65949091175
+  type: article-journal
+  author:
+  - family: Fløjgaard
+    given: C.
+  - family: Normand
+    given: S.
+  - family: Skov
+    given: F.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2009'
+    month: '6'
+  title: 'Ice age distributions of European small mammals: Insights from species
+    distribution modelling'
+  container-title: Journal of Biogeography
+  publisher: Wiley-Blackwell
+  page: '1152-1163'
+  volume: '36'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1365-2699.2009.02089.x
+  DOI: 10.1111/j.1365-2699.2009.02089.x
+...

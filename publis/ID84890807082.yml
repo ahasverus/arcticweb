@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84890807082
+  type: article-journal
+  author:
+  - family: Kubisch
+    given: A.
+  - family: Holt
+    given: R. D.
+  - family: Poethke
+    given: H.-J.
+  - family: Fronhofer
+    given: E. A.
+  issued:
+  - year: '2013'
+    month: '9'
+  title: Where am I and why? Synthesizing range biology and the eco-evolutionary dynamics
+    of dispersal
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '5-22'
+  volume: '123'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1600-0706.2013.00706.x
+  DOI: 10.1111/j.1600-0706.2013.00706.x
+...

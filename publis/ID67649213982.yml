@@ -1,0 +1,26 @@
+---
+references:
+- id: ID67649213982
+  type: article-journal
+  author:
+  - family: Diner
+    given: B.
+  - family: Berteaux
+    given: D.
+  - family: Fyles
+    given: J.
+  - family: Lindroth
+    given: R. L.
+  issued:
+  - year: '2009'
+    month: '4'
+  title: Behavioral archives link the chemistry and clonal structure of trembling
+    aspen to the food choice of North American porcupine
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '687-695'
+  volume: '160'
+  issue: '4'
+  URL: https://doi.org/10.1007%2Fs00442-009-1340-y
+  DOI: 10.1007/s00442-009-1340-y
+...

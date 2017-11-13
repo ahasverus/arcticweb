@@ -1,0 +1,29 @@
+---
+references:
+- id: ID77649277020
+  type: article-journal
+  author:
+  - family: Kinnear
+    given: J. E.
+  - family: Krebs
+    given: C. J.
+  - family: Pentland
+    given: C.
+  - family: Orell
+    given: P.
+  - family: Holme
+    given: C.
+  - family: Karvinen
+    given: R.
+  issued:
+  - year: '2010'
+  title: 'Predator-baiting experiments for the conservation of rock-wallabies in
+    Western Australia: A 25-year review with recent advances'
+  container-title: Wildlife Research
+  publisher: CSIRO Publishing
+  page: '57'
+  volume: '37'
+  issue: '1'
+  URL: https://doi.org/10.1071%2Fwr09046
+  DOI: 10.1071/wr09046
+...

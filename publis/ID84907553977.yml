@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84907553977
+  type: article-journal
+  author:
+  - family: Blanchet
+    given: M.
+  - family: Lydersen
+    given: C.
+  - family: Ims
+    given: R.
+  - family: Lowther
+    given: A.
+  - family: Kovacs
+    given: K.
+  issued:
+  - year: '2014'
+    month: '9'
+  title: Harbour seal Phoca vitulina movement patterns in the high-arctic archipelago
+    of Svalbard, Norway
+  container-title: Aquatic Biology
+  publisher: Inter-Research Science Center
+  page: '167-181'
+  volume: '21'
+  issue: '3'
+  URL: https://doi.org/10.3354%2Fab00580
+  DOI: 10.3354/ab00580
+...

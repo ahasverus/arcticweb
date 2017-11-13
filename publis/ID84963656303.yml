@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84963656303
+  type: article-journal
+  author:
+  - family: Saalfeld
+    given: D. T.
+  - family: Matz
+    given: A. C.
+  - family: McCaffery
+    given: B. J.
+  - family: Johnson
+    given: O. W.
+  - family: Bruner
+    given: P.
+  - family: Lanctot
+    given: R. B.
+  issued:
+  - year: '2016'
+    month: '4'
+  title: Inorganic and organic contaminants in Alaskan shorebird eggs
+  container-title: Environmental Monitoring and Assessment
+  publisher: Springer Nature
+  volume: '188'
+  issue: '5'
+  URL: https://doi.org/10.1007%2Fs10661-016-5270-y
+  DOI: 10.1007/s10661-016-5270-y
+...

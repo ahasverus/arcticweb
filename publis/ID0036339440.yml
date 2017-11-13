@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0036339440
+  type: article-journal
+  author:
+  - family: Mysterud
+    given: A.
+  - family: Langvatn
+    given: R.
+  - family: Yoccoz
+    given: N. G.
+  - family: Stenseth
+    given: N. C.
+  issued:
+  - year: '2002'
+    month: '7'
+  title: Large-scale habitat variability, delayed density effects and red deer populations
+    in Norway
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '569-580'
+  volume: '71'
+  issue: '4'
+  URL: https://doi.org/10.1046%2Fj.1365-2656.2002.00622.x
+  DOI: 10.1046/j.1365-2656.2002.00622.x
+...

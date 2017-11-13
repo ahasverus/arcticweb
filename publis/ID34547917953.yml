@@ -1,0 +1,28 @@
+---
+references:
+- id: ID34547917953
+  type: article-journal
+  author:
+  - family: Gripenberg
+    given: S.
+  - family: Morriën
+    given: E.
+  - family: Cudmore
+    given: A.
+  - family: Salminen
+    given: J.-P.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2007'
+    month: '9'
+  title: 'Resource selection by female moths in a heterogeneous environment: What
+    is a poor girl to do?'
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '854-865'
+  volume: '76'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2007.01261.x
+  DOI: 10.1111/j.1365-2656.2007.01261.x
+...

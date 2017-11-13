@@ -1,0 +1,23 @@
+---
+references:
+- id: ID20444385888
+  type: article-journal
+  author:
+  - family: Berteaux
+    given: D.
+  - family: Klvana
+    given: I.
+  - family: Trudeau
+    given: C.
+  issued:
+  - year: '2005'
+    month: '6'
+  title: Spring-to-fall mass gain in a northern population of North American porcupines
+  container-title: Journal of Mammalogy
+  publisher: Oxford University Press (OUP)
+  page: '514-519'
+  volume: '86'
+  issue: '3'
+  URL: https://doi.org/10.1644%2F1545-1542%282005%2986%5B514%3Asmgian%5D2.0.co%3B2
+  DOI: 10.1644/1545-1542(2005)86[514:smgian]2.0.co;2
+...

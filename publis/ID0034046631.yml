@@ -1,0 +1,23 @@
+---
+references:
+- id: ID0034046631
+  type: article-journal
+  author:
+  - family: Lepage
+    given: D.
+  - family: Gauthier
+    given: G.
+  - family: Menu
+    given: S.
+  issued:
+  - year: '2000'
+    month: '5'
+  title: Reproductive consequences of egg-laying decisions in snow geese
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '414-427'
+  volume: '69'
+  issue: '3'
+  URL: https://doi.org/10.1046%2Fj.1365-2656.2000.00404.x
+  DOI: 10.1046/j.1365-2656.2000.00404.x
+...

@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84860451607
+  type: article-journal
+  author:
+  - family: Ross
+    given: R. K.
+  - family: Smith
+    given: P. A.
+  - family: Campbell
+    given: B.
+  - family: Friis
+    given: C. A.
+  - family: Morrison
+    given: R. I. G.
+  issued:
+  - year: '2012'
+    month: '3'
+  title: Population trends of shorebirds in Southern Ontario, 1974-2009
+  container-title: Waterbirds
+  publisher: Waterbird Society
+  page: '15-24'
+  volume: '35'
+  issue: '1'
+  URL: https://doi.org/10.1675%2F063.035.0102
+  DOI: 10.1675/063.035.0102
+...

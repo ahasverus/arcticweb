@@ -1,0 +1,33 @@
+---
+references:
+- id: ID79955990570
+  type: article-journal
+  author:
+  - family: Lagrue
+    given: C.
+  - family: Kaldonski
+    given: N.
+  - family: Motreuil
+    given: S.
+  - family: Lefèvre
+    given: T.
+  - family: Blatter
+    given: O.
+  - family: Giraud
+    given: P.
+  - family: Bollache
+    given: L.
+  issued:
+  - year: '2010'
+    month: '11'
+  title: Interspecific differences in drift behaviour between the native Gammarus
+    pulex and the exotic Gammarus roeseli and possible implications for the invader’s
+    success
+  container-title: Biological Invasions
+  publisher: Springer Nature
+  page: '1409-1421'
+  volume: '13'
+  issue: '6'
+  URL: https://doi.org/10.1007%2Fs10530-010-9899-0
+  DOI: 10.1007/s10530-010-9899-0
+...

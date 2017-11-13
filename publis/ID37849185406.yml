@@ -1,0 +1,23 @@
+---
+references:
+- id: ID37849185406
+  type: article-journal
+  author:
+  - family: Gwynn
+    given: J. P.
+  - family: Fuglei
+    given: E.
+  - family: Dowdall
+    given: M.
+  issued:
+  - year: '2007'
+    month: '1'
+  title: Cs-137 in Arctic foxes (Alopex lagopus) on Svalbard
+  container-title: Journal of Environmental Radioactivity
+  publisher: Elsevier BV
+  page: '30-40'
+  volume: '92'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fj.jenvrad.2006.09.004
+  DOI: 10.1016/j.jenvrad.2006.09.004
+...

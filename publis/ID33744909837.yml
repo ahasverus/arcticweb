@@ -1,0 +1,24 @@
+---
+references:
+- id: ID33744909837
+  type: article-journal
+  author:
+  - family: Schmidt
+    given: N. M.
+  - family: Baittinger
+    given: C.
+  - family: Forchhammer
+    given: M. C.
+  issued:
+  - year: '2006'
+    month: '5'
+  title: Reconstructing century-long snow regimes using estimates of high arctic Salix
+    arctica radial growth
+  container-title: Arctic, Antarctic, and Alpine Research
+  publisher: Institute of Arctic; Alpine Research (INSTAAR)
+  page: '257-262'
+  volume: '38'
+  issue: '2'
+  URL: https://doi.org/10.1657%2F1523-0430%282006%2938%5B257%3Arcsrue%5D2.0.co%3B2
+  DOI: 10.1657/1523-0430(2006)38[257:rcsrue]2.0.co;2
+...

@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84996844969
+  type: article-journal
+  author:
+  - family: Merkel
+    given: B.
+  - family: Phillips
+    given: R. A.
+  - family: Descamps
+    given: S.
+  - family: Yoccoz
+    given: N. G.
+  - family: Moe
+    given: B.
+  - family: Strøm
+    given: H.
+  issued:
+  - year: '2016'
+    month: '11'
+  title: A probabilistic algorithm to process geolocation data
+  container-title: Movement Ecology
+  publisher: Springer Nature
+  volume: '4'
+  issue: '1'
+  URL: https://doi.org/10.1186%2Fs40462-016-0091-8
+  DOI: 10.1186/s40462-016-0091-8
+...

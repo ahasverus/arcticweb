@@ -1,0 +1,26 @@
+---
+references:
+- id: ID77955245879
+  type: article-journal
+  author:
+  - family: Vindstad
+    given: O. P. L.
+  - family: Hagen
+    given: S. B.
+  - family: Schott
+    given: T.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2010'
+    month: '4'
+  title: Spatially patterned guild structure in larval parasitoids of cyclically outbreaking
+    winter moth populations
+  container-title: Ecological Entomology
+  publisher: Wiley-Blackwell
+  page: no-no
+  volume: '35'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1365-2311.2010.01201.x
+  DOI: 10.1111/j.1365-2311.2010.01201.x
+...

@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84920913745
+  type: article-journal
+  author:
+  - family: Holbach
+    given: M.
+  - family: Robert
+    given: R.
+  - family: Boudry
+    given: P.
+  - family: Petton
+    given: B.
+  - family: Archambault
+    given: P.
+  - family: Tremblay
+    given: R.
+  issued:
+  - year: '2015'
+    month: '2'
+  title: Scallop larval survival from erythromycin treated broodstock after conditioning
+    without sediment
+  container-title: Aquaculture
+  publisher: Elsevier BV
+  page: '312-317'
+  volume: '437'
+  URL: https://doi.org/10.1016%2Fj.aquaculture.2014.12.003
+  DOI: 10.1016/j.aquaculture.2014.12.003
+...

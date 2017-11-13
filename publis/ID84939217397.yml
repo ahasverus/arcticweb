@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84939217397
+  type: article-journal
+  author:
+  - family: Reneerkens
+    given: J.
+  - family: Veelen
+    given: P.
+    dropping-particle: van
+  - family: Velde
+    given: M.
+    dropping-particle: van der
+  - family: Luttikhuizen
+    given: P.
+  - family: Piersma
+    given: T.
+  issued:
+  - year: '2014'
+    month: '4'
+  title: Within-population variation in mating system and parental care patterns in
+    the Sanderling (Calidris alba) in northeast Greenland
+  container-title: The Auk
+  publisher: American Ornithologists Union
+  page: '235-247'
+  volume: '131'
+  issue: '2'
+  URL: https://doi.org/10.1642%2Fauk-13-247.1
+  DOI: 10.1642/auk-13-247.1
+...

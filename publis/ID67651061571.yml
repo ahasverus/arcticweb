@@ -1,0 +1,24 @@
+---
+references:
+- id: ID67651061571
+  type: article-journal
+  author:
+  - family: Fort
+    given: J.
+  - family: Porter
+    given: W. P.
+  - family: Gremillet
+    given: D.
+  issued:
+  - year: '2009'
+    month: '7'
+  title: Thermodynamic modelling predicts energetic bottleneck for seabirds wintering
+    in the northwest Atlantic
+  container-title: Journal of Experimental Biology
+  publisher: The Company of Biologists
+  page: '2483-2490'
+  volume: '212'
+  issue: '15'
+  URL: https://doi.org/10.1242%2Fjeb.032300
+  DOI: 10.1242/jeb.032300
+...

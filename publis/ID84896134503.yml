@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84896134503
+  type: article-journal
+  author:
+  - family: Lewden
+    given: A.
+  - family: Petit
+    given: M.
+  - family: Milbergue
+    given: M.
+  - family: Orio
+    given: S.
+  - family: Vézina
+    given: F.
+  editor:
+  - family: Reynolds
+    given: Jim
+  issued:
+  - year: '2014'
+    month: '3'
+  title: Evidence of facultative daytime hypothermia in a small passerine wintering
+    at northern latitudes
+  container-title: Ibis
+  publisher: Wiley-Blackwell
+  page: '321-329'
+  volume: '156'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fibi.12142
+  DOI: 10.1111/ibi.12142
+...

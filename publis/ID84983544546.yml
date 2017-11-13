@@ -1,0 +1,38 @@
+---
+references:
+- id: ID84983544546
+  type: article-journal
+  author:
+  - family: Madliger
+    given: C. L.
+  - family: Cooke
+    given: S. J.
+  - family: Crespi
+    given: E. J.
+  - family: Funk
+    given: J. L.
+  - family: Hultine
+    given: K. R.
+  - family: Hunt
+    given: K. E.
+  - family: Rohr
+    given: J. R.
+  - family: Sinclair
+    given: B. J.
+  - family: Suski
+    given: C. D.
+  - family: Willis
+    given: C. K. R.
+  - family: Love
+    given: O. P.
+  issued:
+  - year: '2016'
+  title: Success stories and emerging themes in conservation physiology
+  container-title: Conservation Physiology
+  publisher: Oxford University Press (OUP)
+  page: cov057
+  volume: '4'
+  issue: '1'
+  URL: https://doi.org/10.1093%2Fconphys%2Fcov057
+  DOI: 10.1093/conphys/cov057
+...

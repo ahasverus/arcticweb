@@ -1,0 +1,21 @@
+---
+references:
+- id: ID84876255643
+  type: article-journal
+  author:
+  - family: Ramos
+    given: R.
+  - family: Grémillet
+    given: D.
+  issued:
+  - year: '2013'
+    month: '4'
+  title: 'Marine ecosystems: Overfishing in west Africa by EU vessels'
+  container-title: Nature
+  publisher: Springer Nature
+  page: '300-300'
+  volume: '496'
+  issue: '7445'
+  URL: https://doi.org/10.1038%2F496300a
+  DOI: 10.1038/496300a
+...

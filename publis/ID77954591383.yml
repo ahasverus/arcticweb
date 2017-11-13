@@ -1,0 +1,28 @@
+---
+references:
+- id: ID77954591383
+  type: article-journal
+  author:
+  - family: Morrissette
+    given: M.
+  - family: Bêty
+    given: J.
+  - family: Gauthier
+    given: G.
+  - family: Reed
+    given: A.
+  - family: Lefebvre
+    given: J.
+  issued:
+  - year: '2010'
+    month: '2'
+  title: Climate, trophic interactions, density dependence and carry-over effects
+    on the population productivity of a migratory Arctic herbivorous bird
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '1181-1191'
+  volume: '119'
+  issue: '7'
+  URL: https://doi.org/10.1111%2Fj.1600-0706.2009.18079.x
+  DOI: 10.1111/j.1600-0706.2009.18079.x
+...

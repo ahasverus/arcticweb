@@ -1,0 +1,33 @@
+---
+references:
+- id: ID84988359680
+  type: article-journal
+  author:
+  - family: Iverson
+    given: S. A.
+  - family: Gilchrist
+    given: H. G.
+  - family: Soos
+    given: C.
+  - family: Buttler
+    given: I. I.
+  - family: Harms
+    given: N. J.
+  - family: Forbes
+    given: M. R.
+  editor:
+  - family: Norman
+    given: Rachel
+  issued:
+  - year: '2016'
+    month: '9'
+  title: 'Injecting epidemiology into population viability analysis: avian cholera
+    transmission dynamics at an arctic seabird colony'
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '1481-1490'
+  volume: '85'
+  issue: '6'
+  URL: https://doi.org/10.1111%2F1365-2656.12585
+  DOI: 10.1111/1365-2656.12585
+...

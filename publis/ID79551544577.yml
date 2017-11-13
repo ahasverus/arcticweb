@@ -1,0 +1,27 @@
+---
+references:
+- id: ID79551544577
+  type: article-journal
+  author:
+  - family: Fløjgaard
+    given: C.
+  - family: Normand
+    given: S.
+  - family: Skov
+    given: F.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2010'
+    month: '10'
+  title: Deconstructing the mammal species richness pattern in Europe - towards an
+    understanding of the relative importance of climate, biogeographic history, habitat
+    heterogeneity and humans
+  container-title: Global Ecology and Biogeography
+  publisher: Wiley-Blackwell
+  page: '218-230'
+  volume: '20'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1466-8238.2010.00604.x
+  DOI: 10.1111/j.1466-8238.2010.00604.x
+...

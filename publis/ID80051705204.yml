@@ -1,0 +1,38 @@
+---
+references:
+- id: ID80051705204
+  type: article-journal
+  author:
+  - family: Yannic
+    given: G.
+  - family: Sermier
+    given: R.
+  - family: Aebischer
+    given: A.
+  - family: Gavrilo
+    given: M. V.
+  - family: Gilg
+    given: O.
+  - family: Miljeteig
+    given: C.
+  - family: Sabard
+    given: B.
+  - family: Strøm
+    given: H.
+  - family: Pouivé
+    given: E.
+  - family: Broquet
+    given: T.
+  issued:
+  - year: '2011'
+    month: '4'
+  title: Description of microsatellite markers and genotyping performances using feathers
+    and buccal swabs for the Ivory gull (Pagophila eburnea)
+  container-title: Molecular Ecology Resources
+  publisher: Wiley-Blackwell
+  page: '877-889'
+  volume: '11'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.1755-0998.2011.03015.x
+  DOI: 10.1111/j.1755-0998.2011.03015.x
+...

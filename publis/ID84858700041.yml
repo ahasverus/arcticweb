@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84858700041
+  type: article-journal
+  author:
+  - family: Baselga
+    given: A.
+  - family: Lobo
+    given: J. M.
+  - family: Svenning
+    given: J.-C.
+  - family: Araújo
+    given: M. B.
+  issued:
+  - year: '2011'
+    month: '10'
+  title: Global patterns in the shape of species geographical ranges reveal range
+    determinants
+  container-title: Journal of Biogeography
+  publisher: Wiley-Blackwell
+  page: '760-771'
+  volume: '39'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1365-2699.2011.02612.x
+  DOI: 10.1111/j.1365-2699.2011.02612.x
+...

@@ -1,0 +1,113 @@
+---
+references:
+- id: ID84929997136
+  type: article-journal
+  author:
+  - family: Gibb
+    given: H.
+  - family: Sanders
+    given: N. J.
+  - family: Dunn
+    given: R. R.
+  - family: Watson
+    given: S.
+  - family: Photakis
+    given: M.
+  - family: Abril
+    given: S.
+  - family: Andersen
+    given: A. N.
+  - family: Angulo
+    given: E.
+  - family: Armbrecht
+    given: I.
+  - family: Arnan
+    given: X.
+  - family: Baccaro
+    given: F. B.
+  - family: Bishop
+    given: T. R.
+  - family: Boulay
+    given: R.
+  - family: Castracani
+    given: C.
+  - family: Toro
+    given: I.
+    dropping-particle: del
+  - family: Delsinne
+    given: T.
+  - family: Diaz
+    given: M.
+  - family: Donoso
+    given: D. A.
+  - family: Enriquez
+    given: M. L.
+  - family: Fayle
+    given: T. M.
+  - family: Feener
+    given: D. H.
+  - family: Fitzpatrick
+    given: M. C.
+  - family: Gomez
+    given: C.
+  - family: Grasso
+    given: D. A.
+  - family: Groc
+    given: S.
+  - family: Heterick
+    given: B.
+  - family: Hoffmann
+    given: B. D.
+  - family: Lach
+    given: L.
+  - family: Lattke
+    given: J.
+  - family: Leponce
+    given: M.
+  - family: Lessard
+    given: J.-P.
+  - family: Longino
+    given: J.
+  - family: Lucky
+    given: A.
+  - family: Majer
+    given: J.
+  - family: Menke
+    given: S. B.
+  - family: Mezger
+    given: D.
+  - family: Mori
+    given: A.
+  - family: Munyai
+    given: T. C.
+  - family: Paknia
+    given: O.
+  - family: Pearce-Duvet
+    given: J.
+  - family: Pfeiffer
+    given: M.
+  - family: Philpott
+    given: S. M.
+  - family: Souza
+    given: J. L. P.
+    dropping-particle: de
+  - family: Tista
+    given: M.
+  - family: Vasconcelos
+    given: H. L.
+  - family: Vonshak
+    given: M.
+  - family: Parr
+    given: C. L.
+  issued:
+  - year: '2015'
+    month: '5'
+  title: Climate mediates the effects of disturbance on ant assemblage structure
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '20150418-20150418'
+  volume: '282'
+  issue: '1808'
+  URL: https://doi.org/10.1098%2Frspb.2015.0418
+  DOI: 10.1098/rspb.2015.0418
+...

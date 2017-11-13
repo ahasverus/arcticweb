@@ -1,0 +1,24 @@
+---
+references:
+- id: ID8144224219
+  type: article-journal
+  author:
+  - family: Eide
+    given: N. E.
+  - family: Jepsen
+    given: J. U.
+  - family: Prestrud
+    given: P.
+  issued:
+  - year: '2004'
+    month: '11'
+  title: 'Spatial organization of reproductive Arctic foxes Alopex lagopus: Responses
+    to changes in spatial and temporal availability of prey'
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '1056-1068'
+  volume: '73'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.0021-8790.2004.00885.x
+  DOI: 10.1111/j.0021-8790.2004.00885.x
+...

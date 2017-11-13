@@ -1,0 +1,28 @@
+---
+references:
+- id: ID80055059813
+  type: article-journal
+  author:
+  - family: Kristensen
+    given: D. K.
+  - family: Kristensen
+    given: E.
+  - family: Forchhammer
+    given: M. C.
+  - family: Michelsen
+    given: A.
+  - family: Schmidt
+    given: N. M.
+  issued:
+  - year: '2011'
+    month: '10'
+  title: Arctic herbivore diet can be inferred from stable carbon and nitrogen isotopes
+    in C &lt;inf&gt;3&lt;/inf&gt; plants, faeces, and wool
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '892-899'
+  volume: '89'
+  issue: '10'
+  URL: https://doi.org/10.1139%2Fz11-073
+  DOI: 10.1139/z11-073
+...

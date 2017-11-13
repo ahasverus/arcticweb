@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84953308136
+  type: article-journal
+  author:
+  - family: Simonsen
+    given: C. E.
+  - family: Madsen
+    given: J.
+  - family: Tombre
+    given: I. M.
+  - family: Nabe-Nielsen
+    given: J.
+  editor:
+  - family: Thompson
+    given: Des
+  issued:
+  - year: '2016'
+    month: '1'
+  title: Is it worthwhile scaring geese to alleviate damage to crops? – An experimental
+    study
+  container-title: Journal of Applied Ecology
+  publisher: Wiley-Blackwell
+  page: '916-924'
+  volume: '53'
+  issue: '3'
+  URL: https://doi.org/10.1111%2F1365-2664.12604
+  DOI: 10.1111/1365-2664.12604
+...

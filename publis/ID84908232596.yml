@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84908232596
+  type: article-journal
+  author:
+  - family: Boulanger-Lapointe
+    given: N.
+  - family: Lévesque
+    given: E.
+  - family: Boudreau
+    given: S.
+  - family: Henry
+    given: G. H. R.
+  - family: Schmidt
+    given: N. M.
+  editor:
+  - family: Silman
+    given: Miles
+  issued:
+  - year: '2014'
+    month: '6'
+  title: Population structure and dynamics of Arctic willow (Salix arctica) in the
+    High Arctic
+  container-title: Journal of Biogeography
+  publisher: Wiley-Blackwell
+  page: '1967-1978'
+  volume: '41'
+  issue: '10'
+  URL: https://doi.org/10.1111%2Fjbi.12350
+  DOI: 10.1111/jbi.12350
+...

@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84861680901
+  type: article-journal
+  author:
+  - family: Yannic
+    given: G.
+  - family: Basset
+    given: P.
+  - family: Büchi
+    given: L.
+  - family: Hausser
+    given: J.
+  - family: Broquet
+    given: T.
+  issued:
+  - year: '2012'
+    month: '3'
+  title: Scale-specific sex-biased dispersal in the valais shrew unveiled by genetic
+    variation on the y chromosome, autosomes, and mitochondrial dna
+  container-title: Evolution
+  publisher: Wiley-Blackwell
+  page: '1737-1750'
+  volume: '66'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1558-5646.2011.01554.x
+  DOI: 10.1111/j.1558-5646.2011.01554.x
+...

@@ -1,0 +1,27 @@
+---
+references:
+- id: ID67649967594
+  type: article-journal
+  author:
+  - family: Beaulieu
+    given: M.
+  - family: Thierry
+    given: A.-M.
+  - family: Maho
+    given: Y. L.
+  - family: Ropert-Coudert
+    given: Y.
+  - family: Ancel
+    given: A.
+  issued:
+  - year: '2009'
+    month: '2'
+  title: 'Alloparental feeding in Adélie penguins: Why is it uncommon?'
+  container-title: Journal of Ornithology
+  publisher: Springer Nature
+  page: '637-643'
+  volume: '150'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs10336-009-0386-2
+  DOI: 10.1007/s10336-009-0386-2
+...

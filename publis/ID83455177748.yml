@@ -1,0 +1,22 @@
+---
+references:
+- id: ID83455177748
+  type: article-journal
+  author:
+  - family: Brunbjerg
+    given: A. K.
+  - family: Ejrnæs
+    given: R.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2012'
+    month: '2'
+  title: Species sorting dominates plant metacommunity structure in coastal dunes
+  container-title: Acta Oecologica
+  publisher: Elsevier BV
+  page: '33-42'
+  volume: '39'
+  URL: https://doi.org/10.1016%2Fj.actao.2011.11.002
+  DOI: 10.1016/j.actao.2011.11.002
+...

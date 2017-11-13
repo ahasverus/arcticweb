@@ -1,0 +1,23 @@
+---
+references:
+- id: ID77954260929
+  type: article-journal
+  author:
+  - family: Schierenbeck
+    given: K. A.
+  - family: Lee
+    given: C. E.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2010'
+    month: '2'
+  title: Synthesizing ecology and evolution for the study of invasive species
+  container-title: Evolutionary Applications
+  publisher: Wiley-Blackwell
+  page: '96-96'
+  volume: '3'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1752-4571.2010.00123.x
+  DOI: 10.1111/j.1752-4571.2010.00123.x
+...

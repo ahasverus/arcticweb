@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84903641413
+  type: article-journal
+  author:
+  - family: Bowler
+    given: B.
+  - family: Krebs
+    given: C.
+  - family: O'Donoghue
+    given: M.
+  - family: Hone
+    given: J.
+  issued:
+  - year: '2014'
+    month: '5'
+  title: Climatic amplification of the numerical response of a predator population
+    to its prey
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '1153-1161'
+  volume: '95'
+  issue: '5'
+  URL: https://doi.org/10.1890%2F13-0848.1
+  DOI: 10.1890/13-0848.1
+...

@@ -1,0 +1,30 @@
+---
+references:
+- id: ID34347208709
+  type: article-journal
+  author:
+  - family: Berteaux
+    given: D.
+  - family: Diner
+    given: B.
+  - family: Dreyfus
+    given: C.
+  - family: Éblé
+    given: M.
+  - family: Lessard
+    given: I.
+  - family: Klvana
+    given: I.
+  issued:
+  - year: '2007'
+    month: '6'
+  title: Heavy browsing by a mammalian herbivore does not affect fluctuating asymmetry
+    of its food plants
+  container-title: Ecoscience
+  publisher: Informa UK Limited
+  page: '188-194'
+  volume: '14'
+  issue: '2'
+  URL: https://doi.org/10.2980%2F1195-6860%282007%2914%5B188%3Ahbbamh%5D2.0.co%3B2
+  DOI: 10.2980/1195-6860(2007)14[188:hbbamh]2.0.co;2
+...

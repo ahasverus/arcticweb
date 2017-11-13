@@ -1,0 +1,38 @@
+---
+references:
+- id: ID11144358388
+  type: article-journal
+  author:
+  - family: Valencia
+    given: R.
+  - family: Foster
+    given: R. B.
+  - family: Villa
+    given: G.
+  - family: Condit
+    given: R.
+  - family: Svenning
+    given: J.-C.
+  - family: Hernandez
+    given: C.
+  - family: Romoleroux
+    given: K.
+  - family: Losos
+    given: E.
+  - family: Magard
+    given: E.
+  - family: Balslev
+    given: H.
+  issued:
+  - year: '2004'
+    month: '4'
+  title: 'Tree species distributions and local habitat variation in the Amazon:
+    Large forest plot in eastern Ecuador'
+  container-title: Journal of Ecology
+  publisher: Wiley-Blackwell
+  page: '214-229'
+  volume: '92'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.0022-0477.2004.00876.x
+  DOI: 10.1111/j.0022-0477.2004.00876.x
+...

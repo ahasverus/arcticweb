@@ -1,0 +1,27 @@
+---
+references:
+- id: ID68549109494
+  type: article-journal
+  author:
+  - family: Arthur
+    given: A. D.
+  - family: Krebs
+    given: C. J.
+  - family: Pech
+    given: R. P.
+  - family: Farroway
+    given: L. N.
+  - family: Singleton
+    given: G. R.
+  issued:
+  - year: '2009'
+  title: 'The transmission rate of MCMV in house mice in pens: Implications for
+    virally vectored immunocontraception'
+  container-title: Wildlife Research
+  publisher: CSIRO Publishing
+  page: '386'
+  volume: '36'
+  issue: '5'
+  URL: https://doi.org/10.1071%2Fwr09006
+  DOI: 10.1071/wr09006
+...

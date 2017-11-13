@@ -1,0 +1,21 @@
+---
+references:
+- id: ID84856776891
+  type: article-journal
+  author:
+  - family: Boonstra
+    given: R.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '2011'
+    month: '9'
+  title: Population dynamics of red-backed voles (Myodes) in North America
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '601-620'
+  volume: '168'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs00442-011-2120-z
+  DOI: 10.1007/s00442-011-2120-z
+...

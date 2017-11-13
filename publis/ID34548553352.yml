@@ -1,0 +1,28 @@
+---
+references:
+- id: ID34548553352
+  type: article-journal
+  author:
+  - family: Rowland
+    given: E.
+  - family: Love
+    given: O. P.
+  - family: Verspoor
+    given: J. J.
+  - family: Sheldon
+    given: L.
+  - family: Williams
+    given: T. D.
+  issued:
+  - year: '2007'
+    month: '9'
+  title: Manipulating rearing conditions reveals developmental sensitivity in the
+    smaller sex of a passerine bird, the European starling Sturnus vulgaris
+  container-title: Journal of Avian Biology
+  publisher: Wiley-Blackwell
+  page: '612-618'
+  volume: '38'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.0908-8857.2007.04082.x
+  DOI: 10.1111/j.0908-8857.2007.04082.x
+...

@@ -1,0 +1,24 @@
+---
+references:
+- id: ID77954527724
+  type: article-journal
+  author:
+  - family: Petit
+    given: M.
+  - family: Vézina
+    given: F.
+  - family: Piersma
+    given: T.
+  issued:
+  - year: '2010'
+    month: '3'
+  title: Ambient temperature does not affect fuelling rate in absence of digestive
+    constraints in long-distance migrant shorebird fuelling up in captivity
+  container-title: Journal of Comparative Physiology B
+  publisher: Springer Nature
+  page: '847-856'
+  volume: '180'
+  issue: '6'
+  URL: https://doi.org/10.1007%2Fs00360-010-0463-0
+  DOI: 10.1007/s00360-010-0463-0
+...

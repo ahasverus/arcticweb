@@ -1,0 +1,59 @@
+---
+references:
+- id: ID80053605229
+  type: article-journal
+  author:
+  - family: Dalsgaard
+    given: B.
+  - family: Magård
+    given: E.
+  - family: Fjeldså
+    given: J.
+  - family: González
+    given: A. M. M.
+  - family: Rahbek
+    given: C.
+  - family: Olesen
+    given: J. M.
+  - family: Ollerton
+    given: J.
+  - family: Alarcón
+    given: R.
+  - family: Araujo
+    given: A. C.
+  - family: Cotton
+    given: P. A.
+  - family: Lara
+    given: C.
+  - family: Machado
+    given: C. G.
+  - family: Sazima
+    given: I.
+  - family: Sazima
+    given: M.
+  - family: Timmermann
+    given: A.
+  - family: Watts
+    given: S.
+  - family: Sandel
+    given: B.
+  - family: Sutherland
+    given: W. J.
+  - family: Svenning
+    given: J.-C.
+  editor:
+  - family: Traveset
+    given: Anna
+  issued:
+  - year: '2011'
+    month: '10'
+  title: Specialization in plant-hummingbird networks is associated with species richness,
+    contemporary precipitation and quaternary climate-change velocity
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e25891'
+  volume: '6'
+  issue: '10'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0025891
+  DOI: 10.1371/journal.pone.0025891
+...

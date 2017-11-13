@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0036220525
+  type: article-journal
+  author:
+  - family: Dalén
+    given: L.
+  - family: Götherström
+    given: A.
+  - family: Tannerfeldt
+    given: M.
+  - family: Angerbjörn
+    given: A.
+  issued:
+  - year: '2002'
+    month: '6'
+  title: Is the endangered Fennoscandian arctic fox (Alopex lagopus) population genetically
+    isolated?
+  container-title: Biological Conservation
+  publisher: Elsevier BV
+  page: '171-178'
+  volume: '105'
+  issue: '2'
+  URL: https://doi.org/10.1016%2Fs0006-3207%2801%2900180-x
+  DOI: 10.1016/s0006-3207(01)00180-x
+...

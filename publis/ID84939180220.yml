@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84939180220
+  type: article-journal
+  author:
+  - family: Pohjanmies
+    given: T.
+  - family: Tack
+    given: A. J. M.
+  - family: Pulkkinen
+    given: P.
+  - family: Elshibli
+    given: S.
+  - family: Vakkari
+    given: P.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2015'
+    month: '6'
+  title: Genetic diversity and connectivity shape herbivore load within an oak population
+    at its range limit
+  container-title: Ecosphere
+  publisher: Wiley-Blackwell
+  page: art101
+  volume: '6'
+  issue: '6'
+  URL: https://doi.org/10.1890%2Fes14-00549.1
+  DOI: 10.1890/es14-00549.1
+...

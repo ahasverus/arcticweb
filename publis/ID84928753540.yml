@@ -1,0 +1,48 @@
+---
+references:
+- id: ID84928753540
+  type: article-journal
+  author:
+  - family: Jørgensen
+    given: P. S.
+  - family: Barraquand
+    given: F.
+  - family: Bonhomme
+    given: V.
+  - family: Curran
+    given: T. J.
+  - family: Cieraad
+    given: E.
+  - family: Ezard
+    given: T. G.
+  - family: Gherardi
+    given: L. A.
+  - family: Hayes
+    given: R. A.
+  - family: Poisot
+    given: T.
+  - family: Salguero-Gómez
+    given: R.
+  - family: Desoto
+    given: L.
+  - family: Swartz
+    given: B.
+  - family: Talbot
+    given: J. M.
+  - family: Wee
+    given: B.
+  - family: Zimmerman
+    given: N.
+  issued:
+  - year: '2015'
+    month: '4'
+  title: 'Connecting people and ideas from around the world: Global innovation platforms
+    for next-generation ecology and beyond'
+  container-title: Ecosphere
+  publisher: Wiley-Blackwell
+  page: art68
+  volume: '6'
+  issue: '4'
+  URL: https://doi.org/10.1890%2Fes14-00198.1
+  DOI: 10.1890/es14-00198.1
+...

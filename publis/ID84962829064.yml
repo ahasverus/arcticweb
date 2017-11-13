@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84962829064
+  type: article-journal
+  author:
+  - family: Gounand
+    given: I.
+  - family: Kéfi
+    given: S.
+  - family: Mouquet
+    given: N.
+  - family: Gravel
+    given: D.
+  issued:
+  - year: '2016'
+    month: '4'
+  title: 'Trait selection during food web assembly: the roles of interactions and
+    temperature'
+  container-title: Theoretical Ecology
+  publisher: Springer Nature
+  page: '417-429'
+  volume: '9'
+  issue: '4'
+  URL: https://doi.org/10.1007%2Fs12080-016-0299-7
+  DOI: 10.1007/s12080-016-0299-7
+...

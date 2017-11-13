@@ -1,0 +1,22 @@
+---
+references:
+- id: ID0022847706
+  type: article-journal
+  author:
+  - family: Lorenzen
+    given: B.
+  - family: Madsen
+    given: J.
+  issued:
+  - year: '1986'
+    month: '12'
+  title: Feeding by geese on the Filsø Farmland, Denmark, and the effect of grazing
+    on yield structure of spring barley
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '305-311'
+  volume: '9'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1600-0587.1986.tb01224.x
+  DOI: 10.1111/j.1600-0587.1986.tb01224.x
+...

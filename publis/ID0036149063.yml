@@ -1,0 +1,19 @@
+---
+references:
+- id: ID0036149063
+  type: article-journal
+  author:
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2002'
+    month: '1'
+  title: Who said that size is all that matters?
+  container-title: Trends in Ecology & Evolution
+  publisher: Elsevier BV
+  page: '10-11'
+  volume: '17'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fs0169-5347%2801%2902388-6
+  DOI: 10.1016/s0169-5347(01)02388-6
+...

@@ -1,0 +1,30 @@
+---
+references:
+- id: ID61349172454
+  type: article-journal
+  author:
+  - family: Weise
+    given: A. M.
+  - family: Cromey
+    given: C. J.
+  - family: Callier
+    given: M. D.
+  - family: Archambault
+    given: P.
+  - family: Chamberlain
+    given: J.
+  - family: McKindsey
+    given: C. W.
+  issued:
+  - year: '2009'
+    month: '3'
+  title: 'Shellfish-DEPOMOD: Modelling the biodeposition from suspended shellfish
+    aquaculture and assessing benthic effects'
+  container-title: Aquaculture
+  publisher: Elsevier BV
+  page: '239-253'
+  volume: '288'
+  issue: '3-4'
+  URL: https://doi.org/10.1016%2Fj.aquaculture.2008.12.001
+  DOI: 10.1016/j.aquaculture.2008.12.001
+...

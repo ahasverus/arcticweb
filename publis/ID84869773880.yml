@@ -1,0 +1,48 @@
+---
+references:
+- id: ID84869773880
+  type: article-journal
+  author:
+  - family: Dunn
+    given: A. M.
+  - family: Torchin
+    given: M. E.
+  - family: Hatcher
+    given: M. J.
+  - family: Kotanen
+    given: P. M.
+  - family: Blumenthal
+    given: D. M.
+  - family: Byers
+    given: J. E.
+  - family: Coon
+    given: C. A. C.
+  - family: Frankel
+    given: V. M.
+  - family: Holt
+    given: R. D.
+  - family: Hufbauer
+    given: R. A.
+  - family: Kanarek
+    given: A. R.
+  - family: Schierenbeck
+    given: K. A.
+  - family: Wolfe
+    given: L. M.
+  - family: Perkins
+    given: S. E.
+  editor:
+  - family: Fox
+    given: Charles
+  issued:
+  - year: '2012'
+    month: '9'
+  title: Indirect effects of parasites in invasions
+  container-title: Functional Ecology
+  publisher: Wiley-Blackwell
+  page: '1262-1274'
+  volume: '26'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1365-2435.2012.02041.x
+  DOI: 10.1111/j.1365-2435.2012.02041.x
+...

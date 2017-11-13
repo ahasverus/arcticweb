@@ -1,0 +1,33 @@
+---
+references:
+- id: ID85007005637
+  type: article-journal
+  author:
+  - family: Ameztegui
+    given: A.
+  - family: Paquette
+    given: A.
+  - family: Shipley
+    given: B.
+  - family: Heym
+    given: M.
+  - family: Messier
+    given: C.
+  - family: Gravel
+    given: D.
+  editor:
+  - family: Paine
+    given: C. E. Timothy
+  issued:
+  - year: '2016'
+    month: '12'
+  title: 'Shade tolerance and the functional trait: demography relationship in temperate
+    and boreal forests'
+  container-title: Functional Ecology
+  publisher: Wiley-Blackwell
+  page: '821-830'
+  volume: '31'
+  issue: '4'
+  URL: https://doi.org/10.1111%2F1365-2435.12804
+  DOI: 10.1111/1365-2435.12804
+...

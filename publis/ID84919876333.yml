@@ -1,0 +1,33 @@
+---
+references:
+- id: ID84919876333
+  type: article-journal
+  author:
+  - family: Grémillet
+    given: D.
+  - family: Péron
+    given: C.
+  - family: Pons
+    given: J.-B.
+  - family: Ouni
+    given: R.
+  - family: Authier
+    given: M.
+  - family: Thévenet
+    given: M.
+  - family: Fort
+    given: J.
+  issued:
+  - year: '2014'
+    month: '9'
+  title: 'Irreplaceable area extends marine conservation hotspot off Tunisia: insights
+    from GPS-tracking Scopoli’s shearwaters from the largest seabird colony in the
+    Mediterranean'
+  container-title: Marine Biology
+  publisher: Springer Nature
+  page: '2669-2680'
+  volume: '161'
+  issue: '11'
+  URL: https://doi.org/10.1007%2Fs00227-014-2538-z
+  DOI: 10.1007/s00227-014-2538-z
+...

@@ -1,0 +1,21 @@
+---
+references:
+- id: ID84928725967
+  type: article-journal
+  author:
+  - family: Xiao
+    given: Z.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '2015'
+    month: '4'
+  title: Modeling the costs and benefits of seed scatterhoarding to plants
+  container-title: Ecosphere
+  publisher: Wiley-Blackwell
+  page: art53
+  volume: '6'
+  issue: '4'
+  URL: https://doi.org/10.1890%2Fes14-00438.1
+  DOI: 10.1890/es14-00438.1
+...

@@ -1,0 +1,26 @@
+---
+references:
+- id: ID21744447339
+  type: article-journal
+  author:
+  - family: Naud
+    given: M.-J.
+  - family: Shaw
+    given: P. W.
+  - family: Hanlon
+    given: R. T.
+  - family: Havenhand
+    given: J. N.
+  issued:
+  - year: '2005'
+    month: '5'
+  title: Evidence for biased use of sperm sources in wild female giant cuttlefish
+    (Sepia apama)
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '1047-1051'
+  volume: '272'
+  issue: '1567'
+  URL: https://doi.org/10.1098%2Frspb.2004.3031
+  DOI: 10.1098/rspb.2004.3031
+...

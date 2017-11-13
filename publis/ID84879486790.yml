@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84879486790
+  type: article-journal
+  author:
+  - family: Roslin
+    given: T.
+  - family: Wirta
+    given: H.
+  - family: Hopkins
+    given: T.
+  - family: Hardwick
+    given: B.
+  - family: Várkonyi
+    given: G.
+  editor:
+  - family: Auge
+    given: Harald
+  issued:
+  - year: '2013'
+    month: '6'
+  title: Indirect Interactions in the High Arctic
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e67367'
+  volume: '8'
+  issue: '6'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0067367
+  DOI: 10.1371/journal.pone.0067367
+...

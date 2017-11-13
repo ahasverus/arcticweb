@@ -1,0 +1,24 @@
+---
+references:
+- id: ID33749328763
+  type: article-journal
+  author:
+  - family: Médoc
+    given: V.
+  - family: Bollache
+    given: L.
+  - family: Beisel
+    given: J.-N.
+  issued:
+  - year: '2006'
+    month: '11'
+  title: Host manipulation of a freshwater crustacean (Gammarus roeseli) by an acanthocephalan
+    parasite (Polymorphus minutus) in a biological invasion context
+  container-title: International Journal for Parasitology
+  publisher: Elsevier BV
+  page: '1351-1358'
+  volume: '36'
+  issue: '13'
+  URL: https://doi.org/10.1016%2Fj.ijpara.2006.07.001
+  DOI: 10.1016/j.ijpara.2006.07.001
+...

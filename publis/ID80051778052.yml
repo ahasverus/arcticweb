@@ -1,0 +1,25 @@
+---
+references:
+- id: ID80051778052
+  type: article-journal
+  author:
+  - family: Vezina
+    given: F.
+  - family: Dekinga
+    given: A.
+  - family: Piersma
+    given: T.
+  issued:
+  - year: '2011'
+    month: '6'
+  title: 'Shorebirds’ seasonal adjustments in thermogenic capacity are reflected
+    by changes in body mass: How preprogrammed and instantaneous acclimation work
+    together'
+  container-title: Integrative and Comparative Biology
+  publisher: Oxford University Press (OUP)
+  page: '394-408'
+  volume: '51'
+  issue: '3'
+  URL: https://doi.org/10.1093%2Ficb%2Ficr044
+  DOI: 10.1093/icb/icr044
+...

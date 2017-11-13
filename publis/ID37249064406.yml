@@ -1,0 +1,26 @@
+---
+references:
+- id: ID37249064406
+  type: article-journal
+  author:
+  - family: Rijpstra
+    given: W. I. C.
+  - family: Reneerkens
+    given: J.
+  - family: Piersma
+    given: T.
+  - family: Damsté
+    given: J. S. S.
+  issued:
+  - year: '2007'
+    month: '11'
+  title: Structural identification of the β-hydroxy fatty acid-based diester preen
+    gland waxes of shorebirds
+  container-title: Journal of Natural Products
+  publisher: American Chemical Society (ACS)
+  page: '1804-1807'
+  volume: '70'
+  issue: '11'
+  URL: https://doi.org/10.1021%2Fnp070254z
+  DOI: 10.1021/np070254z
+...

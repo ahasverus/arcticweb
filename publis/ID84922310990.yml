@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84922310990
+  type: article-journal
+  author:
+  - family: Bustnes
+    given: J. O.
+  - family: Bangjord
+    given: G.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2015'
+    month: '1'
+  title: Variation in concentrations of organochlorines and brominated flame retardants
+    among eggs in abandoned clutches of a terrestrial raptor
+  container-title: Chemosphere
+  publisher: Elsevier BV
+  page: '357-360'
+  volume: '118'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fj.chemosphere.2014.10.017
+  DOI: 10.1016/j.chemosphere.2014.10.017
+...

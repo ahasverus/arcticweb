@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84959574716
+  type: article-journal
+  author:
+  - family: Perreault
+    given: N.
+  - family: Lévesque
+    given: E.
+  - family: Fortier
+    given: D.
+  - family: Lamarque
+    given: L. J.
+  issued:
+  - year: '2016'
+    month: '3'
+  title: Thermo-erosion gullies boost the transition from wet to mesic tundra vegetation
+  container-title: Biogeosciences
+  publisher: Copernicus GmbH
+  page: '1237-1253'
+  volume: '13'
+  issue: '4'
+  URL: https://doi.org/10.5194%2Fbg-13-1237-2016
+  DOI: 10.5194/bg-13-1237-2016
+...

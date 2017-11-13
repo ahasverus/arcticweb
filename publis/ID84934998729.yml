@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84934998729
+  type: article-journal
+  author:
+  - family: Gauthier
+    given: G.
+  - family: Legagneux
+    given: P.
+  - family: Valiquette
+    given: M.-A.
+  - family: Cadieux
+    given: M.-C.
+  - family: Therrien
+    given: J.-F.
+  issued:
+  - year: '2015'
+    month: '7'
+  title: 'Diet and reproductive success of an Arctic generalist predator: Interplay
+    between variations in prey abundance, nest site location, and intraguild predation'
+  container-title: The Auk
+  publisher: American Ornithologists Union
+  page: '735-747'
+  volume: '132'
+  issue: '3'
+  URL: https://doi.org/10.1642%2Fauk-14-273.1
+  DOI: 10.1642/auk-14-273.1
+...

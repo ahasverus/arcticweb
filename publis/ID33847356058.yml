@@ -1,0 +1,28 @@
+---
+references:
+- id: ID33847356058
+  type: article-journal
+  author:
+  - family: Miller
+    given: E. H.
+  - family: Williams
+    given: J.
+  - family: Jamieson
+    given: S. E.
+  - family: Gilchrist
+    given: H. G.
+  - family: Mallory
+    given: M. L.
+  issued:
+  - year: '2007'
+    month: '3'
+  title: Allometry, bilateral asymmetry and sexual differences in the vocal tract
+    of common eiders Somateria mollissima and king eiders S. spectabilis
+  container-title: Journal of Avian Biology
+  publisher: Wiley-Blackwell
+  page: '224-233'
+  volume: '38'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.0908-8857.2007.03695.x
+  DOI: 10.1111/j.0908-8857.2007.03695.x
+...

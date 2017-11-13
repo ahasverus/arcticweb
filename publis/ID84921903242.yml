@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84921903242
+  type: article-journal
+  author:
+  - family: Vandenabeele
+    given: S.
+  - family: Shepard
+    given: E.
+  - family: Grémillet
+    given: D.
+  - family: Butler
+    given: P.
+  - family: Martin
+    given: G.
+  - family: Wilson
+    given: R.
+  issued:
+  - year: '2015'
+    month: '1'
+  title: Are bio-telemetric devices a drag? Effects of external tags on the diving
+    behaviour of great cormorants
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '239-249'
+  volume: '519'
+  URL: https://doi.org/10.3354%2Fmeps11058
+  DOI: 10.3354/meps11058
+...

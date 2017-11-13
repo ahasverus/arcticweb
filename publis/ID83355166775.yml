@@ -1,0 +1,26 @@
+---
+references:
+- id: ID83355166775
+  type: article-journal
+  author:
+  - family: Glorvigen
+    given: P.
+  - family: Bjørnstad
+    given: O. N.
+  - family: Andreassen
+    given: H. P.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2011'
+    month: '11'
+  title: 'Settlement in empty versus occupied habitats: An experimental study on
+    bank voles'
+  container-title: Population Ecology
+  publisher: Springer Nature
+  page: '55-63'
+  volume: '54'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs10144-011-0295-0
+  DOI: 10.1007/s10144-011-0295-0
+...

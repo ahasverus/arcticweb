@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84978766379
+  type: article-journal
+  author:
+  - family: Wauchope
+    given: H. S.
+  - family: Shaw
+    given: J. D.
+  - family: Varpe
+    given: Y.
+  - family: Lappo
+    given: E. G.
+  - family: Boertmann
+    given: D.
+  - family: Lanctot
+    given: R. B.
+  - family: Fuller
+    given: R. A.
+  issued:
+  - year: '2016'
+    month: '7'
+  title: Rapid climate-driven loss of breeding habitat for Arctic migratory birds
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '1085-1094'
+  volume: '23'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fgcb.13404
+  DOI: 10.1111/gcb.13404
+...

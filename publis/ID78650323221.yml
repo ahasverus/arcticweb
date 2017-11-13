@@ -1,0 +1,34 @@
+---
+references:
+- id: ID78650323221
+  type: article-journal
+  author:
+  - family: Meier
+    given: E. S.
+  - family: Kienast
+    given: F.
+  - family: Pearman
+    given: P. B.
+  - family: Svenning
+    given: J.-C.
+  - family: Thuiller
+    given: W.
+  - family: Araújo
+    given: M. B.
+  - family: Guisan
+    given: A.
+  - family: Zimmermann
+    given: N. E.
+  issued:
+  - year: '2010'
+    month: '11'
+  title: Biotic and abiotic variables show little redundancy in explaining tree species
+    distributions
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '1038-1048'
+  volume: '33'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1600-0587.2010.06229.x
+  DOI: 10.1111/j.1600-0587.2010.06229.x
+...

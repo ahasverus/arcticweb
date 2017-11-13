@@ -1,0 +1,21 @@
+---
+references:
+- id: ID0025635294
+  type: article-journal
+  author:
+  - family: Hochberg
+    given: M. E.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '1990'
+    month: '10'
+  title: The coexistence of competing parasites. 1. The role of cross-species infection
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '517-541'
+  volume: '136'
+  issue: '4'
+  URL: https://doi.org/10.1086%2F285111
+  DOI: 10.1086/285111
+...

@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0031668594
+  type: article-journal
+  author:
+  - family: Courchamp
+    given: F.
+  - family: Yoccoz
+    given: N. G.
+  - family: Artois
+    given: M.
+  - family: Pontier
+    given: D.
+  issued:
+  - year: '1998'
+    month: '8'
+  title: 'At-risk individuals in Feline Immunodeficiency Virus epidemiology: Evidence
+    from a multivariate approach in a natural population of domestic cats (Felis catus)'
+  container-title: Epidemiology and Infection
+  publisher: Cambridge University Press (CUP)
+  page: '227-236'
+  volume: '121'
+  issue: '1'
+  URL: https://doi.org/10.1017%2Fs0950268898008875
+  DOI: 10.1017/s0950268898008875
+...

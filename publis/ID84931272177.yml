@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84931272177
+  type: article-journal
+  author:
+  - family: Davidai
+    given: N.
+  - family: Westbrook
+    given: J. K.
+  - family: Lessard
+    given: J.-P.
+  - family: Hallam
+    given: T. G.
+  - family: McCracken
+    given: G. F.
+  issued:
+  - year: '2015'
+    month: '10'
+  title: The importance of natural habitats to Brazilian free-tailed bats in intensive
+    agricultural landscapes in the Winter Garden region of Texas, United States
+  container-title: Biological Conservation
+  publisher: Elsevier BV
+  page: '107-114'
+  volume: '190'
+  URL: https://doi.org/10.1016%2Fj.biocon.2015.05.015
+  DOI: 10.1016/j.biocon.2015.05.015
+...

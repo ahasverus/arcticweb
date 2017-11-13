@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84931040891
+  type: article-journal
+  author:
+  - family: Werner
+    given: J. R.
+  - family: Krebs
+    given: C. J.
+  - family: Donker
+    given: S. A.
+  - family: Boonstra
+    given: R.
+  - family: Sheriff
+    given: M. J.
+  issued:
+  - year: '2015'
+  title: Arctic ground squirrel population collapse in the boreal forests of the Southern
+    Yukon
+  container-title: Wildlife Research
+  publisher: CSIRO Publishing
+  page: '176'
+  volume: '42'
+  issue: '2'
+  URL: https://doi.org/10.1071%2Fwr14240
+  DOI: 10.1071/wr14240
+...

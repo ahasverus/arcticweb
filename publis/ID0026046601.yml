@@ -1,0 +1,25 @@
+---
+references:
+- id: ID0026046601
+  type: article-journal
+  author:
+  - family: Taylor
+    given: A. H.
+  - family: Reid
+    given: D. G.
+  - family: Zisheng
+    given: Q.
+  - family: Jinchu
+    given: H.
+  issued:
+  - year: '1991'
+    month: '6'
+  title: 'Bamboo Dieback: An Opportunity to Restore Panda Habitat'
+  container-title: Environmental Conservation
+  publisher: Cambridge University Press (CUP)
+  page: '166'
+  volume: '18'
+  issue: '02'
+  URL: https://doi.org/10.1017%2Fs0376892900021755
+  DOI: 10.1017/s0376892900021755
+...

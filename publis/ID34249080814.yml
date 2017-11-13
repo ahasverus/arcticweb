@@ -1,0 +1,23 @@
+---
+references:
+- id: ID34249080814
+  type: article-journal
+  author:
+  - family: Singleton
+    given: G. R.
+  - family: Tann
+    given: C. R.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '2007'
+    month: '3'
+  title: Landscape ecology of house mouse outbreaks in south-eastern Australia
+  container-title: Journal of Applied Ecology
+  publisher: Wiley-Blackwell
+  page: '644-652'
+  volume: '44'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1365-2664.2007.01296.x
+  DOI: 10.1111/j.1365-2664.2007.01296.x
+...

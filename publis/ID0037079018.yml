@@ -1,0 +1,21 @@
+---
+references:
+- id: ID0037079018
+  type: article-journal
+  author:
+  - family: Post
+    given: E.
+  - family: Forchhammer
+    given: M. C.
+  issued:
+  - year: '2002'
+    month: '11'
+  title: Synchronization of animal population dynamics by large-scale climate
+  container-title: Nature
+  publisher: Springer Nature
+  page: '168-171'
+  volume: '420'
+  issue: '6912'
+  URL: https://doi.org/10.1038%2Fnature01064
+  DOI: 10.1038/nature01064
+...

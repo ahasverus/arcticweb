@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84986332703
+  type: article-journal
+  author:
+  - family: Franci
+    given: L. C.
+    dropping-particle: de
+  - family: Nabe-Nielsen
+    given: J.
+  - family: Svenning
+    given: J.-C.
+  - family: Martins
+    given: F. R.
+  issued:
+  - year: '2016'
+    month: '9'
+  title: Short-term spatial variation in the demography of a common Neotropical liana
+    is shaped by tree community structure and light availability
+  container-title: Plant Ecology
+  publisher: Springer Nature
+  page: '1273-1290'
+  volume: '217'
+  issue: '10'
+  URL: https://doi.org/10.1007%2Fs11258-016-0655-0
+  DOI: 10.1007/s11258-016-0655-0
+...

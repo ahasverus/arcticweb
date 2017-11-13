@@ -1,0 +1,22 @@
+---
+references:
+- id: ID33646819331
+  type: article-journal
+  author:
+  - family: Post
+    given: E.
+  - family: Forchhammer
+    given: M. C.
+  issued:
+  - year: '2006'
+    month: '7'
+  title: 'Spatially synchronous population dynamics: An indicator of Pleistocene
+    faunal response to large-scale environmental change in the Holocene'
+  container-title: Quaternary International
+  publisher: Elsevier BV
+  page: '99-105'
+  volume: '151'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fj.quaint.2006.01.016
+  DOI: 10.1016/j.quaint.2006.01.016
+...

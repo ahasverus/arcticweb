@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84924289875
+  type: article-journal
+  author:
+  - family: Cortés
+    given: P. A.
+  - family: Petit
+    given: M.
+  - family: Lewden
+    given: A.
+  - family: Milbergue
+    given: M.
+  - family: Vézina
+    given: F.
+  issued:
+  - year: '2015'
+    month: '2'
+  title: Individual inconsistencies in basal and summit metabolic rate highlight flexibility
+    of metabolic performance in a wintering passerine
+  container-title: 'Journal of Experimental Zoology Part A: Ecological Genetics
+    and Physiology'
+  publisher: Wiley-Blackwell
+  page: '179-190'
+  volume: '323'
+  issue: '3'
+  URL: https://doi.org/10.1002%2Fjez.1908
+  DOI: 10.1002/jez.1908
+...

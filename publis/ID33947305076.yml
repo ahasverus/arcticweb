@@ -1,0 +1,37 @@
+---
+references:
+- id: ID33947305076
+  type: article-journal
+  author:
+  - family: Williams
+    given: C. K.
+  - family: Davey
+    given: C. C.
+  - family: Moore
+    given: R. J.
+  - family: Hinds
+    given: L. A.
+  - family: Silvers
+    given: L. E.
+  - family: Kerr
+    given: P. J.
+  - family: French
+    given: N.
+  - family: Hood
+    given: G. M.
+  - family: Pech
+    given: R. P.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '2007'
+    month: '2'
+  title: Population responses to sterility imposed on female European rabbits
+  container-title: Journal of Applied Ecology
+  publisher: Wiley-Blackwell
+  page: '291-301'
+  volume: '44'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1365-2664.2006.01264.x
+  DOI: 10.1111/j.1365-2664.2006.01264.x
+...

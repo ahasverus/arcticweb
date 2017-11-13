@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84922548611
+  type: article-journal
+  author:
+  - family: Baker
+    given: N. J.
+  - family: Kaartinen
+    given: R.
+  - family: Roslin
+    given: T.
+  - family: Stouffer
+    given: D. B.
+  issued:
+  - year: '2014'
+    month: '9'
+  title: Species’ roles in food webs show fidelity across a highly variable oak forest
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '130-139'
+  volume: '38'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fecog.00913
+  DOI: 10.1111/ecog.00913
+...

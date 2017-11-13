@@ -1,0 +1,21 @@
+---
+references:
+- id: ID0028981295
+  type: article-journal
+  author:
+  - family: Forchhammer
+    given: M. C.
+  - family: Boomsma
+    given: J. J.
+  issued:
+  - year: '1995'
+    month: '10'
+  title: Foraging strategies and seasonal diet optimization of muskoxen in West Greenland
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '169-180'
+  volume: '104'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fbf00328582
+  DOI: 10.1007/bf00328582
+...

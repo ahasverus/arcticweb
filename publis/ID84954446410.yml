@@ -1,0 +1,44 @@
+---
+references:
+- id: ID84954446410
+  type: article-journal
+  author:
+  - family: Kutschera
+    given: V. E.
+  - family: Frosch
+    given: C.
+  - family: Janke
+    given: A.
+  - family: Skírnisson
+    given: K.
+  - family: Bidon
+    given: T.
+  - family: Lecomte
+    given: N.
+  - family: Fain
+    given: S. R.
+  - family: Eiken
+    given: H. G.
+  - family: Hagen
+    given: S. B.
+  - family: Arnason
+    given: U.
+  - family: Laidre
+    given: K. L.
+  - family: Nowak
+    given: C.
+  - family: Hailer
+    given: F.
+  issued:
+  - year: '2016'
+    month: '1'
+  title: High genetic variability of vagrant polar bears illustrates importance of
+    population connectivity in fragmented sea ice habitats
+  container-title: Animal Conservation
+  publisher: Wiley-Blackwell
+  page: '337-349'
+  volume: '19'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Facv.12250
+  DOI: 10.1111/acv.12250
+...

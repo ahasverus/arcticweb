@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84960406316
+  type: article-journal
+  author:
+  - family: Godin
+    given: E.
+  - family: Fortier
+    given: D.
+  - family: Lévesque
+    given: E.
+  issued:
+  - year: '2016'
+    month: '3'
+  title: Nonlinear thermal and moisture response of ice-wedge polygons to permafrost
+    disturbance increases heterogeneity of high Arctic wetland
+  container-title: Biogeosciences
+  publisher: Copernicus GmbH
+  page: '1439-1452'
+  volume: '13'
+  issue: '5'
+  URL: https://doi.org/10.5194%2Fbg-13-1439-2016
+  DOI: 10.5194/bg-13-1439-2016
+...

@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84887001076
+  type: article-journal
+  author:
+  - family: Roy
+    given: J.
+  - family: Yannic
+    given: G.
+  - family: Côté
+    given: S. D.
+  - family: Bernatchez
+    given: L.
+  issued:
+  - year: '2012'
+    month: '2'
+  title: Negative density-dependent dispersal in the American black bear (Ursus americanus)
+    revealed by noninvasive sampling and genotyping
+  container-title: Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '525-537'
+  volume: '2'
+  issue: '3'
+  URL: https://doi.org/10.1002%2Fece3.207
+  DOI: 10.1002/ece3.207
+...

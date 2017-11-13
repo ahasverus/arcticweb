@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84971639705
+  type: article-journal
+  author:
+  - family: Robillard
+    given: A.
+  - family: Therrien
+    given: J. F.
+  - family: Gauthier
+    given: G.
+  - family: Clark
+    given: K. M.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2016'
+    month: '2'
+  title: Pulsed resources at tundra breeding sites affect winter irruptions at temperate
+    latitudes of a top predator, the snowy owl
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '423-433'
+  volume: '181'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs00442-016-3588-3
+  DOI: 10.1007/s00442-016-3588-3
+...

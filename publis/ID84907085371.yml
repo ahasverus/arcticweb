@@ -1,0 +1,35 @@
+---
+references:
+- id: ID84907085371
+  type: article-journal
+  author:
+  - family: Lounsberry
+    given: Z. T.
+  - family: Almeida
+    given: J. B.
+  - family: Lanctot
+    given: R. B.
+  - family: Liebezeit
+    given: J. R.
+  - family: Sandercock
+    given: B. K.
+  - family: Strum
+    given: K. M.
+  - family: Zack
+    given: S.
+  - family: Wisely
+    given: S. M.
+  issued:
+  - year: '2014'
+    month: '5'
+  title: Museum collections reveal that Buff-breasted Sandpipers (Calidris subruficollis)
+    maintained mtDNA variability despite large population declines during the past
+    135 years
+  container-title: Conservation Genetics
+  publisher: Springer Nature
+  page: '1197-1208'
+  volume: '15'
+  issue: '5'
+  URL: https://doi.org/10.1007%2Fs10592-014-0611-2
+  DOI: 10.1007/s10592-014-0611-2
+...

@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84974686644
+  type: article-journal
+  author:
+  - family: Barros
+    given: C.
+  - family: Thuiller
+    given: W.
+  - family: Georges
+    given: D.
+  - family: Boulangeat
+    given: I.
+  - family: Münkemüller
+    given: T.
+  editor:
+  - family: Bellwood
+    given: David
+  issued:
+  - year: '2016'
+    month: '6'
+  title: N-dimensional hypervolumes to study stability of complex ecosystems
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '729-742'
+  volume: '19'
+  issue: '7'
+  URL: https://doi.org/10.1111%2Fele.12617
+  DOI: 10.1111/ele.12617
+...

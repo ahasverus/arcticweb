@@ -1,0 +1,26 @@
+---
+references:
+- id: ID64749094086
+  type: article-journal
+  author:
+  - family: Médoc
+    given: V.
+  - family: Rigaud
+    given: T.
+  - family: Bollache
+    given: L.
+  - family: Beisel
+    given: J.-N.
+  issued:
+  - year: '2009'
+    month: '5'
+  title: A manipulative parasite increasing an antipredator response decreases its
+    vulnerability to a nonhost predator
+  container-title: Animal Behaviour
+  publisher: Elsevier BV
+  page: '1235-1241'
+  volume: '77'
+  issue: '5'
+  URL: https://doi.org/10.1016%2Fj.anbehav.2009.01.029
+  DOI: 10.1016/j.anbehav.2009.01.029
+...

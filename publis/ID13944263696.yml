@@ -1,0 +1,25 @@
+---
+references:
+- id: ID13944263696
+  type: article-journal
+  author:
+  - family: Bruun
+    given: H. H.
+  - family: Österdahl
+    given: S.
+  - family: Moen
+    given: J.
+  - family: Angerbjörn
+    given: A.
+  issued:
+  - year: '2005'
+    month: '2'
+  title: Distinct patterns in alpine vegetation around dens of the Arctic fox
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '81-87'
+  volume: '28'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.0906-7590.2005.04033.x
+  DOI: 10.1111/j.0906-7590.2005.04033.x
+...

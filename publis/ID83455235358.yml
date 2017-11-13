@@ -1,0 +1,30 @@
+---
+references:
+- id: ID83455235358
+  type: article-journal
+  author:
+  - family: Alexander
+    given: H. M.
+  - family: Foster
+    given: B. L.
+  - family: Ballantyne
+    given: F.
+  - family: Collins
+    given: C. D.
+  - family: Antonovics
+    given: J.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2011'
+    month: '12'
+  title: 'Metapopulations and metacommunities: Combining spatial and temporal perspectives
+    in plant ecology'
+  container-title: Journal of Ecology
+  publisher: Wiley-Blackwell
+  page: '88-103'
+  volume: '100'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1365-2745.2011.01917.x
+  DOI: 10.1111/j.1365-2745.2011.01917.x
+...

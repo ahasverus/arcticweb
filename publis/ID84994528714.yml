@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84994528714
+  type: article-journal
+  author:
+  - family: Spencer
+    given: N.
+  - family: Gilchrist
+    given: H.
+  - family: Strøm
+    given: H.
+  - family: Allard
+    given: K.
+  - family: Mallory
+    given: M.
+  issued:
+  - year: '2016'
+    month: '9'
+  title: Key winter habitat of the ivory gull Pagophila eburnea in the Canadian Arctic
+  container-title: Endangered Species Research
+  publisher: Inter-Research Science Center
+  page: '33-45'
+  volume: '31'
+  issue: '1'
+  URL: https://doi.org/10.3354%2Fesr00747
+  DOI: 10.3354/esr00747
+...

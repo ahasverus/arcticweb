@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84866920162
+  type: article-journal
+  author:
+  - family: Smith
+    given: P. A.
+  - family: Tulp
+    given: I.
+  - family: Schekkerman
+    given: H.
+  - family: Gilchrist
+    given: H. G.
+  - family: Forbes
+    given: M. R.
+  issued:
+  - year: '2012'
+    month: '10'
+  title: Shorebird incubation behaviour and its influence on the risk of nest predation
+  container-title: Animal Behaviour
+  publisher: Elsevier BV
+  page: '835-842'
+  volume: '84'
+  issue: '4'
+  URL: https://doi.org/10.1016%2Fj.anbehav.2012.07.004
+  DOI: 10.1016/j.anbehav.2012.07.004
+...

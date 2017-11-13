@@ -1,0 +1,35 @@
+---
+references:
+- id: ID0036126789
+  type: article-journal
+  author:
+  - family: Chase
+    given: J. M.
+  - family: Abrams
+    given: P. A.
+  - family: Grover
+    given: J. P.
+  - family: Diehl
+    given: S.
+  - family: Chesson
+    given: P.
+  - family: Holt
+    given: R. D.
+  - family: Richards
+    given: S. A.
+  - family: Nisbet
+    given: R. M.
+  - family: Case
+    given: T. J.
+  issued:
+  - year: '2002'
+    month: '3'
+  title: 'The interaction between predation and competition: A review and synthesis'
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '302-315'
+  volume: '5'
+  issue: '2'
+  URL: https://doi.org/10.1046%2Fj.1461-0248.2002.00315.x
+  DOI: 10.1046/j.1461-0248.2002.00315.x
+...

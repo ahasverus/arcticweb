@@ -1,0 +1,86 @@
+---
+references:
+- id: ID85026766774
+  type: article-journal
+  author:
+  - family: Wagner
+    given: V.
+  - family: Chytrý
+    given: M.
+  - family: Jiménez-Alfaro
+    given: B.
+  - family: Pergl
+    given: J.
+  - family: Hennekens
+    given: S.
+  - family: Biurrun
+    given: I.
+  - family: Knollová
+    given: I.
+  - family: Berg
+    given: C.
+  - family: Vassilev
+    given: K.
+  - family: Rodwell
+    given: J. S.
+  - family: Škvorc
+    given: E.
+  - family: Jandt
+    given: U.
+  - family: Ewald
+    given: J.
+  - family: Jansen
+    given: F.
+  - family: Tsiripidis
+    given: I.
+  - family: Botta-Dukát
+    given: Z.
+  - family: Casella
+    given: L.
+  - family: Attorre
+    given: F.
+  - family: Rašomavičius
+    given: V.
+  - family: Ćušterevska
+    given: R.
+  - family: Schaminée
+    given: J. H. J.
+  - family: Brunet
+    given: J.
+  - family: Lenoir
+    given: J.
+  - family: Svenning
+    given: J.-C.
+  - family: Kacki
+    given: Z.
+  - family: Petrášová-Šibíková
+    given: M.
+  - family: Šilc
+    given: U.
+  - family: García-Mijangos
+    given: I.
+  - family: Campos
+    given: J. A.
+  - family: Fernández-González
+    given: F.
+  - family: Wohlgemuth
+    given: T.
+  - family: Onyshchenko
+    given: V.
+  - family: Pyšek
+    given: P.
+  editor:
+  - family: Rejmánek
+    given: Marcel
+  issued:
+  - year: '2017'
+    month: '8'
+  title: Alien plant invasions in European woodlands
+  container-title: Diversity and Distributions
+  publisher: Wiley-Blackwell
+  page: '969-981'
+  volume: '23'
+  issue: '9'
+  URL: https://doi.org/10.1111%2Fddi.12592
+  DOI: 10.1111/ddi.12592
+...

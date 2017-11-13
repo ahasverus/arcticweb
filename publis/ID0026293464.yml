@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0026293464
+  type: article-journal
+  author:
+  - family: Reid
+    given: D.
+  - family: Jiang
+    given: M.
+  - family: Teng
+    given: Q.
+  - family: Qin
+    given: Z.
+  - family: Hu
+    given: J.
+  issued:
+  - year: '1991'
+  title: Ecology of the asiatic black bear (ursus thibetanus) in sichuan, china
+  container-title: Mammalia
+  publisher: Walter de Gruyter GmbH
+  page: '221-238'
+  volume: '55'
+  issue: '2'
+  URL: https://doi.org/10.1515%2Fmamm.1991.55.2.221
+  DOI: 10.1515/mamm.1991.55.2.221
+...

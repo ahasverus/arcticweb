@@ -1,0 +1,29 @@
+---
+references:
+- id: ID85028926239
+  type: article-journal
+  author:
+  - family: Thers
+    given: H.
+  - family: Brunbjerg
+    given: A. K.
+  - family: Læssøe
+    given: T.
+  - family: Ejrnæs
+    given: R.
+  - family: Bøcher
+    given: P. K.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2017'
+    month: '10'
+  title: Lidar-derived variables as a proxy for fungal species richness and composition
+    in temperate Northern Europe
+  container-title: Remote Sensing of Environment
+  publisher: Elsevier BV
+  page: '102-113'
+  volume: '200'
+  URL: https://doi.org/10.1016%2Fj.rse.2017.08.011
+  DOI: 10.1016/j.rse.2017.08.011
+...

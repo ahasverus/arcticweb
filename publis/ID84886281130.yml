@@ -1,0 +1,23 @@
+---
+references:
+- id: ID84886281130
+  type: article-journal
+  author:
+  - family: Poisot
+    given: T.
+  - family: Péquin
+    given: B.
+  - family: Gravel
+    given: D.
+  issued:
+  - year: '2013'
+    month: '3'
+  title: 'High-Throughput Sequencing: A Roadmap Toward Community Ecology'
+  container-title: Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '1125-1139'
+  volume: '3'
+  issue: '4'
+  URL: https://doi.org/10.1002%2Fece3.508
+  DOI: 10.1002/ece3.508
+...

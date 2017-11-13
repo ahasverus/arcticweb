@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84931004744
+  type: article-journal
+  author:
+  - family: Morales-Castilla
+    given: I.
+  - family: Matias
+    given: M. G.
+  - family: Gravel
+    given: D.
+  - family: Araújo
+    given: M. B.
+  issued:
+  - year: '2015'
+    month: '6'
+  title: Inferring biotic interactions from proxies
+  container-title: Trends in Ecology & Evolution
+  publisher: Elsevier BV
+  page: '347-356'
+  volume: '30'
+  issue: '6'
+  URL: https://doi.org/10.1016%2Fj.tree.2015.03.014
+  DOI: 10.1016/j.tree.2015.03.014
+...

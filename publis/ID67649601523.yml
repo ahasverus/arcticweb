@@ -1,0 +1,40 @@
+---
+references:
+- id: ID67649601523
+  type: article-journal
+  author:
+  - family: Sonne
+    given: C.
+  - family: Wolkers
+    given: H.
+  - family: Leifsson
+    given: P. S.
+  - family: Iburg
+    given: T.
+  - family: Jenssen
+    given: B. M.
+  - family: Fuglei
+    given: E.
+  - family: Ahlstrøm
+    given: Y.
+  - family: Dietz
+    given: R.
+  - family: Kirkegaard
+    given: M.
+  - family: Muir
+    given: D. C. G.
+  - family: Jørgensen
+    given: E. H.
+  issued:
+  - year: '2009'
+    month: '8'
+  title: Chronic dietary exposure to environmental organochlorine contaminants induces
+    thyroid gland lesions in Arctic foxes (Vulpes lagopus)
+  container-title: Environmental Research
+  publisher: Elsevier BV
+  page: '702-711'
+  volume: '109'
+  issue: '6'
+  URL: https://doi.org/10.1016%2Fj.envres.2009.04.008
+  DOI: 10.1016/j.envres.2009.04.008
+...

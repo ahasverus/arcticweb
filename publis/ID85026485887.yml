@@ -1,0 +1,28 @@
+---
+references:
+- id: ID85026485887
+  type: article-journal
+  author:
+  - family: Sauby
+    given: K. E.
+  - family: Kilmer
+    given: J.
+  - family: Christman
+    given: M. C.
+  - family: Holt
+    given: R. D.
+  - family: Marsico
+    given: T. D.
+  issued:
+  - year: '2017'
+    month: '7'
+  title: The influence of herbivory and weather on the vital rates of two closely
+    related cactus species
+  container-title: Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '6996-7009'
+  volume: '7'
+  issue: '17'
+  URL: https://doi.org/10.1002%2Fece3.3232
+  DOI: 10.1002/ece3.3232
+...

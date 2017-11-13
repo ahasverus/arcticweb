@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84872450837
+  type: article-journal
+  author:
+  - family: White
+    given: C. R.
+  - family: Green
+    given: J. A.
+  - family: Martin
+    given: G. R.
+  - family: Butler
+    given: P. J.
+  - family: Grémillet
+    given: D.
+  issued:
+  - year: '2013'
+    month: '1'
+  title: Energetic constraints may limit the capacity of visually guided predators
+    to respond to Arctic warming
+  container-title: Journal of Zoology
+  publisher: Wiley-Blackwell
+  page: '119-126'
+  volume: '289'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1469-7998.2012.00968.x
+  DOI: 10.1111/j.1469-7998.2012.00968.x
+...

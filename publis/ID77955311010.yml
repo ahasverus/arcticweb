@@ -1,0 +1,23 @@
+---
+references:
+- id: ID77955311010
+  type: article-journal
+  author:
+  - family: Yom-Tov
+    given: Y.
+  - family: Yom-Tov
+    given: S.
+  - family: Angerbjorn
+    given: A.
+  issued:
+  - year: '2010'
+    month: '9'
+  title: Body size of the weasel Mustela nivalis and the stoat M. erminea in Sweden
+  container-title: Mammalian Biology - Zeitschrift für Säugetierkunde
+  publisher: Elsevier BV
+  page: '420-426'
+  volume: '75'
+  issue: '5'
+  URL: https://doi.org/10.1016%2Fj.mambio.2009.06.003
+  DOI: 10.1016/j.mambio.2009.06.003
+...

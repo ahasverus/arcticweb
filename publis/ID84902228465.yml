@@ -1,0 +1,20 @@
+---
+references:
+- id: ID84902228465
+  type: chapter
+  author:
+  - family: Clobert
+    given: J.
+  - family: Ims
+    given: R. A.
+  - family: Rousset
+    given: F.
+  issued:
+  - year: '2004'
+  title: Causes, Mechanisms and Consequences of Dispersal
+  container-title: Ecology, Genetics and Evolution of Metapopulations
+  publisher: Elsevier
+  page: '307-335'
+  URL: https://doi.org/10.1016%2Fb978-012323448-3%2F50015-5
+  DOI: 10.1016/b978-012323448-3/50015-5
+...

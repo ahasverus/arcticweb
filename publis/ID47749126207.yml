@@ -1,0 +1,26 @@
+---
+references:
+- id: ID47749126207
+  type: article-journal
+  author:
+  - family: Forde
+    given: S. E.
+  - family: Thompson
+    given: J. N.
+  - family: Holt
+    given: R. D.
+  - family: Bohannan
+    given: B. J. M.
+  issued:
+  - year: '2008'
+    month: '6'
+  title: Coevolution drives temporal changes in fitness and diversity across environments
+    in a bacteria-bacteriophage interaction
+  container-title: Evolution
+  publisher: Wiley-Blackwell
+  page: ???-???
+  volume: '62'
+  issue: '8'
+  URL: https://doi.org/10.1111%2Fj.1558-5646.2008.00411.x
+  DOI: 10.1111/j.1558-5646.2008.00411.x
+...

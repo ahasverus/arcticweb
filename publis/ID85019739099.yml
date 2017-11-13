@@ -1,0 +1,32 @@
+---
+references:
+- id: ID85019739099
+  type: article-journal
+  author:
+  - family: Yannic
+    given: G.
+  - family: Statham
+    given: M. J.
+  - family: Denoyelle
+    given: L.
+  - family: Szor
+    given: G.
+  - family: Qulaut
+    given: G. Q.
+  - family: Sacks
+    given: B. N.
+  - family: Lecomte
+    given: N.
+  issued:
+  - year: '2017'
+    month: '5'
+  title: 'Investigating the ancestry of putative hybrids: are Arctic fox and red
+    fox hybridizing?'
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '2055-2062'
+  volume: '40'
+  issue: '10'
+  URL: https://doi.org/10.1007%2Fs00300-017-2126-z
+  DOI: 10.1007/s00300-017-2126-z
+...

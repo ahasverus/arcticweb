@@ -1,0 +1,23 @@
+---
+references:
+- id: ID35448943583
+  type: article-journal
+  author:
+  - family: Kimbrell
+    given: T.
+  - family: Holt
+    given: R. D.
+  - family: Lundberg
+    given: P.
+  issued:
+  - year: '2007'
+    month: '11'
+  title: The influence of vigilance on intraguild predation
+  container-title: Journal of Theoretical Biology
+  publisher: Elsevier BV
+  page: '218-234'
+  volume: '249'
+  issue: '2'
+  URL: https://doi.org/10.1016%2Fj.jtbi.2007.07.031
+  DOI: 10.1016/j.jtbi.2007.07.031
+...

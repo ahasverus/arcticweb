@@ -1,0 +1,56 @@
+---
+references:
+- id: ID84859968939
+  type: article-journal
+  author:
+  - family: Berteaux
+    given: D.
+  - family: Blois
+    given: S.
+    dropping-particle: de
+  - family: Angers
+    given: J.-F.
+  - family: Bonin
+    given: J.
+  - family: Casajus
+    given: N.
+  - family: Darveau
+    given: M.
+  - family: Fournier
+    given: F.
+  - family: Humphries
+    given: M. M.
+  - family: McGill
+    given: B.
+  - family: Larivée
+    given: J.
+  - family: Logan
+    given: T.
+  - family: Nantel
+    given: P.
+  - family: Périé
+    given: C.
+  - family: Poisson
+    given: F.
+  - family: Rodrigue
+    given: D.
+  - family: Rouleau
+    given: S.
+  - family: Siron
+    given: R.
+  - family: Thuiller
+    given: W.
+  - family: Vescovi
+    given: L.
+  issued:
+  - year: '2010'
+    month: '11'
+  title: 'The CC-Bio project: Studying the effects of climate change on Quebec biodiversity'
+  container-title: Diversity
+  publisher: MDPI AG
+  page: '1181-1204'
+  volume: '2'
+  issue: '11'
+  URL: https://doi.org/10.3390%2Fd2111181
+  DOI: 10.3390/d2111181
+...

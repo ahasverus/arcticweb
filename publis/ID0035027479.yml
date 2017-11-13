@@ -1,0 +1,21 @@
+---
+references:
+- id: ID0035027479
+  type: article-journal
+  author:
+  - family: Roslin
+    given: T.
+  - family: Koivunen
+    given: A.
+  issued:
+  - year: '2001'
+    month: '3'
+  title: Distribution and abundance of dung beetles in fragmented landscapes
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '69-77'
+  volume: '127'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs004420000565
+  DOI: 10.1007/s004420000565
+...

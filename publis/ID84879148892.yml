@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84879148892
+  type: article-journal
+  author:
+  - family: Ravolainen
+    given: V. T.
+  - family: Bråthen
+    given: K. A.
+  - family: Ims
+    given: R. A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Soininen
+    given: E. M.
+  issued:
+  - year: '2013'
+    month: '6'
+  title: Shrub patch configuration at the landscape scale is related to diversity
+    of adjacent herbaceous vegetation
+  container-title: Plant Ecology & Diversity
+  publisher: Informa UK Limited
+  page: '257-268'
+  volume: '6'
+  issue: '2'
+  URL: https://doi.org/10.1080%2F17550874.2013.773104
+  DOI: 10.1080/17550874.2013.773104
+...

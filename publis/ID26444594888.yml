@@ -1,0 +1,28 @@
+---
+references:
+- id: ID26444594888
+  type: article-journal
+  author:
+  - family: Tombre
+    given: I. M.
+  - family: Madsen
+    given: J.
+  - family: Tømmervik
+    given: H.
+  - family: Haugen
+    given: K.-P.
+  - family: Eythórsson
+    given: E.
+  issued:
+  - year: '2005'
+    month: '12'
+  title: Influence of organised scaring on distribution and habitat choice of geese
+    on pastures in Northern Norway
+  container-title: Agriculture, Ecosystems & Environment
+  publisher: Elsevier BV
+  page: '311-320'
+  volume: '111'
+  issue: '1-4'
+  URL: https://doi.org/10.1016%2Fj.agee.2005.06.007
+  DOI: 10.1016/j.agee.2005.06.007
+...

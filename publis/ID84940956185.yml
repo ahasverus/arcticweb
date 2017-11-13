@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84940956185
+  type: article-journal
+  author:
+  - family: Schmidt
+    given: N. M.
+  - family: Pedersen
+    given: S. H.
+  - family: Mosbacher
+    given: J. B.
+  - family: Hansen
+    given: L. H.
+  issued:
+  - year: '2015'
+    month: '6'
+  title: Long-term patterns of muskox (Ovibos moschatus) demographics in high arctic
+    Greenland
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '1667-1675'
+  volume: '38'
+  issue: '10'
+  URL: https://doi.org/10.1007%2Fs00300-015-1733-9
+  DOI: 10.1007/s00300-015-1733-9
+...

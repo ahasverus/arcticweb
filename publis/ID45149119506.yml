@@ -1,0 +1,26 @@
+---
+references:
+- id: ID45149119506
+  type: article-journal
+  author:
+  - family: Boonstra
+    given: R.
+  - family: Desantis
+    given: L.
+  - family: Krebs
+    given: C.
+  - family: Hik
+    given: D.
+  issued:
+  - year: '2008'
+    month: '4'
+  title: Climate and nutrient influences on the growth of white spruce trees in the
+    boreal forests of the Yukon
+  container-title: Climate Research
+  publisher: Inter-Research Science Center
+  page: '123-130'
+  volume: '36'
+  issue: '2'
+  URL: https://doi.org/10.3354%2Fcr00736
+  DOI: 10.3354/cr00736
+...

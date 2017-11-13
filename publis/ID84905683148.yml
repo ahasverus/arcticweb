@@ -1,0 +1,40 @@
+---
+references:
+- id: ID84905683148
+  type: article-journal
+  author:
+  - family: Soininen
+    given: E. M.
+  - family: Ehrich
+    given: D.
+  - family: Lecomte
+    given: N.
+  - family: Yoccoz
+    given: N. G.
+  - family: Tarroux
+    given: A.
+  - family: Berteaux
+    given: D.
+  - family: Gauthier
+    given: G.
+  - family: Gielly
+    given: L.
+  - family: Brochmann
+    given: C.
+  - family: Gussarova
+    given: G.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2014'
+    month: '5'
+  title: 'Sources of variation in small rodent trophic niche: New insights from
+    DNA metabarcoding and stable isotope analysis'
+  container-title: Isotopes in Environmental and Health Studies
+  publisher: Informa UK Limited
+  page: '361-381'
+  volume: '50'
+  issue: '3'
+  URL: https://doi.org/10.1080%2F10256016.2014.915824
+  DOI: 10.1080/10256016.2014.915824
+...

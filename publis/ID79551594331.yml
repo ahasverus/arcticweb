@@ -1,0 +1,24 @@
+---
+references:
+- id: ID79551594331
+  type: article-journal
+  author:
+  - family: Svenning
+    given: J.-C.
+  - family: Fløjgaard
+    given: C.
+  - family: Baselga
+    given: A.
+  issued:
+  - year: '2010'
+    month: '11'
+  title: 'Climate, history and neutrality as drivers of mammal beta diversity in
+    Europe: Insights from multiscale deconstruction'
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '393-402'
+  volume: '80'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2010.01771.x
+  DOI: 10.1111/j.1365-2656.2010.01771.x
+...

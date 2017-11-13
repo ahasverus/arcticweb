@@ -1,0 +1,31 @@
+---
+references:
+- id: ID67651093973
+  type: article-journal
+  author:
+  - family: Beaulieu
+    given: M.
+  - family: Thierry
+    given: A.-M.
+  - family: Raclot
+    given: T.
+  - family: Maho
+    given: Y. L.
+  - family: Ropert-Coudert
+    given: Y.
+  - family: Gachot-Neveu
+    given: H.
+  - family: Ancel
+    given: A.
+  issued:
+  - year: '2009'
+  title: Sex-specific parental strategies according to the sex of offspring in the
+    Adélie penguin
+  container-title: Behavioral Ecology
+  publisher: Oxford University Press (OUP)
+  page: '878-883'
+  volume: '20'
+  issue: '4'
+  URL: https://doi.org/10.1093%2Fbeheco%2Farp076
+  DOI: 10.1093/beheco/arp076
+...

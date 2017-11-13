@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84899954738
+  type: article-journal
+  author:
+  - family: Matias
+    given: M. G.
+  - family: Gravel
+    given: D.
+  - family: Guilhaumon
+    given: F.
+  - family: Desjardins-Proulx
+    given: P.
+  - family: Loreau
+    given: M.
+  - family: Münkemüller
+    given: T.
+  - family: Mouquet
+    given: N.
+  issued:
+  - year: '2013'
+    month: '11'
+  title: Estimates of species extinctions from species-area relationships strongly
+    depend on ecological context
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: no-no
+  volume: '37'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.1600-0587.2013.00448.x
+  DOI: 10.1111/j.1600-0587.2013.00448.x
+...

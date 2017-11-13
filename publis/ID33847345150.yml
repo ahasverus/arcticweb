@@ -1,0 +1,21 @@
+---
+references:
+- id: ID33847345150
+  type: article-journal
+  author:
+  - family: Kimbrell
+    given: T.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2007'
+    month: '3'
+  title: Canalization breakdown and evolution in a source-sink system
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '370-382'
+  volume: '169'
+  issue: '3'
+  URL: https://doi.org/10.1086%2F511314
+  DOI: 10.1086/511314
+...

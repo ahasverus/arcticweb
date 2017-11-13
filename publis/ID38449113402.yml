@@ -1,0 +1,28 @@
+---
+references:
+- id: ID38449113402
+  type: article-journal
+  author:
+  - family: Simard
+    given: M.
+  - family: Lecomte
+    given: N.
+  - family: Bergeron
+    given: Y.
+  - family: Bernier
+    given: P. Y.
+  - family: Paré
+    given: D.
+  issued:
+  - year: '2007'
+    month: '9'
+  title: Forest productivity decline caused by successional paludification of boreal
+    soils
+  container-title: Ecological Applications
+  publisher: Wiley-Blackwell
+  page: '1619-1637'
+  volume: '17'
+  issue: '6'
+  URL: https://doi.org/10.1890%2F06-1795.1
+  DOI: 10.1890/06-1795.1
+...

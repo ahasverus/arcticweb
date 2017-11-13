@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84892955935
+  type: article-journal
+  author:
+  - family: Provencher
+    given: J. F.
+  - family: Braune
+    given: B. M.
+  - family: Gilchrist
+    given: H. G.
+  - family: Forbes
+    given: M. R.
+  - family: Mallory
+    given: M. L.
+  issued:
+  - year: '2014'
+    month: '4'
+  title: Trace element concentrations and gastrointestinal parasites of Arctic terns
+    breeding in the Canadian High Arctic
+  container-title: Science of The Total Environment
+  publisher: Elsevier BV
+  page: '308-316'
+  volume: '476-477'
+  URL: https://doi.org/10.1016%2Fj.scitotenv.2014.01.016
+  DOI: 10.1016/j.scitotenv.2014.01.016
+...

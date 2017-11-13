@@ -1,0 +1,45 @@
+---
+references:
+- id: ID84913607041
+  type: article-journal
+  author:
+  - family: Snell
+    given: R. S.
+  - family: Huth
+    given: A.
+  - family: Nabel
+    given: J. E. M. S.
+  - family: Bocedi
+    given: G.
+  - family: Travis
+    given: J. M. J.
+  - family: Gravel
+    given: D.
+  - family: Bugmann
+    given: H.
+  - family: Gutiérrez
+    given: A. G.
+  - family: Hickler
+    given: T.
+  - family: Higgins
+    given: S. I.
+  - family: Reineking
+    given: B.
+  - family: Scherstjanoi
+    given: M.
+  - family: Zurbriggen
+    given: N.
+  - family: Lischke
+    given: H.
+  issued:
+  - year: '2014'
+    month: '3'
+  title: Using dynamic vegetation models to simulate plant range shifts
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '1184-1197'
+  volume: '37'
+  issue: '12'
+  URL: https://doi.org/10.1111%2Fecog.00580
+  DOI: 10.1111/ecog.00580
+...

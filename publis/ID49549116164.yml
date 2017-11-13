@@ -1,0 +1,36 @@
+---
+references:
+- id: ID49549116164
+  type: article-journal
+  author:
+  - family: Wisz
+    given: M.
+  - family: Dendoncker
+    given: N.
+  - family: Madsen
+    given: J.
+  - family: Rounsevell
+    given: M.
+  - family: Jespersen
+    given: M.
+  - family: Kuijken
+    given: E.
+  - family: Courtens
+    given: W.
+  - family: Verscheure
+    given: C.
+  - family: Cottaar
+    given: F.
+  issued:
+  - year: '2008'
+    month: '9'
+  title: 'Modelling pink-footed goose (Anser brachyrhynchus) wintering distributions
+    for the year 2050: Potential effects of land-use change in Europe'
+  container-title: Diversity and Distributions
+  publisher: Wiley-Blackwell
+  page: '721-731'
+  volume: '14'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.1472-4642.2008.00476.x
+  DOI: 10.1111/j.1472-4642.2008.00476.x
+...

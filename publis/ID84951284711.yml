@@ -1,0 +1,36 @@
+---
+references:
+- id: ID84951284711
+  type: article-journal
+  author:
+  - family: Lessard
+    given: J.-P.
+  - family: Weinstein
+    given: B. G.
+  - family: Borregaard
+    given: M. K.
+  - family: Marske
+    given: K. A.
+  - family: Martin
+    given: D. R.
+  - family: McGuire
+    given: J. A.
+  - family: Parra
+    given: J. L.
+  - family: Rahbek
+    given: C.
+  - family: Graham
+    given: C. H.
+  issued:
+  - year: '2016'
+    month: '1'
+  title: Process-based species pools reveal the hidden signature of biotic interactions
+    amid the influence of temperature filtering
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '75-88'
+  volume: '187'
+  issue: '1'
+  URL: https://doi.org/10.1086%2F684128
+  DOI: 10.1086/684128
+...

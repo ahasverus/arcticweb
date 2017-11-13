@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84983744518
+  type: article-journal
+  author:
+  - family: Schellberg
+    given: S.
+  - family: Sittler
+    given: B.
+  - family: Hering
+    given: S.
+  - family: Wattendorf
+    given: P.
+  - family: Konold
+    given: W.
+  issued:
+  - year: '2010'
+    month: '5'
+  title: Airborne laser scanning in cultural landscape research
+  container-title: Natur und Landschaft
+  publisher: W.Kohlhammer GmbH
+  page: '199-205'
+  volume: '85'
+  issue: '5'
+  URL: http://doi.org/10.17433/5.2010.50153021.199-205
+  DOI: 10.17433/5.2010.50153021.199-205
+  ISSN: '0028-0651'
+...

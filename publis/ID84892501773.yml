@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84892501773
+  type: article-journal
+  author:
+  - family: Bjerke
+    given: J. W.
+  - family: Bergjord
+    given: A. K.
+  - family: Tombre
+    given: I. M.
+  - family: Madsen
+    given: J.
+  issued:
+  - year: '2013'
+    month: '2'
+  title: Reduced dairy grassland yields in Central Norway after a single springtime
+    grazing event by pink-footed geese
+  container-title: Grass and Forage Science
+  publisher: Wiley-Blackwell
+  page: '129-139'
+  volume: '69'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fgfs.12045
+  DOI: 10.1111/gfs.12045
+...

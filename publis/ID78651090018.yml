@@ -1,0 +1,45 @@
+---
+references:
+- id: ID78651090018
+  type: article-journal
+  author:
+  - family: Lenoir
+    given: J.
+  - family: Gégout
+    given: J.-C.
+  - family: Guisan
+    given: A.
+  - family: Vittoz
+    given: P.
+  - family: Wohlgemuth
+    given: T.
+  - family: Zimmermann
+    given: N. E.
+  - family: Dullinger
+    given: S.
+  - family: Pauli
+    given: H.
+  - family: Willner
+    given: W.
+  - family: Grytnes
+    given: J.-A.
+  - family: Virtanen
+    given: R.
+  - family: Svenning
+    given: J.-C.
+  editor:
+  - family: Moen
+    given: Jon
+  issued:
+  - year: '2010'
+    month: '12'
+  title: Cross-scale analysis of the region effect on vascular plant species diversity
+    in southern and northern european mountain ranges
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e15734'
+  volume: '5'
+  issue: '12'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0015734
+  DOI: 10.1371/journal.pone.0015734
+...

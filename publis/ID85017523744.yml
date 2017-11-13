@@ -1,0 +1,33 @@
+---
+references:
+- id: ID85017523744
+  type: article-journal
+  author:
+  - family: Krüger
+    given: L.
+  - family: Ramos
+    given: J. A.
+  - family: Xavier
+    given: J. C.
+  - family: Grémillet
+    given: D.
+  - family: González-Solís
+    given: J.
+  - family: Petry
+    given: M. V.
+  - family: Phillips
+    given: R. A.
+  - family: Wanless
+    given: R. M.
+  - family: Paiva
+    given: V. H.
+  issued:
+  - year: '2017'
+    month: '4'
+  title: Projected distributions of Southern Ocean albatrosses, petrels and fisheries
+    as a consequence of climatic change
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  URL: https://doi.org/10.1111%2Fecog.02590
+  DOI: 10.1111/ecog.02590
+...

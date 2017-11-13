@@ -1,0 +1,38 @@
+---
+references:
+- id: ID85007333404
+  type: article-journal
+  author:
+  - family: Gounand
+    given: I.
+  - family: Daufresne
+    given: T.
+  - family: Gravel
+    given: D.
+  - family: Bouvier
+    given: C.
+  - family: Bouvier
+    given: T.
+  - family: Combe
+    given: M.
+  - family: Gougat-Barbera
+    given: C.
+  - family: Poly
+    given: F.
+  - family: Torres-Barceló
+    given: C.
+  - family: Mouquet
+    given: N.
+  issued:
+  - year: '2016'
+    month: '12'
+  title: Size evolution in microorganisms masks trade-offs predicted by the growth
+    rate hypothesis
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '20162272'
+  volume: '283'
+  issue: '1845'
+  URL: https://doi.org/10.1098%2Frspb.2016.2272
+  DOI: 10.1098/rspb.2016.2272
+...

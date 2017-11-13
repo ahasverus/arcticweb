@@ -1,0 +1,23 @@
+---
+references:
+- id: ID84965036354
+  type: article-journal
+  author:
+  - family: Faurby
+    given: S.
+  - family: Werdelin
+    given: L.
+  - family: Svenning
+    given: J. C.
+  issued:
+  - year: '2016'
+    month: '5'
+  title: 'The difference between trivial and scientific names: There were never
+    any true cheetahs in North America'
+  container-title: Genome Biology
+  publisher: Springer Nature
+  volume: '17'
+  issue: '1'
+  URL: https://doi.org/10.1186%2Fs13059-016-0943-y
+  DOI: 10.1186/s13059-016-0943-y
+...

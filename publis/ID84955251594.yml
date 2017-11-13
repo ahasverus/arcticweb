@@ -1,0 +1,42 @@
+---
+references:
+- id: ID84955251594
+  type: article-journal
+  author:
+  - family: Engemann
+    given: K.
+  - family: Sandel
+    given: B.
+  - family: Enquist
+    given: B. J.
+  - family: Jørgensen
+    given: P. M.
+  - family: Kraft
+    given: N.
+  - family: Marcuse-Kubitza
+    given: A.
+  - family: McGill
+    given: B.
+  - family: Morueta-Holme
+    given: N.
+  - family: Peet
+    given: R. K.
+  - family: Violle
+    given: C.
+  - family: Wiser
+    given: S.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2015'
+    month: '12'
+  title: 'Patterns and drivers of plant functional group dominance across the Western
+    Hemisphere: A macroecological re-assessment based on a massive botanical dataset'
+  container-title: Botanical Journal of the Linnean Society
+  publisher: Oxford University Press (OUP)
+  page: '141-160'
+  volume: '180'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fboj.12362
+  DOI: 10.1111/boj.12362
+...

@@ -1,0 +1,30 @@
+---
+references:
+- id: ID43949121735
+  type: article-journal
+  author:
+  - family: Chin
+    given: E. H.
+  - family: Shah
+    given: A. H.
+  - family: Schmidt
+    given: K. L.
+  - family: Sheldon
+    given: L. D.
+  - family: Love
+    given: O. P.
+  - family: Soma
+    given: K. K.
+  issued:
+  - year: '2008'
+    month: '6'
+  title: 'Sex differences in DHEA and estradiol during development in a wild songbird:
+    Jugular versus brachial plasma'
+  container-title: Hormones and Behavior
+  publisher: Elsevier BV
+  page: '194-202'
+  volume: '54'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fj.yhbeh.2008.02.014
+  DOI: 10.1016/j.yhbeh.2008.02.014
+...

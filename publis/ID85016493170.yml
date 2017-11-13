@@ -1,0 +1,23 @@
+---
+references:
+- id: ID85016493170
+  type: article-journal
+  author:
+  - family: Schetagne
+    given: R.
+  - family: Therrien
+    given: J.
+  editor:
+  - family: Pirrone
+    given: Nicola
+  issued:
+  - year: '2013'
+  title: Absence of mercury effects on fish populations of boreal reservoirs despite
+    3 to 6 fold increases in mercury concentrations
+  container-title: E3S Web of Conferences
+  publisher: EDP Sciences
+  page: '34002'
+  volume: '1'
+  URL: https://doi.org/10.1051%2Fe3sconf%2F20130134002
+  DOI: 10.1051/e3sconf/20130134002
+...

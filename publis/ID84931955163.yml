@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84931955163
+  type: article-journal
+  author:
+  - family: Tjørnløv
+    given: R. S.
+  - family: Kissling
+    given: W. D.
+  - family: Barnagaud
+    given: J.-Y.
+  - family: Bøcher
+    given: P. K.
+  - family: Høye
+    given: T. T.
+  issued:
+  - year: '2014'
+    month: '12'
+  title: Oviposition site selection of an endangered butterfly at local spatial scales
+  container-title: Journal of Insect Conservation
+  publisher: Springer Nature
+  page: '377-391'
+  volume: '19'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs10841-014-9747-0
+  DOI: 10.1007/s10841-014-9747-0
+...

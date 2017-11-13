@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84890910060
+  type: article-journal
+  author:
+  - family: Greve
+    given: M.
+  - family: Reyers
+    given: B.
+  - family: Lykke
+    given: A. M.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2013'
+    month: '12'
+  title: Spatial optimization of carbon-stocking projects across Africa integrating
+    stocking potential with co-benefits and feasibility
+  container-title: Nature Communications
+  publisher: Springer Nature
+  volume: '4'
+  URL: https://doi.org/10.1038%2Fncomms3975
+  DOI: 10.1038/ncomms3975
+...

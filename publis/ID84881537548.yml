@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84881537548
+  type: article-journal
+  author:
+  - family: Salvo
+    given: F.
+  - family: Dufour
+    given: S. C.
+  - family: Archambault
+    given: P.
+  - family: Stora
+    given: G.
+  - family: Desrosiers
+    given: G.
+  issued:
+  - year: '2013'
+    month: '5'
+  title: Spatial distribution of Alitta virens burrows in intertidal sediments studied
+    by axial tomodensitometry
+  container-title: Journal of the Marine Biological Association of the United Kingdom
+  publisher: Cambridge University Press (CUP)
+  page: '1543-1552'
+  volume: '93'
+  issue: '06'
+  URL: https://doi.org/10.1017%2Fs0025315413000519
+  DOI: 10.1017/s0025315413000519
+...

@@ -1,0 +1,21 @@
+---
+references:
+- id: ID44649124482
+  type: article-journal
+  author:
+  - family: Gauthier
+    given: G.
+  - family: Lebreton
+    given: J.-D.
+  issued:
+  - year: '2008'
+    month: '3'
+  title: Analysis of Band-recovery data in a multistate capture-recapture framework
+  container-title: Canadian Journal of Statistics
+  publisher: Wiley-Blackwell
+  page: '59-73'
+  volume: '36'
+  issue: '1'
+  URL: https://doi.org/10.1002%2Fcjs.5550360107
+  DOI: 10.1002/cjs.5550360107
+...

@@ -1,0 +1,52 @@
+---
+references:
+- id: ID84897373074
+  type: article-journal
+  author:
+  - family: Brunbjerg
+    given: A. K.
+  - family: Cavender-Bares
+    given: J.
+  - family: Eiserhardt
+    given: W. L.
+  - family: Ejrnaes
+    given: R.
+  - family: Aarssen
+    given: L. W.
+  - family: Buckley
+    given: H. L.
+  - family: Forey
+    given: E.
+  - family: Jansen
+    given: F.
+  - family: Kattge
+    given: J.
+  - family: Lane
+    given: C.
+  - family: Lubke
+    given: R. A.
+  - family: Moles
+    given: A. T.
+  - family: Monserrat
+    given: A. L.
+  - family: Peet
+    given: R. K.
+  - family: Roncal
+    given: J.
+  - family: Wootton
+    given: L.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2014'
+    month: '1'
+  title: Multi-scale phylogenetic structure in coastal dune plant communities across
+    the globe
+  container-title: Journal of Plant Ecology
+  publisher: Oxford University Press (OUP)
+  page: '101-114'
+  volume: '7'
+  issue: '2'
+  URL: https://doi.org/10.1093%2Fjpe%2Frtt069
+  DOI: 10.1093/jpe/rtt069
+...

@@ -1,0 +1,24 @@
+---
+references:
+- id: ID33746922697
+  type: article-journal
+  author:
+  - family: Nyström
+    given: V.
+  - family: Angerbjörn
+    given: A.
+  - family: Dalén
+    given: L.
+  issued:
+  - year: '2006'
+    month: '7'
+  title: Genetic consequences of a demographic bottleneck in the Scandinavian arctic
+    fox
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '84-94'
+  volume: '114'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.2006.0030-1299.14701.x
+  DOI: 10.1111/j.2006.0030-1299.14701.x
+...

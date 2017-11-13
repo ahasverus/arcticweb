@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84994140711
+  type: article-journal
+  author:
+  - family: Anderson
+    given: H. B.
+  - family: Speed
+    given: J. D. M.
+  - family: Madsen
+    given: J.
+  - family: Pedersen
+    given: S. Ø.
+  - family: Tombre
+    given: I. M.
+  - family: Wal
+    given: R.
+    dropping-particle: van der
+  issued:
+  - year: '2016'
+    month: '4'
+  title: Late Snow Melt Moderates Herbivore Disturbance of the Arctic Tundra
+  container-title: Écoscience
+  publisher: Informa UK Limited
+  page: '29-39'
+  volume: '23'
+  issue: '1-2'
+  URL: https://doi.org/10.1080%2F11956860.2016.1212684
+  DOI: 10.1080/11956860.2016.1212684
+...

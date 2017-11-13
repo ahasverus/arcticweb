@@ -1,0 +1,31 @@
+---
+references:
+- id: ID34247235767
+  type: article-journal
+  author:
+  - family: Bråthen
+    given: K. A.
+  - family: González
+    given: V. T.
+  - family: Iversen
+    given: M.
+  - family: Killengreen
+    given: S.
+  - family: Ravolainen
+    given: V. T.
+  - family: Ims
+    given: R. A.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2007'
+    month: '4'
+  title: Endozoochory varies with ecological scale and context
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '308-320'
+  volume: '30'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.0906-7590.2001.04976.x
+  DOI: 10.1111/j.0906-7590.2001.04976.x
+...

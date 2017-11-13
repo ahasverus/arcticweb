@@ -1,0 +1,25 @@
+---
+references:
+- id: ID12244260076
+  type: article-journal
+  author:
+  - family: Ahlstrøm
+    given: Y.
+  - family: Fuglei
+    given: E.
+  - family: Mydland
+    given: L. T.
+  issued:
+  - year: '2003'
+    month: '1'
+  title: Comparative nutrient digestibility of arctic foxes (Alopex lagopus) on Svalbard
+    and farm-raised blue foxes (Alopex lagopus)
+  container-title: 'Comparative Biochemistry and Physiology Part A: Molecular &
+    Integrative Physiology'
+  publisher: Elsevier BV
+  page: '63-68'
+  volume: '134'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fs1095-6433%2802%2900184-8
+  DOI: 10.1016/s1095-6433(02)00184-8
+...

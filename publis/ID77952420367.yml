@@ -1,0 +1,30 @@
+---
+references:
+- id: ID77952420367
+  type: article-journal
+  author:
+  - family: Beaulieu
+    given: M.
+  - family: Thierry
+    given: A.-M.
+  - family: Handrich
+    given: Y.
+  - family: Massemin
+    given: S.
+  - family: Maho
+    given: Y. L.
+  - family: Ancel
+    given: A.
+  issued:
+  - year: '2009'
+    month: '9'
+  title: Adverse effects of instrumentation in incubating Adélie penguins (Pygoscelis
+    adeliae)
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '485-492'
+  volume: '33'
+  issue: '4'
+  URL: https://doi.org/10.1007%2Fs00300-009-0725-z
+  DOI: 10.1007/s00300-009-0725-z
+...

@@ -1,0 +1,28 @@
+---
+references:
+- id: ID77956417431
+  type: article-journal
+  author:
+  - family: Kaartinen
+    given: R.
+  - family: Stone
+    given: G. N.
+  - family: Hearn
+    given: J.
+  - family: Lohse
+    given: K.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2010'
+    month: '7'
+  title: 'Revealing secret liaisons: DNA barcoding changes our understanding of
+    food webs'
+  container-title: Ecological Entomology
+  publisher: Wiley-Blackwell
+  page: '623-638'
+  volume: '35'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.1365-2311.2010.01224.x
+  DOI: 10.1111/j.1365-2311.2010.01224.x
+...

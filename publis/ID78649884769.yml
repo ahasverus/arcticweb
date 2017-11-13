@@ -1,0 +1,67 @@
+---
+references:
+- id: ID78649884769
+  type: article-journal
+  author:
+  - family: Weiser
+    given: M. D.
+  - family: Sanders
+    given: N. J.
+  - family: Agosti
+    given: D.
+  - family: Andersen
+    given: A. N.
+  - family: Ellison
+    given: A. M.
+  - family: Fisher
+    given: B. L.
+  - family: Gibb
+    given: H.
+  - family: Gotelli
+    given: N. J.
+  - family: Gove
+    given: A. D.
+  - family: Gross
+    given: K.
+  - family: Guenard
+    given: B.
+  - family: Janda
+    given: M.
+  - family: Kaspari
+    given: M.
+  - family: Lessard
+    given: J.-P.
+  - family: Longino
+    given: J. T.
+  - family: Majer
+    given: J. D.
+  - family: Menke
+    given: S. B.
+  - family: McGlynn
+    given: T. P.
+  - family: Parr
+    given: C. L.
+  - family: Philpott
+    given: S. M.
+  - family: Retana
+    given: J.
+  - family: Suarez
+    given: A. V.
+  - family: Vasconcelos
+    given: H. L.
+  - family: Yanoviak
+    given: S. P.
+  - family: Dunn
+    given: R. R.
+  issued:
+  - year: '2010'
+    month: '5'
+  title: Canopy and litter ant assemblages share similar climate-species density relationships
+  container-title: Biology Letters
+  publisher: The Royal Society
+  page: '769-772'
+  volume: '6'
+  issue: '6'
+  URL: https://doi.org/10.1098%2Frsbl.2010.0151
+  DOI: 10.1098/rsbl.2010.0151
+...

@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0033231663
+  type: article-journal
+  author:
+  - family: Bjørnstad
+    given: O. N.
+  - family: Ims
+    given: R. A.
+  - family: Lambin
+    given: X.
+  issued:
+  - year: '1999'
+    month: '11'
+  title: 'Spatial population dynamics: Analyzing patterns and processes of population
+    synchrony'
+  container-title: Trends in Ecology & Evolution
+  publisher: Elsevier BV
+  page: '427-432'
+  volume: '14'
+  issue: '11'
+  URL: https://doi.org/10.1016%2Fs0169-5347%2899%2901677-8
+  DOI: 10.1016/s0169-5347(99)01677-8
+...

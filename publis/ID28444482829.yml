@@ -1,0 +1,23 @@
+---
+references:
+- id: ID28444482829
+  type: article-journal
+  author:
+  - family: Wayland
+    given: M.
+  - family: Gilchrist
+    given: H. G.
+  - family: Neugebauer
+    given: E.
+  issued:
+  - year: '2005'
+    month: '12'
+  title: 'Concentrations of cadmium, mercury and selenium in common eider ducks
+    in the eastern Canadian arctic: Influence of reproductive stage'
+  container-title: Science of The Total Environment
+  publisher: Elsevier BV
+  page: '323-332'
+  volume: '351-352'
+  URL: https://doi.org/10.1016%2Fj.scitotenv.2005.03.033
+  DOI: 10.1016/j.scitotenv.2005.03.033
+...

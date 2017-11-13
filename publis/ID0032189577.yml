@@ -1,0 +1,28 @@
+---
+references:
+- id: ID0032189577
+  type: article-journal
+  author:
+  - family: Aars
+    given: J.
+  - family: Ims
+    given: R. A.
+  - family: Liu
+    given: H.-P.
+  - family: Mulvey
+    given: M.
+  - family: Smith
+    given: M. H.
+  issued:
+  - year: '1998'
+    month: '10'
+  title: Bank voles in linear habitats show restricted gene flow as revealed by mitochondrial
+    DNA (mtDNA)
+  container-title: Molecular Ecology
+  publisher: Wiley-Blackwell
+  page: '1383-1389'
+  volume: '7'
+  issue: '10'
+  URL: https://doi.org/10.1046%2Fj.1365-294x.1998.00487.x
+  DOI: 10.1046/j.1365-294x.1998.00487.x
+...

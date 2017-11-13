@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84946887538
+  type: article-journal
+  author:
+  - family: Chudzińska
+    given: M.
+  - family: Ayllón
+    given: D.
+  - family: Madsen
+    given: J.
+  - family: Nabe-Nielsen
+    given: J.
+  issued:
+  - year: '2016'
+    month: '1'
+  title: 'Discriminating between possible foraging decisions using pattern-oriented
+    modelling: The case of pink-footed geese in Mid-Norway during their spring migration'
+  container-title: Ecological Modelling
+  publisher: Elsevier BV
+  page: '299-315'
+  volume: '320'
+  URL: https://doi.org/10.1016%2Fj.ecolmodel.2015.10.005
+  DOI: 10.1016/j.ecolmodel.2015.10.005
+...

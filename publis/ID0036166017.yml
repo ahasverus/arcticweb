@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0036166017
+  type: article-journal
+  author:
+  - family: Outreman
+    given: Y.
+  - family: Bollache
+    given: L.
+  - family: Plaistow
+    given: S.
+  - family: Cézilly
+    given: F.
+  issued:
+  - year: '2002'
+    month: '1'
+  title: Patterns of intermediate host use and levels of association between two conflicting
+    manipulative parasites
+  container-title: International Journal for Parasitology
+  publisher: Elsevier BV
+  page: '15-20'
+  volume: '32'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fs0020-7519%2801%2900304-6
+  DOI: 10.1016/s0020-7519(01)00304-6
+...

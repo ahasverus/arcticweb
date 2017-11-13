@@ -1,0 +1,38 @@
+---
+references:
+- id: ID84894249923
+  type: article-journal
+  author:
+  - family: Barraquand
+    given: F.
+  - family: Høye
+    given: T. T.
+  - family: Henden
+    given: J.-A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Gilg
+    given: O.
+  - family: Schmidt
+    given: N. M.
+  - family: Sittler
+    given: B.
+  - family: Ims
+    given: R. A.
+  editor:
+  - family: Pol
+    given: Martijn
+    dropping-particle: van de
+  issued:
+  - year: '2013'
+    month: '10'
+  title: 'Demographic responses of a site-faithful and territorial predator to its
+    fluctuating prey: Long-tailed skuas and arctic lemmings'
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '375-387'
+  volume: '83'
+  issue: '2'
+  URL: https://doi.org/10.1111%2F1365-2656.12140
+  DOI: 10.1111/1365-2656.12140
+...

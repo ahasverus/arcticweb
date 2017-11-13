@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0027510828
+  type: article-journal
+  author:
+  - family: Ims
+    given: R. A.
+  - family: Rolstad
+    given: J.
+  - family: Wegge
+    given: P.
+  issued:
+  - year: '1993'
+  title: 'Predicting space use responses to habitat fragmentation: can voles Microtus
+    oeconomus serve as an experimental model system (EMS) for capercaillie grouse
+    Tetrao urogallus in boreal forest?'
+  container-title: Biological Conservation
+  publisher: Elsevier BV
+  page: '261-268'
+  volume: '63'
+  issue: '3'
+  URL: https://doi.org/10.1016%2F0006-3207%2893%2990722-d
+  DOI: 10.1016/0006-3207(93)90722-d
+...

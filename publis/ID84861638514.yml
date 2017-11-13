@@ -1,0 +1,112 @@
+---
+references:
+- id: ID84861638514
+  type: article-journal
+  author:
+  - family: Elmendorf
+    given: S. C.
+  - family: Henry
+    given: G. H. R.
+  - family: Hollister
+    given: R. D.
+  - family: Björk
+    given: R. G.
+  - family: Boulanger-Lapointe
+    given: N.
+  - family: Cooper
+    given: E. J.
+  - family: Cornelissen
+    given: J. H. C.
+  - family: Day
+    given: T. A.
+  - family: Dorrepaal
+    given: E.
+  - family: Elumeeva
+    given: T. G.
+  - family: Gill
+    given: M.
+  - family: Gould
+    given: W. A.
+  - family: Harte
+    given: J.
+  - family: Hik
+    given: D. S.
+  - family: Hofgaard
+    given: A.
+  - family: Johnson
+    given: D. R.
+  - family: Johnstone
+    given: J. F.
+  - family: Jónsdóttir
+    given: I. S.
+  - family: Jorgenson
+    given: J. C.
+  - family: Klanderud
+    given: K.
+  - family: Klein
+    given: J. A.
+  - family: Koh
+    given: S.
+  - family: Kudo
+    given: G.
+  - family: Lara
+    given: M.
+  - family: Lévesque
+    given: E.
+  - family: Magnússon
+    given: B.
+  - family: May
+    given: J. L.
+  - family: Mercado-Diaz
+    given: J. A.
+  - family: Michelsen
+    given: A.
+  - family: Molau
+    given: U.
+  - family: Myers-Smith
+    given: I. H.
+  - family: Oberbauer
+    given: S. F.
+  - family: Onipchenko
+    given: V. G.
+  - family: Rixen
+    given: C.
+  - family: Schmidt
+    given: N. M.
+  - family: Shaver
+    given: G. R.
+  - family: Spasojevic
+    given: M. J.
+  - family: Thórhallsdóttir
+    given: T. E.
+  - family: Tolvanen
+    given: A.
+  - family: Troxler
+    given: T.
+  - family: Tweedie
+    given: C. E.
+  - family: Villareal
+    given: S.
+  - family: Wahren
+    given: C.-H.
+  - family: Walker
+    given: X.
+  - family: Webber
+    given: P. J.
+  - family: Welker
+    given: J. M.
+  - family: Wipf
+    given: S.
+  issued:
+  - year: '2012'
+    month: '4'
+  title: Plot-scale evidence of tundra vegetation change and links to recent summer
+    warming
+  container-title: Nature Climate Change
+  publisher: Springer Nature
+  page: '453-457'
+  volume: '2'
+  issue: '6'
+  URL: https://doi.org/10.1038%2Fnclimate1465
+  DOI: 10.1038/nclimate1465
+...

@@ -1,0 +1,52 @@
+---
+references:
+- id: ID77957800164
+  type: article-journal
+  author:
+  - family: Archambault
+    given: P.
+  - family: Snelgrove
+    given: P. V. R.
+  - family: Fisher
+    given: J. A. D.
+  - family: Gagnon
+    given: J.-M.
+  - family: Garbary
+    given: D. J.
+  - family: Harvey
+    given: M.
+  - family: Kenchington
+    given: E. L.
+  - family: Lesage
+    given: V.
+  - family: Levesque
+    given: M.
+  - family: Lovejoy
+    given: C.
+  - family: Mackas
+    given: D. L.
+  - family: McKindsey
+    given: C. W.
+  - family: Nelson
+    given: J. R.
+  - family: Pepin
+    given: P.
+  - family: Piché
+    given: L.
+  - family: Poulin
+    given: M.
+  editor:
+  - family: Romanuk
+    given: Tamara Natasha
+  issued:
+  - year: '2010'
+    month: '8'
+  title: 'From sea to sea: Canada’s three oceans of biodiversity'
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e12182'
+  volume: '5'
+  issue: '8'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0012182
+  DOI: 10.1371/journal.pone.0012182
+...

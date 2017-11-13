@@ -1,0 +1,23 @@
+---
+references:
+- id: ID84928473978
+  type: article-journal
+  author:
+  - family: Scheiner
+    given: S. M.
+  - family: Gomulkiewicz
+    given: R.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2015'
+    month: '5'
+  title: The genetics of phenotypic plasticity. XIV. Coevolution
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '594-609'
+  volume: '185'
+  issue: '5'
+  URL: https://doi.org/10.1086%2F680552
+  DOI: 10.1086/680552
+...

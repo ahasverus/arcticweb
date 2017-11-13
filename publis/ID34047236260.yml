@@ -1,0 +1,26 @@
+---
+references:
+- id: ID34047236260
+  type: article-journal
+  author:
+  - family: Beaudet
+    given: M.
+  - family: Brisson
+    given: J.
+  - family: Messier
+    given: C.
+  - family: Gravel
+    given: D.
+  issued:
+  - year: '2007'
+    month: '4'
+  title: 'Effect of a major ice storm on understory light conditions in an old-growth
+    Acer-Fagus forest: Pattern of recovery over seven years'
+  container-title: Forest Ecology and Management
+  publisher: Elsevier BV
+  page: '553-557'
+  volume: '242'
+  issue: '2-3'
+  URL: https://doi.org/10.1016%2Fj.foreco.2007.01.068
+  DOI: 10.1016/j.foreco.2007.01.068
+...

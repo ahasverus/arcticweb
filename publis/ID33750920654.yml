@@ -1,0 +1,22 @@
+---
+references:
+- id: ID33750920654
+  type: article-journal
+  author:
+  - family: Cook
+    given: W. M.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2006'
+    month: '9'
+  title: 'Influence of multiple factors on insect colonization of heterogeneous
+    landscapes: A review and case study with periodical cicadas (Homoptera: Cicadidae)'
+  container-title: Annals of the Entomological Society of America
+  publisher: Oxford University Press (OUP)
+  page: '809-820'
+  volume: '99'
+  issue: '5'
+  URL: https://doi.org/10.1603%2F0013-8746%282006%2999%5B809%3Aiomfoi%5D2.0.co%3B2
+  DOI: 10.1603/0013-8746(2006)99[809:iomfoi]2.0.co;2
+...

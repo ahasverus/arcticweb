@@ -1,0 +1,27 @@
+---
+references:
+- id: ID70349558864
+  type: article-journal
+  author:
+  - family: Smith
+    given: P. A.
+  - family: Bart
+    given: J.
+  - family: Lanctot
+    given: R. B.
+  - family: McCaffery
+    given: B. J.
+  - family: Brown
+    given: S.
+  issued:
+  - year: '2009'
+    month: '8'
+  title: Probability of detection of nests and implications for survey design
+  container-title: The Condor
+  publisher: Cooper Ornithological Society
+  page: '414-423'
+  volume: '111'
+  issue: '3'
+  URL: https://doi.org/10.1525%2Fcond.2009.090002
+  DOI: 10.1525/cond.2009.090002
+...

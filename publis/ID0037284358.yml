@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0037284358
+  type: article-journal
+  author:
+  - family: Sauvage
+    given: F.
+  - family: Langlais
+    given: M.
+  - family: Yoccoz
+    given: N. G.
+  - family: Pontier
+    given: D.
+  issued:
+  - year: '2003'
+    month: '1'
+  title: 'Modelling hantavirus in fluctuating populations of bank voles: The role
+    of indirect transmission on virus persistence'
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '1-13'
+  volume: '72'
+  issue: '1'
+  URL: https://doi.org/10.1046%2Fj.1365-2656.2003.00675.x
+  DOI: 10.1046/j.1365-2656.2003.00675.x
+...

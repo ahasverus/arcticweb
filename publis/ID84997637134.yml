@@ -1,0 +1,33 @@
+---
+references:
+- id: ID84997637134
+  type: article-journal
+  author:
+  - family: Crossin
+    given: G. T.
+  - family: Phillips
+    given: R. A.
+  - family: Lattin
+    given: C. R.
+  - family: Romero
+    given: L. M.
+  - family: Bordeleau
+    given: X.
+  - family: Harris
+    given: C. M.
+  - family: Love
+    given: O. P.
+  - family: Williams
+    given: T. D.
+  issued:
+  - year: '2016'
+    month: '11'
+  title: Costs of reproduction and carry-over effects in breeding albatrosses
+  container-title: Antarctic Science
+  publisher: Cambridge University Press (CUP)
+  page: '155-164'
+  volume: '29'
+  issue: '02'
+  URL: https://doi.org/10.1017%2Fs0954102016000560
+  DOI: 10.1017/s0954102016000560
+...

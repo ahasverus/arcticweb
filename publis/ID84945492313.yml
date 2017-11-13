@@ -1,0 +1,42 @@
+---
+references:
+- id: ID84945492313
+  type: article-journal
+  author:
+  - family: Bison
+    given: M.
+  - family: Ibanez
+    given: S.
+  - family: Redjadj
+    given: C.
+  - family: Boyer
+    given: F.
+  - family: Coissac
+    given: E.
+  - family: Miquel
+    given: C.
+  - family: Rioux
+    given: D.
+  - family: Said
+    given: S.
+  - family: Maillard
+    given: D.
+  - family: Taberlet
+    given: P.
+  - family: Yoccoz
+    given: N. G.
+  - family: Loison
+    given: A.
+  issued:
+  - year: '2015'
+    month: '7'
+  title: Upscaling the niche variation hypothesis from the intra- to the inter-specific
+    level
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '835-842'
+  volume: '179'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs00442-015-3390-7
+  DOI: 10.1007/s00442-015-3390-7
+...

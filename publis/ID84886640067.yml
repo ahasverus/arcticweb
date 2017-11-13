@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84886640067
+  type: article-journal
+  author:
+  - family: Pedersen
+    given: S. Ø.
+  - family: Tombre
+    given: I.
+  - family: Jepsen
+    given: J. U.
+  - family: Eidesen
+    given: P. B.
+  - family: Fuglei
+    given: E.
+  - family: Stien
+    given: A.
+  issued:
+  - year: '2013'
+    month: '1'
+  title: Spatial patterns of goose grubbing suggest elevated grubbing in dry habitats
+    linked to early snowmelt
+  container-title: Polar Research
+  publisher: Informa UK Limited
+  page: '19719'
+  volume: '32'
+  issue: '1'
+  URL: https://doi.org/10.3402%2Fpolar.v32i0.19719
+  DOI: 10.3402/polar.v32i0.19719
+...

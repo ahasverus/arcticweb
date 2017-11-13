@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84984642660
+  type: article-journal
+  author:
+  - family: Jacquet
+    given: C.
+  - family: Moritz
+    given: C.
+  - family: Morissette
+    given: L.
+  - family: Legagneux
+    given: P.
+  - family: Massol
+    given: F.
+  - family: Archambault
+    given: P.
+  - family: Gravel
+    given: D.
+  issued:
+  - year: '2016'
+    month: '8'
+  title: No complexity-stability relationship in empirical ecosystems
+  container-title: Nature Communications
+  publisher: Springer Nature
+  page: '12573'
+  volume: '7'
+  URL: https://doi.org/10.1038%2Fncomms12573
+  DOI: 10.1038/ncomms12573
+...

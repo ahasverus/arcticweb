@@ -1,0 +1,27 @@
+---
+references:
+- id: ID77954636461
+  type: article-journal
+  author:
+  - family: Gilman
+    given: S. E.
+  - family: Urban
+    given: M. C.
+  - family: Tewksbury
+    given: J.
+  - family: Gilchrist
+    given: G. W.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2010'
+    month: '6'
+  title: A framework for community interactions under climate change
+  container-title: Trends in Ecology & Evolution
+  publisher: Elsevier BV
+  page: '325-331'
+  volume: '25'
+  issue: '6'
+  URL: https://doi.org/10.1016%2Fj.tree.2010.03.002
+  DOI: 10.1016/j.tree.2010.03.002
+...

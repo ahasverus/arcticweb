@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84880404922
+  type: article-journal
+  author:
+  - family: Ai
+    given: D.
+  - family: Gravel
+    given: D.
+  - family: Chu
+    given: C.
+  - family: Wang
+    given: G.
+  editor:
+  - family: Convertino
+    given: Matteo
+  issued:
+  - year: '2013'
+    month: '7'
+  title: Spatial Structures of the Environment and of Dispersal Impact Species Distribution
+    in Competitive Metacommunities
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e68927'
+  volume: '8'
+  issue: '7'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0068927
+  DOI: 10.1371/journal.pone.0068927
+...

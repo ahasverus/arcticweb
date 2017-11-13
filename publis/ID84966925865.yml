@@ -1,0 +1,45 @@
+---
+references:
+- id: ID84966925865
+  type: article-journal
+  author:
+  - family: Mateo
+    given: R. G.
+  - family: Broennimann
+    given: O.
+  - family: Normand
+    given: S.
+  - family: Petitpierre
+    given: B.
+  - family: Araújo
+    given: M. B.
+  - family: Svenning
+    given: J.-C.
+  - family: Baselga
+    given: A.
+  - family: Fernández-González
+    given: F.
+  - family: Gómez-Rubio
+    given: V.
+  - family: Muñoz
+    given: J.
+  - family: Suarez
+    given: G. M.
+  - family: Luoto
+    given: M.
+  - family: Guisan
+    given: A.
+  - family: Vanderpoorten
+    given: A.
+  issued:
+  - year: '2016'
+    month: '5'
+  title: 'The mossy north: An inverse latitudinal diversity gradient in European
+    bryophytes'
+  container-title: Scientific Reports
+  publisher: Springer Nature
+  volume: '6'
+  issue: '1'
+  URL: https://doi.org/10.1038%2Fsrep25546
+  DOI: 10.1038/srep25546
+...

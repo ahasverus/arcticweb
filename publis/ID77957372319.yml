@@ -1,0 +1,31 @@
+---
+references:
+- id: ID77957372319
+  type: article-journal
+  author:
+  - family: Megali
+    given: A.
+  - family: Yannic
+    given: G.
+  - family: Zahno
+    given: M.-L.
+  - family: Brügger
+    given: D.
+  - family: Bertoni
+    given: G.
+  - family: Christe
+    given: P.
+  - family: Zanoni
+    given: R.
+  issued:
+  - year: '2010'
+    month: '8'
+  title: Surveillance for European bat lyssavirus in Swiss bats
+  container-title: Archives of Virology
+  publisher: Springer Nature
+  page: '1655-1662'
+  volume: '155'
+  issue: '10'
+  URL: https://doi.org/10.1007%2Fs00705-010-0750-9
+  DOI: 10.1007/s00705-010-0750-9
+...

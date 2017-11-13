@@ -1,0 +1,25 @@
+---
+references:
+- id: ID0037036626
+  type: article-journal
+  author:
+  - family: Yoccoz
+    given: N. G.
+  - family: Mysterud
+    given: A.
+  - family: Langvatn
+    given: R.
+  - family: Stenseth
+    given: N. C.
+  issued:
+  - year: '2002'
+    month: '8'
+  title: Age- and density-dependent reproductive effort in male red deer
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '1523-1528'
+  volume: '269'
+  issue: '1500'
+  URL: https://doi.org/10.1098%2Frspb.2002.2047
+  DOI: 10.1098/rspb.2002.2047
+...

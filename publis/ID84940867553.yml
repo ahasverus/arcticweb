@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84940867553
+  type: article-journal
+  author:
+  - family: Eiserhardt
+    given: W. L.
+  - family: Borchsenius
+    given: F.
+  - family: Sandel
+    given: B.
+  - family: Kissling
+    given: W. D.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2015'
+    month: '7'
+  title: Late Cenozoic climate and the phylogenetic structure of regional conifer
+    floras world-wide
+  container-title: Global Ecology and Biogeography
+  publisher: Wiley-Blackwell
+  page: '1136-1148'
+  volume: '24'
+  issue: '10'
+  URL: https://doi.org/10.1111%2Fgeb.12350
+  DOI: 10.1111/geb.12350
+...

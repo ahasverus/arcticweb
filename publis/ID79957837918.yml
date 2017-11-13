@@ -1,0 +1,28 @@
+---
+references:
+- id: ID79957837918
+  type: article-journal
+  author:
+  - family: Legagneux
+    given: P.
+  - family: Gauthier
+    given: G.
+  - family: Chastel
+    given: O.
+  - family: Picard
+    given: G.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2011'
+    month: '7'
+  title: Do glucocorticoids in droppings reflect baseline level in birds captured
+    in the wild? A case study in snow geese
+  container-title: General and Comparative Endocrinology
+  publisher: Elsevier BV
+  page: '440-445'
+  volume: '172'
+  issue: '3'
+  URL: https://doi.org/10.1016%2Fj.ygcen.2011.04.009
+  DOI: 10.1016/j.ygcen.2011.04.009
+...

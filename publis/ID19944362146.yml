@@ -1,0 +1,37 @@
+---
+references:
+- id: ID19944362146
+  type: article-journal
+  author:
+  - family: Gremillet
+    given: D.
+  - family: Kuntz
+    given: G.
+  - family: Delbart
+    given: F.
+  - family: Mellet
+    given: M.
+  - family: Kato
+    given: A.
+  - family: Robin
+    given: J.-P.
+  - family: Chaillon
+    given: P.-E.
+  - family: Gendner
+    given: J.-P.
+  - family: Lorentsen
+    given: S.-H.
+  - family: Maho
+    given: Y. L.
+  issued:
+  - year: '2004'
+    month: '12'
+  title: Linking the foraging performance of a marine predator to local prey abundance
+  container-title: Functional Ecology
+  publisher: Wiley-Blackwell
+  page: '793-801'
+  volume: '18'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.0269-8463.2004.00914.x
+  DOI: 10.1111/j.0269-8463.2004.00914.x
+...

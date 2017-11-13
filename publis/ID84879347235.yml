@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84879347235
+  type: article-journal
+  author:
+  - family: Perz
+    given: S. G.
+  - family: Muñoz-Carpena
+    given: R.
+  - family: Kiker
+    given: G.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2013'
+    month: '8'
+  title: Evaluating ecological resilience with global sensitivity and uncertainty
+    analysis
+  container-title: Ecological Modelling
+  publisher: Elsevier BV
+  page: '174-186'
+  volume: '263'
+  URL: https://doi.org/10.1016%2Fj.ecolmodel.2013.04.024
+  DOI: 10.1016/j.ecolmodel.2013.04.024
+...

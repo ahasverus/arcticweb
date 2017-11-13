@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84923277941
+  type: article-journal
+  author:
+  - family: Galipaud
+    given: M.
+  - family: Bollache
+    given: L.
+  - family: Wattier
+    given: R.
+  - family: Dubreuil
+    given: C.
+  - family: Dechaume-Moncharmont
+    given: F.-X.
+  - family: Lagrue
+    given: C.
+  issued:
+  - year: '2015'
+    month: '4'
+  title: 'Overestimation of the strength of size-assortative pairing in taxa with
+    cryptic diversity: A case of Simpson’s paradox'
+  container-title: Animal Behaviour
+  publisher: Elsevier BV
+  page: '217-221'
+  volume: '102'
+  URL: https://doi.org/10.1016%2Fj.anbehav.2015.01.032
+  DOI: 10.1016/j.anbehav.2015.01.032
+...

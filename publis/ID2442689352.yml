@@ -1,0 +1,32 @@
+---
+references:
+- id: ID2442689352
+  type: article-journal
+  author:
+  - family: Bollache
+    given: L.
+  - family: Devin
+    given: S.
+  - family: Wattier
+    given: R.
+  - family: Chovet
+    given: M.
+  - family: Beisel
+    given: J.-N.
+  - family: Moreteau
+    given: J.-C.
+  - family: Rigaud
+    given: T.
+  issued:
+  - year: '2004'
+    month: '5'
+  title: 'Rapid range extension of the Ponto-Caspian amphipod Dikerogammarus villosus
+    in France: Potential consequences'
+  container-title: Archiv für Hydrobiologie
+  publisher: Schweizerbart
+  page: '57-66'
+  volume: '160'
+  issue: '1'
+  URL: https://doi.org/10.1127%2F0003-9136%2F2004%2F0160-0057
+  DOI: 10.1127/0003-9136/2004/0160-0057
+...

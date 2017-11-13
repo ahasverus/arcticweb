@@ -1,0 +1,31 @@
+---
+references:
+- id: ID12344326138
+  type: article-journal
+  author:
+  - family: Krebs
+    given: C. J.
+  - family: Kenney
+    given: A. J.
+  - family: Singleton
+    given: G. R.
+  - family: Mutze
+    given: G.
+  - family: Pech
+    given: R. P.
+  - family: Brown
+    given: P. R.
+  - family: Davis
+    given: S. A.
+  issued:
+  - year: '2004'
+  title: Can outbreaks of house mice in south-eastern Australia be predicted by weather
+    models?
+  container-title: Wildlife Research
+  publisher: CSIRO Publishing
+  page: '465'
+  volume: '31'
+  issue: '5'
+  URL: https://doi.org/10.1071%2Fwr03131
+  DOI: 10.1071/wr03131
+...

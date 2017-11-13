@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0346337206
+  type: article-journal
+  author:
+  - family: Abrams
+    given: P. A.
+  - family: Brassil
+    given: C. E.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2003'
+    month: '9'
+  title: Dynamics and responses to mortality rates of competing predators undergoing
+    predator-prey cycles
+  container-title: Theoretical Population Biology
+  publisher: Elsevier BV
+  page: '163-176'
+  volume: '64'
+  issue: '2'
+  URL: https://doi.org/10.1016%2Fs0040-5809%2803%2900067-4
+  DOI: 10.1016/s0040-5809(03)00067-4
+...

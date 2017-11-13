@@ -1,0 +1,30 @@
+---
+references:
+- id: ID85019595684
+  type: article-journal
+  author:
+  - family: Kopelke
+    given: J.-P.
+  - family: Nyman
+    given: T.
+  - family: Cazelles
+    given: K.
+  - family: Gravel
+    given: D.
+  - family: Vissault
+    given: S.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2017'
+    month: '5'
+  title: Food-web structure of willow-galling sawflies and their natural enemies across
+    Europe
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '1730-1730'
+  volume: '98'
+  issue: '6'
+  URL: https://doi.org/10.1002%2Fecy.1832
+  DOI: 10.1002/ecy.1832
+...

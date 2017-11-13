@@ -1,0 +1,20 @@
+---
+references:
+- id: ID84861381452
+  type: article-journal
+  author:
+  - family: Smith
+    given: P.
+  - family: Gaston
+    given: A.
+  issued:
+  - year: '2012'
+    month: '5'
+  title: Environmental variation and the demography and diet of thick-billed murres
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '237-249'
+  volume: '454'
+  URL: https://doi.org/10.3354%2Fmeps09589
+  DOI: 10.3354/meps09589
+...

@@ -1,0 +1,23 @@
+---
+references:
+- id: ID84981626534
+  type: article-journal
+  author:
+  - family: Meltofte
+    given: H.
+  - family: Mehlum
+    given: F.
+  - family: Frikke
+    given: J.
+  issued:
+  - year: '1983'
+    month: '11'
+  title: Observations on the wader populations at Ny‐Ålesund, Spitsbergen, 1982
+  container-title: Polar Research
+  publisher: Informa UK Limited
+  page: '211-214'
+  volume: '1'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1751-8369.1983.tb00704.x
+  DOI: 10.1111/j.1751-8369.1983.tb00704.x
+...

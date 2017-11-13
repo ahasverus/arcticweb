@@ -1,0 +1,23 @@
+---
+references:
+- id: ID0036848914
+  type: article-journal
+  author:
+  - family: Forchhammer
+    given: M. C.
+  - family: Post
+    given: E.
+  - family: Stenseth
+    given: N. C.
+  issued:
+  - year: '2002'
+    month: '11'
+  title: North Atlantic Oscillation timing of long- and short-distance migration
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '1002-1014'
+  volume: '71'
+  issue: '6'
+  URL: https://doi.org/10.1046%2Fj.1365-2656.2002.00664.x
+  DOI: 10.1046/j.1365-2656.2002.00664.x
+...

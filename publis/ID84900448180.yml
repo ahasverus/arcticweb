@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84900448180
+  type: article-journal
+  author:
+  - family: Lescroël
+    given: A.
+  - family: Ballard
+    given: G.
+  - family: Grémillet
+    given: D.
+  - family: Authier
+    given: M.
+  - family: Ainley
+    given: D. G.
+  editor:
+  - family: Descamps
+    given: Sébastien
+  issued:
+  - year: '2014'
+    month: '1'
+  title: 'Antarctic climate change: Extreme events disrupt plastic phenotypic response
+    in Adélie penguins'
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e85291'
+  volume: '9'
+  issue: '1'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0085291
+  DOI: 10.1371/journal.pone.0085291
+...

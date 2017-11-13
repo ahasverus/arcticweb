@@ -1,0 +1,24 @@
+---
+references:
+- id: ID42049119422
+  type: article-journal
+  author:
+  - family: Basset
+    given: P.
+  - family: Yannic
+    given: G.
+  - family: Hausser
+    given: J.
+  issued:
+  - year: '2008'
+    month: '5'
+  title: Chromosomal rearrangements and genetic structure at different evolutionary
+    levels of the Sorex araneus group
+  container-title: Journal of Evolutionary Biology
+  publisher: Wiley-Blackwell
+  page: '842-852'
+  volume: '21'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1420-9101.2008.01506.x
+  DOI: 10.1111/j.1420-9101.2008.01506.x
+...

@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84901653003
+  type: article-journal
+  author:
+  - family: Cohen
+    given: L.
+  - family: Pichegru
+    given: L.
+  - family: Grémillet
+    given: D.
+  - family: Coetzee
+    given: J.
+  - family: Upfold
+    given: L.
+  - family: Ryan
+    given: P.
+  issued:
+  - year: '2014'
+    month: '5'
+  title: Changes in prey availability impact the foraging behaviour and fitness of
+    Cape gannets over a decade
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '281-293'
+  volume: '505'
+  URL: https://doi.org/10.3354%2Fmeps10762
+  DOI: 10.3354/meps10762
+...

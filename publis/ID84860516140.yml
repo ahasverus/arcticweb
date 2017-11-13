@@ -1,0 +1,51 @@
+---
+references:
+- id: ID84860516140
+  type: article-journal
+  author:
+  - family: Sonne
+    given: C.
+  - family: Bustnes
+    given: J. O.
+  - family: Herzke
+    given: D.
+  - family: Jaspers
+    given: V. L. B.
+  - family: Covaci
+    given: A.
+  - family: Eulaers
+    given: I.
+  - family: Halley
+    given: D. J.
+  - family: Moum
+    given: T.
+  - family: Ballesteros
+    given: M.
+  - family: Eens
+    given: M.
+  - family: Ims
+    given: R. A.
+  - family: Hanssen
+    given: S. A.
+  - family: Erikstad
+    given: K. E.
+  - family: Johnsen
+    given: T. V.
+  - family: Rigét
+    given: F. F.
+  - family: Jensen
+    given: A. L.
+  - family: Kjelgaard-Hansen
+    given: M.
+  issued:
+  - year: '2012'
+    month: '6'
+  title: Blood plasma clinical-chemical parameters as biomarker endpoints for organohalogen
+    contaminant exposure in Norwegian raptor nestlings
+  container-title: Ecotoxicology and Environmental Safety
+  publisher: Elsevier BV
+  page: '76-83'
+  volume: '80'
+  URL: https://doi.org/10.1016%2Fj.ecoenv.2012.02.012
+  DOI: 10.1016/j.ecoenv.2012.02.012
+...

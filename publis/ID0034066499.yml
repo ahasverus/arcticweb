@@ -1,0 +1,28 @@
+---
+references:
+- id: ID0034066499
+  type: article-journal
+  author:
+  - family: Ehrich
+    given: D.
+  - family: Fedorov
+    given: V. B.
+  - family: Stenseth
+    given: N. C.
+  - family: Krebs
+    given: C. J.
+  - family: Kenney
+    given: A.
+  issued:
+  - year: '2000'
+    month: '3'
+  title: Phylogeography and mitochondrial DNA (mtDNA) diversity in North American
+    collared lemmings (Dicrostonyx groenlandicus)
+  container-title: Molecular Ecology
+  publisher: Wiley-Blackwell
+  page: '329-337'
+  volume: '9'
+  issue: '3'
+  URL: https://doi.org/10.1046%2Fj.1365-294x.2000.00853.x
+  DOI: 10.1046/j.1365-294x.2000.00853.x
+...

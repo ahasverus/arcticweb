@@ -1,0 +1,37 @@
+---
+references:
+- id: ID78651380191
+  type: article-journal
+  author:
+  - family: Saraux
+    given: C.
+  - family: Bohec
+    given: C. L.
+  - family: Durant
+    given: J. M.
+  - family: Viblanc
+    given: V. A.
+  - family: Gauthier-Clerc
+    given: M.
+  - family: Beaune
+    given: D.
+  - family: Park
+    given: Y.-H.
+  - family: Yoccoz
+    given: N. G.
+  - family: Stenseth
+    given: N. C.
+  - family: Maho
+    given: Y. L.
+  issued:
+  - year: '2011'
+    month: '1'
+  title: Reliability of flipper-banded penguins as indicators of climate change
+  container-title: Nature
+  publisher: Springer Nature
+  page: '203-206'
+  volume: '469'
+  issue: '7329'
+  URL: https://doi.org/10.1038%2Fnature09630
+  DOI: 10.1038/nature09630
+...

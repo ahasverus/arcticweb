@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84859860537
+  type: article-journal
+  author:
+  - family: Abellán
+    given: P.
+  - family: Arribas
+    given: P.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2011'
+    month: '12'
+  title: Geological habitat template overrides late Quaternary climate change as a
+    determinant of range dynamics and phylogeography in some habitat-specialist water
+    beetles
+  container-title: Journal of Biogeography
+  publisher: Wiley-Blackwell
+  page: '970-983'
+  volume: '39'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.1365-2699.2011.02654.x
+  DOI: 10.1111/j.1365-2699.2011.02654.x
+...

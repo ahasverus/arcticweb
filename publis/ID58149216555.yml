@@ -1,0 +1,26 @@
+---
+references:
+- id: ID58149216555
+  type: article-journal
+  author:
+  - family: Naud
+    given: M.-J.
+  - family: Curtis
+    given: J. M. R.
+  - family: Woodall
+    given: L. C.
+  - family: Gaspar
+    given: M. B.
+  issued:
+  - year: '2008'
+    month: '10'
+  title: Mate choice, operational sex ratio, and social promiscuity in a wild population
+    of the long-snouted seahorse Hippocampus guttulatus
+  container-title: Behavioral Ecology
+  publisher: Oxford University Press (OUP)
+  page: '160-164'
+  volume: '20'
+  issue: '1'
+  URL: https://doi.org/10.1093%2Fbeheco%2Farn128
+  DOI: 10.1093/beheco/arn128
+...

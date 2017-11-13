@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84887181705
+  type: article-journal
+  author:
+  - family: Gravel
+    given: D.
+  - family: Poisot
+    given: T.
+  - family: Albouy
+    given: C.
+  - family: Velez
+    given: L.
+  - family: Mouillot
+    given: D.
+  editor:
+  - family: Freckleton
+    given: Robert
+  issued:
+  - year: '2013'
+    month: '9'
+  title: Inferring food web structure from predator-prey body size relationships
+  container-title: Methods in Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '1083-1090'
+  volume: '4'
+  issue: '11'
+  URL: https://doi.org/10.1111%2F2041-210x.12103
+  DOI: 10.1111/2041-210x.12103
+...

@@ -1,0 +1,30 @@
+---
+references:
+- id: ID34249938049
+  type: article-journal
+  author:
+  - family: Carmichael
+    given: L. E.
+  - family: Szor
+    given: G.
+  - family: Berteaux
+    given: D.
+  - family: Giroux
+    given: M. A.
+  - family: Cameron
+    given: C.
+  - family: Strobeck
+    given: C.
+  issued:
+  - year: '2007'
+    month: '2'
+  title: 'Free love in the far north: Plural breeding and polyandry of arctic foxes
+    (Alopex lagopus) on Bylot Island, Nunavut'
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '338-343'
+  volume: '85'
+  issue: '3'
+  URL: https://doi.org/10.1139%2Fz07-014
+  DOI: 10.1139/z07-014
+...

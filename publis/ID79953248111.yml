@@ -1,0 +1,27 @@
+---
+references:
+- id: ID79953248111
+  type: article-journal
+  author:
+  - family: Buttler
+    given: E. I.
+  - family: Gilchrist
+    given: H. G.
+  - family: Descamps
+    given: S.
+  - family: Forbes
+    given: M. R.
+  - family: Soos
+    given: C.
+  issued:
+  - year: '2011'
+    month: '2'
+  title: Handling stress of female common eiders during avian cholera outbreaks
+  container-title: The Journal of Wildlife Management
+  publisher: Wiley-Blackwell
+  page: '283-288'
+  volume: '75'
+  issue: '2'
+  URL: https://doi.org/10.1002%2Fjwmg.38
+  DOI: 10.1002/jwmg.38
+...

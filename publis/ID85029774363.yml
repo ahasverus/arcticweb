@@ -1,0 +1,38 @@
+---
+references:
+- id: ID85029774363
+  type: article-journal
+  author:
+  - family: Therrien
+    given: J.-F.
+  - family: Lecomte
+    given: N.
+  - family: Zgirski
+    given: T.
+  - family: Jaffré
+    given: M.
+  - family: Beardsell
+    given: A.
+  - family: Goodrich
+    given: L. J.
+  - family: Bêty
+    given: J.
+  - family: Franke
+    given: A.
+  - family: Zlonis
+    given: E.
+  - family: Bildstein
+    given: K. L.
+  issued:
+  - year: '2017'
+    month: '10'
+  title: Long-term phenological shifts in migration and breeding-area residency in
+    eastern North American raptors
+  container-title: The Auk
+  publisher: American Ornithologists Union
+  page: '871-881'
+  volume: '134'
+  issue: '4'
+  URL: https://doi.org/10.1642%2Fauk-17-5.1
+  DOI: 10.1642/auk-17-5.1
+...

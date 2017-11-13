@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84900389102
+  type: article-journal
+  author:
+  - family: Moeslund
+    given: J. E.
+  - family: Arge
+    given: L.
+  - family: Bøcher
+    given: P. K.
+  - family: Dalgaard
+    given: T.
+  - family: Odgaard
+    given: M. V.
+  - family: Nygaard
+    given: B.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2013'
+    month: '7'
+  title: Topographically controlled soil moisture is the primary driver of local vegetation
+    patterns across a lowland region
+  container-title: Ecosphere
+  publisher: Wiley-Blackwell
+  page: art91
+  volume: '4'
+  issue: '7'
+  URL: https://doi.org/10.1890%2Fes13-00134.1
+  DOI: 10.1890/es13-00134.1
+...

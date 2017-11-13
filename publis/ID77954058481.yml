@@ -1,0 +1,27 @@
+---
+references:
+- id: ID77954058481
+  type: article-journal
+  author:
+  - family: Pettex
+    given: E.
+  - family: Bonadonna
+    given: F.
+  - family: Enstipp
+    given: M. R.
+  - family: Siorat
+    given: F.
+  - family: Gremillet
+    given: D.
+  issued:
+  - year: '2010'
+    month: '6'
+  title: Northern gannets anticipate the spatio-temporal occurrence of their prey
+  container-title: Journal of Experimental Biology
+  publisher: The Company of Biologists
+  page: '2365-2371'
+  volume: '213'
+  issue: '14'
+  URL: https://doi.org/10.1242%2Fjeb.042267
+  DOI: 10.1242/jeb.042267
+...

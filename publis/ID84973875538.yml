@@ -1,0 +1,47 @@
+---
+references:
+- id: ID84973875538
+  type: article-journal
+  author:
+  - family: Cherif
+    given: M.
+  - family: Granados
+    given: M.
+  - family: Duffy
+    given: S.
+  - family: Robert
+    given: P.
+  - family: Péquin
+    given: B.
+  - family: Mohit
+    given: V.
+  - family: McKindsey
+    given: C. W.
+  - family: Archambault
+    given: P.
+  - family: Myrand
+    given: B.
+  - family: Lovejoy
+    given: C.
+  - family: Tremblay
+    given: R.
+  - family: Plourde
+    given: S.
+  - family: Fussmann
+    given: G. F.
+  editor:
+  - family: Duperron
+    given: Sébastien
+  issued:
+  - year: '2016'
+    month: '6'
+  title: 'Potential for local fertilization: A benthocosm test of long-term and
+    short-term effects of mussel excretion on the plankton'
+  container-title: PLOS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e0156411'
+  volume: '11'
+  issue: '6'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0156411
+  DOI: 10.1371/journal.pone.0156411
+...

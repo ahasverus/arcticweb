@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84877757579
+  type: article-journal
+  author:
+  - family: Jepsen
+    given: J. U.
+  - family: Biuw
+    given: M.
+  - family: Ims
+    given: R. A.
+  - family: Kapari
+    given: L.
+  - family: Schott
+    given: T.
+  - family: Vindstad
+    given: O. P. L.
+  - family: Hagen
+    given: S. B.
+  issued:
+  - year: '2012'
+    month: '12'
+  title: Ecosystem Impacts of a Range Expanding Forest Defoliator at the Forest-Tundra
+    Ecotone
+  container-title: Ecosystems
+  publisher: Springer Nature
+  page: '561-575'
+  volume: '16'
+  issue: '4'
+  URL: https://doi.org/10.1007%2Fs10021-012-9629-9
+  DOI: 10.1007/s10021-012-9629-9
+...

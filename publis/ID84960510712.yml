@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84960510712
+  type: article-journal
+  author:
+  - family: Naud
+    given: M.-J.
+  - family: Sauer
+    given: W. H. H.
+  - family: McKeown
+    given: N. J.
+  - family: Shaw
+    given: P. W.
+  editor:
+  - family: Schlatt
+    given: Stefan
+  issued:
+  - year: '2016'
+    month: '2'
+  title: Multiple mating, paternity and complex fertilisation patterns in the chokka
+    squid Loligo reynaudii
+  container-title: PLOS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e0146995'
+  volume: '11'
+  issue: '2'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0146995
+  DOI: 10.1371/journal.pone.0146995
+...

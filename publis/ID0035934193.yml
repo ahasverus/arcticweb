@@ -1,0 +1,28 @@
+---
+references:
+- id: ID0035934193
+  type: article-journal
+  author:
+  - family: Singleton
+    given: G.
+  - family: Krebs
+    given: C. J.
+  - family: Davis
+    given: S.
+  - family: Chambers
+    given: L.
+  - family: Brown
+    given: P.
+  issued:
+  - year: '2001'
+    month: '8'
+  title: Reproductive changes in fluctuating house mouse populations in southeastern
+    Australia
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '1741-1748'
+  volume: '268'
+  issue: '1477'
+  URL: https://doi.org/10.1098%2Frspb.2001.1638
+  DOI: 10.1098/rspb.2001.1638
+...

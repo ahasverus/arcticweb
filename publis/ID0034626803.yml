@@ -1,0 +1,21 @@
+---
+references:
+- id: ID0034626803
+  type: article-journal
+  author:
+  - family: Ims
+    given: R. A.
+  - family: Andreassen
+    given: H. P.
+  issued:
+  - year: '2000'
+    month: '11'
+  title: Spatial synchronization of vole population dynamics by predatory birds
+  container-title: Nature
+  publisher: Springer Nature
+  page: '194-196'
+  volume: '408'
+  issue: '6809'
+  URL: https://doi.org/10.1038%2F35041562
+  DOI: 10.1038/35041562
+...

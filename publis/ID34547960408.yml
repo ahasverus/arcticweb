@@ -1,0 +1,24 @@
+---
+references:
+- id: ID34547960408
+  type: article-journal
+  author:
+  - family: Pellet
+    given: J.
+  - family: Helfer
+    given: V.
+  - family: Yannic
+    given: G.
+  issued:
+  - year: '2007'
+    month: '4'
+  title: Estimating population size in the European tree frog (Hyla arborea) using
+    individual recognition and chorus counts
+  container-title: Amphibia-Reptilia
+  publisher: Brill Academic Publishers
+  page: '287-294'
+  volume: '28'
+  issue: '2'
+  URL: https://doi.org/10.1163%2F156853807780202530
+  DOI: 10.1163/156853807780202530
+...

@@ -1,0 +1,28 @@
+---
+references:
+- id: ID33748426363
+  type: article-journal
+  author:
+  - family: Mueller
+    given: L.
+  - family: Brouwer
+    given: J.
+    dropping-particle: de
+  - family: Almeida
+    given: J.
+  - family: Stal
+    given: L.
+  - family: Xavier
+    given: J.
+  issued:
+  - year: '2006'
+  title: Inter-annual growth of Arctic charr (Salvelinus alpinus, L.) in relation
+    to climate variation
+  container-title: BMC Ecology
+  publisher: Springer Nature
+  page: '1'
+  volume: '6'
+  issue: '1'
+  URL: https://doi.org/10.1186%2F1472-6785-6-1
+  DOI: 10.1186/1472-6785-6-1
+...

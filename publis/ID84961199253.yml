@@ -1,0 +1,76 @@
+---
+references:
+- id: ID84961199253
+  type: article-journal
+  author:
+  - family: Bokhorst
+    given: S.
+  - family: Pedersen
+    given: S. H.
+  - family: Brucker
+    given: L.
+  - family: Anisimov
+    given: O.
+  - family: Bjerke
+    given: J. W.
+  - family: Brown
+    given: R. D.
+  - family: Ehrich
+    given: D.
+  - family: Essery
+    given: R. L. H.
+  - family: Heilig
+    given: A.
+  - family: Ingvander
+    given: S.
+  - family: Johansson
+    given: C.
+  - family: Johansson
+    given: M.
+  - family: Jónsdóttir
+    given: I. S.
+  - family: Inga
+    given: N.
+  - family: Luojus
+    given: K.
+  - family: Macelloni
+    given: G.
+  - family: Mariash
+    given: H.
+  - family: McLennan
+    given: D.
+  - family: Rosqvist
+    given: G. N.
+  - family: Sato
+    given: A.
+  - family: Savela
+    given: H.
+  - family: Schneebeli
+    given: M.
+  - family: Sokolov
+    given: A.
+  - family: Sokratov
+    given: S. A.
+  - family: Terzago
+    given: S.
+  - family: Vikhamar-Schuler
+    given: D.
+  - family: Williamson
+    given: S.
+  - family: Qiu
+    given: Y.
+  - family: Callaghan
+    given: T. V.
+  issued:
+  - year: '2016'
+    month: '3'
+  title: 'Changing Arctic snow cover: A review of recent developments and assessment
+    of future needs for observations, modelling, and impacts'
+  container-title: Ambio
+  publisher: Springer Nature
+  page: '516-537'
+  volume: '45'
+  issue: '5'
+  URL: https://doi.org/10.1007%2Fs13280-016-0770-0
+  DOI: 10.1007/s13280-016-0770-0
+...

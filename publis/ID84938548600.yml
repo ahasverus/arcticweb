@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84938548600
+  type: article-journal
+  author:
+  - family: Sheriff
+    given: M. J.
+  - family: McMahon
+    given: E. K.
+  - family: Krebs
+    given: C. J.
+  - family: Boonstra
+    given: R.
+  issued:
+  - year: '2015'
+    month: '4'
+  title: 'Predator-induced maternal stress and population demography in snowshoe
+    hares: The more severe the risk, the longer the generational effect'
+  container-title: Journal of Zoology
+  publisher: Wiley-Blackwell
+  page: '305-310'
+  volume: '296'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fjzo.12249
+  DOI: 10.1111/jzo.12249
+...

@@ -1,0 +1,42 @@
+---
+references:
+- id: ID84976293840
+  type: article-journal
+  author:
+  - family: Yannic
+    given: G.
+  - family: Broquet
+    given: T.
+  - family: Strøm
+    given: H.
+  - family: Aebischer
+    given: A.
+  - family: Dufresnes
+    given: C.
+  - family: Gavrilo
+    given: M. V.
+  - family: Gilchrist
+    given: H. G.
+  - family: Mallory
+    given: M. L.
+  - family: Morrison
+    given: R. I. G.
+  - family: Sabard
+    given: B.
+  - family: Sermier
+    given: R.
+  - family: Gilg
+    given: O.
+  issued:
+  - year: '2016'
+    month: '2'
+  title: Genetic and morphological sex identification methods reveal a male-biased
+    sex ratio in the Ivory Gull Pagophila eburnea
+  container-title: Journal of Ornithology
+  publisher: Springer Nature
+  page: '861-873'
+  volume: '157'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs10336-016-1328-4
+  DOI: 10.1007/s10336-016-1328-4
+...

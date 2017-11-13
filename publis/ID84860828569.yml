@@ -1,0 +1,42 @@
+---
+references:
+- id: ID84860828569
+  type: article-journal
+  author:
+  - family: Moseley
+    given: C.
+  - family: Grémillet
+    given: D.
+  - family: Connan
+    given: M.
+  - family: Ryan
+    given: P. G.
+  - family: Mullers
+    given: R. H. E.
+  - family: Lingen
+    given: C. D.
+    dropping-particle: van der
+  - family: Miller
+    given: T. W.
+  - family: Coetzee
+    given: J. C.
+  - family: Crawford
+    given: R. J. M.
+  - family: Sabarros
+    given: P.
+  - family: McQuaid
+    given: C. D.
+  - family: Pichegru
+    given: L.
+  issued:
+  - year: '2012'
+    month: '7'
+  title: Foraging ecology and ecophysiology of Cape gannets from colonies in contrasting
+    feeding environments
+  container-title: Journal of Experimental Marine Biology and Ecology
+  publisher: Elsevier BV
+  page: '29-38'
+  volume: '422-423'
+  URL: https://doi.org/10.1016%2Fj.jembe.2012.04.002
+  DOI: 10.1016/j.jembe.2012.04.002
+...

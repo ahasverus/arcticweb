@@ -1,0 +1,23 @@
+---
+references:
+- id: ID0028191357
+  type: article-journal
+  author:
+  - family: Aars
+    given: J.
+  - family: Andreassen
+    given: H. P.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '1994'
+  title: The use of fluorescent pigments to establish mother-offspring relationships
+    in small mammals
+  container-title: Mammalia
+  publisher: Walter de Gruyter GmbH
+  page: '649-656'
+  volume: '58'
+  issue: '4'
+  URL: https://doi.org/10.1515%2Fmamm.1994.58.4.649
+  DOI: 10.1515/mamm.1994.58.4.649
+...

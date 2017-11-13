@@ -1,0 +1,25 @@
+---
+references:
+- id: ID45749144337
+  type: article-journal
+  author:
+  - family: Bjorholm
+    given: S.
+  - family: Svenning
+    given: J.-C.
+  - family: Skov
+    given: F.
+  - family: Balslev
+    given: H.
+  issued:
+  - year: '2008'
+  title: To what extent does Tobler’s 1st law of geography apply to macroecology?
+    A case study using American palms (Arecaceae)
+  container-title: BMC Ecology
+  publisher: Springer Nature
+  page: '11'
+  volume: '8'
+  issue: '1'
+  URL: https://doi.org/10.1186%2F1472-6785-8-11
+  DOI: 10.1186/1472-6785-8-11
+...

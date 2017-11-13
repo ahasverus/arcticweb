@@ -1,0 +1,33 @@
+---
+references:
+- id: ID84993946939
+  type: article-journal
+  author:
+  - family: Schmidt
+    given: N. M.
+  - family: Beest
+    given: F. M.
+    dropping-particle: van
+  - family: Mosbacher
+    given: J. B.
+  - family: Stelvig
+    given: M.
+  - family: Hansen
+    given: L. H.
+  - family: Nabe-Nielsen
+    given: J.
+  - family: Grøndahl
+    given: C.
+  issued:
+  - year: '2016'
+    month: '11'
+  title: 'Ungulate movement in an extreme seasonal environment: Year-round movement
+    patterns of high-arctic muskoxen'
+  container-title: Wildlife Biology
+  publisher: Wildlife Biology
+  page: '253-267'
+  volume: '22'
+  issue: '6'
+  URL: https://doi.org/10.2981%2Fwlb.00219
+  DOI: 10.2981/wlb.00219
+...

@@ -1,0 +1,32 @@
+---
+references:
+- id: ID77949775381
+  type: article-journal
+  author:
+  - family: Weladji
+    given: R. B.
+  - family: Holand
+    given: Y.
+  - family: Gaillard
+    given: J.-M.
+  - family: Yoccoz
+    given: N. G.
+  - family: Mysterud
+    given: A.
+  - family: Nieminen
+    given: M.
+  - family: Stenseth
+    given: N. C.
+  issued:
+  - year: '2009'
+    month: '9'
+  title: 'Age-specific changes in different components of reproductive output in
+    female reindeer: Terminal allocation or senescence?'
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '261-271'
+  volume: '162'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs00442-009-1443-5
+  DOI: 10.1007/s00442-009-1443-5
+...

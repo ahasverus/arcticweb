@@ -1,0 +1,27 @@
+---
+references:
+- id: ID85031902216
+  type: article-journal
+  author:
+  - family: Barnagaud
+    given: J.-Y.
+  - family: Gaüzère
+    given: P.
+  - family: Zuckerberg
+    given: B.
+  - family: Princé
+    given: K.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2017'
+    month: '10'
+  title: Temporal changes in bird functional diversity across the United States
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '737-748'
+  volume: '185'
+  issue: '4'
+  URL: https://doi.org/10.1007%2Fs00442-017-3967-4
+  DOI: 10.1007/s00442-017-3967-4
+...

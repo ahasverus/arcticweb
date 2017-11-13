@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84927176176
+  type: article-journal
+  author:
+  - family: Tovaranonte
+    given: J.
+  - family: Blach-Overgaard
+    given: A.
+  - family: Pongsattayapipat
+    given: R.
+  - family: Svenning
+    given: J.-C.
+  - family: Barfod
+    given: A. S.
+  issued:
+  - year: '2013'
+    month: '12'
+  title: Distribution and diversity of palms in a tropical biodiversity hotspot (Thailand)
+    assessed by species distribution modeling
+  container-title: Nordic Journal of Botany
+  publisher: Wiley-Blackwell
+  page: '214-224'
+  volume: '33'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1756-1051.2013.00217.x
+  DOI: 10.1111/j.1756-1051.2013.00217.x
+...

@@ -1,0 +1,25 @@
+---
+references:
+- id: ID85018986732
+  type: article-journal
+  author:
+  - family: Godsoe
+    given: W.
+  - family: Jankowski
+    given: J.
+  - family: Holt
+    given: R. D.
+  - family: Gravel
+    given: D.
+  issued:
+  - year: '2017'
+    month: '7'
+  title: Integrating Biogeography with Contemporary Niche Theory
+  container-title: Trends in Ecology & Evolution
+  publisher: Elsevier BV
+  page: '488-499'
+  volume: '32'
+  issue: '7'
+  URL: https://doi.org/10.1016%2Fj.tree.2017.03.008
+  DOI: 10.1016/j.tree.2017.03.008
+...

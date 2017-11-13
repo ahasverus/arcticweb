@@ -1,0 +1,19 @@
+---
+references:
+- id: ID33747446547
+  type: article-journal
+  author:
+  - family: Ehrich
+    given: D.
+  issued:
+  - year: '2006'
+    month: '9'
+  title: 'AFLPDAT: A collection of R functions for convenient handling of AFLP data'
+  container-title: Molecular Ecology Notes
+  publisher: Wiley-Blackwell
+  page: '603-604'
+  volume: '6'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1471-8286.2006.01380.x
+  DOI: 10.1111/j.1471-8286.2006.01380.x
+...

@@ -1,0 +1,25 @@
+---
+references:
+- id: ID85026909900
+  type: article-journal
+  author:
+  - family: Flory
+    given: S. L.
+  - family: Alba
+    given: C.
+  - family: Clay
+    given: K.
+  - family: Holt
+    given: R. D.
+  - family: Goss
+    given: E. M.
+  issued:
+  - year: '2017'
+    month: '8'
+  title: Emerging pathogens can suppress invaders and promote native species recovery
+  container-title: Biological Invasions
+  publisher: Springer Nature
+  page: '1-4'
+  URL: https://doi.org/10.1007%2Fs10530-017-1438-9
+  DOI: 10.1007/s10530-017-1438-9
+...

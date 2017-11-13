@@ -1,0 +1,28 @@
+---
+references:
+- id: ID13444283698
+  type: article-journal
+  author:
+  - family: Grémillet
+    given: D.
+  - family: Chauvin
+    given: C.
+  - family: Wilson
+    given: R. P.
+  - family: Maho
+    given: Y. L.
+  - family: Wanless
+    given: S.
+  issued:
+  - year: '2005'
+    month: '1'
+  title: Unusual feather structure allows partial plumage wettability in diving great
+    cormorants Phalacrocorax carbo
+  container-title: Journal of Avian Biology
+  publisher: Wiley-Blackwell
+  page: '57-63'
+  volume: '36'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.0908-8857.2005.03331.x
+  DOI: 10.1111/j.0908-8857.2005.03331.x
+...

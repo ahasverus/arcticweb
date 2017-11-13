@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84859216496
+  type: article-journal
+  author:
+  - family: Cornet
+    given: S.
+  - family: Luquet
+    given: G.
+  - family: Bollache
+    given: L.
+  editor:
+  - family: Virginia
+    given: Hayssen
+  issued:
+  - year: '2011'
+    month: '12'
+  title: Influence of female moulting status on pairing decisions and size-assortative
+    mating in amphipods
+  container-title: Journal of Zoology
+  publisher: Wiley-Blackwell
+  page: '312-319'
+  volume: '286'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1469-7998.2011.00882.x
+  DOI: 10.1111/j.1469-7998.2011.00882.x
+...

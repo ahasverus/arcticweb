@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84931562434
+  type: article-journal
+  author:
+  - family: Wheeler
+    given: H. C.
+  - family: Chipperfield
+    given: J. D.
+  - family: Roland
+    given: C.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2015'
+    month: '2'
+  title: How will the greening of the Arctic affect an important prey species and
+    disturbance agent? Vegetation effects on arctic ground squirrels
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '915-929'
+  volume: '178'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs00442-015-3240-7
+  DOI: 10.1007/s00442-015-3240-7
+...

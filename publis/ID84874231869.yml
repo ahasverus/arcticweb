@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84874231869
+  type: article-journal
+  author:
+  - family: Rakotoarinivo
+    given: M.
+  - family: Blach-Overgaard
+    given: A.
+  - family: Baker
+    given: W. J.
+  - family: Dransfield
+    given: J.
+  - family: Moat
+    given: J.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2013'
+    month: '2'
+  title: 'Palaeo-precipitation is a major determinant of palm species richness patterns
+    across madagascar: A tropical biodiversity hotspot'
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '20123048-20123048'
+  volume: '280'
+  issue: '1757'
+  URL: https://doi.org/10.1098%2Frspb.2012.3048
+  DOI: 10.1098/rspb.2012.3048
+...

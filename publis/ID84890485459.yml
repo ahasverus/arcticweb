@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84890485459
+  type: article-journal
+  author:
+  - family: Odgaard
+    given: M. V.
+  - family: Bøcher
+    given: P. K.
+  - family: Dalgaard
+    given: T.
+  - family: Moeslund
+    given: J. E.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2013'
+    month: '12'
+  title: Human-driven topographic effects on the distribution of forest in a flat,
+    lowland agricultural region
+  container-title: Journal of Geographical Sciences
+  publisher: Springer Nature
+  page: '76-92'
+  volume: '24'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs11442-014-1074-6
+  DOI: 10.1007/s11442-014-1074-6
+...

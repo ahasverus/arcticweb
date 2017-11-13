@@ -1,0 +1,26 @@
+---
+references:
+- id: ID85014821856
+  type: article-journal
+  author:
+  - family: Duguay
+    given: Y.
+  - family: Bernier
+    given: M.
+  - family: Lévesque
+    given: E.
+  - family: Domine
+    given: F.
+  issued:
+  - year: '2016'
+    month: '8'
+  title: Land cover classification in subarctic regions using fully polarimetric RADARSAT-2
+    data
+  container-title: Remote Sensing
+  publisher: MDPI AG
+  page: '697'
+  volume: '8'
+  issue: '9'
+  URL: https://doi.org/10.3390%2Frs8090697
+  DOI: 10.3390/rs8090697
+...

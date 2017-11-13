@@ -1,0 +1,26 @@
+---
+references:
+- id: ID85031738060
+  type: article-journal
+  author:
+  - family: Kaunisto
+    given: K. M.
+  - family: Roslin
+    given: T.
+  - family: Sääksjärvi
+    given: I. E.
+  - family: Vesterinen
+    given: E. J.
+  issued:
+  - year: '2017'
+    month: '9'
+  title: 'Pellets of proof: First glimpse of the dietary composition of adult odonates
+    as revealed by metabarcoding of feces'
+  container-title: Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '8588-8598'
+  volume: '7'
+  issue: '20'
+  URL: https://doi.org/10.1002%2Fece3.3404
+  DOI: 10.1002/ece3.3404
+...

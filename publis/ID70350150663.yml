@@ -1,0 +1,30 @@
+---
+references:
+- id: ID70350150663
+  type: article-journal
+  author:
+  - family: Buehler
+    given: D. M.
+  - family: Encinas-Viso
+    given: F.
+  - family: Petit
+    given: M.
+  - family: Vézina
+    given: F.
+  - family: Tieleman
+    given: B. I.
+  - family: Piersma
+    given: T.
+  issued:
+  - year: '2009'
+    month: '9'
+  title: Limited access to food and physiological trade-offs in a long-distance migrant
+    shorebird. II. Constitutive immune function and the acute-phase response
+  container-title: Physiological and Biochemical Zoology
+  publisher: University of Chicago Press
+  page: '561-571'
+  volume: '82'
+  issue: '5'
+  URL: https://doi.org/10.1086%2F603635
+  DOI: 10.1086/603635
+...

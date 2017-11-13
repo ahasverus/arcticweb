@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84931748985
+  type: article-journal
+  author:
+  - family: Tack
+    given: A. J. M.
+  - family: Gripenberg
+    given: S.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2012'
+    month: '1'
+  title: 'Cross-kingdom interactions matter: Fungal-mediated interactions structure
+    an insect community on oak'
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '177-185'
+  volume: '15'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1461-0248.2011.01724.x
+  DOI: 10.1111/j.1461-0248.2011.01724.x
+...

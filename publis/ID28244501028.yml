@@ -1,0 +1,26 @@
+---
+references:
+- id: ID28244501028
+  type: article-journal
+  author:
+  - family: Bjorholm
+    given: S.
+  - family: Svenning
+    given: J.-C.
+  - family: Skov
+    given: F.
+  - family: Balslev
+    given: H.
+  issued:
+  - year: '2005'
+    month: '8'
+  title: Environmental and spatial controls of palm (arecaceae) species richness across
+    the Americas
+  container-title: Global Ecology and Biogeography
+  publisher: Wiley-Blackwell
+  page: '423-429'
+  volume: '14'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.1466-822x.2005.00167.x
+  DOI: 10.1111/j.1466-822x.2005.00167.x
+...

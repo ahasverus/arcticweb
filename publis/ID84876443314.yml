@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84876443314
+  type: article-journal
+  author:
+  - family: Kanarek
+    given: A. R.
+  - family: Webb
+    given: C. T.
+  - family: Barfield
+    given: M.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2012'
+    month: '7'
+  title: Allee effects, aggregation, and invasion success
+  container-title: Theoretical Ecology
+  publisher: Springer Nature
+  page: '153-164'
+  volume: '6'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs12080-012-0167-z
+  DOI: 10.1007/s12080-012-0167-z
+...

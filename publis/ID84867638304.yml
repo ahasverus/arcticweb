@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84867638304
+  type: article-journal
+  author:
+  - family: Baselga
+    given: A.
+  - family: Lobo
+    given: J. M.
+  - family: Svenning
+    given: J.-C.
+  - family: Aragón
+    given: P.
+  - family: Araújo
+    given: M. B.
+  issued:
+  - year: '2012'
+    month: '2'
+  title: Dispersal ability modulates the strength of the latitudinal richness gradient
+    in European beetles
+  container-title: Global Ecology and Biogeography
+  publisher: Wiley-Blackwell
+  page: '1106-1113'
+  volume: '21'
+  issue: '11'
+  URL: https://doi.org/10.1111%2Fj.1466-8238.2011.00753.x
+  DOI: 10.1111/j.1466-8238.2011.00753.x
+...

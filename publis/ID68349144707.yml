@@ -1,0 +1,31 @@
+---
+references:
+- id: ID68349144707
+  type: article-journal
+  author:
+  - family: Okes
+    given: N. C.
+  - family: Hockey
+    given: P. A. R.
+  - family: Pichegru
+    given: L.
+  - family: Lingen
+    given: C. D.
+    dropping-particle: van der
+  - family: Crawford
+    given: R. J. M.
+  - family: Grémillet
+    given: D.
+  issued:
+  - year: '2009'
+    month: '10'
+  title: 'Competition for shifting resources in the southern Benguela upwelling:
+    Seabirds versus purse-seine fisheries'
+  container-title: Biological Conservation
+  publisher: Elsevier BV
+  page: '2361-2368'
+  volume: '142'
+  issue: '10'
+  URL: https://doi.org/10.1016%2Fj.biocon.2009.05.031
+  DOI: 10.1016/j.biocon.2009.05.031
+...

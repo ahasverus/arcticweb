@@ -1,0 +1,23 @@
+---
+references:
+- id: ID38649123066
+  type: article-journal
+  author:
+  - family: Svenning
+    given: J. .-C.
+  - family: Fabbro
+    given: T.
+  - family: Wright
+    given: S. J.
+  issued:
+  - year: '2007'
+    month: '10'
+  title: Seedling interactions in a tropical forest in Panama
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '143-150'
+  volume: '155'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs00442-007-0884-y
+  DOI: 10.1007/s00442-007-0884-y
+...

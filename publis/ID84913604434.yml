@@ -1,0 +1,35 @@
+---
+references:
+- id: ID84913604434
+  type: article-journal
+  author:
+  - family: Boulangeat
+    given: I.
+  - family: Georges
+    given: D.
+  - family: Dentant
+    given: C.
+  - family: Bonet
+    given: R.
+  - family: Es
+    given: J.
+    dropping-particle: van
+  - family: Abdulhak
+    given: S.
+  - family: Zimmermann
+    given: N. E.
+  - family: Thuiller
+    given: W.
+  issued:
+  - year: '2014'
+    month: '4'
+  title: Anticipating the spatio-temporal response of plant diversity and vegetation
+    structure to climate and land use change in a protected area
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '1230-1239'
+  volume: '37'
+  issue: '12'
+  URL: https://doi.org/10.1111%2Fecog.00694
+  DOI: 10.1111/ecog.00694
+...

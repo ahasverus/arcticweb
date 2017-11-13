@@ -1,0 +1,23 @@
+---
+references:
+- id: ID84860521412
+  type: article-journal
+  author:
+  - family: Collin
+    given: A.
+  - family: Long
+    given: B.
+  - family: Archambault
+    given: P.
+  issued:
+  - year: '2012'
+    month: '8'
+  title: 'Merging land-marine realms: Spatial patterns of seamless coastal habitats
+    using a multispectral LiDAR'
+  container-title: Remote Sensing of Environment
+  publisher: Elsevier BV
+  page: '390-399'
+  volume: '123'
+  URL: https://doi.org/10.1016%2Fj.rse.2012.03.015
+  DOI: 10.1016/j.rse.2012.03.015
+...

@@ -1,0 +1,29 @@
+---
+references:
+- id: ID0036146186
+  type: article-journal
+  author:
+  - family: Yoccoz
+    given: N. G.
+  - family: Erikstad
+    given: K. E.
+  - family: Bustnes
+    given: J. O.
+  - family: Hanssen
+    given: S. A.
+  - family: Tveraa
+    given: T.
+  issued:
+  - year: '2002'
+    month: '1'
+  title: 'Costs of reproduction in common eiders (Somateria mollissima): An assessment
+    of relationships between reproductive effort and future survival and reproduction
+    based on observational and experimental studies'
+  container-title: Journal of Applied Statistics
+  publisher: Informa UK Limited
+  page: '57-64'
+  volume: '29'
+  issue: '1-4'
+  URL: https://doi.org/10.1080%2F02664760120108458
+  DOI: 10.1080/02664760120108458
+...

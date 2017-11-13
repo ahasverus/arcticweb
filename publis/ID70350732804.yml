@@ -1,0 +1,50 @@
+---
+references:
+- id: ID70350732804
+  type: article-journal
+  author:
+  - family: Sonne
+    given: C.
+  - family: Bustnes
+    given: J. O.
+  - family: Herzke
+    given: D.
+  - family: Jaspers
+    given: V. L. B.
+  - family: Covaci
+    given: A.
+  - family: Halley
+    given: D. J.
+  - family: Moum
+    given: T.
+  - family: Eulaers
+    given: I.
+  - family: Eens
+    given: M.
+  - family: Ims
+    given: R. A.
+  - family: Hanssen
+    given: S. A.
+  - family: Erikstad
+    given: K. E.
+  - family: Johnsen
+    given: T.
+  - family: Schnug
+    given: L.
+  - family: Rigét
+    given: F. F.
+  - family: Jensen
+    given: A. L.
+  issued:
+  - year: '2010'
+    month: '1'
+  title: Relationships between organohalogen contaminants and blood plasma clinical-chemical
+    parameters in chicks of three raptor species from Northern Norway
+  container-title: Ecotoxicology and Environmental Safety
+  publisher: Elsevier BV
+  page: '7-17'
+  volume: '73'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fj.ecoenv.2009.08.017
+  DOI: 10.1016/j.ecoenv.2009.08.017
+...

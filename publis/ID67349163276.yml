@@ -1,0 +1,30 @@
+---
+references:
+- id: ID67349163276
+  type: article-journal
+  author:
+  - family: Harding
+    given: A. M. A.
+  - family: Egevang
+    given: C.
+  - family: Walkusz
+    given: W.
+  - family: Merkel
+    given: F.
+  - family: Blanc
+    given: S.
+  - family: Grémillet
+    given: D.
+  issued:
+  - year: '2009'
+    month: '2'
+  title: Estimating prey capture rates of a planktivorous seabird, the little auk
+    (Alle alle), using diet, diving behaviour, and energy consumption
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '785-796'
+  volume: '32'
+  issue: '5'
+  URL: https://doi.org/10.1007%2Fs00300-009-0581-x
+  DOI: 10.1007/s00300-009-0581-x
+...

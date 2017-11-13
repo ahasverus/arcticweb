@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84902549265
+  type: article-journal
+  author:
+  - family: Fowler
+    given: D.
+  - family: Lessard
+    given: J.-P.
+  - family: Sanders
+    given: N. J.
+  editor:
+  - family: Tylianakis
+    given: Jason
+  issued:
+  - year: '2014'
+    month: '1'
+  title: Niche filtering rather than partitioning shapes the structure of temperate
+    forest ant communities
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '943-952'
+  volume: '83'
+  issue: '4'
+  URL: https://doi.org/10.1111%2F1365-2656.12188
+  DOI: 10.1111/1365-2656.12188
+...

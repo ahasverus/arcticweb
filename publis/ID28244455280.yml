@@ -1,0 +1,27 @@
+---
+references:
+- id: ID28244455280
+  type: article-journal
+  author:
+  - family: Ropert-Coudert
+    given: Y.
+  - family: Grémillet
+    given: D.
+  - family: Gachot-Neveu
+    given: H.
+  - family: Lewis
+    given: S.
+  - family: Ryan
+    given: P. G.
+  issued:
+  - year: '2005'
+    month: '10'
+  title: 'Seeking dimorphism in monomorphic species: The lure of the gannet’s mask'
+  container-title: Ostrich
+  publisher: Informa UK Limited
+  page: '212-214'
+  volume: '76'
+  issue: '3-4'
+  URL: https://doi.org/10.2989%2F00306520509485495
+  DOI: 10.2989/00306520509485495
+...

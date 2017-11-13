@@ -1,0 +1,29 @@
+---
+references:
+- id: ID85017606854
+  type: article-journal
+  author:
+  - family: Finstad
+    given: A. G.
+  - family: Nilsen
+    given: E. B.
+  - family: Hendrichsen
+    given: D. K.
+  - family: Schmidt
+    given: N. M.
+  editor:
+  - family: Eklöv
+    given: Peter
+  issued:
+  - year: '2017'
+    month: '4'
+  title: Catchment vegetation and temperature mediating trophic interactions and production
+    in plankton communities
+  container-title: PLOS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e0174904'
+  volume: '12'
+  issue: '4'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0174904
+  DOI: 10.1371/journal.pone.0174904
+...

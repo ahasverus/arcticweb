@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84921747599
+  type: article-journal
+  author:
+  - family: Anderson
+    given: H. B.
+  - family: Madsen
+    given: J.
+  - family: Fuglei
+    given: E.
+  - family: Jensen
+    given: G. H.
+  - family: Woodin
+    given: S. J.
+  - family: Wal
+    given: R.
+    dropping-particle: van der
+  issued:
+  - year: '2014'
+    month: '9'
+  title: 'The dilemma of where to nest: influence of spring snow cover, food proximity
+    and predator abundance on reproductive success of an arctic-breeding migratory
+    herbivore is dependent on nesting habitat choice'
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '153-162'
+  volume: '38'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs00300-014-1574-y
+  DOI: 10.1007/s00300-014-1574-y
+...

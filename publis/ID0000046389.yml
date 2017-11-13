@@ -1,0 +1,25 @@
+---
+references:
+- id: ID0000046389
+  type: article-journal
+  author:
+  - family: Lambin
+    given: X.
+  - family: Ims
+    given: R. A.
+  - family: Steen
+    given: H.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '1995'
+    month: '5'
+  title: Vole cycles
+  container-title: Trends in Ecology & Evolution
+  publisher: Elsevier BV
+  page: '204'
+  volume: '10'
+  issue: '5'
+  URL: https://doi.org/10.1016%2Fs0169-5347%2800%2989055-2
+  DOI: 10.1016/s0169-5347(00)89055-2
+...

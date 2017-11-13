@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0031963042
+  type: article-journal
+  author:
+  - family: Bjornstad
+    given: O. N.
+  - family: Andreassen
+    given: H. P.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '1998'
+    month: '1'
+  title: Effects of habitat patchiness and connectivity on the spatial ecology of
+    the root vole Microtus oeconomus
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '127-140'
+  volume: '67'
+  issue: '1'
+  URL: https://doi.org/10.1046%2Fj.1365-2656.1998.00175.x
+  DOI: 10.1046/j.1365-2656.1998.00175.x
+...

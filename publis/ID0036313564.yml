@@ -1,0 +1,27 @@
+---
+references:
+- id: ID0036313564
+  type: article-journal
+  author:
+  - family: Mysterud
+    given: A.
+  - family: Steinheim
+    given: G.
+  - family: Yoccoz
+    given: N. G.
+  - family: Holand
+    given: O.
+  - family: Stenseth
+    given: N. C.
+  issued:
+  - year: '2002'
+    month: '5'
+  title: Early onset of reproductive senescence in domestic sheep, Ovis aries
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '177-183'
+  volume: '97'
+  issue: '2'
+  URL: https://doi.org/10.1034%2Fj.1600-0706.2002.970203.x
+  DOI: 10.1034/j.1600-0706.2002.970203.x
+...

@@ -1,0 +1,34 @@
+---
+references:
+- id: ID42149111633
+  type: article-journal
+  author:
+  - family: Weladji
+    given: R. B.
+  - family: Loison
+    given: A.
+  - family: Gaillard
+    given: J.-M.
+  - family: Holand
+    given: Y.
+  - family: Mysterud
+    given: A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Nieminen
+    given: M.
+  - family: Stenseth
+    given: N. C.
+  issued:
+  - year: '2008'
+    month: '2'
+  title: Heterogeneity in individual quality overrides costs of reproduction in female
+    reindeer
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '237-247'
+  volume: '156'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs00442-008-0961-x
+  DOI: 10.1007/s00442-008-0961-x
+...

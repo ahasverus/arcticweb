@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0030986178
+  type: article-journal
+  author:
+  - family: Stenseth
+    given: N. C.
+  - family: Falck
+    given: W.
+  - family: Bjornstad
+    given: O. N.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '1997'
+    month: '5'
+  title: 'Population regulation in snowshoe hare and Canadian lynx: Asymmetric food
+    web configurations between hare and lynx'
+  container-title: Proceedings of the National Academy of Sciences
+  publisher: Proceedings of the National Academy of Sciences
+  page: '5147-5152'
+  volume: '94'
+  issue: '10'
+  URL: https://doi.org/10.1073%2Fpnas.94.10.5147
+  DOI: 10.1073/pnas.94.10.5147
+...

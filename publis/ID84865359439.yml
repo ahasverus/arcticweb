@@ -1,0 +1,36 @@
+---
+references:
+- id: ID84865359439
+  type: article-journal
+  author:
+  - family: Norén
+    given: K.
+  - family: Hersteinsson
+    given: P.
+  - family: Samelius
+    given: G.
+  - family: Eide
+    given: N. E.
+  - family: Fuglei
+    given: E.
+  - family: Elmhagen
+    given: B.
+  - family: Dalén
+    given: L.
+  - family: Meijer
+    given: T.
+  - family: Angerbjörn
+    given: A.
+  issued:
+  - year: '2012'
+    month: '9'
+  title: 'From monogamy to complexity: Social organization of arctic foxes (Vulpes
+    lagopus) in contrasting ecosystems'
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '1102-1116'
+  volume: '90'
+  issue: '9'
+  URL: https://doi.org/10.1139%2Fz2012-077
+  DOI: 10.1139/z2012-077
+...

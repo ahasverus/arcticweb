@@ -1,0 +1,26 @@
+---
+references:
+- id: ID33845657874
+  type: article-journal
+  author:
+  - family: Holdo
+    given: R. M.
+  - family: Holt
+    given: R. D.
+  - family: Coughenour
+    given: M. B.
+  - family: Ritchie
+    given: M. E.
+  issued:
+  - year: '2007'
+    month: '1'
+  title: Plant productivity and soil nitrogen as a function of grazing, migration
+    and fire in an African savanna
+  container-title: Journal of Ecology
+  publisher: Wiley-Blackwell
+  page: '115-128'
+  volume: '95'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1365-2745.2006.01192.x
+  DOI: 10.1111/j.1365-2745.2006.01192.x
+...

@@ -1,0 +1,33 @@
+---
+references:
+- id: ID84888883318
+  type: article-journal
+  author:
+  - family: Feng
+    given: G.
+  - family: Svenning
+    given: J.-C.
+  - family: Mi
+    given: X.
+  - family: Jia
+    given: Q.
+  - family: Rao
+    given: M.
+  - family: Ren
+    given: H.
+  - family: Bebber
+    given: D. P.
+  - family: Ma
+    given: K.
+  issued:
+  - year: '2014'
+    month: '2'
+  title: Anthropogenic disturbance shapes phylogenetic and functional tree community
+    structure in a subtropical forest
+  container-title: Forest Ecology and Management
+  publisher: Elsevier BV
+  page: '188-198'
+  volume: '313'
+  URL: https://doi.org/10.1016%2Fj.foreco.2013.10.047
+  DOI: 10.1016/j.foreco.2013.10.047
+...

@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84866311751
+  type: article-journal
+  author:
+  - family: Menyushina
+    given: I. E.
+  - family: Ehrich
+    given: D.
+  - family: Henden
+    given: J.-A.
+  - family: Ims
+    given: R. A.
+  - family: Ovsyanikov
+    given: N. G.
+  issued:
+  - year: '2012'
+    month: '4'
+  title: 'The nature of lemming cycles on Wrangel: An island without small mustelids'
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '363-371'
+  volume: '170'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs00442-012-2319-7
+  DOI: 10.1007/s00442-012-2319-7
+...

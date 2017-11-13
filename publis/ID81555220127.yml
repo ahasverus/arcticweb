@@ -1,0 +1,21 @@
+---
+references:
+- id: ID81555220127
+  type: article-journal
+  author:
+  - family: Lescroël
+    given: A.
+  - family: Grémillet
+    given: D.
+  issued:
+  - year: '2011'
+    month: '11'
+  title: 'Antarctica: Fishery threatens protected ocean'
+  container-title: Nature
+  publisher: Springer Nature
+  page: '299-299'
+  volume: '479'
+  issue: '7373'
+  URL: https://doi.org/10.1038%2F479299a
+  DOI: 10.1038/479299a
+...

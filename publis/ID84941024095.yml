@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84941024095
+  type: article-journal
+  author:
+  - family: Faurby
+    given: S.
+  - family: Svenning
+    given: J.-C.
+  editor:
+  - family: Stevens
+    given: George
+  issued:
+  - year: '2015'
+    month: '8'
+  title: Historic and prehistoric human-driven extinctions have reshaped global mammal
+    diversity patterns
+  container-title: Diversity and Distributions
+  publisher: Wiley-Blackwell
+  page: '1155-1166'
+  volume: '21'
+  issue: '10'
+  URL: https://doi.org/10.1111%2Fddi.12369
+  DOI: 10.1111/ddi.12369
+...

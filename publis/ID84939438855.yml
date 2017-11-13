@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84939438855
+  type: article-journal
+  author:
+  - family: Freitas
+    given: C. G.
+    dropping-particle: de
+  - family: Dambros
+    given: C. S.
+    dropping-particle: de
+  - family: Eiserhardt
+    given: W. L.
+  - family: Costa
+    given: F. R. C.
+  - family: Svenning
+    given: J.-C.
+  - family: Balslev
+    given: H.
+  issued:
+  - year: '2014'
+    month: '7'
+  title: 'Phylogenetic structure of a palm community in the central Amazon: changes
+    along a hydro-edaphic gradient'
+  container-title: Plant Ecology
+  publisher: Springer Nature
+  page: '1173-1185'
+  volume: '215'
+  issue: '10'
+  URL: https://doi.org/10.1007%2Fs11258-014-0376-1
+  DOI: 10.1007/s11258-014-0376-1
+...

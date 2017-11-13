@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84958749225
+  type: article-journal
+  author:
+  - family: Grémillet
+    given: D.
+  - family: Péron
+    given: C.
+  - family: Kato
+    given: A.
+  - family: Amélineau
+    given: F.
+  - family: Ropert-Coudert
+    given: Y.
+  - family: Ryan
+    given: P. G.
+  - family: Pichegru
+    given: L.
+  issued:
+  - year: '2016'
+    month: '1'
+  title: 'Starving seabirds: unprofitable foraging and its fitness consequences
+    in Cape gannets competing with fisheries in the Benguela upwelling ecosystem'
+  container-title: Marine Biology
+  publisher: Springer Nature
+  page: '1-11'
+  volume: '163'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs00227-015-2798-2
+  DOI: 10.1007/s00227-015-2798-2
+...

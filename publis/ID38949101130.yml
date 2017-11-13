@@ -1,0 +1,24 @@
+---
+references:
+- id: ID38949101130
+  type: article-journal
+  author:
+  - family: Enstipp
+    given: M. R.
+  - family: Gremillet
+    given: D.
+  - family: Jones
+    given: D. R.
+  issued:
+  - year: '2008'
+    month: '1'
+  title: Heat increment of feeding in double-crested cormorants (Phalacrocorax auritus)
+    and its potential for thermal substitution
+  container-title: Journal of Experimental Biology
+  publisher: The Company of Biologists
+  page: '49-57'
+  volume: '211'
+  issue: '1'
+  URL: https://doi.org/10.1242%2Fjeb.012229
+  DOI: 10.1242/jeb.012229
+...

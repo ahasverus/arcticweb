@@ -1,0 +1,31 @@
+---
+references:
+- id: ID85019882086
+  type: article-journal
+  author:
+  - family: Hamilton
+    given: C. D.
+  - family: Kovacs
+    given: K. M.
+  - family: Ims
+    given: R. A.
+  - family: Aars
+    given: J.
+  - family: Lydersen
+    given: C.
+  editor:
+  - family: Derryberry
+    given: Elizabeth
+  issued:
+  - year: '2017'
+    month: '5'
+  title: 'An Arctic predator–prey system in flux: climate change impacts on coastal
+    space use by polar bears and ringed seals'
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '1054-1064'
+  volume: '86'
+  issue: '5'
+  URL: https://doi.org/10.1111%2F1365-2656.12685
+  DOI: 10.1111/1365-2656.12685
+...

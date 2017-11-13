@@ -1,0 +1,35 @@
+---
+references:
+- id: ID79958768300
+  type: article-journal
+  author:
+  - family: Luttikhuizen
+    given: P. C.
+  - family: Bol
+    given: A.
+  - family: Witte
+    given: H.
+  - family: Bleijswijk
+    given: J.
+    dropping-particle: van
+  - family: Haddrath
+    given: O.
+  - family: Baker
+    given: A. J.
+  - family: Piersma
+    given: T.
+  - family: Reneerkens
+    given: J.
+  issued:
+  - year: '2011'
+    month: '3'
+  title: Novel and cross-species microsatellite markers for parentage analysis in
+    Sanderling Calidris alba
+  container-title: Journal of Ornithology
+  publisher: Springer Nature
+  page: '807-810'
+  volume: '152'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs10336-011-0681-6
+  DOI: 10.1007/s10336-011-0681-6
+...

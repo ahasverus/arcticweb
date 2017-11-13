@@ -1,0 +1,23 @@
+---
+references:
+- id: ID0035809656
+  type: article-journal
+  author:
+  - family: Dhamala
+    given: M.
+  - family: Lai
+    given: Y.-C.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2001'
+    month: '3'
+  title: How often are chaotic transients in spatially extended ecological systems?
+  container-title: Physics Letters A
+  publisher: Elsevier BV
+  page: '297-302'
+  volume: '280'
+  issue: '5-6'
+  URL: https://doi.org/10.1016%2Fs0375-9601%2801%2900069-x
+  DOI: 10.1016/s0375-9601(01)00069-x
+...

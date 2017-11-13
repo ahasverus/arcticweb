@@ -1,0 +1,39 @@
+---
+references:
+- id: ID85031734962
+  type: article-journal
+  author:
+  - family: Normand
+    given: S.
+  - family: Høye
+    given: T. T.
+  - family: Forbes
+    given: B. C.
+  - family: Bowden
+    given: J. J.
+  - family: Davies
+    given: A. L.
+  - family: Odgaard
+    given: B. V.
+  - family: Riede
+    given: F.
+  - family: Svenning
+    given: J.-C.
+  - family: Treier
+    given: U. A.
+  - family: Willerslev
+    given: R.
+  - family: Wischnewski
+    given: J.
+  issued:
+  - year: '2017'
+    month: '10'
+  title: Legacies of Historical Human Activities in Arctic Woody Plant Dynamics
+  container-title: Annual Review of Environment and Resources
+  publisher: Annual Reviews
+  page: '541-567'
+  volume: '42'
+  issue: '1'
+  URL: https://doi.org/10.1146%2Fannurev-environ-110615-085454
+  DOI: 10.1146/annurev-environ-110615-085454
+...

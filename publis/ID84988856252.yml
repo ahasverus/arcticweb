@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84988856252
+  type: article-journal
+  author:
+  - family: Reneerkens
+    given: J.
+  - family: Schmidt
+    given: N. M.
+  - family: Gilg
+    given: O.
+  - family: Hansen
+    given: J.
+  - family: Hansen
+    given: L. H.
+  - family: Moreau
+    given: J.
+  - family: Piersma
+    given: T.
+  issued:
+  - year: '2016'
+    month: '9'
+  title: Effects of food abundance and early clutch predation on reproductive timing
+    in a high Arctic shorebird exposed to advancements in arthropod abundance
+  container-title: Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '7375-7386'
+  volume: '6'
+  issue: '20'
+  URL: https://doi.org/10.1002%2Fece3.2361
+  DOI: 10.1002/ece3.2361
+...

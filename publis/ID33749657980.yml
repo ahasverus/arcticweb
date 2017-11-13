@@ -1,0 +1,22 @@
+---
+references:
+- id: ID33749657980
+  type: article-journal
+  author:
+  - family: Boonstra
+    given: R.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '2006'
+    month: '11'
+  title: Population limitation of the northern red-backed vole in the boreal forests
+    of northern Canada
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '1269-1284'
+  volume: '75'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2006.01149.x
+  DOI: 10.1111/j.1365-2656.2006.01149.x
+...

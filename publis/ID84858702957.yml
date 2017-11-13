@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84858702957
+  type: article-journal
+  author:
+  - family: Carstensen
+    given: D. W.
+  - family: Dalsgaard
+    given: B.
+  - family: Svenning
+    given: J.-C.
+  - family: Rahbek
+    given: C.
+  - family: Fjeldså
+    given: J.
+  - family: Sutherland
+    given: W. J.
+  - family: Olesen
+    given: J. M.
+  issued:
+  - year: '2011'
+    month: '11'
+  title: 'Biogeographical modules and island roles: A comparison of Wallacea and
+    the West Indies'
+  container-title: Journal of Biogeography
+  publisher: Wiley-Blackwell
+  page: '739-749'
+  volume: '39'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1365-2699.2011.02628.x
+  DOI: 10.1111/j.1365-2699.2011.02628.x
+...

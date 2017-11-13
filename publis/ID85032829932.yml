@@ -1,0 +1,25 @@
+---
+references:
+- id: ID85032829932
+  type: article-journal
+  author:
+  - family: Pellissier
+    given: V.
+  - family: Mimet
+    given: A.
+  - family: Fontaine
+    given: C.
+  - family: Svenning
+    given: J.-C.
+  - family: Couvet
+    given: D.
+  issued:
+  - year: '2017'
+    month: '11'
+  title: Relative importance of the land-use composition and intensity for the bird
+    community composition in anthropogenic landscapes
+  container-title: Ecology and Evolution
+  publisher: Wiley-Blackwell
+  URL: https://doi.org/10.1002%2Fece3.3534
+  DOI: 10.1002/ece3.3534
+...

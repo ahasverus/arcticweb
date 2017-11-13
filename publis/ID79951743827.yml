@@ -1,0 +1,28 @@
+---
+references:
+- id: ID79951743827
+  type: article-journal
+  author:
+  - family: Lessard
+    given: J.-P.
+  - family: Sackett
+    given: T. E.
+  - family: Reynolds
+    given: W. N.
+  - family: Fowler
+    given: D. A.
+  - family: Sanders
+    given: N. J.
+  issued:
+  - year: '2010'
+    month: '10'
+  title: 'Determinants of the detrital arthropod community structure: The effects
+    of temperature and resources along an environmental gradient'
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '333-343'
+  volume: '120'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1600-0706.2010.18772.x
+  DOI: 10.1111/j.1600-0706.2010.18772.x
+...

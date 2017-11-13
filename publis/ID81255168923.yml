@@ -1,0 +1,68 @@
+---
+references:
+- id: ID81255168923
+  type: article-journal
+  author:
+  - family: Forest
+    given: A.
+  - family: Tremblay
+    given: J.-R.
+  - family: Gratton
+    given: Y.
+  - family: Martin
+    given: J.
+  - family: Gagnon
+    given: J.
+  - family: Darnis
+    given: G.
+  - family: Sampei
+    given: M.
+  - family: Fortier
+    given: L.
+  - family: Ardyna
+    given: M.
+  - family: Gosselin
+    given: M.
+  - family: Hattori
+    given: H.
+  - family: Nguyen
+    given: D.
+  - family: Maranger
+    given: R.
+  - family: Vaqué
+    given: D.
+  - family: Marrasé
+    given: C.
+  - family: Pedrós-Alió
+    given: C.
+  - family: Sallon
+    given: A.
+  - family: Michel
+    given: C.
+  - family: Kellogg
+    given: C.
+  - family: Deming
+    given: J.
+  - family: Shadwick
+    given: E.
+  - family: Thomas
+    given: H.
+  - family: Link
+    given: H.
+  - family: Archambault
+    given: P.
+  - family: Piepenburg
+    given: D.
+  issued:
+  - year: '2011'
+    month: '12'
+  title: 'Biogenic carbon flows through the planktonic food web of the Amundsen
+    Gulf (Arctic Ocean): A synthesis of field measurements and inverse modeling analyses'
+  container-title: Progress in Oceanography
+  publisher: Elsevier BV
+  page: '410-436'
+  volume: '91'
+  issue: '4'
+  URL: https://doi.org/10.1016%2Fj.pocean.2011.05.002
+  DOI: 10.1016/j.pocean.2011.05.002
+...

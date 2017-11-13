@@ -1,0 +1,23 @@
+---
+references:
+- id: ID84871459386
+  type: article-journal
+  author:
+  - family: Lone
+    given: K.
+  - family: Aars
+    given: J.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2012'
+    month: '9'
+  title: Site fidelity of Svalbard polar bears revealed by mark-recapture positions
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '27-39'
+  volume: '36'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs00300-012-1235-y
+  DOI: 10.1007/s00300-012-1235-y
+...

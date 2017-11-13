@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84956665904
+  type: article-journal
+  author:
+  - family: Hardwick
+    given: B.
+  - family: Kaartinen
+    given: R.
+  - family: Koponen
+    given: M.
+  - family: Roslin
+    given: T.
+  editor:
+  - family: Schonrogge
+    given: Karsten
+  issued:
+  - year: '2015'
+    month: '9'
+  title: A rapid assessment of a poorly known insect group
+  container-title: Insect Conservation and Diversity
+  publisher: Wiley-Blackwell
+  page: '49-62'
+  volume: '9'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Ficad.12142
+  DOI: 10.1111/icad.12142
+...

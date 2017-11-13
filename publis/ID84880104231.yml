@@ -1,0 +1,21 @@
+---
+references:
+- id: ID84880104231
+  type: article-journal
+  author:
+  - family: Svenning
+    given: J.-C.
+  - family: Sandel
+    given: B.
+  issued:
+  - year: '2013'
+    month: '6'
+  title: Disequilibrium vegetation dynamics under future climate change
+  container-title: American Journal of Botany
+  publisher: Botanical Society of America
+  page: '1266-1286'
+  volume: '100'
+  issue: '7'
+  URL: https://doi.org/10.3732%2Fajb.1200469
+  DOI: 10.3732/ajb.1200469
+...

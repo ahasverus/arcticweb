@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84960391307
+  type: article-journal
+  author:
+  - family: Peck
+    given: L. E.
+  - family: Gilchrist
+    given: H. G.
+  - family: Mallory
+    given: C. D.
+  - family: Braune
+    given: B. M.
+  - family: Mallory
+    given: M. L.
+  issued:
+  - year: '2016'
+    month: '6'
+  title: Persistent organic pollutant and mercury concentrations in eggs of ground-nesting
+    marine birds in the Canadian high Arctic
+  container-title: Science of The Total Environment
+  publisher: Elsevier BV
+  page: '80-88'
+  volume: '556'
+  URL: https://doi.org/10.1016%2Fj.scitotenv.2016.02.205
+  DOI: 10.1016/j.scitotenv.2016.02.205
+...

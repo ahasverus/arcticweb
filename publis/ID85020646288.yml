@@ -1,0 +1,35 @@
+---
+references:
+- id: ID85020646288
+  type: article-journal
+  author:
+  - family: Goebel
+    given: J.
+  - family: Promerová
+    given: M.
+  - family: Bonadonna
+    given: F.
+  - family: McCoy
+    given: K. D.
+  - family: Serbielle
+    given: C.
+  - family: Strandh
+    given: M.
+  - family: Yannic
+    given: G.
+  - family: Burri
+    given: R.
+  - family: Fumagalli
+    given: L.
+  issued:
+  - year: '2017'
+    month: '6'
+  title: '100 million years of multigene family evolution: Origin and evolution
+    of the avian MHC class IIB'
+  container-title: BMC Genomics
+  publisher: Springer Nature
+  volume: '18'
+  issue: '1'
+  URL: https://doi.org/10.1186%2Fs12864-017-3839-7
+  DOI: 10.1186/s12864-017-3839-7
+...

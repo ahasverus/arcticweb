@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84958914018
+  type: article-journal
+  author:
+  - family: Zhang
+    given: J.
+  - family: Nielsen
+    given: S. E.
+  - family: Mao
+    given: L.
+  - family: Chen
+    given: S.
+  - family: Svenning
+    given: J.-C.
+  editor:
+  - family: McGlone
+    given: Matt
+  issued:
+  - year: '2015'
+    month: '12'
+  title: Regional and historical factors supplement current climate in shaping global
+    forest canopy height
+  container-title: Journal of Ecology
+  publisher: Wiley-Blackwell
+  page: '469-478'
+  volume: '104'
+  issue: '2'
+  URL: https://doi.org/10.1111%2F1365-2745.12510
+  DOI: 10.1111/1365-2745.12510
+...

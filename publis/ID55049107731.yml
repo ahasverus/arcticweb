@@ -1,0 +1,21 @@
+---
+references:
+- id: ID55049107731
+  type: article-journal
+  author:
+  - family: Rosenlew
+    given: H.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2008'
+    month: '10'
+  title: Habitat fragmentation and the functional efficiency of temperate dung beetles
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '1659-1666'
+  volume: '117'
+  issue: '11'
+  URL: https://doi.org/10.1111%2Fj.1600-0706.2008.16904.x
+  DOI: 10.1111/j.1600-0706.2008.16904.x
+...

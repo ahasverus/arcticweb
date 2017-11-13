@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84960118384
+  type: article-journal
+  author:
+  - family: Solarik
+    given: K. A.
+  - family: Gravel
+    given: D.
+  - family: Ameztegui
+    given: A.
+  - family: Bergeron
+    given: Y.
+  - family: Messier
+    given: C.
+  issued:
+  - year: '2016'
+    month: '3'
+  title: 'Assessing tree germination resilience to global warming: A manipulative
+    experiment using sugar maple (Acer saccharum)'
+  container-title: Seed Science Research
+  publisher: Cambridge University Press (CUP)
+  page: '153-164'
+  volume: '26'
+  issue: '02'
+  URL: https://doi.org/10.1017%2Fs0960258516000040
+  DOI: 10.1017/s0960258516000040
+...

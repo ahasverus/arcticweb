@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84996843138
+  type: article-journal
+  author:
+  - family: Hambäck
+    given: P. A.
+  - family: Weingartner
+    given: E.
+  - family: Dalén
+    given: L.
+  - family: Wirta
+    given: H.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2016'
+    month: '10'
+  title: 'Spatial subsidies in spider diets vary with shoreline structure: Complementary
+    evidence from molecular diet analysis and stable isotopes'
+  container-title: Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '8431-8439'
+  volume: '6'
+  issue: '23'
+  URL: https://doi.org/10.1002%2Fece3.2536
+  DOI: 10.1002/ece3.2536
+...

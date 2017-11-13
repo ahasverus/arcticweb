@@ -1,0 +1,61 @@
+---
+references:
+- id: ID84923629552
+  type: article-journal
+  author:
+  - family: Elmhagen
+    given: B.
+  - family: Destouni
+    given: G.
+  - family: Angerbjörn
+    given: A.
+  - family: Borgström
+    given: S.
+  - family: Boyd
+    given: E.
+  - family: Cousins
+    given: S. A. O.
+  - family: Dalén
+    given: L.
+  - family: Ehrlén
+    given: J.
+  - family: Ermold
+    given: M.
+  - family: Hambäck
+    given: P. A.
+  - family: Hedlund
+    given: J.
+  - family: Hylander
+    given: K.
+  - family: Jaramillo
+    given: F.
+  - family: Lagerholm
+    given: V. K.
+  - family: Lyon
+    given: S. W.
+  - family: Moor
+    given: H.
+  - family: Nykvist
+    given: B.
+  - family: Pasanen-Mortensen
+    given: M.
+  - family: Plue
+    given: J.
+  - family: Prieto
+    given: C.
+  - family: Velde
+    given: Y.
+    dropping-particle: van der
+  - family: Lindborg
+    given: R.
+  issued:
+  - year: '2015'
+  title: Interacting effects of change in climate, human population, land use, and
+    water use on biodiversity and ecosystem services
+  container-title: Ecology and Society
+  publisher: Resilience Alliance, Inc.
+  volume: '20'
+  issue: '1'
+  URL: https://doi.org/10.5751%2Fes-07145-200123
+  DOI: 10.5751/es-07145-200123
+...

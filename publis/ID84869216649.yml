@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84869216649
+  type: article-journal
+  author:
+  - family: Giroux
+    given: M.-A.
+  - family: Dussault
+    given: C.
+  - family: Lecomte
+    given: N.
+  - family: Tremblay
+    given: J.-P.
+  - family: Côté
+    given: S. D.
+  editor:
+  - family: Sakamoto
+    given: Kentaro Q.
+  issued:
+  - year: '2012'
+    month: '11'
+  title: A New Way of Assessing Foraging Behaviour at the Individual Level Using Faeces
+    Marking and Satellite Telemetry
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e49719'
+  volume: '7'
+  issue: '11'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0049719
+  DOI: 10.1371/journal.pone.0049719
+...

@@ -1,0 +1,28 @@
+---
+references:
+- id: ID79952031871
+  type: article-journal
+  author:
+  - family: Descamps
+    given: S.
+  - family: Forbes
+    given: M. R.
+  - family: Gilchrist
+    given: H. G.
+  - family: Love
+    given: O. P.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2010'
+    month: '12'
+  title: Avian cholera, post-hatching survival and selection on hatch characteristics
+    in a long-lived bird, the common eider Somateria mollisima
+  container-title: Journal of Avian Biology
+  publisher: Wiley-Blackwell
+  page: '39-48'
+  volume: '42'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1600-048x.2010.05196.x
+  DOI: 10.1111/j.1600-048x.2010.05196.x
+...

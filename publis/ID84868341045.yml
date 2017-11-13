@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84868341045
+  type: article-journal
+  author:
+  - family: Pellerin
+    given: M.
+  - family: Delestrade
+    given: A.
+  - family: Mathieu
+    given: G.
+  - family: Rigault
+    given: O.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2012'
+    month: '7'
+  title: 'Spring tree phenology in the Alps: Effects of air temperature, altitude
+    and local topography'
+  container-title: European Journal of Forest Research
+  publisher: Springer Nature
+  page: '1957-1965'
+  volume: '131'
+  issue: '6'
+  URL: https://doi.org/10.1007%2Fs10342-012-0646-1
+  DOI: 10.1007/s10342-012-0646-1
+...

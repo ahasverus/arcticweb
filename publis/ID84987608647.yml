@@ -1,0 +1,34 @@
+---
+references:
+- id: ID84987608647
+  type: article-journal
+  author:
+  - family: Boonstra
+    given: R.
+  - family: Andreassen
+    given: H. P.
+  - family: Boutin
+    given: S.
+  - family: Hušek
+    given: J.
+  - family: Ims
+    given: R. A.
+  - family: Krebs
+    given: C. J.
+  - family: Skarpe
+    given: C.
+  - family: Wabakken
+    given: P.
+  issued:
+  - year: '2016'
+    month: '7'
+  title: Why do the boreal forest ecosystems of Northwestern Europe differ from those
+    of Western North America?
+  container-title: BioScience
+  publisher: Oxford University Press (OUP)
+  page: '722-734'
+  volume: '66'
+  issue: '9'
+  URL: https://doi.org/10.1093%2Fbiosci%2Fbiw080
+  DOI: 10.1093/biosci/biw080
+...

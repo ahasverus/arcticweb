@@ -1,0 +1,23 @@
+---
+references:
+- id: ID0032996851
+  type: article-journal
+  author:
+  - family: Hodges
+    given: K. E.
+  - family: Krebs
+    given: C. J.
+  - family: Sinclair
+    given: A. R. E.
+  issued:
+  - year: '1999'
+    month: '5'
+  title: Snowshoe hare demography during a cyclic population low
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '581-594'
+  volume: '68'
+  issue: '3'
+  URL: https://doi.org/10.1046%2Fj.1365-2656.1999.00310.x
+  DOI: 10.1046/j.1365-2656.1999.00310.x
+...

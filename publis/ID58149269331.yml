@@ -1,0 +1,28 @@
+---
+references:
+- id: ID58149269331
+  type: article-journal
+  author:
+  - family: Legagneux
+    given: P.
+  - family: Inchausti
+    given: P.
+  - family: Bourguemestre
+    given: F.
+  - family: Latraube
+    given: F.
+  - family: Bretagnolle
+    given: V.
+  issued:
+  - year: '2008'
+    month: '10'
+  title: Effect of predation risk, body size, and habitat characteristics on emigration
+    decisions in mallards
+  container-title: Behavioral Ecology
+  publisher: Oxford University Press (OUP)
+  page: '186-194'
+  volume: '20'
+  issue: '1'
+  URL: https://doi.org/10.1093%2Fbeheco%2Farn133
+  DOI: 10.1093/beheco/arn133
+...

@@ -1,0 +1,23 @@
+---
+references:
+- id: ID0036065023
+  type: article-journal
+  author:
+  - family: Madsen
+    given: J.
+  - family: Frederiksen
+    given: M.
+  - family: Ganter
+    given: B.
+  issued:
+  - year: '2002'
+    month: '4'
+  title: Trends in annual and seasonal survival of Pink-footed Geese Anser brachyrhynchus
+  container-title: Ibis
+  publisher: Wiley-Blackwell
+  page: '218-226'
+  volume: '144'
+  issue: '2'
+  URL: https://doi.org/10.1046%2Fj.1474-919x.2002.00045.x
+  DOI: 10.1046/j.1474-919x.2002.00045.x
+...

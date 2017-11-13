@@ -1,0 +1,19 @@
+---
+references:
+- id: ID3543023635
+  type: article-journal
+  author:
+  - family: Madsen
+    given: J.
+  issued:
+  - year: '2008'
+    month: '4'
+  title: Goose grazing in the Arctic
+  container-title: Ibis
+  publisher: Wiley-Blackwell
+  page: '302-303'
+  volume: '130'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1474-919x.1988.tb00984.x
+  DOI: 10.1111/j.1474-919x.1988.tb00984.x
+...

@@ -1,0 +1,19 @@
+---
+references:
+- id: ID0025591346
+  type: article-journal
+  author:
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '1990'
+    month: '10'
+  title: On the adaptive value of reproductive synchrony as a predator- swamping strategy
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '485-498'
+  volume: '136'
+  issue: '4'
+  URL: https://doi.org/10.1086%2F285109
+  DOI: 10.1086/285109
+...

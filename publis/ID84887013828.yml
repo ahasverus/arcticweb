@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84887013828
+  type: article-journal
+  author:
+  - family: L'Hérault
+    given: V.
+  - family: Franke
+    given: A.
+  - family: Lecomte
+    given: N.
+  - family: Alogut
+    given: A.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2013'
+    month: '7'
+  title: Landscape heterogeneity drives intra-population niche variation and reproduction
+    in an arctic top predator
+  container-title: Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '2867-2879'
+  volume: '3'
+  issue: '9'
+  URL: https://doi.org/10.1002%2Fece3.675
+  DOI: 10.1002/ece3.675
+...

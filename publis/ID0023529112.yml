@@ -1,0 +1,25 @@
+---
+references:
+- id: ID0023529112
+  type: article-journal
+  author:
+  - family: Fox
+    given: A. D.
+  - family: Francis
+    given: I. S.
+  - family: Madsen
+    given: J.
+  - family: Stroud
+    given: J. M.
+  issued:
+  - year: '2008'
+    month: '6'
+  title: The breeding biology of the Lapland Bunting Calcarius lapponicus in West
+    Greenland during two contrasting years
+  container-title: Ibis
+  publisher: Wiley-Blackwell
+  page: '541-552'
+  volume: '129'
+  URL: https://doi.org/10.1111%2Fj.1474-919x.1987.tb08242.x
+  DOI: 10.1111/j.1474-919x.1987.tb08242.x
+...

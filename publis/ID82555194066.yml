@@ -1,0 +1,33 @@
+---
+references:
+- id: ID82555194066
+  type: article-journal
+  author:
+  - family: Balslev
+    given: H.
+  - family: Kahn
+    given: F.
+  - family: Millan
+    given: B.
+  - family: Svenning
+    given: J.-C.
+  - family: Kristiansen
+    given: T.
+  - family: Borchsenius
+    given: F.
+  - family: Pedersen
+    given: D.
+  - family: Eiserhardt
+    given: W. L.
+  issued:
+  - year: '2011'
+    month: '6'
+  title: Species Diversity and Growth Forms in Tropical American Palm Communities
+  container-title: The Botanical Review
+  publisher: Springer Nature
+  page: '381-425'
+  volume: '77'
+  issue: '4'
+  URL: https://doi.org/10.1007%2Fs12229-011-9084-x
+  DOI: 10.1007/s12229-011-9084-x
+...

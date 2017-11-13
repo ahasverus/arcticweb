@@ -1,0 +1,32 @@
+---
+references:
+- id: ID44649094510
+  type: article-journal
+  author:
+  - family: Dominy
+    given: N. J.
+  - family: Grubb
+    given: P. J.
+  - family: Jackson
+    given: R. V.
+  - family: Lucas
+    given: P. W.
+  - family: Metcalfe
+    given: D. J.
+  - family: Svenning
+    given: J.-C.
+  - family: Turner
+    given: I. M.
+  issued:
+  - year: '2008'
+    month: '4'
+  title: In tropical lowland rain forests monocots have tougher leaves than dicots,
+    and include a new kind of tough leaf
+  container-title: Annals of Botany
+  publisher: Oxford University Press (OUP)
+  page: '1363-1377'
+  volume: '101'
+  issue: '9'
+  URL: https://doi.org/10.1093%2Faob%2Fmcn046
+  DOI: 10.1093/aob/mcn046
+...

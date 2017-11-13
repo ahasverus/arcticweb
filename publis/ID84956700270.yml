@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84956700270
+  type: article-journal
+  author:
+  - family: Landvik
+    given: M.
+  - family: Niemelä
+    given: P.
+  - family: Roslin
+    given: T.
+  editor:
+  - family: Didham
+    given: Raphael
+  - family: Gange
+    given: Alan
+  issued:
+  - year: '2015'
+    month: '9'
+  title: 'Opportunistic habitat use by Osmoderma barnabita (Coleoptera: Scarabaeidae),
+    a saproxylic beetle dependent on tree cavities'
+  container-title: Insect Conservation and Diversity
+  publisher: Wiley-Blackwell
+  page: '38-48'
+  volume: '9'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Ficad.12141
+  DOI: 10.1111/icad.12141
+...

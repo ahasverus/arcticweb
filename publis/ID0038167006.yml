@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0038167006
+  type: article-journal
+  author:
+  - family: Bêty
+    given: J.
+  - family: Gauthier
+    given: G.
+  - family: Giroux
+    given: J.-F.
+  issued:
+  - year: '2003'
+    month: '7'
+  title: 'Body condition, migration, and timing of reproduction in snow geese: A
+    test of the condition-dependent model of optimal clutch size'
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '110-121'
+  volume: '162'
+  issue: '1'
+  URL: https://doi.org/10.1086%2F375680
+  DOI: 10.1086/375680
+...

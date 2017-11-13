@@ -1,0 +1,32 @@
+---
+references:
+- id: ID79955000154
+  type: article-journal
+  author:
+  - family: Jepsen
+    given: J. U.
+  - family: Kapari
+    given: L.
+  - family: Hagen
+    given: S. B.
+  - family: Schott
+    given: T.
+  - family: Vindstad
+    given: O. P. L.
+  - family: Nilssen
+    given: A. C.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2010'
+    month: '12'
+  title: Rapid northwards expansion of a forest insect pest attributed to spring phenology
+    matching with sub-Arctic birch
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '2071-2083'
+  volume: '17'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1365-2486.2010.02370.x
+  DOI: 10.1111/j.1365-2486.2010.02370.x
+...

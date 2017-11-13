@@ -1,0 +1,61 @@
+---
+references:
+- id: ID84867140552
+  type: article-journal
+  author:
+  - family: Mouquet
+    given: N.
+  - family: Devictor
+    given: V.
+  - family: Meynard
+    given: C. N.
+  - family: Munoz
+    given: F.
+  - family: Bersier
+    given: L.-F.
+  - family: Chave
+    given: J.
+  - family: Couteron
+    given: P.
+  - family: Dalecky
+    given: A.
+  - family: Fontaine
+    given: C.
+  - family: Gravel
+    given: D.
+  - family: Hardy
+    given: O. J.
+  - family: Jabot
+    given: F.
+  - family: Lavergne
+    given: S.
+  - family: Leibold
+    given: M.
+  - family: Mouillot
+    given: D.
+  - family: Münkemüller
+    given: T.
+  - family: Pavoine
+    given: S.
+  - family: Prinzing
+    given: A.
+  - family: Rodrigues
+    given: A. S. L.
+  - family: Rohr
+    given: R. P.
+  - family: Thébault
+    given: E.
+  - family: Thuiller
+    given: W.
+  issued:
+  - year: '2012'
+    month: '3'
+  title: 'Ecophylogenetics: Advances and perspectives'
+  container-title: Biological Reviews
+  publisher: Wiley-Blackwell
+  page: '769-785'
+  volume: '87'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1469-185x.2012.00224.x
+  DOI: 10.1111/j.1469-185x.2012.00224.x
+...

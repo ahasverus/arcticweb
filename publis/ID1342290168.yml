@@ -1,0 +1,26 @@
+---
+references:
+- id: ID1342290168
+  type: article-journal
+  author:
+  - family: Lacroix
+    given: D. L.
+  - family: Lanctot
+    given: R. B.
+  - family: Reed
+    given: J. A.
+  - family: McDonald
+    given: T. L.
+  issued:
+  - year: '2003'
+    month: '11'
+  title: Effect of underwater seismic surveys on molting male Long-tailed Ducks in
+    the Beaufort Sea, Alaska
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '1862-1875'
+  volume: '81'
+  issue: '11'
+  URL: https://doi.org/10.1139%2Fz03-185
+  DOI: 10.1139/z03-185
+...

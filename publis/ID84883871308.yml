@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84883871308
+  type: article-journal
+  author:
+  - family: Link
+    given: H.
+  - family: Chaillou
+    given: G.
+  - family: Forest
+    given: A.
+  - family: Piepenburg
+    given: D.
+  - family: Archambault
+    given: P.
+  issued:
+  - year: '2013'
+    month: '9'
+  title: Multivariate benthic ecosystem functioning in the Arctic-benthic fluxes explained
+    by environmental parameters in the southeastern Beaufort Sea
+  container-title: Biogeosciences
+  publisher: Copernicus GmbH
+  page: '5911-5929'
+  volume: '10'
+  issue: '9'
+  URL: https://doi.org/10.5194%2Fbg-10-5911-2013
+  DOI: 10.5194/bg-10-5911-2013
+...

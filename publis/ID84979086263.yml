@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84979086263
+  type: article-journal
+  author:
+  - family: Amélineau
+    given: F.
+  - family: Grémillet
+    given: D.
+  - family: Bonnet
+    given: D.
+  - family: Bot
+    given: T. L.
+  - family: Fort
+    given: J.
+  editor:
+  - family: Peter
+    given: Hans-Ulrich
+  issued:
+  - year: '2016'
+    month: '7'
+  title: Where to Forage in the Absence of Sea Ice? Bathymetry As a Key Factor for
+    an Arctic Seabird
+  container-title: PLOS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e0157764'
+  volume: '11'
+  issue: '7'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0157764
+  DOI: 10.1371/journal.pone.0157764
+...

@@ -1,0 +1,19 @@
+---
+references:
+- id: ID33746356861
+  type: article-journal
+  author:
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2006'
+    month: '7'
+  title: 'Ecology: Asymmetry and stability'
+  container-title: Nature
+  publisher: Springer Nature
+  page: '252-253'
+  volume: '442'
+  issue: '7100'
+  URL: https://doi.org/10.1038%2F442252a
+  DOI: 10.1038/442252a
+...

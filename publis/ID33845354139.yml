@@ -1,0 +1,24 @@
+---
+references:
+- id: ID33845354139
+  type: article-journal
+  author:
+  - family: Vézina
+    given: F.
+  - family: Speakman
+    given: J. R.
+  - family: Williams
+    given: T. D.
+  issued:
+  - year: '2006'
+    month: '10'
+  title: Individually variable energy management strategies in relation to energetic
+    costs of egg production
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '2447-2458'
+  volume: '87'
+  issue: '10'
+  URL: https://doi.org/10.1890%2F0012-9658%282006%2987%5B2447%3Aivemsi%5D2.0.co%3B2
+  DOI: 10.1890/0012-9658(2006)87[2447:ivemsi]2.0.co;2
+...

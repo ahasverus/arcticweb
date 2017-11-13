@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84907919328
+  type: article-journal
+  author:
+  - family: Aas
+    given: C. B.
+  - family: Fuglei
+    given: E.
+  - family: Herzke
+    given: D.
+  - family: Yoccoz
+    given: N. G.
+  - family: Routti
+    given: H.
+  issued:
+  - year: '2014'
+    month: '9'
+  title: Effect of body condition on tissue distribution of perfluoroalkyl substances
+    (PFASs) in Arctic fox (Vulpes lagopus)
+  container-title: Environmental Science & Technology
+  publisher: American Chemical Society (ACS)
+  page: '11654-11661'
+  volume: '48'
+  issue: '19'
+  URL: https://doi.org/10.1021%2Fes503147n
+  DOI: 10.1021/es503147n
+...

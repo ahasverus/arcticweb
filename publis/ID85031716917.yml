@@ -1,0 +1,33 @@
+---
+references:
+- id: ID85031716917
+  type: article-journal
+  author:
+  - family: Bulla
+    given: M.
+  - family: Prüter
+    given: H.
+  - family: Vitnerová
+    given: H.
+  - family: Tijsen
+    given: W.
+  - family: Sládeček
+    given: M.
+  - family: Alves
+    given: J. A.
+  - family: Gilg
+    given: O.
+  - family: Kempenaers
+    given: B.
+  issued:
+  - year: '2017'
+    month: '10'
+  title: 'Flexible parental care: Uniparental incubation in biparentally incubating
+    shorebirds'
+  container-title: Scientific Reports
+  publisher: Springer Nature
+  volume: '7'
+  issue: '1'
+  URL: https://doi.org/10.1038%2Fs41598-017-13005-y
+  DOI: 10.1038/s41598-017-13005-y
+...

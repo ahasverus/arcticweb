@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0033150733
+  type: article-journal
+  author:
+  - family: Gomulkiewicz
+    given: R.
+  - family: Holt
+    given: R. D.
+  - family: Barfield
+    given: M.
+  issued:
+  - year: '1999'
+    month: '6'
+  title: The effects of density dependence and immigration on local adaptation and
+    niche evolution in a black-hole sink environment
+  container-title: Theoretical Population Biology
+  publisher: Elsevier BV
+  page: '283-296'
+  volume: '55'
+  issue: '3'
+  URL: https://doi.org/10.1006%2Ftpbi.1998.1405
+  DOI: 10.1006/tpbi.1998.1405
+...

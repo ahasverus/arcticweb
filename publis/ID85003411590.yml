@@ -1,0 +1,25 @@
+---
+references:
+- id: ID85003411590
+  type: article-journal
+  author:
+  - family: Soininen
+    given: E. M.
+  - family: Jensvoll
+    given: I.
+  - family: Killengreen
+    given: S. T.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2015'
+    month: '5'
+  title: 'Under the snow: a new camera trap opens the white box of subnivean ecology'
+  container-title: Remote Sensing in Ecology and Conservation
+  publisher: Wiley-Blackwell
+  page: '29-38'
+  volume: '1'
+  issue: '1'
+  URL: https://doi.org/10.1002%2Frse2.2
+  DOI: 10.1002/rse2.2
+...

@@ -1,0 +1,38 @@
+---
+references:
+- id: ID84890799987
+  type: article-journal
+  author:
+  - family: Patrick
+    given: S. C.
+  - family: Bearhop
+    given: S.
+  - family: Grémillet
+    given: D.
+  - family: Lescroël
+    given: A.
+  - family: Grecian
+    given: W. J.
+  - family: Bodey
+    given: T. W.
+  - family: Hamer
+    given: K. C.
+  - family: Wakefield
+    given: E.
+  - family: Nuz
+    given: M. L.
+  - family: Votier
+    given: S. C.
+  issued:
+  - year: '2013'
+    month: '8'
+  title: Individual differences in searching behaviour and spatial foraging consistency
+    in a central place marine predator
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '33-40'
+  volume: '123'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1600-0706.2013.00406.x
+  DOI: 10.1111/j.1600-0706.2013.00406.x
+...

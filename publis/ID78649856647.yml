@@ -1,0 +1,43 @@
+---
+references:
+- id: ID78649856647
+  type: article-journal
+  author:
+  - family: Keesing
+    given: F.
+  - family: Belden
+    given: L. K.
+  - family: Daszak
+    given: P.
+  - family: Dobson
+    given: A.
+  - family: Harvell
+    given: C. D.
+  - family: Holt
+    given: R. D.
+  - family: Hudson
+    given: P.
+  - family: Jolles
+    given: A.
+  - family: Jones
+    given: K. E.
+  - family: Mitchell
+    given: C. E.
+  - family: Myers
+    given: S. S.
+  - family: Bogich
+    given: T.
+  - family: Ostfeld
+    given: R. S.
+  issued:
+  - year: '2010'
+    month: '12'
+  title: Impacts of biodiversity on the emergence and transmission of infectious diseases
+  container-title: Nature
+  publisher: Springer Nature
+  page: '647-652'
+  volume: '468'
+  issue: '7324'
+  URL: https://doi.org/10.1038%2Fnature09575
+  DOI: 10.1038/nature09575
+...

@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0036093001
+  type: article-journal
+  author:
+  - family: Jepsen
+    given: J. U.
+  - family: Eide
+    given: N. E.
+  - family: Prestrud
+    given: P.
+  - family: Jacobsen
+    given: L. B.
+  issued:
+  - year: '2002'
+    month: '3'
+  title: The importance of prey distribution in habitat use by arctic foxes (Alopex
+    lagopus)
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '418-429'
+  volume: '80'
+  issue: '3'
+  URL: https://doi.org/10.1139%2Fz02-023
+  DOI: 10.1139/z02-023
+...

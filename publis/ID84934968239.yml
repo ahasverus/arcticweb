@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84934968239
+  type: article-journal
+  author:
+  - family: Moreno-Amat
+    given: E.
+  - family: Mateo
+    given: R. G.
+  - family: Nieto-Lugilde
+    given: D.
+  - family: Morueta-Holme
+    given: N.
+  - family: Svenning
+    given: J.-C.
+  - family: García-Amorena
+    given: I.
+  issued:
+  - year: '2015'
+    month: '9'
+  title: 'Impact of model complexity on cross-temporal transferability in Maxent
+    species distribution models: An assessment using paleobotanical data'
+  container-title: Ecological Modelling
+  publisher: Elsevier BV
+  page: '308-317'
+  volume: '312'
+  URL: https://doi.org/10.1016%2Fj.ecolmodel.2015.05.035
+  DOI: 10.1016/j.ecolmodel.2015.05.035
+...

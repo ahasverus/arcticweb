@@ -1,0 +1,37 @@
+---
+references:
+- id: ID84955588222
+  type: article-journal
+  author:
+  - family: Tarroux
+    given: A.
+  - family: Weimerskirch
+    given: H.
+  - family: Wang
+    given: S.-H.
+  - family: Bromwich
+    given: D. H.
+  - family: Cherel
+    given: Y.
+  - family: Kato
+    given: A.
+  - family: Ropert-Coudert
+    given: Y.
+  - family: Varpe
+    given: Y.
+  - family: Yoccoz
+    given: N. G.
+  - family: Descamps
+    given: S.
+  issued:
+  - year: '2016'
+    month: '3'
+  title: 'Flexible flight response to challenging wind conditions in a commuting
+    Antarctic seabird: Do you catch the drift?'
+  container-title: Animal Behaviour
+  publisher: Elsevier BV
+  page: '99-112'
+  volume: '113'
+  URL: https://doi.org/10.1016%2Fj.anbehav.2015.12.021
+  DOI: 10.1016/j.anbehav.2015.12.021
+...

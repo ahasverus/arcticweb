@@ -1,0 +1,37 @@
+---
+references:
+- id: ID85023608285
+  type: article-journal
+  author:
+  - family: Piccini
+    given: I.
+  - family: Arnieri
+    given: F.
+  - family: Caprio
+    given: E.
+  - family: Nervo
+    given: B.
+  - family: Pelissetti
+    given: S.
+  - family: Palestrini
+    given: C.
+  - family: Roslin
+    given: T.
+  - family: Rolando
+    given: A.
+  editor:
+  - family: Chaline
+    given: Nicolas
+  issued:
+  - year: '2017'
+    month: '7'
+  title: Greenhouse gas emissions from dung pats vary with dung beetle species and
+    with assemblage composition
+  container-title: PLOS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e0178077'
+  volume: '12'
+  issue: '7'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0178077
+  DOI: 10.1371/journal.pone.0178077
+...

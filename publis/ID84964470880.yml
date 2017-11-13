@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84964470880
+  type: article-journal
+  author:
+  - family: Gravel
+    given: D.
+  - family: Albouy
+    given: C.
+  - family: Thuiller
+    given: W.
+  issued:
+  - year: '2016'
+    month: '4'
+  title: The meaning of functional trait composition of food webs for ecosystem functioning
+  container-title: 'Philosophical Transactions of the Royal Society B: Biological
+    Sciences'
+  publisher: The Royal Society
+  page: '20150268'
+  volume: '371'
+  issue: '1694'
+  URL: https://doi.org/10.1098%2Frstb.2015.0268
+  DOI: 10.1098/rstb.2015.0268
+...

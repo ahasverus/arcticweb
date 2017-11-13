@@ -1,0 +1,38 @@
+---
+references:
+- id: ID79951952964
+  type: article-journal
+  author:
+  - family: Pellissier
+    given: L.
+  - family: Wassef
+    given: J.
+  - family: Bilat
+    given: J.
+  - family: Brazzola
+    given: G.
+  - family: Buri
+    given: P.
+  - family: Colliard
+    given: C.
+  - family: Fournier
+    given: B.
+  - family: Hausser
+    given: J.
+  - family: Yannic
+    given: G.
+  - family: Perrin
+    given: N.
+  issued:
+  - year: '2011'
+    month: '3'
+  title: 'Adaptive colour polymorphism of Acrida ungarica H. (Orthoptera: Acrididae)
+    in a spatially heterogeneous environment'
+  container-title: Acta Oecologica
+  publisher: Elsevier BV
+  page: '93-98'
+  volume: '37'
+  issue: '2'
+  URL: https://doi.org/10.1016%2Fj.actao.2010.12.003
+  DOI: 10.1016/j.actao.2010.12.003
+...

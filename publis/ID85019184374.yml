@@ -1,0 +1,31 @@
+---
+references:
+- id: ID85019184374
+  type: article-journal
+  author:
+  - family: Müller
+    given: A.
+  - family: Dahm
+    given: M.
+  - family: Bøcher
+    given: P. K.
+  - family: Root-Bernstein
+    given: M.
+  - family: Svenning
+    given: J.-C.
+  editor:
+  - family: Boyce
+    given: Mark S.
+  issued:
+  - year: '2017'
+    month: '5'
+  title: Large herbivores in novel ecosystems - Habitat selection by red deer (Cervus
+    elaphus) in a former brown-coal mining area
+  container-title: PLOS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e0177431'
+  volume: '12'
+  issue: '5'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0177431
+  DOI: 10.1371/journal.pone.0177431
+...

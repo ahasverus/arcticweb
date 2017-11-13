@@ -1,0 +1,38 @@
+---
+references:
+- id: ID80052030471
+  type: article-journal
+  author:
+  - family: Gaston
+    given: A. J.
+  - family: Smith
+    given: P. A.
+  - family: Tranquilla
+    given: L. M.
+  - family: Montevecchi
+    given: W. A.
+  - family: Fifield
+    given: D. A.
+  - family: Gilchrist
+    given: H. G.
+  - family: Hedd
+    given: A.
+  - family: Mallory
+    given: M. L.
+  - family: Robertson
+    given: G. J.
+  - family: Phillips
+    given: R. A.
+  issued:
+  - year: '2011'
+    month: '5'
+  title: Movements and wintering areas of breeding age Thick-billed Murre Uria lomvia
+    from two colonies in Nunavut, Canada
+  container-title: Marine Biology
+  publisher: Springer Nature
+  page: '1929-1941'
+  volume: '158'
+  issue: '9'
+  URL: https://doi.org/10.1007%2Fs00227-011-1704-9
+  DOI: 10.1007/s00227-011-1704-9
+...

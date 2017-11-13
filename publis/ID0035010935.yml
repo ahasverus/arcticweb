@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0035010935
+  type: article-journal
+  author:
+  - family: Clinchy
+    given: M.
+  - family: Krebs
+    given: C. J.
+  - family: Jarman
+    given: P. J.
+  issued:
+  - year: '2001'
+    month: '5'
+  title: 'Dispersal sinks and handling effects: Interpreting the role of immigration
+    in common brushtail possum populations'
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '515-526'
+  volume: '70'
+  issue: '3'
+  URL: https://doi.org/10.1046%2Fj.1365-2656.2001.00510.x
+  DOI: 10.1046/j.1365-2656.2001.00510.x
+...

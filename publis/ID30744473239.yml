@@ -1,0 +1,22 @@
+---
+references:
+- id: ID30744473239
+  type: article-journal
+  author:
+  - family: Quintero
+    given: I.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2005'
+    month: '12'
+  title: Rapid recovery of dung beetle communities following habitat fragmentation
+    in central Amazonia
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '3303-3311'
+  volume: '86'
+  issue: '12'
+  URL: https://doi.org/10.1890%2F04-1960
+  DOI: 10.1890/04-1960
+...

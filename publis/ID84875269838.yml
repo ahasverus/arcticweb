@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84875269838
+  type: article-journal
+  author:
+  - family: Zeyl
+    given: J. N.
+  - family: Love
+    given: O. P.
+  - family: Higgs
+    given: D. M.
+  issued:
+  - year: '2012'
+    month: '11'
+  title: 'Condition-dependent auditory processing in the round goby (Neogobius melanostomus):
+    Links to sex, reproductive condition and female estrogen levels'
+  container-title: Journal of Experimental Biology
+  publisher: The Company of Biologists
+  page: '1075-1084'
+  volume: '216'
+  issue: '6'
+  URL: https://doi.org/10.1242%2Fjeb.076935
+  DOI: 10.1242/jeb.076935
+...

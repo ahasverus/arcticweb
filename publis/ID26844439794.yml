@@ -1,0 +1,32 @@
+---
+references:
+- id: ID26844439794
+  type: article-journal
+  author:
+  - family: Danielsen
+    given: F.
+  - family: Mendoza
+    given: M. M.
+  - family: Alviola
+    given: P.
+  - family: Balete
+    given: D. S.
+  - family: Enghoff
+    given: M.
+  - family: Poulsen
+    given: M. K.
+  - family: Jensen
+    given: A. E.
+  issued:
+  - year: '2003'
+    month: '10'
+  title: 'Biodiversity monitoring in developing countries: What are we trying to
+    achieve?'
+  container-title: Oryx
+  publisher: Cambridge University Press (CUP)
+  page: '407-412'
+  volume: '37'
+  issue: '04'
+  URL: https://doi.org/10.1017%2Fs0030605303000735
+  DOI: 10.1017/s0030605303000735
+...

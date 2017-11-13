@@ -1,0 +1,25 @@
+---
+references:
+- id: ID33749993992
+  type: article-journal
+  author:
+  - family: Knight
+    given: T. M.
+  - family: Chase
+    given: J. M.
+  - family: Hillebrand
+    given: H.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2006'
+    month: '11'
+  title: Predation on mutualists can reduce the strength of trophic cascades
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '1173-1178'
+  volume: '9'
+  issue: '11'
+  URL: https://doi.org/10.1111%2Fj.1461-0248.2006.00967.x
+  DOI: 10.1111/j.1461-0248.2006.00967.x
+...

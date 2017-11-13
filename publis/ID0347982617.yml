@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0347982617
+  type: article-journal
+  author:
+  - family: Yannic
+    given: G.
+  - family: Baumel
+    given: A.
+  - family: Ainouche
+    given: M.
+  issued:
+  - year: '2004'
+    month: '6'
+  title: Uniformity of the nuclear and chloroplast genomes of Spartina maritima (Poaceae),
+    a salt-marsh species in decline along the Western European Coast
+  container-title: Heredity
+  publisher: Springer Nature
+  page: '182-188'
+  volume: '93'
+  issue: '2'
+  URL: https://doi.org/10.1038%2Fsj.hdy.6800491
+  DOI: 10.1038/sj.hdy.6800491
+...

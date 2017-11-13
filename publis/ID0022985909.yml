@@ -1,0 +1,25 @@
+---
+references:
+- id: ID0022985909
+  type: article-journal
+  author:
+  - family: Fredga
+    given: K.
+  - family: Ims
+    given: R. A.
+  - family: Bondrup-Nielsen
+    given: S.
+  - family: Fredriksson
+    given: R.
+  issued:
+  - year: '2008'
+    month: '2'
+  title: Centric fission in Microtus oeconomus. A new locality in south east Norway.
+  container-title: Hereditas
+  publisher: Springer Nature
+  page: '169-170'
+  volume: '105'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1601-5223.1986.tb00657.x
+  DOI: 10.1111/j.1601-5223.1986.tb00657.x
+...

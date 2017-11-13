@@ -1,0 +1,25 @@
+---
+references:
+- id: ID74849140817
+  type: article-journal
+  author:
+  - family: Topping
+    given: C. J.
+  - family: Høye
+    given: T. T.
+  - family: Odderskær
+    given: P.
+  - family: Aebischer
+    given: N. J.
+  issued:
+  - year: '2010'
+    month: '3'
+  title: A pattern-oriented modelling approach to simulating populations of grey partridge
+  container-title: Ecological Modelling
+  publisher: Elsevier BV
+  page: '729-737'
+  volume: '221'
+  issue: '5'
+  URL: https://doi.org/10.1016%2Fj.ecolmodel.2009.11.004
+  DOI: 10.1016/j.ecolmodel.2009.11.004
+...

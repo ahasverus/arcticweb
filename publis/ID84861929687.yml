@@ -1,0 +1,34 @@
+---
+references:
+- id: ID84861929687
+  type: article-journal
+  author:
+  - family: Albert
+    given: K. R.
+  - family: Mikkelsen
+    given: T. N.
+  - family: Ro-Poulsen
+    given: H.
+  - family: Arndal
+    given: M. F.
+  - family: Boesgaard
+    given: K.
+  - family: Michelsen
+    given: A.
+  - family: Bruhn
+    given: D.
+  - family: Schmidt
+    given: N. M.
+  issued:
+  - year: '2012'
+    month: '3'
+  title: 'Solar UV-B effects on PSII performance in Betula nana are influenced by
+    PAR level and reduced by EDU: Results of a 3-year experiment in the High Arctic'
+  container-title: Physiologia Plantarum
+  publisher: Wiley-Blackwell
+  page: '485-500'
+  volume: '145'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1399-3054.2012.01596.x
+  DOI: 10.1111/j.1399-3054.2012.01596.x
+...

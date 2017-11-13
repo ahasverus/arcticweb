@@ -1,0 +1,69 @@
+---
+references:
+- id: ID84864289492
+  type: article-journal
+  author:
+  - family: Yoccoz
+    given: N. G.
+  - family: Bråthen
+    given: K. A.
+  - family: Gielly
+    given: L.
+  - family: Haile
+    given: J.
+  - family: Edwards
+    given: M. E.
+  - family: Goslar
+    given: T.
+  - family: Stedingk
+    given: H.
+    dropping-particle: von
+  - family: Brysting
+    given: A. K.
+  - family: Coissac
+    given: E.
+  - family: Pompanon
+    given: F.
+  - family: Sønstebø
+    given: J. H.
+  - family: Miquel
+    given: C.
+  - family: Valentini
+    given: A.
+  - family: Bello
+    given: F.
+    dropping-particle: de
+  - family: Chave
+    given: J.
+  - family: Thuiller
+    given: W.
+  - family: Wincker
+    given: P.
+  - family: Cruaud
+    given: C.
+  - family: Gavory
+    given: F.
+  - family: Rasmussen
+    given: M.
+  - family: Gilbert
+    given: M. T. P.
+  - family: Orlando
+    given: L.
+  - family: Brochmann
+    given: C.
+  - family: Willerslev
+    given: E.
+  - family: Taberlet
+    given: P.
+  issued:
+  - year: '2012'
+    month: '4'
+  title: DNA from soil mirrors plant taxonomic and growth form diversity
+  container-title: Molecular Ecology
+  publisher: Wiley-Blackwell
+  page: '3647-3655'
+  volume: '21'
+  issue: '15'
+  URL: https://doi.org/10.1111%2Fj.1365-294x.2012.05545.x
+  DOI: 10.1111/j.1365-294x.2012.05545.x
+...

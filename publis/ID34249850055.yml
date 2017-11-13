@@ -1,0 +1,35 @@
+---
+references:
+- id: ID34249850055
+  type: article-journal
+  author:
+  - family: Dalen
+    given: L.
+  - family: Nystrom
+    given: V.
+  - family: Valdiosera
+    given: C.
+  - family: Germonpre
+    given: M.
+  - family: Sablin
+    given: M.
+  - family: Turner
+    given: E.
+  - family: Angerbjorn
+    given: A.
+  - family: Arsuaga
+    given: J. L.
+  - family: Gotherstrom
+    given: A.
+  issued:
+  - year: '2007'
+    month: '4'
+  title: Ancient DNA reveals lack of postglacial habitat tracking in the arctic fox
+  container-title: Proceedings of the National Academy of Sciences
+  publisher: Proceedings of the National Academy of Sciences
+  page: '6726-6729'
+  volume: '104'
+  issue: '16'
+  URL: https://doi.org/10.1073%2Fpnas.0701341104
+  DOI: 10.1073/pnas.0701341104
+...

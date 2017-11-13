@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84886309001
+  type: article-journal
+  author:
+  - family: Gaston
+    given: A. J.
+  - family: Elliott
+    given: K. H.
+  - family: Ropert-Coudert
+    given: Y.
+  - family: Kato
+    given: A.
+  - family: Macdonald
+    given: C. A.
+  - family: Mallory
+    given: M. L.
+  - family: Gilchrist
+    given: H. G.
+  issued:
+  - year: '2013'
+    month: '12'
+  title: Modeling foraging range for breeding colonies of thick-billed murres Uria
+    lomvia in the Eastern Canadian Arctic and potential overlap with industrial development
+  container-title: Biological Conservation
+  publisher: Elsevier BV
+  page: '134-143'
+  volume: '168'
+  URL: https://doi.org/10.1016%2Fj.biocon.2013.09.018
+  DOI: 10.1016/j.biocon.2013.09.018
+...

@@ -1,0 +1,48 @@
+---
+references:
+- id: ID80052994469
+  type: article-journal
+  author:
+  - family: Tremblay
+    given: J.-É.
+  - family: Bélanger
+    given: S.
+  - family: Barber
+    given: D. G.
+  - family: Asplin
+    given: M.
+  - family: Martin
+    given: J.
+  - family: Darnis
+    given: G.
+  - family: Fortier
+    given: L.
+  - family: Gratton
+    given: Y.
+  - family: Link
+    given: H.
+  - family: Archambault
+    given: P.
+  - family: Sallon
+    given: A.
+  - family: Michel
+    given: C.
+  - family: Williams
+    given: W. J.
+  - family: Philippe
+    given: B.
+  - family: Gosselin
+    given: M.
+  issued:
+  - year: '2011'
+    month: '9'
+  title: Climate forcing multiplies biological productivity in the coastal Arctic
+    Ocean
+  container-title: Geophysical Research Letters
+  publisher: Wiley-Blackwell
+  page: n/a-n/a
+  volume: '38'
+  issue: '18'
+  URL: https://doi.org/10.1029%2F2011gl048825
+  DOI: 10.1029/2011gl048825
+...

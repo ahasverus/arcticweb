@@ -1,0 +1,35 @@
+---
+references:
+- id: ID85006255910
+  type: article-journal
+  author:
+  - family: Amano
+    given: T.
+  - family: Sandel
+    given: B.
+  - family: Eager
+    given: H.
+  - family: Bulteau
+    given: E.
+  - family: Svenning
+    given: J.-C.
+  - family: Dalsgaard
+    given: B.
+  - family: Rahbek
+    given: C.
+  - family: Davies
+    given: R. G.
+  - family: Sutherland
+    given: W. J.
+  issued:
+  - year: '2014'
+    month: '9'
+  title: Global distribution and drivers of language extinction risk
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '20141574-20141574'
+  volume: '281'
+  issue: '1793'
+  URL: https://doi.org/10.1098%2Frspb.2014.1574
+  DOI: 10.1098/rspb.2014.1574
+...

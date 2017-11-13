@@ -1,0 +1,22 @@
+---
+references:
+- id: ID4344585537
+  type: article-journal
+  author:
+  - family: Gilchrist
+    given: H. G.
+  - family: Mallory
+    given: M. L.
+  issued:
+  - year: '2005'
+    month: '1'
+  title: Declines in abundance and distribution of the ivory gull (Pagophila eburnea)
+    in Arctic Canada
+  container-title: Biological Conservation
+  publisher: Elsevier BV
+  page: '303-309'
+  volume: '121'
+  issue: '2'
+  URL: https://doi.org/10.1016%2Fj.biocon.2004.04.021
+  DOI: 10.1016/j.biocon.2004.04.021
+...

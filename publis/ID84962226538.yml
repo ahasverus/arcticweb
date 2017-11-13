@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84962226538
+  type: article-journal
+  author:
+  - family: Larue
+    given: M. A.
+  - family: Stapleton
+    given: S.
+  - family: Porter
+    given: C.
+  - family: Atkinson
+    given: S.
+  - family: Atwood
+    given: T.
+  - family: Dyck
+    given: M.
+  - family: Lecomte
+    given: N.
+  issued:
+  - year: '2015'
+    month: '9'
+  title: Testing methods for using high-resolution satellite imagery to monitor polar
+    bear abundance and distribution
+  container-title: Wildlife Society Bulletin
+  publisher: Wiley-Blackwell
+  page: '772-779'
+  volume: '39'
+  issue: '4'
+  URL: https://doi.org/10.1002%2Fwsb.596
+  DOI: 10.1002/wsb.596
+...

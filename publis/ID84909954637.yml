@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84909954637
+  type: article-journal
+  author:
+  - family: Oudenhove
+    given: L.
+    dropping-particle: van
+  - family: Gauthier
+    given: G.
+  - family: Lebreton
+    given: J.-D.
+  editor:
+  - family: Bearhop
+    given: Stuart
+  issued:
+  - year: '2014'
+    month: '6'
+  title: Year-round effects of climate on demographic parameters of an arctic-nesting
+    goose species
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '1322-1333'
+  volume: '83'
+  issue: '6'
+  URL: https://doi.org/10.1111%2F1365-2656.12230
+  DOI: 10.1111/1365-2656.12230
+...

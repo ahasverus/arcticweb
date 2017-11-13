@@ -1,0 +1,22 @@
+---
+references:
+- id: ID84912570150
+  type: article-journal
+  author:
+  - family: Nobis
+    given: M. P.
+  - family: Normand
+    given: S.
+  issued:
+  - year: '2014'
+    month: '9'
+  title: KISSMig - a simple model for R to account for limited migration in analyses
+    of species distributions
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '1282-1287'
+  volume: '37'
+  issue: '12'
+  URL: https://doi.org/10.1111%2Fecog.00930
+  DOI: 10.1111/ecog.00930
+...

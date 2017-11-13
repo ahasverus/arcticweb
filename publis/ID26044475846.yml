@@ -1,0 +1,26 @@
+---
+references:
+- id: ID26044475846
+  type: article-journal
+  author:
+  - family: Mjaaseth
+    given: R. R.
+  - family: Hagen
+    given: S. B.
+  - family: Yoccoz
+    given: N. G.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2005'
+    month: '7'
+  title: Phenology and abundance in relation to climatic variation in a sub-arctic
+    insect herbivore-mountain birch system
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '53-65'
+  volume: '145'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs00442-005-0089-1
+  DOI: 10.1007/s00442-005-0089-1
+...

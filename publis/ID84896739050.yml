@@ -1,0 +1,37 @@
+---
+references:
+- id: ID84896739050
+  type: article-journal
+  author:
+  - family: Thaxter
+    given: C. B.
+  - family: Daunt
+    given: F.
+  - family: Grémillet
+    given: D.
+  - family: Harris
+    given: M. P.
+  - family: Benvenuti
+    given: S.
+  - family: Watanuki
+    given: Y.
+  - family: Hamer
+    given: K. C.
+  - family: Wanless
+    given: S.
+  editor:
+  - family: Hewitt
+    given: Judi
+  issued:
+  - year: '2013'
+    month: '11'
+  title: Modelling the effects of prey size and distribution on prey capture rates
+    of two sympatric marine predators
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e79915'
+  volume: '8'
+  issue: '11'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0079915
+  DOI: 10.1371/journal.pone.0079915
+...

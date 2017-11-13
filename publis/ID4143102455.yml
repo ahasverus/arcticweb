@@ -1,0 +1,23 @@
+---
+references:
+- id: ID4143102455
+  type: article-journal
+  author:
+  - family: Holt
+    given: R. D.
+  - family: Barfield
+    given: M.
+  - family: Gomulkiewicz
+    given: R.
+  issued:
+  - year: '2004'
+    month: '8'
+  title: Temporal variation can facilitate niche evolution in harsh sink environments
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '187-200'
+  volume: '164'
+  issue: '2'
+  URL: https://doi.org/10.1086%2F422343
+  DOI: 10.1086/422343
+...

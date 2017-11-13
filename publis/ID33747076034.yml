@@ -1,0 +1,38 @@
+---
+references:
+- id: ID33747076034
+  type: article-journal
+  author:
+  - family: Dalén
+    given: L.
+  - family: Kvaløy
+    given: K.
+  - family: Linnell
+    given: J. D. C.
+  - family: Elmhagen
+    given: B.
+  - family: Strand
+    given: O.
+  - family: Tannerfeldt
+    given: M.
+  - family: Henttonen
+    given: H.
+  - family: Fuglei
+    given: E.
+  - family: Landa
+    given: A.
+  - family: Angerbjörn
+    given: A.
+  issued:
+  - year: '2006'
+    month: '6'
+  title: 'Population structure in a critically endangered arctic fox population:
+    Does genetics matter?'
+  container-title: Molecular Ecology
+  publisher: Wiley-Blackwell
+  page: '2809-2819'
+  volume: '15'
+  issue: '10'
+  URL: https://doi.org/10.1111%2Fj.1365-294x.2006.02983.x
+  DOI: 10.1111/j.1365-294x.2006.02983.x
+...

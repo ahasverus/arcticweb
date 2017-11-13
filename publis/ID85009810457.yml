@@ -1,0 +1,28 @@
+---
+references:
+- id: ID85009810457
+  type: article-journal
+  author:
+  - family: Mosbacher
+    given: J. B.
+  - family: Kristensen
+    given: D. K.
+  - family: Michelsen
+    given: A.
+  - family: Stelvig
+    given: M.
+  - family: Schmidt
+    given: N. M.
+  issued:
+  - year: '2016'
+    month: '5'
+  title: Quantifying Muskox Plant Biomass Removal and Spatial Relocation of Nitrogen
+    in a High Arctic Tundra Ecosystem
+  container-title: Arctic, Antarctic, and Alpine Research
+  publisher: Institute of Arctic; Alpine Research (INSTAAR)
+  page: '229-240'
+  volume: '48'
+  issue: '2'
+  URL: https://doi.org/10.1657%2Faaar0015-034
+  DOI: 10.1657/aaar0015-034
+...

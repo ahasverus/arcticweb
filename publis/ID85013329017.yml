@@ -1,0 +1,30 @@
+---
+references:
+- id: ID85013329017
+  type: article-journal
+  author:
+  - family: Lefebvre
+    given: J.
+  - family: Gauthier
+    given: G.
+  - family: Giroux
+    given: J.-F.
+  - family: Reed
+    given: A.
+  - family: Reed
+    given: E. T.
+  - family: Bélanger
+    given: L.
+  issued:
+  - year: '2017'
+    month: '2'
+  title: 'The greater snow goose Anser caerulescens atlanticus: Managing an overabundant
+    population'
+  container-title: Ambio
+  publisher: Springer Nature
+  page: '262-274'
+  volume: '46'
+  issue: S2
+  URL: https://doi.org/10.1007%2Fs13280-016-0887-1
+  DOI: 10.1007/s13280-016-0887-1
+...

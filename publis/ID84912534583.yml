@@ -1,0 +1,38 @@
+---
+references:
+- id: ID84912534583
+  type: article-journal
+  author:
+  - family: Merow
+    given: C.
+  - family: Smith
+    given: M. J.
+  - family: Edwards
+    given: T. C.
+  - family: Guisan
+    given: A.
+  - family: McMahon
+    given: S. M.
+  - family: Normand
+    given: S.
+  - family: Thuiller
+    given: W.
+  - family: Wüest
+    given: R. O.
+  - family: Zimmermann
+    given: N. E.
+  - family: Elith
+    given: J.
+  issued:
+  - year: '2014'
+    month: '9'
+  title: What do we gain from simplicity versus complexity in species distribution
+    models?
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '1267-1281'
+  volume: '37'
+  issue: '12'
+  URL: https://doi.org/10.1111%2Fecog.00845
+  DOI: 10.1111/ecog.00845
+...

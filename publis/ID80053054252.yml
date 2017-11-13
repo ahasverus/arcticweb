@@ -1,0 +1,25 @@
+---
+references:
+- id: ID80053054252
+  type: chapter
+  author:
+  - family: Mallory
+    given: M. L.
+  - family: Gaston
+    given: A. J.
+  - family: Gilchrist
+    given: H. G.
+  - family: Robertson
+    given: G. J.
+  - family: Braune
+    given: B. M.
+  issued:
+  - year: '2010'
+  title: Effects of climate change, altered sea-ice distribution and seasonal phenology
+    on marine birds
+  container-title: A Little Less Arctic
+  publisher: Springer Netherlands
+  page: '179-195'
+  URL: https://doi.org/10.1007%2F978-90-481-9121-5_9
+  DOI: 10.1007/978-90-481-9121-5_9
+...

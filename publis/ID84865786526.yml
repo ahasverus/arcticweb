@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84865786526
+  type: article-journal
+  author:
+  - family: Beaune
+    given: D.
+  - family: Bollache
+    given: L.
+  - family: Bretagnolle
+    given: F.
+  - family: Fruth
+    given: B.
+  issued:
+  - year: '2012'
+    month: '8'
+  title: Dung beetles are critical in preventing post-dispersal seed removal by rodents
+    in Congo rain forest
+  container-title: Journal of Tropical Ecology
+  publisher: Cambridge University Press (CUP)
+  page: '507-510'
+  volume: '28'
+  issue: '05'
+  URL: https://doi.org/10.1017%2Fs0266467412000466
+  DOI: 10.1017/s0266467412000466
+...

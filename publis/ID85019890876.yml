@@ -1,0 +1,28 @@
+---
+references:
+- id: ID85019890876
+  type: article-journal
+  author:
+  - family: Lamarre
+    given: J.-F.
+  - family: Legagneux
+    given: P.
+  - family: Gauthier
+    given: G.
+  - family: Reed
+    given: E. T.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2017'
+    month: '5'
+  title: Predator-mediated negative effects of overabundant snow geese on arctic-nesting
+    shorebirds
+  container-title: Ecosphere
+  publisher: Wiley-Blackwell
+  page: 'e01788'
+  volume: '8'
+  issue: '5'
+  URL: https://doi.org/10.1002%2Fecs2.1788
+  DOI: 10.1002/ecs2.1788
+...

@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84973369549
+  type: article-journal
+  author:
+  - family: Fournier
+    given: B.
+  - family: Mouquet
+    given: N.
+  - family: Leibold
+    given: M. A.
+  - family: Gravel
+    given: D.
+  issued:
+  - year: '2016'
+    month: '6'
+  title: An integrative framework of coexistence mechanisms in competitive metacommunities
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '630-641'
+  volume: '40'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fecog.02137
+  DOI: 10.1111/ecog.02137
+...

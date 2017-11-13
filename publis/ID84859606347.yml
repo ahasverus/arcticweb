@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84859606347
+  type: article-journal
+  author:
+  - family: Giroux
+    given: M.-A.
+  - family: Berteaux
+    given: D.
+  - family: Lecomte
+    given: N.
+  - family: Gauthier
+    given: G.
+  - family: Szor
+    given: G.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2012'
+    month: '1'
+  title: 'Benefiting from a migratory prey: Spatio-temporal patterns in allochthonous
+    subsidization of an arctic predator'
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '533-542'
+  volume: '81'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2011.01944.x
+  DOI: 10.1111/j.1365-2656.2011.01944.x
+...

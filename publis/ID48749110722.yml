@@ -1,0 +1,28 @@
+---
+references:
+- id: ID48749110722
+  type: article-journal
+  author:
+  - family: Meijer
+    given: T.
+  - family: Norén
+    given: K.
+  - family: Hellström
+    given: P.
+  - family: Dalén
+    given: L.
+  - family: Angerbjörn
+    given: A.
+  issued:
+  - year: '2008'
+    month: '8'
+  title: Estimating population parameters in a threatened arctic fox population using
+    molecular tracking and traditional field methods
+  container-title: Animal Conservation
+  publisher: Wiley-Blackwell
+  page: '330-338'
+  volume: '11'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1469-1795.2008.00188.x
+  DOI: 10.1111/j.1469-1795.2008.00188.x
+...

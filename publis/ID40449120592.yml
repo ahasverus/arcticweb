@@ -1,0 +1,25 @@
+---
+references:
+- id: ID40449120592
+  type: article-journal
+  author:
+  - family: Bollache
+    given: L.
+  - family: Dick
+    given: J. T. A.
+  - family: Farnsworth
+    given: K. D.
+  - family: Montgomery
+    given: W. I.
+  issued:
+  - year: '2008'
+    month: '4'
+  title: Comparison of the functional responses of invasive and native amphipods
+  container-title: Biology Letters
+  publisher: The Royal Society
+  page: '166-169'
+  volume: '4'
+  issue: '2'
+  URL: https://doi.org/10.1098%2Frsbl.2007.0554
+  DOI: 10.1098/rsbl.2007.0554
+...

@@ -1,0 +1,27 @@
+---
+references:
+- id: ID38649127256
+  type: article-journal
+  author:
+  - family: Freitas
+    given: C.
+  - family: Kovacs
+    given: K. M.
+  - family: Ims
+    given: R. A.
+  - family: Fedak
+    given: M. A.
+  - family: Lydersen
+    given: C.
+  issued:
+  - year: '2007'
+    month: '11'
+  title: Ringed seal post-moulting movement tactics and habitat selection
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '193-204'
+  volume: '155'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs00442-007-0894-9
+  DOI: 10.1007/s00442-007-0894-9
+...

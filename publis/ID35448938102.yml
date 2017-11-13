@@ -1,0 +1,26 @@
+---
+references:
+- id: ID35448938102
+  type: article-journal
+  author:
+  - family: Levinsky
+    given: I.
+  - family: Skov
+    given: F.
+  - family: Svenning
+    given: J.-C.
+  - family: Rahbek
+    given: C.
+  issued:
+  - year: '2007'
+    month: '6'
+  title: Potential impacts of climate change on the distributions and diversity patterns
+    of European mammals
+  container-title: Biodiversity and Conservation
+  publisher: Springer Nature
+  page: '3803-3816'
+  volume: '16'
+  issue: '13'
+  URL: https://doi.org/10.1007%2Fs10531-007-9181-7
+  DOI: 10.1007/s10531-007-9181-7
+...

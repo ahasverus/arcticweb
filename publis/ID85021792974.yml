@@ -1,0 +1,27 @@
+---
+references:
+- id: ID85021792974
+  type: article-journal
+  author:
+  - family: Pedersen
+    given: R. S.
+  - family: Faurby
+    given: S.
+  - family: Svenning
+    given: J.-C.
+  editor:
+  - family: Meiri
+    given: Shai
+  issued:
+  - year: '2017'
+    month: '7'
+  title: Shallow size–density relations within mammal clades suggest greater intra-guild
+    ecological impact of large-bodied species
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '1205-1213'
+  volume: '86'
+  issue: '5'
+  URL: https://doi.org/10.1111%2F1365-2656.12701
+  DOI: 10.1111/1365-2656.12701
+...

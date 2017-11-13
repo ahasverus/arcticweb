@@ -1,0 +1,23 @@
+---
+references:
+- id: ID1342311926
+  type: article-journal
+  author:
+  - family: Stenhouse
+    given: I. J.
+  - family: Gilchrist
+    given: H. G.
+  - family: Montevecchi
+    given: W. A.
+  issued:
+  - year: '2004'
+    month: '1'
+  title: Reproductive investment and parental roles in Sabine’s gulls Xema sabini
+  container-title: Journal of Ethology
+  publisher: Springer Nature
+  page: '85-89'
+  volume: '22'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs10164-003-0106-y
+  DOI: 10.1007/s10164-003-0106-y
+...

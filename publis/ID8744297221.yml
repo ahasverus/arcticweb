@@ -1,0 +1,26 @@
+---
+references:
+- id: ID8744297221
+  type: article-journal
+  author:
+  - family: Fauchald
+    given: P.
+  - family: Tveraa
+    given: T.
+  - family: Henaug
+    given: C.
+  - family: Yoccoz
+    given: N.
+  issued:
+  - year: '2004'
+    month: '12'
+  title: 'Adaptive regulation of body reserves in reindeer, Rangifer tarandus: A
+    feeding experiment'
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '583-591'
+  volume: '107'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.0030-1299.2004.12945.x
+  DOI: 10.1111/j.0030-1299.2004.12945.x
+...

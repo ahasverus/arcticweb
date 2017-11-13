@@ -1,0 +1,36 @@
+---
+references:
+- id: ID77956005045
+  type: article-journal
+  author:
+  - family: Descamps
+    given: S.
+  - family: Yoccoz
+    given: N. G.
+  - family: Gaillard
+    given: J.-M.
+  - family: Gilchrist
+    given: H. G.
+  - family: Erikstad
+    given: K. E.
+  - family: Hanssen
+    given: S. A.
+  - family: Cazelles
+    given: B.
+  - family: Forbes
+    given: M. R.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2010'
+    month: '8'
+  title: 'Detecting population heterogeneity in effects of North Atlantic Oscillations
+    on seabird body condition: Get into the rhythm'
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '1526-1536'
+  volume: '119'
+  issue: '9'
+  URL: https://doi.org/10.1111%2Fj.1600-0706.2010.18508.x
+  DOI: 10.1111/j.1600-0706.2010.18508.x
+...

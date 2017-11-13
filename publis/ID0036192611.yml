@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0036192611
+  type: article-journal
+  author:
+  - family: Menu
+    given: S.
+  - family: Gauthier
+    given: G.
+  - family: Reed
+    given: A.
+  issued:
+  - year: '2002'
+    month: '2'
+  title: 'Changes in survival rates and population dynamics of greater snow geese
+    over a 30-year period: Implications for hunting regulations'
+  container-title: Journal of Applied Ecology
+  publisher: Wiley-Blackwell
+  page: '91-102'
+  volume: '39'
+  issue: '1'
+  URL: https://doi.org/10.1046%2Fj.1365-2664.2002.00692.x
+  DOI: 10.1046/j.1365-2664.2002.00692.x
+...

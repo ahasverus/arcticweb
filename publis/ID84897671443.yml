@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84897671443
+  type: article-journal
+  author:
+  - family: Anctil
+    given: A.
+  - family: Franke
+    given: A.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2013'
+    month: '10'
+  title: 'Heavy rainfall increases nestling mortality of an arctic top predator:
+    Experimental evidence and long-term trend in peregrine falcons'
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '1033-1043'
+  volume: '174'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs00442-013-2800-y
+  DOI: 10.1007/s00442-013-2800-y
+...

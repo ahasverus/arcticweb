@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84874316612
+  type: article-journal
+  author:
+  - family: Holdo
+    given: R. M.
+  - family: Holt
+    given: R. D.
+  - family: Fryxell
+    given: J. M.
+  issued:
+  - year: '2012'
+    month: '9'
+  title: 'Herbivore-vegetation feedbacks can expand the range of savanna persistence:
+    Insights from a simple theoretical model'
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '441-453'
+  volume: '122'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1600-0706.2012.20735.x
+  DOI: 10.1111/j.1600-0706.2012.20735.x
+...

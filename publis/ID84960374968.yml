@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84960374968
+  type: article-journal
+  author:
+  - family: Villette
+    given: P.
+  - family: Krebs
+    given: C. J.
+  - family: Jung
+    given: T. S.
+  - family: Boonstra
+    given: R.
+  issued:
+  - year: '2015'
+    month: '9'
+  title: Can camera trapping provide accurate estimates of small mammal (Myodes rutilus
+    and Peromyscus maniculatus) density in the boreal forest?
+  container-title: Journal of Mammalogy
+  publisher: Oxford University Press (OUP)
+  page: '32-40'
+  volume: '97'
+  issue: '1'
+  URL: https://doi.org/10.1093%2Fjmammal%2Fgyv150
+  DOI: 10.1093/jmammal/gyv150
+...

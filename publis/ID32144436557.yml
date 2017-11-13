@@ -1,0 +1,29 @@
+---
+references:
+- id: ID32144436557
+  type: article-journal
+  author:
+  - family: Cohas
+    given: A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Silva
+    given: A.
+    dropping-particle: da
+  - family: Goossens
+    given: B.
+  - family: Allainé
+    given: D.
+  issued:
+  - year: '2005'
+    month: '12'
+  title: 'Extra-pair paternity in the monogamous alpine marmot (Marmota marmota):
+    The roles of social setting and female mate choice'
+  container-title: Behavioral Ecology and Sociobiology
+  publisher: Springer Nature
+  page: '597-605'
+  volume: '59'
+  issue: '5'
+  URL: https://doi.org/10.1007%2Fs00265-005-0086-8
+  DOI: 10.1007/s00265-005-0086-8
+...

@@ -1,0 +1,24 @@
+---
+references:
+- id: ID63849202961
+  type: article-journal
+  author:
+  - family: Henden
+    given: J.-A.
+  - family: Ims
+    given: R. A.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2009'
+    month: '5'
+  title: 'Nonstationary spatio-temporal small rodent dynamics: Evidence from long-term
+    Norwegian fox bounty data'
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '636-645'
+  volume: '78'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2008.01510.x
+  DOI: 10.1111/j.1365-2656.2008.01510.x
+...

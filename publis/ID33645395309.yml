@@ -1,0 +1,24 @@
+---
+references:
+- id: ID33645395309
+  type: article-journal
+  author:
+  - family: Lambin
+    given: X.
+  - family: Bretagnolle
+    given: V.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2006'
+    month: '3'
+  title: 'Vole population cycles in northern and southern Europe: Is there a need
+    for different explanations for single pattern?'
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '340-349'
+  volume: '75'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2006.01051.x
+  DOI: 10.1111/j.1365-2656.2006.01051.x
+...

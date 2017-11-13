@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84860425590
+  type: article-journal
+  author:
+  - family: Gratto-Trevor
+    given: C.
+  - family: Smith
+    given: P. A.
+  - family: Morrison
+    given: R. I. G.
+  - family: Aubry
+    given: Y.
+  - family: Cotter
+    given: R.
+  issued:
+  - year: '2012'
+    month: '3'
+  title: Population trends in Semipalmated Sandpipers from migration counts
+  container-title: Waterbirds
+  publisher: Waterbird Society
+  page: '96-105'
+  volume: '35'
+  issue: '1'
+  URL: https://doi.org/10.1675%2F063.035.0110
+  DOI: 10.1675/063.035.0110
+...

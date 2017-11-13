@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84901406138
+  type: article-journal
+  author:
+  - family: Pasher
+    given: J.
+  - family: Smith
+    given: P. A.
+  - family: Forbes
+    given: M. R.
+  - family: Duffe
+    given: J.
+  issued:
+  - year: '2014'
+    month: '6'
+  title: Terrestrial ecosystem monitoring in Canada and the greater role for integrated
+    earth observation
+  container-title: Environmental Reviews
+  publisher: Canadian Science Publishing
+  page: '179-187'
+  volume: '22'
+  issue: '2'
+  URL: https://doi.org/10.1139%2Fer-2013-0017
+  DOI: 10.1139/er-2013-0017
+...

@@ -1,0 +1,28 @@
+---
+references:
+- id: ID77649272357
+  type: article-journal
+  author:
+  - family: Randin
+    given: C. F.
+  - family: Jaccard
+    given: H.
+  - family: Vittoz
+    given: P.
+  - family: Yoccoz
+    given: N. G.
+  - family: Guisan
+    given: A.
+  issued:
+  - year: '2009'
+    month: '12'
+  title: Land use improves spatial predictions of mountain plant abundance but not
+    presence-absence
+  container-title: Journal of Vegetation Science
+  publisher: Wiley-Blackwell
+  page: '996-1008'
+  volume: '20'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1654-1103.2009.01098.x
+  DOI: 10.1111/j.1654-1103.2009.01098.x
+...

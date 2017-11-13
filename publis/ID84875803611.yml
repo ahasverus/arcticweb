@@ -1,0 +1,35 @@
+---
+references:
+- id: ID84875803611
+  type: article-journal
+  author:
+  - family: Loreau
+    given: M.
+  - family: Daufresne
+    given: T.
+  - family: Gonzalez
+    given: A.
+  - family: Gravel
+    given: D.
+  - family: Guichard
+    given: F.
+  - family: Leroux
+    given: S. J.
+  - family: Loeuille
+    given: N.
+  - family: Massol
+    given: F.
+  - family: Mouquet
+    given: N.
+  issued:
+  - year: '2012'
+    month: '11'
+  title: Unifying sources and sinks in ecology and Earth sciences
+  container-title: Biological Reviews
+  publisher: Wiley-Blackwell
+  page: '365-379'
+  volume: '88'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fbrv.12003
+  DOI: 10.1111/brv.12003
+...

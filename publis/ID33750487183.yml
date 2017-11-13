@@ -1,0 +1,25 @@
+---
+references:
+- id: ID33750487183
+  type: article-journal
+  author:
+  - family: Mainguy
+    given: J.
+  - family: Gauthier
+    given: G.
+  - family: Giroux
+    given: J.-F.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2006'
+  title: Gosling growth and survival in relation to brood movements in Greater Snow
+    Geese (Chen caerulescens atlantica)
+  container-title: The Auk
+  publisher: American Ornithologists Union
+  page: '1077'
+  volume: '123'
+  issue: '4'
+  URL: https://doi.org/10.1642%2F0004-8038%282006%29123%5B1077%3Aggasir%5D2.0.co%3B2
+  DOI: 10.1642/0004-8038(2006)123[1077:ggasir]2.0.co;2
+...

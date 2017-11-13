@@ -1,0 +1,44 @@
+---
+references:
+- id: ID84927798833
+  type: article-journal
+  author:
+  - family: Sergio
+    given: F.
+  - family: Schmitz
+    given: O. J.
+  - family: Krebs
+    given: C. J.
+  - family: Holt
+    given: R. D.
+  - family: Heithaus
+    given: M. R.
+  - family: Wirsing
+    given: A. J.
+  - family: Ripple
+    given: W. J.
+  - family: Ritchie
+    given: E.
+  - family: Ainley
+    given: D.
+  - family: Oro
+    given: D.
+  - family: Jhala
+    given: Y.
+  - family: Hiraldo
+    given: F.
+  - family: Korpimäki
+    given: E.
+  issued:
+  - year: '2014'
+    month: '8'
+  title: 'Towards a cohesive, holistic view of top predation: A definition, synthesis
+    and perspective'
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '1234-1243'
+  volume: '123'
+  issue: '10'
+  URL: https://doi.org/10.1111%2Foik.01468
+  DOI: 10.1111/oik.01468
+...

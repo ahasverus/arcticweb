@@ -1,0 +1,23 @@
+---
+references:
+- id: ID53849088532
+  type: article-journal
+  author:
+  - family: Collin
+    given: A.
+  - family: Archambault
+    given: P.
+  - family: Long
+    given: B.
+  issued:
+  - year: '2008'
+    month: '10'
+  title: Mapping the shallow water seabed habitat with the SHOALS
+  container-title: IEEE Transactions on Geoscience and Remote Sensing
+  publisher: Institute of Electrical; Electronics Engineers (IEEE)
+  page: '2947-2955'
+  volume: '46'
+  issue: '10'
+  URL: https://doi.org/10.1109%2Ftgrs.2008.920020
+  DOI: 10.1109/tgrs.2008.920020
+...

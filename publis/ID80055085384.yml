@@ -1,0 +1,37 @@
+---
+references:
+- id: ID80055085384
+  type: article-journal
+  author:
+  - family: Karnovsky
+    given: N.
+  - family: Brown
+    given: Z.
+  - family: Welcker
+    given: J.
+  - family: Harding
+    given: A.
+  - family: Walkusz
+    given: W.
+  - family: Cavalcanti
+    given: A.
+  - family: Hardin
+    given: J.
+  - family: Kitaysky
+    given: A.
+  - family: Gabrielsen
+    given: G.
+  - family: Grémillet
+    given: D.
+  issued:
+  - year: '2011'
+    month: '10'
+  title: 'Inter-colony comparison of diving behavior of an arctic top predator:
+    Implications for warming in the greenland sea'
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '229-240'
+  volume: '440'
+  URL: https://doi.org/10.3354%2Fmeps09351
+  DOI: 10.3354/meps09351
+...

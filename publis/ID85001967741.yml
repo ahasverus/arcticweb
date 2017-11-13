@@ -1,0 +1,25 @@
+---
+references:
+- id: ID85001967741
+  type: article-journal
+  author:
+  - family: Marmen
+    given: M. B.
+  - family: Kenchington
+    given: E.
+  - family: Ardyna
+    given: M.
+  - family: Archambault
+    given: P.
+  issued:
+  - year: '2017'
+    month: '3'
+  title: Influence of seabird colonies and other environmental variables on benthic
+    community structure, Lancaster Sound Region, Canadian Arctic
+  container-title: Journal of Marine Systems
+  publisher: Elsevier BV
+  page: '105-117'
+  volume: '167'
+  URL: https://doi.org/10.1016%2Fj.jmarsys.2016.11.021
+  DOI: 10.1016/j.jmarsys.2016.11.021
+...

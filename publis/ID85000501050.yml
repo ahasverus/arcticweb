@@ -1,0 +1,84 @@
+---
+references:
+- id: ID85000501050
+  type: article-journal
+  author:
+  - family: Gilles
+    given: D.
+  - family: Zaiss
+    given: R.
+  - family: Blach-Overgaard
+    given: A.
+  - family: Catarino
+    given: L.
+  - family: Damen
+    given: T.
+  - family: Deblauwe
+    given: V.
+  - family: Dessein
+    given: S.
+  - family: Dransfield
+    given: J.
+  - family: Droissart
+    given: V.
+  - family: Duarte
+    given: M. C.
+  - family: Engledow
+    given: H.
+  - family: Fadeur
+    given: G.
+  - family: Figueira
+    given: R.
+  - family: Gereau
+    given: R. E.
+  - family: Hardy
+    given: O. J.
+  - family: Harris
+    given: D. J.
+  - family: Heij
+    given: J.
+    dropping-particle: de
+  - family: Janssens
+    given: S.
+  - family: Klomberg
+    given: Y.
+  - family: Ley
+    given: A. C.
+  - family: Mackinder
+    given: B. A.
+  - family: Meerts
+    given: P.
+  - family: Poel
+    given: J. L.
+    dropping-particle: van de
+  - family: Sonké
+    given: B.
+  - family: Sosef
+    given: M. S. M.
+  - family: Stévart
+    given: T.
+  - family: Stoffelen
+    given: P.
+  - family: Svenning
+    given: J.-C.
+  - family: Sepulchre
+    given: P.
+  - family: Burgt
+    given: X.
+    dropping-particle: van der
+  - family: Wieringa
+    given: J. J.
+  - family: Couvreur
+    given: T. L. P.
+  issued:
+  - year: '2016'
+    month: '11'
+  title: 'RAINBIO: A mega-database of tropical African vascular plants distributions'
+  container-title: PhytoKeys
+  publisher: Pensoft Publishers
+  page: '1-18'
+  volume: '74'
+  issue: '1'
+  URL: https://doi.org/10.3897%2Fphytokeys.74.9723
+  DOI: 10.3897/phytokeys.74.9723
+...

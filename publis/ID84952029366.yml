@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84952029366
+  type: article-journal
+  author:
+  - family: Mortensen
+    given: L. O.
+  - family: Schmidt
+    given: N. M.
+  - family: Høye
+    given: T. T.
+  - family: Damgaard
+    given: C.
+  - family: Forchhammer
+    given: M. C.
+  issued:
+  - year: '2015'
+    month: '12'
+  title: Analysis of trophic interactions reveals highly plastic response to climate
+    change in a tri-trophic High-Arctic ecosystem
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '1467-1478'
+  volume: '39'
+  issue: '8'
+  URL: https://doi.org/10.1007%2Fs00300-015-1872-z
+  DOI: 10.1007/s00300-015-1872-z
+...

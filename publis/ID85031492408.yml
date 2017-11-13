@@ -1,0 +1,37 @@
+---
+references:
+- id: ID85031492408
+  type: article-journal
+  author:
+  - family: Holt
+    given: B. G.
+  - family: Costa
+    given: G. C.
+  - family: Penone
+    given: C.
+  - family: Lessard
+    given: J.-P.
+  - family: Brooks
+    given: T. M.
+  - family: Davidson
+    given: A. D.
+  - family: Hedges
+    given: S. B.
+  - family: Radeloff
+    given: V. C.
+  - family: Rahbek
+    given: C.
+  - family: Rondinini
+    given: C.
+  - family: Graham
+    given: C. H.
+  issued:
+  - year: '2017'
+    month: '10'
+  title: Environmental variation is a major predictor of global trait turnover in
+    mammals
+  container-title: Journal of Biogeography
+  publisher: Wiley-Blackwell
+  URL: https://doi.org/10.1111%2Fjbi.13091
+  DOI: 10.1111/jbi.13091
+...

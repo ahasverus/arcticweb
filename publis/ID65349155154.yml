@@ -1,0 +1,28 @@
+---
+references:
+- id: ID65349155154
+  type: article-journal
+  author:
+  - family: Descamps
+    given: S.
+  - family: Gilchrist
+    given: H. G.
+  - family: Bety
+    given: J.
+  - family: Buttler
+    given: E. I.
+  - family: Forbes
+    given: M. R.
+  issued:
+  - year: '2009'
+    month: '2'
+  title: 'Costs of reproduction in a long-lived bird: Large clutch size is associated
+    with low survival in the presence of a highly virulent disease'
+  container-title: Biology Letters
+  publisher: The Royal Society
+  page: '278-281'
+  volume: '5'
+  issue: '2'
+  URL: https://doi.org/10.1098%2Frsbl.2008.0704
+  DOI: 10.1098/rsbl.2008.0704
+...

@@ -1,0 +1,31 @@
+---
+references:
+- id: ID79951790617
+  type: article-journal
+  author:
+  - family: Reneerkens
+    given: J.
+  - family: Grond
+    given: K.
+  - family: Schekkerman
+    given: H.
+  - family: Tulp
+    given: I.
+  - family: Piersma
+    given: T.
+  editor:
+  - family: Mcgraw
+    given: Kevin
+  issued:
+  - year: '2011'
+    month: '2'
+  title: Do uniparental sanderlings Calidris alba increase egg heat input to compensate
+    for low nest attentiveness?
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e16834'
+  volume: '6'
+  issue: '2'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0016834
+  DOI: 10.1371/journal.pone.0016834
+...

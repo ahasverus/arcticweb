@@ -1,0 +1,28 @@
+---
+references:
+- id: ID63849239601
+  type: article-journal
+  author:
+  - family: Neves
+    given: C. G.
+    dropping-particle: das
+  - family: Roger
+    given: M.
+  - family: Yoccoz
+    given: N. G.
+  - family: Rimstad
+    given: E.
+  - family: Tryland
+    given: M.
+  issued:
+  - year: '2009'
+  title: Evaluation of three commercial bovine ELISA kits for detection of antibodies
+    against Alphaherpesviruses in reindeer (Rangifer tarandus tarandus)
+  container-title: Acta Veterinaria Scandinavica
+  publisher: Springer Nature
+  page: '9'
+  volume: '51'
+  issue: '1'
+  URL: https://doi.org/10.1186%2F1751-0147-51-9
+  DOI: 10.1186/1751-0147-51-9
+...

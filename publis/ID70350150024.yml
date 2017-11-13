@@ -1,0 +1,27 @@
+---
+references:
+- id: ID70350150024
+  type: article-journal
+  author:
+  - family: Gilg
+    given: O.
+  - family: Boertmann
+    given: D.
+  - family: Merkel
+    given: F.
+  - family: Aebischer
+    given: A.
+  - family: Sabard
+    given: B.
+  issued:
+  - year: '2009'
+    month: '4'
+  title: Status of the endangered ivory gull, Pagophila eburnea, in Greenland
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '1275-1286'
+  volume: '32'
+  issue: '9'
+  URL: https://doi.org/10.1007%2Fs00300-009-0623-4
+  DOI: 10.1007/s00300-009-0623-4
+...

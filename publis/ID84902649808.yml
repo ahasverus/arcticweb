@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84902649808
+  type: article-journal
+  author:
+  - family: Miraldo
+    given: A.
+  - family: Krell
+    given: F.-T.
+  - family: Smalén
+    given: M.
+  - family: Angus
+    given: R. B.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2014'
+    month: '6'
+  title: 'Making the cryptic visible resolving the species complex of Aphodius fimetarius
+    (Linnaeus) and Aphodius pedellus (de Geer) (Coleoptera: Scarabaeidae) by three
+    complementary methods'
+  container-title: Systematic Entomology
+  publisher: Wiley-Blackwell
+  page: '531-547'
+  volume: '39'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fsyen.12079
+  DOI: 10.1111/syen.12079
+...

@@ -1,0 +1,21 @@
+---
+references:
+- id: ID74549152649
+  type: article-journal
+  author:
+  - family: Gilg
+    given: O.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2010'
+    month: '1'
+  title: Explaining bird migration
+  container-title: Science
+  publisher: American Association for the Advancement of Science (AAAS)
+  page: '276-277'
+  volume: '327'
+  issue: '5963'
+  URL: https://doi.org/10.1126%2Fscience.1184964
+  DOI: 10.1126/science.1184964
+...

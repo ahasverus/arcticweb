@@ -1,0 +1,60 @@
+---
+references:
+- id: ID84909952351
+  type: article-journal
+  author:
+  - family: Myers-Smith
+    given: I. H.
+  - family: Hallinger
+    given: M.
+  - family: Blok
+    given: D.
+  - family: Sass-Klaassen
+    given: U.
+  - family: Rayback
+    given: S. A.
+  - family: Weijers
+    given: S.
+  - family: Trant
+    given: A. J.
+  - family: Tape
+    given: K. D.
+  - family: Naito
+    given: A. T.
+  - family: Wipf
+    given: S.
+  - family: Rixen
+    given: C.
+  - family: Dawes
+    given: M. A.
+  - family: Wheeler
+    given: J. A.
+  - family: Buchwal
+    given: A.
+  - family: Baittinger
+    given: C.
+  - family: Macias-Fauria
+    given: M.
+  - family: Forbes
+    given: B. C.
+  - family: Lévesque
+    given: E.
+  - family: Boulanger-Lapointe
+    given: N.
+  - family: Beil
+    given: I.
+  - family: Ravolainen
+    given: V.
+  - family: Wilmking
+    given: M.
+  issued:
+  - year: '2015'
+    month: '1'
+  title: 'Methods for measuring arctic and alpine shrub growth: A review'
+  container-title: Earth-Science Reviews
+  publisher: Elsevier BV
+  page: '1-13'
+  volume: '140'
+  URL: https://doi.org/10.1016%2Fj.earscirev.2014.10.004
+  DOI: 10.1016/j.earscirev.2014.10.004
+...

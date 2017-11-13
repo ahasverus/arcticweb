@@ -1,0 +1,28 @@
+---
+references:
+- id: ID0035953612
+  type: article-journal
+  author:
+  - family: Mysterud
+    given: A.
+  - family: Stenseth
+    given: N. C.
+  - family: Yoccoz
+    given: N. G.
+  - family: Langvatn
+    given: R.
+  - family: Steinheim
+    given: G.
+  issued:
+  - year: '2001'
+    month: '4'
+  title: Nonlinear effects of large-scale climatic variability on wild and domestic
+    herbivores
+  container-title: Nature
+  publisher: Springer Nature
+  page: '1096-1099'
+  volume: '410'
+  issue: '6832'
+  URL: https://doi.org/10.1038%2F35074099
+  DOI: 10.1038/35074099
+...

@@ -1,0 +1,63 @@
+---
+references:
+- id: ID84879957165
+  type: article-journal
+  author:
+  - family: Oberbauer
+    given: S. F.
+  - family: Elmendorf
+    given: S. C.
+  - family: Troxler
+    given: T. G.
+  - family: Hollister
+    given: R. D.
+  - family: Rocha
+    given: A. V.
+  - family: Bret-Harte
+    given: M. S.
+  - family: Dawes
+    given: M. A.
+  - family: Fosaa
+    given: A. M.
+  - family: Henry
+    given: G. H. R.
+  - family: Hoye
+    given: T. T.
+  - family: Jarrad
+    given: F. C.
+  - family: Jonsdottir
+    given: I. S.
+  - family: Klanderud
+    given: K.
+  - family: Klein
+    given: J. A.
+  - family: Molau
+    given: U.
+  - family: Rixen
+    given: C.
+  - family: Schmidt
+    given: N. M.
+  - family: Shaver
+    given: G. R.
+  - family: Slider
+    given: R. T.
+  - family: Totland
+    given: O.
+  - family: Wahren
+    given: C.-H.
+  - family: Welker
+    given: J. M.
+  issued:
+  - year: '2013'
+    month: '7'
+  title: Phenological response of tundra plants to background climate variation tested
+    using the International Tundra Experiment
+  container-title: 'Philosophical Transactions of the Royal Society B: Biological
+    Sciences'
+  publisher: The Royal Society
+  page: '20120481-20120481'
+  volume: '368'
+  issue: '1624'
+  URL: https://doi.org/10.1098%2Frstb.2012.0481
+  DOI: 10.1098/rstb.2012.0481
+...

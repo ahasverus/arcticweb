@@ -1,0 +1,34 @@
+---
+references:
+- id: ID84994589192
+  type: article-journal
+  author:
+  - family: Özkan
+    given: K.
+  - family: Jeppesen
+    given: E.
+  - family: Davidson
+    given: T.
+  - family: Bjerring
+    given: R.
+  - family: Johansson
+    given: L.
+  - family: Søndergaard
+    given: M.
+  - family: Lauridsen
+    given: T.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2016'
+    month: '9'
+  title: Long-term trends and temporal synchrony in plankton richness, diversity and
+    biomass driven by re-oligotrophication and climate across 17 Danish Lakes
+  container-title: Water
+  publisher: MDPI AG
+  page: '427'
+  volume: '8'
+  issue: '10'
+  URL: https://doi.org/10.3390%2Fw8100427
+  DOI: 10.3390/w8100427
+...

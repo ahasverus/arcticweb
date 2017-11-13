@@ -1,0 +1,24 @@
+---
+references:
+- id: ID63849158619
+  type: article-journal
+  author:
+  - family: Svenning
+    given: J.-C.
+  - family: Normand
+    given: S.
+  - family: Skov
+    given: F.
+  issued:
+  - year: '2009'
+    month: '4'
+  title: Plio-Pleistocene climate change and geographic heterogeneity in plant diversity-environment
+    relationships
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '13-21'
+  volume: '32'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1600-0587.2008.05732.x
+  DOI: 10.1111/j.1600-0587.2008.05732.x
+...

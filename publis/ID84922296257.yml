@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84922296257
+  type: article-journal
+  author:
+  - family: Braune
+    given: B. M.
+  - family: Gaston
+    given: A. J.
+  - family: Hobson
+    given: K. A.
+  - family: Gilchrist
+    given: H. G.
+  - family: Mallory
+    given: M. L.
+  issued:
+  - year: '2014'
+    month: '11'
+  title: Changes in food web structure alter trends of mercury uptake at two seabird
+    colonies in the Canadian Arctic
+  container-title: Environmental Science & Technology
+  publisher: American Chemical Society (ACS)
+  page: '13246-13252'
+  volume: '48'
+  issue: '22'
+  URL: https://doi.org/10.1021%2Fes5036249
+  DOI: 10.1021/es5036249
+...

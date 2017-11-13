@@ -1,0 +1,31 @@
+---
+references:
+- id: ID77956569101
+  type: article-journal
+  author:
+  - family: Fletcher
+    given: Q. E.
+  - family: Boutin
+    given: S.
+  - family: Lane
+    given: J. E.
+  - family: Lamontagne
+    given: J. M.
+  - family: McAdam
+    given: A. G.
+  - family: Krebs
+    given: C. J.
+  - family: Humphries
+    given: M. M.
+  issued:
+  - year: '2010'
+    month: '9'
+  title: The functional response of a hoarding seed predator to mast seeding
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '2673-2683'
+  volume: '91'
+  issue: '9'
+  URL: https://doi.org/10.1890%2F09-1816.1
+  DOI: 10.1890/09-1816.1
+...

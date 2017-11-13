@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84860650866
+  type: article-journal
+  author:
+  - family: Boulangeat
+    given: I.
+  - family: Gravel
+    given: D.
+  - family: Thuiller
+    given: W.
+  issued:
+  - year: '2012'
+    month: '3'
+  title: Accounting for dispersal and biotic interactions to disentangle the drivers
+    of species distributions and their abundances
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '584-593'
+  volume: '15'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1461-0248.2012.01772.x
+  DOI: 10.1111/j.1461-0248.2012.01772.x
+...

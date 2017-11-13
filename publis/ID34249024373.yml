@@ -1,0 +1,36 @@
+---
+references:
+- id: ID34249024373
+  type: article-journal
+  author:
+  - family: Marie
+    given: B.
+  - family: Luquet
+    given: G.
+  - family: Barros
+    given: J.-P. P.
+    dropping-particle: de
+  - family: Guichard
+    given: N.
+  - family: Morel
+    given: S.
+  - family: Alcaraz
+    given: G.
+  - family: Bollache
+    given: L.
+  - family: Marin
+    given: F.
+  issued:
+  - year: '2007'
+    month: '5'
+  title: 'The shell matrix of the freshwater mussel Unio pictorum (Paleoheterodonta,
+    Unionoida): Involvement of acidic polysaccharides from glycoproteins in nacre
+    mineralization'
+  container-title: FEBS Journal
+  publisher: Wiley-Blackwell
+  page: '2933-2945'
+  volume: '274'
+  issue: '11'
+  URL: https://doi.org/10.1111%2Fj.1742-4658.2007.05825.x
+  DOI: 10.1111/j.1742-4658.2007.05825.x
+...

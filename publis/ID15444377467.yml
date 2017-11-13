@@ -1,0 +1,29 @@
+---
+references:
+- id: ID15444377467
+  type: article-journal
+  author:
+  - family: Fryxell
+    given: J. M.
+  - family: Wilmshurst
+    given: J. F.
+  - family: Sinclair
+    given: A. R. E.
+  - family: Haydon
+    given: D. T.
+  - family: Holt
+    given: R. D.
+  - family: Abrams
+    given: P. A.
+  issued:
+  - year: '2005'
+    month: '2'
+  title: Landscape scale, heterogeneity, and the viability of Serengeti grazers
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '328-335'
+  volume: '8'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1461-0248.2005.00727.x
+  DOI: 10.1111/j.1461-0248.2005.00727.x
+...

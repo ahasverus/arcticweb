@@ -1,0 +1,28 @@
+---
+references:
+- id: ID70349671182
+  type: article-journal
+  author:
+  - family: Dowding
+    given: J. E.
+  - family: Murphy
+    given: E. C.
+  - family: Springer
+    given: K.
+  - family: Peacock
+    given: A. J.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '2009'
+    month: '10'
+  title: 'Cats, rabbits, Myxoma virus, and vegetation on Macquarie Island: A comment
+    on Bergstrom et al. (2009)'
+  container-title: Journal of Applied Ecology
+  publisher: Wiley-Blackwell
+  page: '1129-1132'
+  volume: '46'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.1365-2664.2009.01690.x
+  DOI: 10.1111/j.1365-2664.2009.01690.x
+...

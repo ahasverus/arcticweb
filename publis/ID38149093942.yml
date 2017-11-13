@@ -1,0 +1,29 @@
+---
+references:
+- id: ID38149093942
+  type: article-journal
+  author:
+  - family: Richard
+    given: M.
+  - family: Archambault
+    given: P.
+  - family: Thouzeau
+    given: G.
+  - family: McKindsey
+    given: C. W.
+  - family: Desrosiers
+    given: G.
+  issued:
+  - year: '2007'
+    month: '11'
+  title: Influence of suspended scallop cages and mussel lines on pelagic and benthic
+    biogeochemical fluxes in Havre-aux-Maisons Lagoon, Îles-de-la- Madeleine (Quebec,
+    Canada)
+  container-title: Canadian Journal of Fisheries and Aquatic Sciences
+  publisher: Canadian Science Publishing
+  page: '1491-1505'
+  volume: '64'
+  issue: '11'
+  URL: https://doi.org/10.1139%2Ff07-116
+  DOI: 10.1139/f07-116
+...

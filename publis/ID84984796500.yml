@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84984796500
+  type: article-journal
+  author:
+  - family: Gallant
+    given: D.
+  - family: Gauvin
+    given: L. Y.
+  - family: Berteaux
+    given: D.
+  - family: Lecomte
+    given: N.
+  issued:
+  - year: '2016'
+    month: '8'
+  title: 'The importance of data mining for conservation science: a case study on
+    the wolverine'
+  container-title: Biodiversity and Conservation
+  publisher: Springer Nature
+  page: '2629-2639'
+  volume: '25'
+  issue: '13'
+  URL: https://doi.org/10.1007%2Fs10531-016-1188-5
+  DOI: 10.1007/s10531-016-1188-5
+...

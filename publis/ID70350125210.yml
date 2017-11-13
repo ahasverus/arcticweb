@@ -1,0 +1,32 @@
+---
+references:
+- id: ID70350125210
+  type: paper-conference
+  author:
+  - family: Snelgrove
+    given: P.
+  - family: Archambault
+    given: P.
+  - family: Juniper
+    given: K.
+  - family: Lawton
+    given: P.
+  - family: Metaxas
+    given: A.
+  - family: McKindsey
+    given: C.
+  - family: Pepin
+    given: P.
+  - family: Schneider
+    given: D.
+  - family: Tunnicliffe
+    given: V.
+  issued:
+  - year: '2008'
+  title: Scientific criteria for conservation and sustainable usage of marine biodiversity
+    in Canada’s oceans
+  container-title: OCEANS 2008
+  publisher: IEEE
+  URL: https://doi.org/10.1109%2Foceans.2008.5151889
+  DOI: 10.1109/oceans.2008.5151889
+...

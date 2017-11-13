@@ -1,0 +1,35 @@
+---
+references:
+- id: ID84996929318
+  type: article-journal
+  author:
+  - family: McKellar
+    given: A. E.
+  - family: Ross
+    given: R. K.
+  - family: Morrison
+    given: R. I. G.
+  - family: Niles
+    given: L. J.
+  - family: Porter
+    given: R. R.
+  - family: Burger
+    given: J.
+  - family: Newstead
+    given: D. J.
+  - family: Dey
+    given: A. D.
+  - family: Smith
+    given: P. A.
+  issued:
+  - year: '2015'
+  title: Shorebird use of western Hudson Bay near the Nelson river during migration,
+    with a focus on the Red Knot
+  container-title: Wader Study
+  publisher: International Wader Study Group
+  page: '201-211'
+  volume: '122'
+  issue: '3'
+  URL: https://doi.org/10.18194%2Fws.00020
+  DOI: 10.18194/ws.00020
+...

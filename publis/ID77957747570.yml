@@ -1,0 +1,38 @@
+---
+references:
+- id: ID77957747570
+  type: article-journal
+  author:
+  - family: Grémillet
+    given: D.
+  - family: Mullers
+    given: R. H.
+  - family: Moseley
+    given: C.
+  - family: Pichegru
+    given: L.
+  - family: Coetzee
+    given: J. C.
+  - family: Sabarros
+    given: P. S.
+  - family: Lingen
+    given: C. D.
+    dropping-particle: van der
+  - family: Ryan
+    given: P. G.
+  - family: Kato
+    given: A.
+  - family: Ropert-Coudert
+    given: Y.
+  issued:
+  - year: '2010'
+    month: '10'
+  title: 'Seabirds, fisheries, and cameras: Peer-reviewed letter'
+  container-title: Frontiers in Ecology and the Environment
+  publisher: Wiley-Blackwell
+  page: '401-402'
+  volume: '8'
+  issue: '8'
+  URL: https://doi.org/10.1890%2F10.wb.020
+  DOI: 10.1890/10.wb.020
+...

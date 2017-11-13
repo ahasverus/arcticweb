@@ -1,0 +1,31 @@
+---
+references:
+- id: ID85020319067
+  type: article-journal
+  author:
+  - family: Stier
+    given: A. C.
+  - family: Samhouri
+    given: J. F.
+  - family: Novak
+    given: M.
+  - family: Marshall
+    given: K. N.
+  - family: Ward
+    given: E. J.
+  - family: Holt
+    given: R. D.
+  - family: Levin
+    given: P. S.
+  issued:
+  - year: '2016'
+    month: '5'
+  title: Ecosystem context and historical contingency in apex predator recoveries
+  container-title: Science Advances
+  publisher: American Association for the Advancement of Science (AAAS)
+  page: 'e1501769-e1501769'
+  volume: '2'
+  issue: '5'
+  URL: https://doi.org/10.1126%2Fsciadv.1501769
+  DOI: 10.1126/sciadv.1501769
+...

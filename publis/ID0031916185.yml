@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0031916185
+  type: article-journal
+  author:
+  - family: Gaillard
+    given: J.-M.
+  - family: Festa-Bianchet
+    given: M.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '1998'
+    month: '2'
+  title: 'Population dynamics of large herbivores: Variable recruitment with constant
+    adult survival'
+  container-title: Trends in Ecology & Evolution
+  publisher: Elsevier BV
+  page: '58-63'
+  volume: '13'
+  issue: '2'
+  URL: https://doi.org/10.1016%2Fs0169-5347%2897%2901237-8
+  DOI: 10.1016/s0169-5347(97)01237-8
+...

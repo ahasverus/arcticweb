@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84888081807
+  type: article-journal
+  author:
+  - family: Gates
+    given: H. R.
+  - family: Yezerinac
+    given: S.
+  - family: Powell
+    given: A. N.
+  - family: Tomkovich
+    given: P. S.
+  - family: Valchuk
+    given: O. P.
+  - family: Lanctot
+    given: R. B.
+  issued:
+  - year: '2013'
+    month: '11'
+  title: Differentiation of subspecies and sexes of Beringian Dunlins using morphometric
+    measures
+  container-title: Journal of Field Ornithology
+  publisher: Wiley-Blackwell
+  page: '389-402'
+  volume: '84'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fjofo.12038
+  DOI: 10.1111/jofo.12038
+...

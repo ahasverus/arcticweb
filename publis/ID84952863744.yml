@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84952863744
+  type: article-journal
+  author:
+  - family: Li
+    given: G.
+  - family: Yin
+    given: B.
+  - family: Wan
+    given: X.
+  - family: Wei
+    given: W.
+  - family: Wang
+    given: G.
+  - family: Krebs
+    given: C. J.
+  - family: Zhang
+    given: Z.
+  issued:
+  - year: '2015'
+    month: '10'
+  title: 'Successive sheep grazing reduces population density of Brandt’s voles
+    in steppe grassland by altering food resources: a large manipulative experiment'
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '149-159'
+  volume: '180'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs00442-015-3455-7
+  DOI: 10.1007/s00442-015-3455-7
+...

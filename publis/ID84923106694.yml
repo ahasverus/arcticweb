@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84923106694
+  type: article-journal
+  author:
+  - family: Grémillet
+    given: D.
+  - family: Fort
+    given: J.
+  - family: Amélineau
+    given: F.
+  - family: Zakharova
+    given: E.
+  - family: Bot
+    given: T. L.
+  - family: Sala
+    given: E.
+  - family: Gavrilo
+    given: M.
+  issued:
+  - year: '2015'
+    month: '1'
+  title: 'Arctic warming: Nonlinear impacts of sea-ice and glacier melt on seabird
+    foraging'
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '1116-1123'
+  volume: '21'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fgcb.12811
+  DOI: 10.1111/gcb.12811
+...

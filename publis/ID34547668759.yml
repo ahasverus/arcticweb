@@ -1,0 +1,37 @@
+---
+references:
+- id: ID34547668759
+  type: article-journal
+  author:
+  - family: Sax
+    given: D.
+  - family: Stachowicz
+    given: J.
+  - family: Brown
+    given: J.
+  - family: Bruno
+    given: J.
+  - family: Dawson
+    given: M.
+  - family: Gaines
+    given: S.
+  - family: Grosberg
+    given: R.
+  - family: Hastings
+    given: A.
+  - family: Holt
+    given: R.
+  - family: Mayfield
+    given: M.
+  issued:
+  - year: '2007'
+    month: '9'
+  title: Ecological and evolutionary insights from species invasions
+  container-title: Trends in Ecology & Evolution
+  publisher: Elsevier BV
+  page: '465-471'
+  volume: '22'
+  issue: '9'
+  URL: https://doi.org/10.1016%2Fj.tree.2007.06.009
+  DOI: 10.1016/j.tree.2007.06.009
+...

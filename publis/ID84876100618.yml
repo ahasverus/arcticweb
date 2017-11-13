@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84876100618
+  type: article-journal
+  author:
+  - family: Harvey
+    given: E.
+  - family: Séguin
+    given: A.
+  - family: Nozais
+    given: C.
+  - family: Archambault
+    given: P.
+  - family: Gravel
+    given: D.
+  issued:
+  - year: '2013'
+    month: '1'
+  title: Identity effects dominate the impacts of multiple species extinctions on
+    the functioning of complex food webs
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '169-179'
+  volume: '94'
+  issue: '1'
+  URL: https://doi.org/10.1890%2F12-0414.1
+  DOI: 10.1890/12-0414.1
+...

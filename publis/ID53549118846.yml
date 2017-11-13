@@ -1,0 +1,31 @@
+---
+references:
+- id: ID53549118846
+  type: article-journal
+  author:
+  - family: Prestrud
+    given: K. W.
+  - family: Åsbakk
+    given: K.
+  - family: Mørk
+    given: T.
+  - family: Fuglei
+    given: E.
+  - family: Tryland
+    given: M.
+  - family: Su
+    given: C.
+  issued:
+  - year: '2008'
+    month: '11'
+  title: Direct high-resolution genotyping of Toxoplasma gondii in arctic foxes (Vulpes
+    lagopus) in the remote arctic Svalbard archipelago reveals widespread clonal Type
+    II lineage
+  container-title: Veterinary Parasitology
+  publisher: Elsevier BV
+  page: '121-128'
+  volume: '158'
+  issue: '1-2'
+  URL: https://doi.org/10.1016%2Fj.vetpar.2008.08.020
+  DOI: 10.1016/j.vetpar.2008.08.020
+...

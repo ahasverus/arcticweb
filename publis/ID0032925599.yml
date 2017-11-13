@@ -1,0 +1,23 @@
+---
+references:
+- id: ID0032925599
+  type: article-journal
+  author:
+  - family: Angerbjorn
+    given: A.
+  - family: Tannerfeldt
+    given: M.
+  - family: Erlinge
+    given: S.
+  issued:
+  - year: '1999'
+    month: '1'
+  title: 'Predator-prey relationships: Arctic foxes and lemmings'
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '34-49'
+  volume: '68'
+  issue: '1'
+  URL: https://doi.org/10.1046%2Fj.1365-2656.1999.00258.x
+  DOI: 10.1046/j.1365-2656.1999.00258.x
+...

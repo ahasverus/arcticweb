@@ -1,0 +1,24 @@
+---
+references:
+- id: ID38449093906
+  type: article-journal
+  author:
+  - family: Borer
+    given: E. T.
+  - family: Briggs
+    given: C. J.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2007'
+    month: '11'
+  title: 'Predators, parasitoids, and pathogens: A cross-cutting examination of
+    intraguild predation theory'
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '2681-2688'
+  volume: '88'
+  issue: '11'
+  URL: https://doi.org/10.1890%2F06-1707.1
+  DOI: 10.1890/06-1707.1
+...

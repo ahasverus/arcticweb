@@ -1,0 +1,30 @@
+---
+references:
+- id: ID33846257697
+  type: article-journal
+  author:
+  - family: Killengreen
+    given: S. T.
+  - family: Ims
+    given: R. A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Bråthen
+    given: K. A.
+  - family: Henden
+    given: J.-A.
+  - family: Schott
+    given: T.
+  issued:
+  - year: '2007'
+    month: '4'
+  title: Structural characteristics of a low Arctic tundra ecosystem and the retreat
+    of the Arctic fox
+  container-title: Biological Conservation
+  publisher: Elsevier BV
+  page: '459-472'
+  volume: '135'
+  issue: '4'
+  URL: https://doi.org/10.1016%2Fj.biocon.2006.10.039
+  DOI: 10.1016/j.biocon.2006.10.039
+...

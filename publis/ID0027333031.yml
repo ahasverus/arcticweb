@@ -1,0 +1,20 @@
+---
+references:
+- id: ID0027333031
+  type: article-journal
+  author:
+  - family: Krebs
+    given: C.
+  - family: Singleton
+    given: G.
+  issued:
+  - year: '1993'
+  title: Indices of condition for small mammals
+  container-title: Australian Journal of Zoology
+  publisher: CSIRO Publishing
+  page: '317'
+  volume: '41'
+  issue: '4'
+  URL: https://doi.org/10.1071%2Fzo9930317
+  DOI: 10.1071/zo9930317
+...

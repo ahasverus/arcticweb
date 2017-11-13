@@ -1,0 +1,25 @@
+---
+references:
+- id: ID77957275743
+  type: article-journal
+  author:
+  - family: Pichegru
+    given: L.
+  - family: Gremillet
+    given: D.
+  - family: Crawford
+    given: R. J. M.
+  - family: Ryan
+    given: P. G.
+  issued:
+  - year: '2010'
+    month: '2'
+  title: Marine no-take zone rapidly benefits endangered penguin
+  container-title: Biology Letters
+  publisher: The Royal Society
+  page: '498-501'
+  volume: '6'
+  issue: '4'
+  URL: https://doi.org/10.1098%2Frsbl.2009.0913
+  DOI: 10.1098/rsbl.2009.0913
+...

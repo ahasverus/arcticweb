@@ -1,0 +1,26 @@
+---
+references:
+- id: ID26444476022
+  type: article-journal
+  author:
+  - family: Devin
+    given: S.
+  - family: Bollache
+    given: L.
+  - family: Noël
+    given: P.-Y.
+  - family: Beisel
+    given: J.-N.
+  issued:
+  - year: '2005'
+    month: '11'
+  title: Patterns of biological invasions in French freshwater systems by non-indigenous
+    macroinvertebrates
+  container-title: Hydrobiologia
+  publisher: Springer Nature
+  page: '137-146'
+  volume: '551'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs10750-005-4456-z
+  DOI: 10.1007/s10750-005-4456-z
+...

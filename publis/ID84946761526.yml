@@ -1,0 +1,23 @@
+---
+references:
+- id: ID84946761526
+  type: article-journal
+  author:
+  - family: Doiron
+    given: M.
+  - family: Gauthier
+    given: G.
+  - family: Lévesque
+    given: E.
+  issued:
+  - year: '2015'
+    month: '11'
+  title: Trophic mismatch and its effects on the growth of young in an Arctic herbivore
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '4364-4376'
+  volume: '21'
+  issue: '12'
+  URL: https://doi.org/10.1111%2Fgcb.13057
+  DOI: 10.1111/gcb.13057
+...

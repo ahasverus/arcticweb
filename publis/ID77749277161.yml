@@ -1,0 +1,26 @@
+---
+references:
+- id: ID77749277161
+  type: article-journal
+  author:
+  - family: Sonsthagen
+    given: S. A.
+  - family: Talbot
+    given: S. L.
+  - family: Lanctot
+    given: R. B.
+  - family: McCracken
+    given: K. G.
+  issued:
+  - year: '2010'
+    month: '1'
+  title: Do common eiders nest in kin groups? Microgeographic genetic structure in
+    a philopatric sea duck
+  container-title: Molecular Ecology
+  publisher: Wiley-Blackwell
+  page: '647-657'
+  volume: '19'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1365-294x.2009.04495.x
+  DOI: 10.1111/j.1365-294x.2009.04495.x
+...

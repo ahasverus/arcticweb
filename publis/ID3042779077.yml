@@ -1,0 +1,21 @@
+---
+references:
+- id: ID3042779077
+  type: article-journal
+  author:
+  - family: Svenning
+    given: J.-C.
+  - family: Skov
+    given: F.
+  issued:
+  - year: '2004'
+    month: '6'
+  title: Limited filling of the potential range in European tree species
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '565-573'
+  volume: '7'
+  issue: '7'
+  URL: https://doi.org/10.1111%2Fj.1461-0248.2004.00614.x
+  DOI: 10.1111/j.1461-0248.2004.00614.x
+...

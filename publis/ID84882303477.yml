@@ -1,0 +1,35 @@
+---
+references:
+- id: ID84882303477
+  type: article-journal
+  author:
+  - family: Lounsberry
+    given: Z. T.
+  - family: Almeida
+    given: J. B.
+  - family: Grace
+    given: T.
+  - family: Lanctot
+    given: R. B.
+  - family: Liebezeit
+    given: J.
+  - family: Sandercock
+    given: B. K.
+  - family: Strum
+    given: K. M.
+  - family: Zack
+    given: S.
+  - family: Wisely
+    given: S. M.
+  issued:
+  - year: '2013'
+    month: '7'
+  title: Range-wide conservation genetics of Buff-breasted Sandpipers (Tryngites subruficollis)
+  container-title: The Auk
+  publisher: University of California Press
+  page: '429-439'
+  volume: '130'
+  issue: '3'
+  URL: https://doi.org/10.1525%2Fauk.2013.12206
+  DOI: 10.1525/auk.2013.12206
+...

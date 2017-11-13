@@ -1,0 +1,59 @@
+---
+references:
+- id: ID79958088243
+  type: article-journal
+  author:
+  - family: Jenkins
+    given: C. N.
+  - family: Sanders
+    given: N. J.
+  - family: Andersen
+    given: A. N.
+  - family: Arnan
+    given: X.
+  - family: Brühl
+    given: C. A.
+  - family: Cerda
+    given: X.
+  - family: Ellison
+    given: A. M.
+  - family: Fisher
+    given: B. L.
+  - family: Fitzpatrick
+    given: M. C.
+  - family: Gotelli
+    given: N. J.
+  - family: Gove
+    given: A. D.
+  - family: Guénard
+    given: B.
+  - family: Lattke
+    given: J. E.
+  - family: Lessard
+    given: J.-P.
+  - family: McGlynn
+    given: T. P.
+  - family: Menke
+    given: S. B.
+  - family: Parr
+    given: C. L.
+  - family: Philpott
+    given: S. M.
+  - family: Vasconcelos
+    given: H. L.
+  - family: Weiser
+    given: M. D.
+  - family: Dunn
+    given: R. R.
+  issued:
+  - year: '2011'
+    month: '5'
+  title: 'Global diversity in light of climate change: The case of ants'
+  container-title: Diversity and Distributions
+  publisher: Wiley-Blackwell
+  page: '652-662'
+  volume: '17'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1472-4642.2011.00770.x
+  DOI: 10.1111/j.1472-4642.2011.00770.x
+...

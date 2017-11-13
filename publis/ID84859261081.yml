@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84859261081
+  type: article-journal
+  author:
+  - family: Lefebvre
+    given: S. L.
+  - family: Michaud
+    given: R.
+  - family: Lesage
+    given: V.
+  - family: Berteaux
+    given: D.
+  issued:
+  - year: '2012'
+    month: '3'
+  title: Identifying high residency areas of the threatened St. Lawrence beluga whale
+    from fine-scale movements of individuals and coarse-scale movements of herds
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '243-257'
+  volume: '450'
+  URL: https://doi.org/10.3354%2Fmeps09570
+  DOI: 10.3354/meps09570
+...

@@ -1,0 +1,27 @@
+---
+references:
+- id: ID85029361028
+  type: article-journal
+  author:
+  - family: Yannic
+    given: G.
+  - family: Ortego
+    given: J.
+  - family: Pellissier
+    given: L.
+  - family: Lecomte
+    given: N.
+  - family: Bernatchez
+    given: L.
+  - family: Côté
+    given: S. D.
+  issued:
+  - year: '2017'
+    month: '9'
+  title: Linking genetic and ecological differentiation in an ungulate with a circumpolar
+    distribution
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  URL: https://doi.org/10.1111%2Fecog.02995
+  DOI: 10.1111/ecog.02995
+...

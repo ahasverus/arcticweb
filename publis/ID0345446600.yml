@@ -1,0 +1,27 @@
+---
+references:
+- id: ID0345446600
+  type: article-journal
+  author:
+  - family: Drent
+    given: R.
+  - family: Both
+    given: C.
+  - family: Green
+    given: M.
+  - family: Madsen
+    given: J.
+  - family: Piersma
+    given: T.
+  issued:
+  - year: '2003'
+    month: '11'
+  title: Pay-offs and penalties of competing migratory schedules
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '274-292'
+  volume: '103'
+  issue: '2'
+  URL: https://doi.org/10.1034%2Fj.1600-0706.2003.12274.x
+  DOI: 10.1034/j.1600-0706.2003.12274.x
+...

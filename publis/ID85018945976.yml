@@ -1,0 +1,29 @@
+---
+references:
+- id: ID85018945976
+  type: article-journal
+  author:
+  - family: Ponchon
+    given: A.
+  - family: Aulert
+    given: C.
+  - family: Guillou
+    given: G. L.
+  - family: Gallien
+    given: F.
+  - family: Péron
+    given: C.
+  - family: Grémillet
+    given: D.
+  issued:
+  - year: '2017'
+    month: '5'
+  title: Spatial overlaps of foraging and resting areas of black-legged kittiwakes
+    breeding in the English Channel with existing marine protected areas
+  container-title: Marine Biology
+  publisher: Springer Nature
+  volume: '164'
+  issue: '5'
+  URL: https://doi.org/10.1007%2Fs00227-017-3151-8
+  DOI: 10.1007/s00227-017-3151-8
+...

@@ -1,0 +1,22 @@
+---
+references:
+- id: ID85030786314
+  type: article-journal
+  author:
+  - family: Chevallier
+    given: C.
+  - family: Gauthier
+    given: G.
+  - family: Berteaux
+    given: D.
+  issued:
+  - year: '2017'
+    month: '1'
+  title: Age Estimation of Live Arctic Foxes Vulpes lagopus Based on Teeth Condition
+  container-title: Wildlife Biology
+  publisher: Wildlife Biology
+  page: wlb.00304
+  volume: '17'
+  URL: https://doi.org/10.2981%2Fwlb.00304
+  DOI: 10.2981/wlb.00304
+...

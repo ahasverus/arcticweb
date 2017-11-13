@@ -1,0 +1,26 @@
+---
+references:
+- id: ID33845276735
+  type: article-journal
+  author:
+  - family: Hagen
+    given: S. B.
+  - family: Sørlibråten
+    given: O.
+  - family: Ims
+    given: R. A.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2006'
+    month: '10'
+  title: 'Density-dependent melanism in winter moth larvae (Lepidoptera: Geometridae):
+    A countermeasure against parasitoids?'
+  container-title: Environmental Entomology
+  publisher: Oxford University Press (OUP)
+  page: '1249-1253'
+  volume: '35'
+  issue: '5'
+  URL: https://doi.org/10.1603%2F0046-225x%282006%2935%5B1249%3Admiwml%5D2.0.co%3B2
+  DOI: 10.1603/0046-225x(2006)35[1249:dmiwml]2.0.co;2
+...

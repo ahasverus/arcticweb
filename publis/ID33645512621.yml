@@ -1,0 +1,30 @@
+---
+references:
+- id: ID33645512621
+  type: article-journal
+  author:
+  - family: Nystrom
+    given: J.
+  - family: Dalen
+    given: L.
+  - family: Hellstrom
+    given: P.
+  - family: Ekenstedt
+    given: J.
+  - family: Angleby
+    given: H.
+  - family: Angerbjorn
+    given: A.
+  issued:
+  - year: '2006'
+    month: '5'
+  title: 'Effect of local prey availability on gyrfalcon diet: DNA analysis on ptarmigan
+    remains at nest sites'
+  container-title: Journal of Zoology
+  publisher: Wiley-Blackwell
+  page: '57-64'
+  volume: '269'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1469-7998.2006.00050.x
+  DOI: 10.1111/j.1469-7998.2006.00050.x
+...

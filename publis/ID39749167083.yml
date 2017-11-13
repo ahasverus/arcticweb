@@ -1,0 +1,36 @@
+---
+references:
+- id: ID39749167083
+  type: article-journal
+  author:
+  - family: Skov
+    given: H.
+  - family: Humphreys
+    given: E.
+  - family: Garthe
+    given: S.
+  - family: Geitner
+    given: K.
+  - family: Grémillet
+    given: D.
+  - family: Hamer
+    given: K. C.
+  - family: Hennicke
+    given: J.
+  - family: Parner
+    given: H.
+  - family: Wanless
+    given: S.
+  issued:
+  - year: '2008'
+    month: '4'
+  title: Application of habitat suitability modelling to tracking data of marine animals
+    as a means of analyzing their feeding habitats
+  container-title: Ecological Modelling
+  publisher: Elsevier BV
+  page: '504-512'
+  volume: '212'
+  issue: '3-4'
+  URL: https://doi.org/10.1016%2Fj.ecolmodel.2007.11.006
+  DOI: 10.1016/j.ecolmodel.2007.11.006
+...

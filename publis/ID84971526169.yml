@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84971526169
+  type: article-journal
+  author:
+  - family: Giroux
+    given: M.-A.
+  - family: Ditlecadet
+    given: D.
+  - family: Martin
+    given: L. J.
+  - family: Lanctot
+    given: R. B.
+  - family: Lecomte
+    given: N.
+  issued:
+  - year: '2016'
+    month: '5'
+  title: 'Sexing a sex-role-reversed species based on plumage: Potential challenges
+    in the red phalarope'
+  container-title: PeerJ
+  publisher: PeerJ
+  page: 'e1989'
+  volume: '4'
+  issue: '5'
+  URL: https://doi.org/10.7717%2Fpeerj.1989
+  DOI: 10.7717/peerj.1989
+...

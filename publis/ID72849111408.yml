@@ -1,0 +1,26 @@
+---
+references:
+- id: ID72849111408
+  type: article-journal
+  author:
+  - family: Jepsen
+    given: J. U.
+  - family: Hagen
+    given: S. B.
+  - family: Karlsen
+    given: S.-R.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2009'
+    month: '9'
+  title: Phase-dependent outbreak dynamics of geometrid moth linked to host plant
+    phenology
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '4119-4128'
+  volume: '276'
+  issue: '1676'
+  URL: https://doi.org/10.1098%2Frspb.2009.1148
+  DOI: 10.1098/rspb.2009.1148
+...

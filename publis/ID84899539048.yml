@@ -1,0 +1,48 @@
+---
+references:
+- id: ID84899539048
+  type: article-journal
+  author:
+  - family: Legagneux
+    given: P.
+  - family: Gauthier
+    given: G.
+  - family: Lecomte
+    given: N.
+  - family: Schmidt
+    given: N. M.
+  - family: Reid
+    given: D.
+  - family: Cadieux
+    given: M.-C.
+  - family: Berteaux
+    given: D.
+  - family: Bêty
+    given: J.
+  - family: Krebs
+    given: C. J.
+  - family: Ims
+    given: R. A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Morrison
+    given: R. I. G.
+  - family: Leroux
+    given: S. J.
+  - family: Loreau
+    given: M.
+  - family: Gravel
+    given: D.
+  issued:
+  - year: '2014'
+    month: '3'
+  title: Arctic ecosystem structure and functioning shaped by climate and herbivore
+    body size
+  container-title: Nature Climate Change
+  publisher: Springer Nature
+  page: '379-383'
+  volume: '4'
+  issue: '5'
+  URL: https://doi.org/10.1038%2Fnclimate2168
+  DOI: 10.1038/nclimate2168
+...

@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84929953890
+  type: article-journal
+  author:
+  - family: Vindstad
+    given: O. P. L.
+  - family: Jepsen
+    given: J. U.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2015'
+    month: '5'
+  title: Resistance of a sub-arctic bird community to severe forest damage caused
+    by geometrid moth outbreaks
+  container-title: European Journal of Forest Research
+  publisher: Springer Nature
+  page: '725-736'
+  volume: '134'
+  issue: '4'
+  URL: https://doi.org/10.1007%2Fs10342-015-0886-y
+  DOI: 10.1007/s10342-015-0886-y
+...

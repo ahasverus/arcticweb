@@ -1,0 +1,67 @@
+---
+references:
+- id: ID84920848013
+  type: article-journal
+  author:
+  - family: Peacock
+    given: E.
+  - family: Sonsthagen
+    given: S. A.
+  - family: Obbard
+    given: M. E.
+  - family: Boltunov
+    given: A.
+  - family: Regehr
+    given: E. V.
+  - family: Ovsyanikov
+    given: N.
+  - family: Aars
+    given: J.
+  - family: Atkinson
+    given: S. N.
+  - family: Sage
+    given: G. K.
+  - family: Hope
+    given: A. G.
+  - family: Zeyl
+    given: E.
+  - family: Bachmann
+    given: L.
+  - family: Ehrich
+    given: D.
+  - family: Scribner
+    given: K. T.
+  - family: Amstrup
+    given: S. C.
+  - family: Belikov
+    given: S.
+  - family: Born
+    given: E. W.
+  - family: Derocher
+    given: A. E.
+  - family: Stirling
+    given: I.
+  - family: Taylor
+    given: M. K.
+  - family: Wiig
+    given: Y.
+  - family: Paetkau
+    given: D.
+  - family: Talbot
+    given: S. L.
+  editor:
+  - family: Knapp
+    given: Michael
+  issued:
+  - year: '2015'
+    month: '1'
+  title: Implications of the circumpolar genetic structure of polar bears for their
+    conservation in a rapidly warming Arctic
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e112021'
+  volume: '10'
+  issue: '1'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0112021
+  DOI: 10.1371/journal.pone.0112021
+...

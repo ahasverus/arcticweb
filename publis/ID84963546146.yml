@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84963546146
+  type: article-journal
+  author:
+  - family: Ma
+    given: Z.
+  - family: Sandel
+    given: B.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2016'
+    month: '4'
+  title: Phylogenetic assemblage structure of North American trees is more strongly
+    shaped by glacial-interglacial climate variability in gymnosperms than in angiosperms
+  container-title: Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '3092-3106'
+  volume: '6'
+  issue: '10'
+  URL: https://doi.org/10.1002%2Fece3.2100
+  DOI: 10.1002/ece3.2100
+...

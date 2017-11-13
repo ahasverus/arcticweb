@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84941182727
+  type: article-journal
+  author:
+  - family: Williams
+    given: T. D.
+  - family: Bourgeon
+    given: S.
+  - family: Cornell
+    given: A.
+  - family: Ferguson
+    given: L.
+  - family: Fowler
+    given: M.
+  - family: Fronstin
+    given: R. B.
+  - family: Love
+    given: O. P.
+  issued:
+  - year: '2015'
+    month: '1'
+  title: Mid-winter temperatures, not spring temperatures, predict breeding phenology
+    in the European starling Sturnus vulgaris
+  container-title: Royal Society Open Science
+  publisher: The Royal Society
+  page: '140301-140301'
+  volume: '2'
+  issue: '1'
+  URL: https://doi.org/10.1098%2Frsos.140301
+  DOI: 10.1098/rsos.140301
+...

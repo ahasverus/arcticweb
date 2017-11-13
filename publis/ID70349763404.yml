@@ -1,0 +1,37 @@
+---
+references:
+- id: ID70349763404
+  type: article-journal
+  author:
+  - family: Pichegru
+    given: L.
+  - family: Ryan
+    given: P.
+  - family: Bohec
+    given: C. L.
+  - family: Lingen
+    given: C.
+    dropping-particle: van der
+  - family: Navarro
+    given: R.
+  - family: Petersen
+    given: S.
+  - family: Lewis
+    given: S.
+  - family: Westhuizen
+    given: J.
+    dropping-particle: van der
+  - family: Grémillet
+    given: D.
+  issued:
+  - year: '2009'
+    month: '9'
+  title: 'Overlap between vulnerable top predators and fisheries in the benguela
+    upwelling system: Implications for marine protected areas'
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '199-208'
+  volume: '391'
+  URL: https://doi.org/10.3354%2Fmeps08283
+  DOI: 10.3354/meps08283
+...

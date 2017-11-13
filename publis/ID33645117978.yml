@@ -1,0 +1,35 @@
+---
+references:
+- id: ID33645117978
+  type: article-journal
+  author:
+  - family: Pettorelli
+    given: N.
+  - family: Gaillard
+    given: J.-M.
+  - family: Yoccoz
+    given: N. G.
+  - family: Duncan
+    given: P.
+  - family: Maillard
+    given: D.
+  - family: Delorme
+    given: D.
+  - family: Laere
+    given: G.
+    dropping-particle: van
+  - family: Toigo
+    given: C.
+  issued:
+  - year: '2005'
+    month: '9'
+  title: The response of fawn survival to changes in habitat quality varies according
+    to cohort quality and spatial scale
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '972-981'
+  volume: '74'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2005.00988.x
+  DOI: 10.1111/j.1365-2656.2005.00988.x
+...

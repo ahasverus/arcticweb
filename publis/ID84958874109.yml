@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84958874109
+  type: article-journal
+  author:
+  - family: Jepsen
+    given: J. U.
+  - family: Vindstad
+    given: O. P. L.
+  - family: Barraquand
+    given: F.
+  - family: Ims
+    given: R. A.
+  - family: Yoccoz
+    given: N. G.
+  editor:
+  - family: White
+    given: Andrew
+  issued:
+  - year: '2016'
+    month: '1'
+  title: 'Continental-scale travelling waves in forest geometrids in Europe: An
+    evaluation of the evidence'
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '385-390'
+  volume: '85'
+  issue: '2'
+  URL: https://doi.org/10.1111%2F1365-2656.12444
+  DOI: 10.1111/1365-2656.12444
+...

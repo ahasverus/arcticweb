@@ -1,0 +1,19 @@
+---
+references:
+- id: ID84875531336
+  type: article-journal
+  author:
+  - family: Berteaux
+    given: D.
+  issued:
+  - year: '2013'
+    month: '3'
+  title: Québec’s Large-Scale Plan Nord
+  container-title: Conservation Biology
+  publisher: Wiley-Blackwell
+  page: '242-243'
+  volume: '27'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fcobi.12018
+  DOI: 10.1111/cobi.12018
+...

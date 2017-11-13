@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84912076578
+  type: article-journal
+  author:
+  - family: Henden
+    given: J.-A.
+  - family: Stien
+    given: A.
+  - family: Bårdsen
+    given: B.-J.
+  - family: Yoccoz
+    given: N. G.
+  - family: Ims
+    given: R. A.
+  editor:
+  - family: Hayward
+    given: Matthew
+  issued:
+  - year: '2014'
+    month: '9'
+  title: Community-wide mesocarnivore response to partial ungulate migration
+  container-title: Journal of Applied Ecology
+  publisher: Wiley-Blackwell
+  page: '1525-1533'
+  volume: '51'
+  issue: '6'
+  URL: https://doi.org/10.1111%2F1365-2664.12328
+  DOI: 10.1111/1365-2664.12328
+...

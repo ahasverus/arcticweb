@@ -1,0 +1,28 @@
+---
+references:
+- id: ID63849239768
+  type: article-journal
+  author:
+  - family: Bischof
+    given: R.
+  - family: Swenson
+    given: J. E.
+  - family: Yoccoz
+    given: N. G.
+  - family: Mysterud
+    given: A.
+  - family: Gimenez
+    given: O.
+  issued:
+  - year: '2009'
+    month: '5'
+  title: The magnitude and selectivity of natural and multiple anthropogenic mortality
+    causes in hunted brown bears
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '656-665'
+  volume: '78'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2009.01524.x
+  DOI: 10.1111/j.1365-2656.2009.01524.x
+...

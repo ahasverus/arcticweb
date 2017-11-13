@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84919723236
+  type: article-journal
+  author:
+  - family: Gremillet
+    given: D.
+  - family: Peron
+    given: C.
+  - family: Provost
+    given: P.
+  - family: Lescroel
+    given: A.
+  issued:
+  - year: '2015'
+    month: '2'
+  title: Adult and juvenile European seabirds at risk from marine plundering off West
+    Africa
+  container-title: Biological Conservation
+  publisher: Elsevier BV
+  page: '143-147'
+  volume: '182'
+  URL: https://doi.org/10.1016%2Fj.biocon.2014.12.001
+  DOI: 10.1016/j.biocon.2014.12.001
+...

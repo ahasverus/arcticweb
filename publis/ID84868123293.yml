@@ -1,0 +1,34 @@
+---
+references:
+- id: ID84868123293
+  type: article-journal
+  author:
+  - family: Kellermann
+    given: V.
+  - family: Loeschcke
+    given: V.
+  - family: Hoffmann
+    given: A. A.
+  - family: Kristensen
+    given: T. N.
+  - family: Fløjgaard
+    given: C.
+  - family: David
+    given: J. R.
+  - family: Svenning
+    given: J.-C.
+  - family: Overgaard
+    given: J.
+  issued:
+  - year: '2012'
+    month: '5'
+  title: 'Phylogenetic Constraints In Key Functional Traits Behind Species’ Climate
+    Niches: Patterns Of Desiccation And Cold Resistance Across 95 Drosophila Species'
+  container-title: Evolution
+  publisher: Wiley-Blackwell
+  page: '3377-3389'
+  volume: '66'
+  issue: '11'
+  URL: https://doi.org/10.1111%2Fj.1558-5646.2012.01685.x
+  DOI: 10.1111/j.1558-5646.2012.01685.x
+...

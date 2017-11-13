@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84878278382
+  type: article-journal
+  author:
+  - family: Desjardins-Proulx
+    given: P.
+  - family: White
+    given: E. P.
+  - family: Adamson
+    given: J. J.
+  - family: Ram
+    given: K.
+  - family: Poisot
+    given: T.
+  - family: Gravel
+    given: D.
+  issued:
+  - year: '2013'
+    month: '5'
+  title: The Case for Open Preprints in Biology
+  container-title: PLoS Biology
+  publisher: Public Library of Science (PLoS)
+  page: 'e1001563'
+  volume: '11'
+  issue: '5'
+  URL: https://doi.org/10.1371%2Fjournal.pbio.1001563
+  DOI: 10.1371/journal.pbio.1001563
+...

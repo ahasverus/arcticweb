@@ -1,0 +1,24 @@
+---
+references:
+- id: ID41049094555
+  type: article-journal
+  author:
+  - family: Yannic
+    given: G.
+  - family: Basset
+    given: P.
+  - family: Hausser
+    given: J.
+  issued:
+  - year: '2008'
+    month: '4'
+  title: A new perspective on the evolutionary history of western European Sorex araneus
+    group revealed by paternal and maternal molecular markers
+  container-title: Molecular Phylogenetics and Evolution
+  publisher: Elsevier BV
+  page: '237-250'
+  volume: '47'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fj.ympev.2008.01.029
+  DOI: 10.1016/j.ympev.2008.01.029
+...

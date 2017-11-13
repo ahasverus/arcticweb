@@ -1,0 +1,35 @@
+---
+references:
+- id: ID85013313887
+  type: article-journal
+  author:
+  - family: Baveco
+    given: J. M.
+  - family: Bergjord
+    given: A.-K.
+  - family: Bjerke
+    given: J. W.
+  - family: Chudzińska
+    given: M. E.
+  - family: Pellissier
+    given: L.
+  - family: Simonsen
+    given: C. E.
+  - family: Madsen
+    given: J.
+  - family: Tombre
+    given: I. M.
+  - family: Nolet
+    given: B. A.
+  issued:
+  - year: '2017'
+    month: '2'
+  title: Combining modelling tools to evaluate a goose management scheme
+  container-title: Ambio
+  publisher: Springer Nature
+  page: '210-223'
+  volume: '46'
+  issue: S2
+  URL: https://doi.org/10.1007%2Fs13280-017-0899-5
+  DOI: 10.1007/s13280-017-0899-5
+...

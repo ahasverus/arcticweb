@@ -1,0 +1,25 @@
+---
+references:
+- id: ID0347388385
+  type: article-journal
+  author:
+  - family: Ainouche
+    given: M. L.
+  - family: Baumel
+    given: A.
+  - family: Salmon
+    given: A.
+  - family: Yannic
+    given: G.
+  issued:
+  - year: '2003'
+    month: '11'
+  title: Hybridization, polyploidy and speciation in Spartina (Poaceae)
+  container-title: New Phytologist
+  publisher: Wiley-Blackwell
+  page: '165-172'
+  volume: '161'
+  issue: '1'
+  URL: https://doi.org/10.1046%2Fj.1469-8137.2003.00926.x
+  DOI: 10.1046/j.1469-8137.2003.00926.x
+...

@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84946553501
+  type: article-journal
+  author:
+  - family: Madliger
+    given: C. L.
+  - family: Semeniuk
+    given: C. A. D.
+  - family: Harris
+    given: C. M.
+  - family: Love
+    given: O. P.
+  issued:
+  - year: '2015'
+    month: '12'
+  title: 'Assessing baseline stress physiology as an integrator of environmental
+    quality in a wild avian population: Implications for use as a conservation biomarker'
+  container-title: Biological Conservation
+  publisher: Elsevier BV
+  page: '409-417'
+  volume: '192'
+  URL: https://doi.org/10.1016%2Fj.biocon.2015.10.021
+  DOI: 10.1016/j.biocon.2015.10.021
+...

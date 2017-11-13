@@ -1,0 +1,25 @@
+---
+references:
+- id: ID0034784590
+  type: article-journal
+  author:
+  - family: Wayland
+    given: M.
+  - family: Garcia-Fernandez
+    given: A. J.
+  - family: Neugebauer
+    given: E.
+  - family: Gilchrist
+    given: H. G.
+  issued:
+  - year: '2001'
+  title: Concentrations of cadmium, mercury and selenium in blood, liver and kidney
+    of common eider ducks from the Canadian arctic
+  container-title: Environmental Monitoring and Assessment
+  publisher: Springer Nature
+  page: '255-267'
+  volume: '71'
+  issue: '3'
+  URL: https://doi.org/10.1023%2Fa%3A1011850000360
+  DOI: 10.1023/a:1011850000360
+...

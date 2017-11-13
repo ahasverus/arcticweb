@@ -1,0 +1,26 @@
+---
+references:
+- id: ID70350746359
+  type: article-journal
+  author:
+  - family: Ehrich
+    given: D.
+  - family: Eidesen
+    given: P. B.
+  - family: Alsos
+    given: I. G.
+  - family: Brochmann
+    given: C.
+  issued:
+  - year: '2009'
+    month: '11'
+  title: An AFLP clock for absolute dating of shallow-time evolutionary history -
+    Too good to be true?
+  container-title: Molecular Ecology
+  publisher: Wiley-Blackwell
+  page: '4526-4532'
+  volume: '18'
+  issue: '22'
+  URL: https://doi.org/10.1111%2Fj.1365-294x.2009.04387.x
+  DOI: 10.1111/j.1365-294x.2009.04387.x
+...

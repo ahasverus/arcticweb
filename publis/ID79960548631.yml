@@ -1,0 +1,65 @@
+---
+references:
+- id: ID79960548631
+  type: article-journal
+  author:
+  - family: Estes
+    given: J. A.
+  - family: Terborgh
+    given: J.
+  - family: Brashares
+    given: J. S.
+  - family: Power
+    given: M. E.
+  - family: Berger
+    given: J.
+  - family: Bond
+    given: W. J.
+  - family: Carpenter
+    given: S. R.
+  - family: Essington
+    given: T. E.
+  - family: Holt
+    given: R. D.
+  - family: Jackson
+    given: J. B. C.
+  - family: Marquis
+    given: R. J.
+  - family: Oksanen
+    given: L.
+  - family: Oksanen
+    given: T.
+  - family: Paine
+    given: R. T.
+  - family: Pikitch
+    given: E. K.
+  - family: Ripple
+    given: W. J.
+  - family: Sandin
+    given: S. A.
+  - family: Scheffer
+    given: M.
+  - family: Schoener
+    given: T. W.
+  - family: Shurin
+    given: J. B.
+  - family: Sinclair
+    given: A. R. E.
+  - family: Soulé
+    given: M. E.
+  - family: Virtanen
+    given: R.
+  - family: Wardle
+    given: D. A.
+  issued:
+  - year: '2011'
+    month: '7'
+  title: Trophic downgrading of planet earth
+  container-title: Science
+  publisher: American Association for the Advancement of Science (AAAS)
+  page: '301-306'
+  volume: '333'
+  issue: '6040'
+  URL: https://doi.org/10.1126%2Fscience.1205106
+  DOI: 10.1126/science.1205106
+...

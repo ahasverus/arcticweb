@@ -1,0 +1,66 @@
+---
+references:
+- id: ID85021204783
+  type: article-journal
+  author:
+  - family: Rich
+    given: L. N.
+  - family: Davis
+    given: C. L.
+  - family: Farris
+    given: Z. J.
+  - family: Miller
+    given: D. A. W.
+  - family: Tucker
+    given: J. M.
+  - family: Hamel
+    given: S.
+  - family: Farhadinia
+    given: M. S.
+  - family: Steenweg
+    given: R.
+  - family: Bitetti
+    given: M. S. D.
+  - family: Thapa
+    given: K.
+  - family: Kane
+    given: M. D.
+  - family: Sunarto
+    given: S.
+  - family: Robinson
+    given: N. P.
+  - family: Paviolo
+    given: A.
+  - family: Cruz
+    given: P.
+  - family: Martins
+    given: Q.
+  - family: Gholikhani
+    given: N.
+  - family: Taktehrani
+    given: A.
+  - family: Whittington
+    given: J.
+  - family: Widodo
+    given: F. A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Wultsch
+    given: C.
+  - family: Harmsen
+    given: B. J.
+  - family: Kelly
+    given: M. J.
+  issued:
+  - year: '2017'
+    month: '6'
+  title: Assessing global patterns in mammalian carnivore occupancy and richness by
+    integrating local camera trap surveys
+  container-title: Global Ecology and Biogeography
+  publisher: Wiley-Blackwell
+  page: '918-929'
+  volume: '26'
+  issue: '8'
+  URL: https://doi.org/10.1111%2Fgeb.12600
+  DOI: 10.1111/geb.12600
+...

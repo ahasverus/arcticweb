@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84872489770
+  type: article-journal
+  author:
+  - family: Robert
+    given: P.
+  - family: McKindsey
+    given: C. W.
+  - family: Chaillou
+    given: G.
+  - family: Archambault
+    given: P.
+  issued:
+  - year: '2013'
+    month: '1'
+  title: Dose-dependent response of a benthic system to biodeposition from suspended
+    blue mussel (Mytilus edulis) culture
+  container-title: Marine Pollution Bulletin
+  publisher: Elsevier BV
+  page: '92-104'
+  volume: '66'
+  issue: '1-2'
+  URL: https://doi.org/10.1016%2Fj.marpolbul.2012.11.003
+  DOI: 10.1016/j.marpolbul.2012.11.003
+...

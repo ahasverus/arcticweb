@@ -1,0 +1,25 @@
+---
+references:
+- id: ID85010341427
+  type: article-journal
+  author:
+  - family: Christensen
+    given: T. R.
+  - family: Topp-Jørgensen
+    given: E.
+  - family: Sejr
+    given: M. K.
+  - family: Schmidt
+    given: N. M.
+  issued:
+  - year: '2017'
+    month: '1'
+  title: 'Postscript: The future of the Greenland Ecosystem Monitoring programme'
+  container-title: Ambio
+  publisher: Springer Nature
+  page: '174-177'
+  volume: '46'
+  issue: S1
+  URL: https://doi.org/10.1007%2Fs13280-016-0871-9
+  DOI: 10.1007/s13280-016-0871-9
+...

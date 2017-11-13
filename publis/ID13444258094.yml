@@ -1,0 +1,21 @@
+---
+references:
+- id: ID13444258094
+  type: article-journal
+  author:
+  - family: Holt
+    given: R. D.
+  - family: Keitt
+    given: T. H.
+  issued:
+  - year: '2005'
+    month: '1'
+  title: 'Species’ borders: A unifying theme in ecology'
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '3-6'
+  volume: '108'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.0030-1299.2005.13145.x
+  DOI: 10.1111/j.0030-1299.2005.13145.x
+...

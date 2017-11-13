@@ -1,0 +1,71 @@
+---
+references:
+- id: ID84860229264
+  type: article-journal
+  author:
+  - family: Lindenmayer
+    given: D. B.
+  - family: Gibbons
+    given: P.
+  - family: Bourke
+    given: M.
+  - family: Burgman
+    given: M.
+  - family: Dickman
+    given: C. R.
+  - family: Ferrier
+    given: S.
+  - family: Fitzsimons
+    given: J.
+  - family: Freudenberger
+    given: D.
+  - family: Garnett
+    given: S. T.
+  - family: Groves
+    given: C.
+  - family: Hobbs
+    given: R. J.
+  - family: Kingsford
+    given: R. T.
+  - family: Krebs
+    given: C.
+  - family: Legge
+    given: S.
+  - family: Lowe
+    given: A. J.
+  - family: McLean
+    given: R.
+  - family: Montambault
+    given: J.
+  - family: Possingham
+    given: H.
+  - family: Radford
+    given: J.
+  - family: Robinson
+    given: D.
+  - family: Smallbone
+    given: L.
+  - family: Thomas
+    given: D.
+  - family: Varcoe
+    given: T.
+  - family: Vardon
+    given: M.
+  - family: Wardle
+    given: G.
+  - family: Woinarski
+    given: J.
+  - family: Zerger
+    given: A.
+  issued:
+  - year: '2011'
+    month: '10'
+  title: Improving biodiversity monitoring
+  container-title: Austral Ecology
+  publisher: Wiley-Blackwell
+  page: '285-294'
+  volume: '37'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1442-9993.2011.02314.x
+  DOI: 10.1111/j.1442-9993.2011.02314.x
+...

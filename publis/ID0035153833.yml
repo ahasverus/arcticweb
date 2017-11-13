@@ -1,0 +1,23 @@
+---
+references:
+- id: ID0035153833
+  type: article-journal
+  author:
+  - family: Nellemann
+    given: C.
+  - family: Prestrud
+    given: P.
+  - family: Eide
+    given: N. E.
+  issued:
+  - year: '2001'
+    month: '1'
+  title: Terrain structure and selection of denning areas by arctic foxes on Svalbard
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '132-138'
+  volume: '24'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs003000000188
+  DOI: 10.1007/s003000000188
+...

@@ -1,0 +1,29 @@
+---
+references:
+- id: ID85019247409
+  type: article-journal
+  author:
+  - family: Brunbjerg
+    given: A. K.
+  - family: Høye
+    given: T. T.
+  - family: Eskildsen
+    given: A.
+  - family: Nygaard
+    given: B.
+  - family: Damgaard
+    given: C. F.
+  - family: Ejrnæs
+    given: R.
+  issued:
+  - year: '2017'
+    month: '7'
+  title: The collapse of marsh fritillary (Euphydryas aurinia) populations associated
+    with declining host plant abundance
+  container-title: Biological Conservation
+  publisher: Elsevier BV
+  page: '117-124'
+  volume: '211'
+  URL: https://doi.org/10.1016%2Fj.biocon.2017.05.015
+  DOI: 10.1016/j.biocon.2017.05.015
+...

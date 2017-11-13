@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84862257765
+  type: article-journal
+  author:
+  - family: Pertoldi
+    given: C.
+  - family: Bach
+    given: L. A.
+  - family: Svenning
+    given: J. C.
+  - family: Damgaard
+    given: C.
+  - family: Bayley
+    given: M.
+  issued:
+  - year: '2012'
+  title: Contributions from population genetics to ecotoxicology and stress ecology
+    in light of transformation to the population genomic era
+  container-title: Archives of Biological Sciences
+  publisher: National Library of Serbia
+  page: '557-565'
+  volume: '64'
+  issue: '2'
+  URL: https://doi.org/10.2298%2Fabs1202557p
+  DOI: 10.2298/abs1202557p
+...

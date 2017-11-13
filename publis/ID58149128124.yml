@@ -1,0 +1,29 @@
+---
+references:
+- id: ID58149128124
+  type: article-journal
+  author:
+  - family: Chin
+    given: E. H.
+  - family: Love
+    given: O. P.
+  - family: Verspoor
+    given: J. J.
+  - family: Williams
+    given: T. D.
+  - family: Rowley
+    given: K.
+  - family: Burness
+    given: G.
+  issued:
+  - year: '2009'
+    month: '2'
+  title: Juveniles exposed to embryonic corticosterone have enhanced flight performance
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '499-505'
+  volume: '276'
+  issue: '1656'
+  URL: https://doi.org/10.1098%2Frspb.2008.1294
+  DOI: 10.1098/rspb.2008.1294
+...

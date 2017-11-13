@@ -1,0 +1,76 @@
+---
+references:
+- id: ID85012068022
+  type: article-journal
+  author:
+  - family: Prevéy
+    given: J.
+  - family: Vellend
+    given: M.
+  - family: Rüger
+    given: N.
+  - family: Hollister
+    given: R. D.
+  - family: Bjorkman
+    given: A. D.
+  - family: Myers-Smith
+    given: I. H.
+  - family: Elmendorf
+    given: S. C.
+  - family: Clark
+    given: K.
+  - family: Cooper
+    given: E. J.
+  - family: Elberling
+    given: B.
+  - family: Fosaa
+    given: A. M.
+  - family: Henry
+    given: G. H. R.
+  - family: Høye
+    given: T. T.
+  - family: Jónsdóttir
+    given: I. S.
+  - family: Klanderud
+    given: K.
+  - family: Lévesque
+    given: E.
+  - family: Mauritz
+    given: M.
+  - family: Molau
+    given: U.
+  - family: Natali
+    given: S. M.
+  - family: Oberbauer
+    given: S. F.
+  - family: Panchen
+    given: Z. A.
+  - family: Post
+    given: E.
+  - family: Rumpf
+    given: S. B.
+  - family: Schmidt
+    given: N. M.
+  - family: Schuur
+    given: E. A. G.
+  - family: Semenchuk
+    given: P. R.
+  - family: Troxler
+    given: T.
+  - family: Welker
+    given: J. M.
+  - family: Rixen
+    given: C.
+  issued:
+  - year: '2017'
+    month: '2'
+  title: 'Greater temperature sensitivity of plant phenology at colder sites: implications
+    for convergence across northern latitudes'
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '2660-2671'
+  volume: '23'
+  issue: '7'
+  URL: https://doi.org/10.1111%2Fgcb.13619
+  DOI: 10.1111/gcb.13619
+...

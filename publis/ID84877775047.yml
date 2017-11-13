@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84877775047
+  type: article-journal
+  author:
+  - family: Henden
+    given: J.-A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Ims
+    given: R. A.
+  - family: Langeland
+    given: K.
+  editor:
+  - family: Chen
+    given: Han YH.
+  issued:
+  - year: '2013'
+    month: '5'
+  title: How Spatial Variation in Areal Extent and Configuration of Labile Vegetation
+    States Affect the Riparian Bird Community in Arctic Tundra
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e63312'
+  volume: '8'
+  issue: '5'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0063312
+  DOI: 10.1371/journal.pone.0063312
+...

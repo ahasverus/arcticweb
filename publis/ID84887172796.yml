@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84887172796
+  type: article-journal
+  author:
+  - family: Cox
+    given: C. M.
+  - family: Bockus
+    given: W. W.
+  - family: Holt
+    given: R. D.
+  - family: Fang
+    given: L.
+  - family: Garrett
+    given: K. A.
+  issued:
+  - year: '2013'
+    month: '3'
+  title: 'Spatial connectedness of plant species: Potential links for apparent competition
+    via plant diseases'
+  container-title: Plant Pathology
+  publisher: Wiley-Blackwell
+  page: '1195-1204'
+  volume: '62'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fppa.12045
+  DOI: 10.1111/ppa.12045
+...

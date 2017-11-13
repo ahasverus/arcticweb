@@ -1,0 +1,21 @@
+---
+references:
+- id: ID41149168534
+  type: article-journal
+  author:
+  - family: Roy
+    given: M.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2008'
+    month: '5'
+  title: Effects of predation on host-pathogen dynamics in SIR models
+  container-title: Theoretical Population Biology
+  publisher: Elsevier BV
+  page: '319-331'
+  volume: '73'
+  issue: '3'
+  URL: https://doi.org/10.1016%2Fj.tpb.2007.12.008
+  DOI: 10.1016/j.tpb.2007.12.008
+...

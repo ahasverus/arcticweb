@@ -1,0 +1,29 @@
+---
+references:
+- id: ID29044449542
+  type: article-journal
+  author:
+  - family: Gremillet
+    given: D.
+  - family: Kuntz
+    given: G.
+  - family: Gilbert
+    given: C.
+  - family: Woakes
+    given: A. J.
+  - family: Butler
+    given: P. J.
+  - family: Maho
+    given: Y. L.
+  issued:
+  - year: '2005'
+    month: '12'
+  title: Cormorants dive through the Polar night
+  container-title: Biology Letters
+  publisher: The Royal Society
+  page: '469-471'
+  volume: '1'
+  issue: '4'
+  URL: https://doi.org/10.1098%2Frsbl.2005.0356
+  DOI: 10.1098/rsbl.2005.0356
+...

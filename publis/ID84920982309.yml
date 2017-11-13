@@ -1,0 +1,52 @@
+---
+references:
+- id: ID84920982309
+  type: article-journal
+  author:
+  - family: Elmendorf
+    given: S. C.
+  - family: Henry
+    given: G. H. R.
+  - family: Hollister
+    given: R. D.
+  - family: Fosaa
+    given: A. M.
+  - family: Gould
+    given: W. A.
+  - family: Hermanutz
+    given: L.
+  - family: Hofgaard
+    given: A.
+  - family: Jónsdóttir
+    given: I. S.
+  - family: Jorgenson
+    given: J. C.
+  - family: Lévesque
+    given: E.
+  - family: Magnusson
+    given: B.
+  - family: Molau
+    given: U.
+  - family: Myers-Smith
+    given: I. H.
+  - family: Oberbauer
+    given: S. F.
+  - family: Rixen
+    given: C.
+  - family: Tweedie
+    given: C. E.
+  - family: Walker
+    given: M. D.
+  issued:
+  - year: '2014'
+    month: '12'
+  title: Experiment, monitoring, and gradient methods used to infer climate change
+    effects on plant communities yield consistent patterns
+  container-title: Proceedings of the National Academy of Sciences
+  publisher: Proceedings of the National Academy of Sciences
+  page: '448-452'
+  volume: '112'
+  issue: '2'
+  URL: https://doi.org/10.1073%2Fpnas.1410088112
+  DOI: 10.1073/pnas.1410088112
+...

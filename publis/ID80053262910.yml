@@ -1,0 +1,25 @@
+---
+references:
+- id: ID80053262910
+  type: article-journal
+  author:
+  - family: Holt
+    given: R. D.
+  - family: Barfield
+    given: M.
+  - family: Filin
+    given: I.
+  - family: Forde
+    given: S.
+  issued:
+  - year: '2011'
+    month: '10'
+  title: Predation and the Evolutionary Dynamics of Species Ranges
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '488-500'
+  volume: '178'
+  issue: '4'
+  URL: https://doi.org/10.1086%2F661909
+  DOI: 10.1086/661909
+...

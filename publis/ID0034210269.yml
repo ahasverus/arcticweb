@@ -1,0 +1,25 @@
+---
+references:
+- id: ID0034210269
+  type: article-journal
+  author:
+  - family: Elmhagen
+    given: B.
+  - family: Tannerfeldt
+    given: M.
+  - family: Verucci
+    given: P.
+  - family: Angerbjörn
+    given: A.
+  issued:
+  - year: '2000'
+    month: '6'
+  title: 'The arctic fox (Alopex lagopus): An opportunistic specialist'
+  container-title: Journal of Zoology
+  publisher: Wiley-Blackwell
+  page: '139-149'
+  volume: '251'
+  issue: '2'
+  URL: https://doi.org/10.1017%2Fs0952836900006014
+  DOI: 10.1017/s0952836900006014
+...

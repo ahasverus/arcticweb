@@ -1,0 +1,23 @@
+---
+references:
+- id: ID70349491088
+  type: article-journal
+  author:
+  - family: Lessard
+    given: J.-P.
+  - family: Dunn
+    given: R. R.
+  - family: Sanders
+    given: N. J.
+  issued:
+  - year: '2009'
+    month: '3'
+  title: Temperature-mediated coexistence in temperate forest ant communities
+  container-title: Insectes Sociaux
+  publisher: Springer Nature
+  page: '149-156'
+  volume: '56'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs00040-009-0006-4
+  DOI: 10.1007/s00040-009-0006-4
+...

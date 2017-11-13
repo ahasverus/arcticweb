@@ -1,0 +1,26 @@
+---
+references:
+- id: ID41049093300
+  type: article-journal
+  author:
+  - family: Hagen
+    given: S. B.
+  - family: Ims
+    given: R. A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Sørlibråten
+    given: O.
+  issued:
+  - year: '2007'
+    month: '6'
+  title: Fluctuating asymmetry as an indicator of elevation stress and distribution
+    limits in mountain birch (Betula pubescens)
+  container-title: Plant Ecology
+  publisher: Springer Nature
+  page: '157-163'
+  volume: '195'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs11258-007-9312-y
+  DOI: 10.1007/s11258-007-9312-y
+...

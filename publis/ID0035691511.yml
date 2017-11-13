@@ -1,0 +1,32 @@
+---
+references:
+- id: ID0035691511
+  type: article-journal
+  author:
+  - family: Henttonen
+    given: H.
+  - family: Fuglei
+    given: E.
+  - family: Gower
+    given: C. N.
+  - family: Haukisalmi
+    given: V.
+  - family: Ims
+    given: R. A.
+  - family: Niemimaa
+    given: J.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2001'
+    month: '6'
+  title: 'Echinococcus multilocularis on Svalbard: Introduction of an intermediate
+    host has enabled the local life-cycle'
+  container-title: Parasitology
+  publisher: Cambridge University Press (CUP)
+  page: '547-552'
+  volume: '123'
+  issue: '06'
+  URL: https://doi.org/10.1017%2Fs0031182001008800
+  DOI: 10.1017/s0031182001008800
+...

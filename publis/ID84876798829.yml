@@ -1,0 +1,35 @@
+---
+references:
+- id: ID84876798829
+  type: article-journal
+  author:
+  - family: Sandström
+    given: C. A. M.
+  - family: Buma
+    given: A. G. J.
+  - family: Hoye
+    given: B. J.
+  - family: Prop
+    given: J.
+  - family: Jeugd
+    given: H.
+    dropping-particle: van der
+  - family: Voslamber
+    given: B.
+  - family: Madsen
+    given: J.
+  - family: Loonen
+    given: M. J. J. E.
+  issued:
+  - year: '2013'
+    month: '5'
+  title: Latitudinal variability in the seroprevalence of antibodies against Toxoplasma
+    gondii in non-migrant and Arctic migratory geese
+  container-title: Veterinary Parasitology
+  publisher: Elsevier BV
+  page: '9-15'
+  volume: '194'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fj.vetpar.2012.12.027
+  DOI: 10.1016/j.vetpar.2012.12.027
+...

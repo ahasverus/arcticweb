@@ -1,0 +1,23 @@
+---
+references:
+- id: ID0031875188
+  type: article-journal
+  author:
+  - family: Gremillet
+    given: D.
+  - family: Tuschy
+    given: I.
+  - family: Kierspel
+    given: M.
+  issued:
+  - year: '1998'
+    month: '6'
+  title: Body temperature and insulation in diving Great Cormorants and European Shags
+  container-title: Functional Ecology
+  publisher: Wiley-Blackwell
+  page: '386-394'
+  volume: '12'
+  issue: '3'
+  URL: https://doi.org/10.1046%2Fj.1365-2435.1998.00199.x
+  DOI: 10.1046/j.1365-2435.1998.00199.x
+...

@@ -1,0 +1,43 @@
+---
+references:
+- id: ID85021857605
+  type: article-journal
+  author:
+  - family: Engemann
+    given: K.
+  - family: Sandel
+    given: B.
+  - family: Boyle
+    given: B.
+  - family: Enquist
+    given: B. J.
+  - family: Jørgensen
+    given: P. M.
+  - family: Kattge
+    given: J.
+  - family: McGill
+    given: B. J.
+  - family: Morueta-Holme
+    given: N.
+  - family: Peet
+    given: R. K.
+  - family: Spencer
+    given: N. J.
+  - family: Violle
+    given: C.
+  - family: Wiser
+    given: S. K.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2016'
+    month: '11'
+  title: A plant growth form dataset for the New World
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '3243-3243'
+  volume: '97'
+  issue: '11'
+  URL: https://doi.org/10.1002%2Fecy.1569
+  DOI: 10.1002/ecy.1569
+...

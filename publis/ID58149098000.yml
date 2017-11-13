@@ -1,0 +1,26 @@
+---
+references:
+- id: ID58149098000
+  type: article-journal
+  author:
+  - family: Fox
+    given: T. A. D.
+  - family: Eide
+    given: N. E.
+  - family: Bergersen
+    given: E.
+  - family: Madsen
+    given: J.
+  issued:
+  - year: '2009'
+    month: '1'
+  title: 'Resource partitioning in sympatric arctic-breeding geese: Summer habitat
+    use, spatial and dietary overlap of Barnacle and Pink-footed Geese in Svalbard'
+  container-title: Ibis
+  publisher: Wiley-Blackwell
+  page: '122-133'
+  volume: '151'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1474-919x.2008.00892.x
+  DOI: 10.1111/j.1474-919x.2008.00892.x
+...

@@ -1,0 +1,29 @@
+---
+references:
+- id: ID41349112081
+  type: chapter
+  author:
+  - family: Berg
+    given: T. B.
+  - family: Schmidt
+    given: N. M.
+  - family: Høye
+    given: T. T.
+  - family: Aastrup
+    given: P. J.
+  - family: Hendrichsen
+    given: D. K.
+  - family: Forchhammer
+    given: M. C.
+  - family: Klein
+    given: D. R.
+  issued:
+  - year: '2008'
+  title: High-Arctic Plant-Herbivore Interactions under Climate Influence
+  container-title: High-Arctic Ecosystem Dynamics in a Changing Climate
+  publisher: Elsevier
+  page: '275-298'
+  volume: '40'
+  URL: https://doi.org/10.1016%2Fs0065-2504%2807%2900012-8
+  DOI: 10.1016/s0065-2504(07)00012-8
+...

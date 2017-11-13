@@ -1,0 +1,42 @@
+---
+references:
+- id: ID84913616465
+  type: article-journal
+  author:
+  - family: Schiffers
+    given: K.
+  - family: Schurr
+    given: F. M.
+  - family: Travis
+    given: J. M. J.
+  - family: Duputié
+    given: A.
+  - family: Eckhart
+    given: V. M.
+  - family: Lavergne
+    given: S.
+  - family: McInerny
+    given: G.
+  - family: Moore
+    given: K. A.
+  - family: Pearman
+    given: P. B.
+  - family: Thuiller
+    given: W.
+  - family: Wüest
+    given: R. O.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2014'
+    month: '6'
+  title: Landscape structure and genetic architecture jointly impact rates of niche
+    evolution
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '1218-1229'
+  volume: '37'
+  issue: '12'
+  URL: https://doi.org/10.1111%2Fecog.00768
+  DOI: 10.1111/ecog.00768
+...

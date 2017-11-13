@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84857797433
+  type: article-journal
+  author:
+  - family: Brochet
+    given: A.-L.
+  - family: Dessborn
+    given: L.
+  - family: Legagneux
+    given: P.
+  - family: Elmberg
+    given: J.
+  - family: Gauthier-Clerc
+    given: M.
+  - family: Fritz
+    given: H.
+  - family: Guillemain
+    given: M.
+  issued:
+  - year: '2011'
+    month: '10'
+  title: Is diet segregation between dabbling ducks due to food partitioning? A review
+    of seasonal patterns in the Western Palearctic
+  container-title: Journal of Zoology
+  publisher: Wiley-Blackwell
+  page: '171-178'
+  volume: '286'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1469-7998.2011.00870.x
+  DOI: 10.1111/j.1469-7998.2011.00870.x
+...

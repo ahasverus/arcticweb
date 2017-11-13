@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84960851501
+  type: article-journal
+  author:
+  - family: Lescroël
+    given: A.
+  - family: Mathevet
+    given: R.
+  - family: Péron
+    given: C.
+  - family: Authier
+    given: M.
+  - family: Provost
+    given: P.
+  - family: Takahashi
+    given: A.
+  - family: Grémillet
+    given: D.
+  issued:
+  - year: '2016'
+    month: '6'
+  title: 'Seeing the ocean through the eyes of seabirds: A new path for marine conservation?'
+  container-title: Marine Policy
+  publisher: Elsevier BV
+  page: '212-220'
+  volume: '68'
+  URL: https://doi.org/10.1016%2Fj.marpol.2016.02.015
+  DOI: 10.1016/j.marpol.2016.02.015
+...

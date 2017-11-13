@@ -1,0 +1,30 @@
+---
+references:
+- id: ID85021413001
+  type: article-journal
+  author:
+  - family: Chan
+    given: K.
+  - family: Boutin
+    given: S.
+  - family: Hossie
+    given: T. J.
+  - family: Krebs
+    given: C. J.
+  - family: O'Donoghue
+    given: M.
+  - family: Murray
+    given: D. L.
+  issued:
+  - year: '2017'
+    month: '6'
+  title: Improving the assessment of predator functional responses by considering
+    alternate prey and predator interactions
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '1787-1796'
+  volume: '98'
+  issue: '7'
+  URL: https://doi.org/10.1002%2Fecy.1828
+  DOI: 10.1002/ecy.1828
+...

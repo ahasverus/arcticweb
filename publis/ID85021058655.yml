@@ -1,0 +1,29 @@
+---
+references:
+- id: ID85021058655
+  type: article-journal
+  author:
+  - family: Hamilton
+    given: C.
+  - family: Kovacs
+    given: K.
+  - family: Ims
+    given: R.
+  - family: Aars
+    given: J.
+  - family: Strøm
+    given: H.
+  - family: Lydersen
+    given: C.
+  issued:
+  - year: '2017'
+    month: '6'
+  title: Spatial overlap among an arctic predator, prey and scavenger in the marginal
+    ice zone
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '45-59'
+  volume: '573'
+  URL: https://doi.org/10.3354%2Fmeps12184
+  DOI: 10.3354/meps12184
+...

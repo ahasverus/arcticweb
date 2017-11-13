@@ -1,0 +1,27 @@
+---
+references:
+- id: ID41349089304
+  type: chapter
+  author:
+  - family: Forchhammer
+    given: M. C.
+  - family: Schmidt
+    given: N. M.
+  - family: Høye
+    given: T. T.
+  - family: Berg
+    given: T. B.
+  - family: Hendrichsen
+    given: D. K.
+  - family: Post
+    given: E.
+  issued:
+  - year: '2008'
+  title: Population Dynamical Responses to Climate Change
+  container-title: High-Arctic Ecosystem Dynamics in a Changing Climate
+  publisher: Elsevier
+  page: '391-419'
+  volume: '40'
+  URL: https://doi.org/10.1016%2Fs0065-2504%2807%2900017-7
+  DOI: 10.1016/s0065-2504(07)00017-7
+...

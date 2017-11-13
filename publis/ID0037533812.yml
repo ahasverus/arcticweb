@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0037533812
+  type: article-journal
+  author:
+  - family: Love
+    given: O. P.
+  - family: Bird
+    given: D. M.
+  - family: Shutt
+    given: L. J.
+  issued:
+  - year: '2003'
+    month: '4'
+  title: 'Plasma corticosterone in American kestrel siblings: Effects of age, hatching
+    order, and hatching asynchrony'
+  container-title: Hormones and Behavior
+  publisher: Elsevier BV
+  page: '480-488'
+  volume: '43'
+  issue: '4'
+  URL: https://doi.org/10.1016%2Fs0018-506x%2803%2900033-3
+  DOI: 10.1016/s0018-506x(03)00033-3
+...

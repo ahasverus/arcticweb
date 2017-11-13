@@ -1,0 +1,27 @@
+---
+references:
+- id: ID13444273614
+  type: article-journal
+  author:
+  - family: Holt
+    given: R. D.
+  - family: Keitt
+    given: T. H.
+  - family: Lewis
+    given: M. A.
+  - family: Maurer
+    given: B. A.
+  - family: Taper
+    given: M. L.
+  issued:
+  - year: '2005'
+    month: '1'
+  title: 'Theoretical models of species’ borders: Single species approaches'
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '18-27'
+  volume: '108'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.0030-1299.2005.13147.x
+  DOI: 10.1111/j.0030-1299.2005.13147.x
+...

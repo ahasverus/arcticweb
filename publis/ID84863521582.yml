@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84863521582
+  type: article-journal
+  author:
+  - family: Lenoir
+    given: J.
+  - family: Virtanen
+    given: R.
+  - family: Oksanen
+    given: J.
+  - family: Oksanen
+    given: L.
+  - family: Luoto
+    given: M.
+  - family: Grytnes
+    given: J.-A.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2011'
+    month: '12'
+  title: Dispersal ability links to cross-scale species diversity patterns across
+    the Eurasian Arctic tundra
+  container-title: Global Ecology and Biogeography
+  publisher: Wiley-Blackwell
+  page: '851-860'
+  volume: '21'
+  issue: '8'
+  URL: https://doi.org/10.1111%2Fj.1466-8238.2011.00733.x
+  DOI: 10.1111/j.1466-8238.2011.00733.x
+...

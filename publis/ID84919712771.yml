@@ -1,0 +1,33 @@
+---
+references:
+- id: ID84919712771
+  type: article-journal
+  author:
+  - family: Andersen
+    given: M. S.
+  - family: Fuglei
+    given: E.
+  - family: König
+    given: M.
+  - family: Lipasti
+    given: I.
+  - family: Pedersen
+    given: S. Ø.
+  - family: Polder
+    given: A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Routti
+    given: H.
+  issued:
+  - year: '2015'
+    month: '4'
+  title: Levels and temporal trends of persistent organic pollutants (POPs) in arctic
+    foxes (Vulpes lagopus) from Svalbard in relation to dietary habits and food availability
+  container-title: Science of The Total Environment
+  publisher: Elsevier BV
+  page: '112-122'
+  volume: '511'
+  URL: https://doi.org/10.1016%2Fj.scitotenv.2014.12.039
+  DOI: 10.1016/j.scitotenv.2014.12.039
+...

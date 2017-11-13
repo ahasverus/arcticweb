@@ -1,0 +1,23 @@
+---
+references:
+- id: ID33947110357
+  type: article-journal
+  author:
+  - family: Enstipp
+    given: M.
+  - family: Grémillet
+    given: D.
+  - family: Jones
+    given: D.
+  issued:
+  - year: '2007'
+    month: '2'
+  title: Investigating the functional link between prey abundance and seabird predatory
+    performance
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '267-279'
+  volume: '331'
+  URL: https://doi.org/10.3354%2Fmeps331267
+  DOI: 10.3354/meps331267
+...

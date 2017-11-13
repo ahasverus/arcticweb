@@ -1,0 +1,28 @@
+---
+references:
+- id: ID85010715668
+  type: chapter
+  author:
+  - family: Massol
+    given: F.
+  - family: Dubart
+    given: M.
+  - family: Calcagno
+    given: V.
+  - family: Cazelles
+    given: K.
+  - family: Jacquet
+    given: C.
+  - family: Kéfi
+    given: S.
+  - family: Gravel
+    given: D.
+  issued:
+  - year: '2017'
+  title: Island Biogeography of Food Webs
+  container-title: 'Networks of Invasion: A Synthesis of Concepts'
+  publisher: Elsevier
+  page: '183-262'
+  URL: https://doi.org/10.1016%2Fbs.aecr.2016.10.004
+  DOI: 10.1016/bs.aecr.2016.10.004
+...

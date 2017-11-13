@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84928794630
+  type: article-journal
+  author:
+  - family: Pollet
+    given: T.
+  - family: Cloutier
+    given: O.
+  - family: Nozais
+    given: C.
+  - family: McKindsey
+    given: C. W.
+  - family: Archambault
+    given: P.
+  editor:
+  - family: Hewitt
+    given: Judi
+  issued:
+  - year: '2015'
+    month: '4'
+  title: Metabolic activity and functional diversity changes in sediment prokaryotic
+    communities organically enriched with mussel biodeposits
+  container-title: PLOS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e0123681'
+  volume: '10'
+  issue: '4'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0123681
+  DOI: 10.1371/journal.pone.0123681
+...

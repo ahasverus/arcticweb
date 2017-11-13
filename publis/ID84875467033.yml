@@ -1,0 +1,39 @@
+---
+references:
+- id: ID84875467033
+  type: article-journal
+  author:
+  - family: Truchon
+    given: M.-H.
+  - family: Measures
+    given: L.
+  - family: L’hérault
+    given: V.
+  - family: Brêthes
+    given: J.-C.
+  - family: Galbraith
+    given: P. S.
+  - family: Harvey
+    given: M.
+  - family: Lessard
+    given: S.
+  - family: Starr
+    given: M.
+  - family: Lecomte
+    given: N.
+  editor:
+  - family: Browman
+    given: Howard
+  issued:
+  - year: '2013'
+    month: '3'
+  title: 'Marine Mammal Strandings and Environmental Changes: A 15-Year Study in
+    the St. Lawrence Ecosystem'
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e59311'
+  volume: '8'
+  issue: '3'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0059311
+  DOI: 10.1371/journal.pone.0059311
+...

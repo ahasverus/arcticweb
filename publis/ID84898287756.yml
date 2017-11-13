@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84898287756
+  type: article-journal
+  author:
+  - family: Fitzpatrick
+    given: M. C.
+  - family: Sanders
+    given: N. J.
+  - family: Normand
+    given: S.
+  - family: Svenning
+    given: J.-C.
+  - family: Ferrier
+    given: S.
+  - family: Gove
+    given: A. D.
+  - family: Dunn
+    given: R. R.
+  issued:
+  - year: '2013'
+    month: '8'
+  title: 'Environmental and historical imprints on beta diversity: Insights from
+    variation in rates of species turnover along gradients'
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '20131201-20131201'
+  volume: '280'
+  issue: '1768'
+  URL: https://doi.org/10.1098%2Frspb.2013.1201
+  DOI: 10.1098/rspb.2013.1201
+...

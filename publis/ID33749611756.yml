@@ -1,0 +1,23 @@
+---
+references:
+- id: ID33749611756
+  type: article-journal
+  author:
+  - family: Svenning
+    given: J.-C.
+  - family: Normand
+    given: S.
+  - family: Skov
+    given: F.
+  issued:
+  - year: '2006'
+    month: '11'
+  title: Range filling in European trees (2)
+  container-title: Journal of Biogeography
+  publisher: Wiley-Blackwell
+  page: '2018-2021'
+  volume: '33'
+  issue: '11'
+  URL: https://doi.org/10.1111%2Fj.1365-2699.2006.01630.x
+  DOI: 10.1111/j.1365-2699.2006.01630.x
+...

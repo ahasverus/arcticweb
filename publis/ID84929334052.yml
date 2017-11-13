@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84929334052
+  type: article-journal
+  author:
+  - family: Roy
+    given: V.
+  - family: Iken
+    given: K.
+  - family: Gosselin
+    given: M.
+  - family: Tremblay
+    given: J.-R.
+  - family: Bélanger
+    given: S.
+  - family: Archambault
+    given: P.
+  issued:
+  - year: '2015'
+    month: '8'
+  title: Benthic faunal assimilation pathways and depth-related changes in food-web
+    structure across the Canadian Arctic
+  container-title: 'Deep Sea Research Part I: Oceanographic Research Papers'
+  publisher: Elsevier BV
+  page: '55-71'
+  volume: '102'
+  URL: https://doi.org/10.1016%2Fj.dsr.2015.04.009
+  DOI: 10.1016/j.dsr.2015.04.009
+...

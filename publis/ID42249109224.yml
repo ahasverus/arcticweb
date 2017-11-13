@@ -1,0 +1,30 @@
+---
+references:
+- id: ID42249109224
+  type: article-journal
+  author:
+  - family: Bårdsen
+    given: B.-J.
+  - family: Fauchald
+    given: P.
+  - family: Tveraa
+    given: T.
+  - family: Langeland
+    given: K.
+  - family: Yoccoz
+    given: N. G.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2008'
+    month: '3'
+  title: Experimental evidence of a risk-sensitive reproductive allocation in a long-lived
+    mammal
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '829-837'
+  volume: '89'
+  issue: '3'
+  URL: https://doi.org/10.1890%2F07-0414.1
+  DOI: 10.1890/07-0414.1
+...

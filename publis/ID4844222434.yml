@@ -1,0 +1,30 @@
+---
+references:
+- id: ID4844222434
+  type: article-journal
+  author:
+  - family: Salminen
+    given: J.-P.
+  - family: Roslin
+    given: T.
+  - family: Karonen
+    given: M.
+  - family: Sinkkonen
+    given: J.
+  - family: Pihlaja
+    given: K.
+  - family: Pulkkinen
+    given: P.
+  issued:
+  - year: '2004'
+    month: '9'
+  title: Seasonal variation in the content of hydrolyzable tannins, flavonoid glycosides,
+    and proanthocyanidins in oak leaves
+  container-title: Journal of Chemical Ecology
+  publisher: Springer Nature
+  page: '1693-1711'
+  volume: '30'
+  issue: '9'
+  URL: https://doi.org/10.1023%2Fb%3Ajoec.0000042396.40756.b7
+  DOI: 10.1023/b:joec.0000042396.40756.b7
+...

@@ -1,0 +1,28 @@
+---
+references:
+- id: ID33646524481
+  type: article-journal
+  author:
+  - family: Bjorholm
+    given: S.
+  - family: Svenning
+    given: J.-C.
+  - family: Baker
+    given: W. J.
+  - family: Skov
+    given: F.
+  - family: Balslev
+    given: H.
+  issued:
+  - year: '2006'
+    month: '5'
+  title: Historical legacies in the geographical diversity patterns of New World palm
+    (Arecaceae) subfamilies
+  container-title: Botanical Journal of the Linnean Society
+  publisher: Oxford University Press (OUP)
+  page: '113-125'
+  volume: '151'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1095-8339.2006.00527.x
+  DOI: 10.1111/j.1095-8339.2006.00527.x
+...

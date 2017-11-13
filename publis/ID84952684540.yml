@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84952684540
+  type: article-journal
+  author:
+  - family: Christin
+    given: S.
+  - family: St-Laurent
+    given: M.-H.
+  - family: Berteaux
+    given: D.
+  editor:
+  - family: Deng
+    given: Z. Daniel
+  issued:
+  - year: '2015'
+    month: '11'
+  title: Evaluation of argos telemetry accuracy in the high-arctic and implications
+    for the estimation of home-range size
+  container-title: PLOS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e0141999'
+  volume: '10'
+  issue: '11'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0141999
+  DOI: 10.1371/journal.pone.0141999
+...

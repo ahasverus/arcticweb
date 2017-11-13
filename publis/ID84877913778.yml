@@ -1,0 +1,34 @@
+---
+references:
+- id: ID84877913778
+  type: article-journal
+  author:
+  - family: Thuiller
+    given: W.
+  - family: Münkemüller
+    given: T.
+  - family: Lavergne
+    given: S.
+  - family: Mouillot
+    given: D.
+  - family: Mouquet
+    given: N.
+  - family: Schiffers
+    given: K.
+  - family: Gravel
+    given: D.
+  editor:
+  - family: Holyoak
+    given: Marcel
+  issued:
+  - year: '2013'
+    month: '5'
+  title: A road map for integrating eco-evolutionary processes into biodiversity models
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '94-105'
+  volume: '16'
+  issue: SUPPL.1
+  URL: https://doi.org/10.1111%2Fele.12104
+  DOI: 10.1111/ele.12104
+...

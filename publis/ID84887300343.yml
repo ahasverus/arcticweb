@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84887300343
+  type: article-journal
+  author:
+  - family: McCloskey
+    given: M.
+  - family: Robinson
+    given: S.
+  - family: Smith
+    given: P. A.
+  - family: Forbes
+    given: M.
+  issued:
+  - year: '2013'
+  title: Mercury concentration in the eggs of four Canadian Arctic-breeding shorebirds
+    not predicted based on their population statuses
+  container-title: SpringerPlus
+  publisher: Springer Nature
+  page: '567'
+  volume: '2'
+  issue: '1'
+  URL: https://doi.org/10.1186%2F2193-1801-2-567
+  DOI: 10.1186/2193-1801-2-567
+...

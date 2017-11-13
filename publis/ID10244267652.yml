@@ -1,0 +1,33 @@
+---
+references:
+- id: ID10244267652
+  type: article-journal
+  author:
+  - family: Sørensen
+    given: K. K.
+  - family: Mørk
+    given: T.
+  - family: Sigurdardóttir
+    given: Ó. G.
+  - family: Åsbakk
+    given: K.
+  - family: Åkerstedt
+    given: J.
+  - family: Bergsjø
+    given: B.
+  - family: Fuglei
+    given: E.
+  issued:
+  - year: '2005'
+    month: '4'
+  title: Acute toxoplasmosis in three wild arctic foxes (Alopex lagopus) from Svalbard;
+    one with co-infections of Salmonella Enteritidis PT1 and Yersinia pseudotuberculosis
+    serotype 2b
+  container-title: Research in Veterinary Science
+  publisher: Elsevier BV
+  page: '161-167'
+  volume: '78'
+  issue: '2'
+  URL: https://doi.org/10.1016%2Fj.rvsc.2004.07.010
+  DOI: 10.1016/j.rvsc.2004.07.010
+...

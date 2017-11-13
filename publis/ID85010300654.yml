@@ -1,0 +1,35 @@
+---
+references:
+- id: ID85010300654
+  type: article-journal
+  author:
+  - family: Cámara-Leret
+    given: R.
+  - family: Faurby
+    given: S.
+  - family: Macía
+    given: M. J.
+  - family: Balslev
+    given: H.
+  - family: Göldel
+    given: B.
+  - family: Svenning
+    given: J.-C.
+  - family: Kissling
+    given: W. D.
+  - family: Rønsted
+    given: N.
+  - family: Saslis-Lagoudakis
+    given: C. H.
+  issued:
+  - year: '2017'
+    month: '1'
+  title: Fundamental species traits explain provisioning services of tropical American
+    palms
+  container-title: Nature Plants
+  publisher: Springer Nature
+  page: '16220'
+  volume: '3'
+  URL: https://doi.org/10.1038%2Fnplants.2016.220
+  DOI: 10.1038/nplants.2016.220
+...

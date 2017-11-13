@@ -1,0 +1,37 @@
+---
+references:
+- id: ID84879985844
+  type: article-journal
+  author:
+  - family: Gauthier
+    given: G.
+  - family: Bety
+    given: J.
+  - family: Cadieux
+    given: M.-C.
+  - family: Legagneux
+    given: P.
+  - family: Doiron
+    given: M.
+  - family: Chevallier
+    given: C.
+  - family: Lai
+    given: S.
+  - family: Tarroux
+    given: A.
+  - family: Berteaux
+    given: D.
+  issued:
+  - year: '2013'
+    month: '7'
+  title: Long-term monitoring at multiple trophic levels suggests heterogeneity in
+    responses to climate change in the Canadian Arctic tundra
+  container-title: 'Philosophical Transactions of the Royal Society B: Biological
+    Sciences'
+  publisher: The Royal Society
+  page: '20120482-20120482'
+  volume: '368'
+  issue: '1624'
+  URL: https://doi.org/10.1098%2Frstb.2012.0482
+  DOI: 10.1098/rstb.2012.0482
+...

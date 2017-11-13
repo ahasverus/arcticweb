@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84879599752
+  type: article-journal
+  author:
+  - family: Edwards
+    given: D. B.
+  - family: Chin
+    given: E. H.
+  - family: Burness
+    given: G.
+  - family: Gilchrist
+    given: H. G.
+  - family: Schulte-Hostedde
+    given: A. I.
+  issued:
+  - year: '2013'
+    month: '9'
+  title: Linking sex differences in corticosterone with individual reproductive behaviour
+    and hatch success in two species of uniparental shorebirds
+  container-title: 'Comparative Biochemistry and Physiology Part A: Molecular &
+    Integrative Physiology'
+  publisher: Elsevier BV
+  page: '169-176'
+  volume: '166'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fj.cbpa.2013.05.024
+  DOI: 10.1016/j.cbpa.2013.05.024
+...

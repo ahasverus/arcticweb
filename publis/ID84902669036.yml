@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84902669036
+  type: article-journal
+  author:
+  - family: Iverson
+    given: S. A.
+  - family: Gilchrist
+    given: H. G.
+  - family: Smith
+    given: P. A.
+  - family: Gaston
+    given: A. J.
+  - family: Forbes
+    given: M. R.
+  issued:
+  - year: '2014'
+    month: '2'
+  title: Longer ice-free seasons increase the risk of nest depredation by polar bears
+    for colonial breeding birds in the Canadian Arctic
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '20133128-20133128'
+  volume: '281'
+  issue: '1779'
+  URL: https://doi.org/10.1098%2Frspb.2013.3128
+  DOI: 10.1098/rspb.2013.3128
+...

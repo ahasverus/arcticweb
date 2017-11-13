@@ -1,0 +1,22 @@
+---
+references:
+- id: ID0034884836
+  type: article-journal
+  author:
+  - family: Poussart
+    given: C.
+  - family: Gauthier
+    given: G.
+  - family: Larochelle
+    given: J.
+  issued:
+  - year: '2001'
+  title: Incubation behaviour of greater snow geese in relation to weather conditions
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '671-678'
+  volume: '79'
+  issue: '4'
+  URL: https://doi.org/10.1139%2Fcjz-79-4-671
+  DOI: 10.1139/cjz-79-4-671
+...

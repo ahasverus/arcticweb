@@ -1,0 +1,27 @@
+---
+references:
+- id: ID85018584256
+  type: article-journal
+  author:
+  - family: Ilsøe
+    given: S. K.
+  - family: Kissling
+    given: W. D.
+  - family: Fjeldså
+    given: J.
+  - family: Sandel
+    given: B.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2017'
+    month: '4'
+  title: Global variation in woodpecker species richness shaped by tree availability
+  container-title: Journal of Biogeography
+  publisher: Wiley-Blackwell
+  page: '1824-1835'
+  volume: '44'
+  issue: '8'
+  URL: https://doi.org/10.1111%2Fjbi.13009
+  DOI: 10.1111/jbi.13009
+...

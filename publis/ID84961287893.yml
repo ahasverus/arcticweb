@@ -1,0 +1,49 @@
+---
+references:
+- id: ID84961287893
+  type: article-journal
+  author:
+  - family: Soininen
+    given: E. M.
+  - family: Gauthier
+    given: G.
+  - family: Bilodeau
+    given: F.
+  - family: Berteaux
+    given: D.
+  - family: Gielly
+    given: L.
+  - family: Taberlet
+    given: P.
+  - family: Gussarova
+    given: G.
+  - family: Bellemain
+    given: E.
+  - family: Hassel
+    given: K.
+  - family: Stenøien
+    given: H. K.
+  - family: Epp
+    given: L.
+  - family: Schrøder-Nielsen
+    given: A.
+  - family: Brochmann
+    given: C.
+  - family: Yoccoz
+    given: N. G.
+  editor:
+  - family: Melcher
+    given: Ulrich
+  issued:
+  - year: '2015'
+    month: '1'
+  title: Highly overlapping winter diet in two sympatric lemming species revealed
+    by DNA metabarcoding
+  container-title: PLOS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e0115335'
+  volume: '10'
+  issue: '1'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0115335
+  DOI: 10.1371/journal.pone.0115335
+...

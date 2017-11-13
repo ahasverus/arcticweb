@@ -1,0 +1,37 @@
+---
+references:
+- id: ID84978700478
+  type: article-journal
+  author:
+  - family: Perkins
+    given: M.
+  - family: Ferguson
+    given: L.
+  - family: Lanctot
+    given: R. B.
+  - family: Stenhouse
+    given: I. J.
+  - family: Kendall
+    given: S.
+  - family: Brown
+    given: S.
+  - family: Gates
+    given: H. R.
+  - family: Hall
+    given: J. O.
+  - family: Regan
+    given: K.
+  - family: Evers
+    given: D. C.
+  issued:
+  - year: '2016'
+    month: '8'
+  title: Mercury exposure and risk in breeding and staging Alaskan shorebirds
+  container-title: The Condor
+  publisher: Cooper Ornithological Society
+  page: '571-582'
+  volume: '118'
+  issue: '3'
+  URL: https://doi.org/10.1650%2Fcondor-16-36.1
+  DOI: 10.1650/condor-16-36.1
+...

@@ -1,0 +1,21 @@
+---
+references:
+- id: ID34247546636
+  type: article-journal
+  author:
+  - family: Holt
+    given: R. D.
+  - family: Roy
+    given: M.
+  issued:
+  - year: '2007'
+    month: '5'
+  title: Predation can increase the prevalence of infectious disease
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '690-699'
+  volume: '169'
+  issue: '5'
+  URL: https://doi.org/10.1086%2F513188
+  DOI: 10.1086/513188
+...

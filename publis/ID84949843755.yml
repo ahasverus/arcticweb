@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84949843755
+  type: article-journal
+  author:
+  - family: Gray
+    given: S. M.
+  - family: Poisot
+    given: T.
+  - family: Harvey
+    given: E.
+  - family: Mouquet
+    given: N.
+  - family: Miller
+    given: T. E.
+  - family: Gravel
+    given: D.
+  issued:
+  - year: '2015'
+    month: '12'
+  title: Temperature and trophic structure are driving microbial productivity along
+    a biogeographical gradient
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '981-989'
+  volume: '39'
+  issue: '10'
+  URL: https://doi.org/10.1111%2Fecog.01748
+  DOI: 10.1111/ecog.01748
+...

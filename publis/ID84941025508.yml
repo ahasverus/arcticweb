@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84941025508
+  type: article-journal
+  author:
+  - family: Kuusijärvi
+    given: A.
+  - family: Hardwick
+    given: B.
+  - family: Luoto
+    given: M.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2015'
+    month: '6'
+  title: 'A stable, genetically determined colour dimorphism in the dung beetle
+    Aphodius depressus: Patterns and mechanisms'
+  container-title: Ecological Entomology
+  publisher: Wiley-Blackwell
+  page: '575-584'
+  volume: '40'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Feen.12223
+  DOI: 10.1111/een.12223
+...

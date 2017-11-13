@@ -1,0 +1,30 @@
+---
+references:
+- id: ID80052256564
+  type: article-journal
+  author:
+  - family: Bustnes
+    given: J. O.
+  - family: Yoccoz
+    given: N. G.
+  - family: Bangjord
+    given: G.
+  - family: Herzke
+    given: D.
+  - family: Ahrens
+    given: L.
+  - family: Skaare
+    given: J. U.
+  issued:
+  - year: '2011'
+    month: '9'
+  title: Impacts of climate and feeding conditions on the annual accumulation (1986-2009)
+    of persistent organic pollutants in a terrestrial raptor
+  container-title: Environmental Science & Technology
+  publisher: American Chemical Society (ACS)
+  page: '7542-7547'
+  volume: '45'
+  issue: '17'
+  URL: https://doi.org/10.1021%2Fes201786x
+  DOI: 10.1021/es201786x
+...

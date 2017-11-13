@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84883324260
+  type: article-journal
+  author:
+  - family: Authier
+    given: M.
+  - family: Péron
+    given: C.
+  - family: Mante
+    given: A.
+  - family: Vidal
+    given: P.
+  - family: Grémillet
+    given: D.
+  editor:
+  - family: Hadfield
+    given: Jarrod
+  issued:
+  - year: '2013'
+    month: '7'
+  title: Designing observational biologging studies to assess the causal effect of
+    instrumentation
+  container-title: Methods in Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '802-810'
+  volume: '4'
+  issue: '9'
+  URL: https://doi.org/10.1111%2F2041-210x.12075
+  DOI: 10.1111/2041-210x.12075
+...

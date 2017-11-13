@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84984679706
+  type: article-journal
+  author:
+  - family: Madsen
+    given: J.
+  - family: Clausen
+    given: K. K.
+  - family: Christensen
+    given: T. K.
+  - family: Johnson
+    given: F. A.
+  issued:
+  - year: '2016'
+    month: '9'
+  title: Regulation of the hunting season as a tool for adaptive harvest management
+    - First results for pink-footed geese Anser brachyrhynchus
+  container-title: Wildlife Biology
+  publisher: Wildlife Biology
+  page: '204-208'
+  volume: '22'
+  issue: '5'
+  URL: https://doi.org/10.2981%2Fwlb.00234
+  DOI: 10.2981/wlb.00234
+...

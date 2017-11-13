@@ -1,0 +1,26 @@
+---
+references:
+- id: ID85015283848
+  type: article-journal
+  author:
+  - family: Grilli
+    given: M. G.
+  - family: Lambertucci
+    given: S. A.
+  - family: Therrien
+    given: J.-F.
+  - family: Bildstein
+    given: K. L.
+  issued:
+  - year: '2017'
+    month: '3'
+  title: Wing size but not wing shape is related to migratory behavior in a soaring
+    bird
+  container-title: Journal of Avian Biology
+  publisher: Wiley-Blackwell
+  page: '669-678'
+  volume: '48'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fjav.01220
+  DOI: 10.1111/jav.01220
+...

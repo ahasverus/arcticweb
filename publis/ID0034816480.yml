@@ -1,0 +1,22 @@
+---
+references:
+- id: ID0034816480
+  type: article-journal
+  author:
+  - family: Ehrich
+    given: D.
+  - family: Stenseth
+    given: N. C.
+  issued:
+  - year: '2001'
+    month: '6'
+  title: 'Genetic structure of Siberian lemmings (Lemmus sibiricus) in a continuous
+    habitat: Large patches rather than isolation by distance'
+  container-title: Heredity
+  publisher: Springer Nature
+  page: '716-730'
+  volume: '86'
+  issue: '6'
+  URL: https://doi.org/10.1046%2Fj.1365-2540.2001.00883.x
+  DOI: 10.1046/j.1365-2540.2001.00883.x
+...

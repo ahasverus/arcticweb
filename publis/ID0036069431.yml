@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0036069431
+  type: article-journal
+  author:
+  - family: Gill
+    given: V. A.
+  - family: Hatch
+    given: S. A.
+  - family: Lanctot
+    given: R. B.
+  issued:
+  - year: '2002'
+    month: '4'
+  title: Sensitivity of breeding parameters to food supply in Black-legged Kittiwakes
+    Rissa tridactyla
+  container-title: Ibis
+  publisher: Wiley-Blackwell
+  page: '268-283'
+  volume: '144'
+  issue: '2'
+  URL: https://doi.org/10.1046%2Fj.1474-919x.2002.00043.x
+  DOI: 10.1046/j.1474-919x.2002.00043.x
+...

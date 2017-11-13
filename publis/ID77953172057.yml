@@ -1,0 +1,28 @@
+---
+references:
+- id: ID77953172057
+  type: article-journal
+  author:
+  - family: Gallien
+    given: L.
+  - family: Münkemüller
+    given: T.
+  - family: Albert
+    given: C. H.
+  - family: Boulangeat
+    given: I.
+  - family: Thuiller
+    given: W.
+  issued:
+  - year: '2010'
+    month: '4'
+  title: 'Predicting potential distributions of invasive species: Where to go from
+    here?'
+  container-title: Diversity and Distributions
+  publisher: Wiley-Blackwell
+  page: '331-342'
+  volume: '16'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1472-4642.2010.00652.x
+  DOI: 10.1111/j.1472-4642.2010.00652.x
+...

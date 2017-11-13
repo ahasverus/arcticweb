@@ -1,0 +1,23 @@
+---
+references:
+- id: ID0008584672
+  type: article-journal
+  author:
+  - family: Glass
+    given: G. E.
+  - family: Holt
+    given: R. D.
+  - family: Slade
+    given: N. A.
+  issued:
+  - year: '1985'
+    month: '5'
+  title: Infanticide as an evolutionarily stable strategy
+  container-title: Animal Behaviour
+  publisher: Elsevier BV
+  page: '384-391'
+  volume: '33'
+  issue: '2'
+  URL: https://doi.org/10.1016%2Fs0003-3472%2885%2980062-2
+  DOI: 10.1016/s0003-3472(85)80062-2
+...

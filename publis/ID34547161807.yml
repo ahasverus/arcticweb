@@ -1,0 +1,28 @@
+---
+references:
+- id: ID34547161807
+  type: article-journal
+  author:
+  - family: Assefa
+    given: A.
+  - family: Ehrich
+    given: D.
+  - family: Taberlet
+    given: P.
+  - family: Nemomissa
+    given: S.
+  - family: Brochmann
+    given: C.
+  issued:
+  - year: '2007'
+    month: '5'
+  title: Pleistocene colonization of afro-alpine ’sky islands’ by the arctic-alpine
+    Arabis alpina
+  container-title: Heredity
+  publisher: Springer Nature
+  page: '133-142'
+  volume: '99'
+  issue: '2'
+  URL: https://doi.org/10.1038%2Fsj.hdy.6800974
+  DOI: 10.1038/sj.hdy.6800974
+...

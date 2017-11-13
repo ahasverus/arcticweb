@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0037396775
+  type: article-journal
+  author:
+  - family: Raundrup
+    given: K.
+  - family: Clemmensen
+    given: S.
+  - family: Forchhammer
+    given: M. C.
+  - family: Kapel
+    given: C. M. O.
+  issued:
+  - year: '2003'
+    month: '4'
+  title: Field method for isolation of trichostrongyle larvae from vegetation of natural
+    pastures of arctic ruminants
+  container-title: Journal of Parasitology
+  publisher: American Society of Parasitologists
+  page: '422-423'
+  volume: '89'
+  issue: '2'
+  URL: https://doi.org/10.1645%2F0022-3395%282003%29089%5B0422%3Afmfiot%5D2.0.co%3B2
+  DOI: 10.1645/0022-3395(2003)089[0422:fmfiot]2.0.co;2
+...

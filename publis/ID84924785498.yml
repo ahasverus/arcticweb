@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84924785498
+  type: article-journal
+  author:
+  - family: Paillet
+    given: Y.
+  - family: Pernot
+    given: C.
+  - family: Boulanger
+    given: V.
+  - family: Debaive
+    given: N.
+  - family: Fuhr
+    given: M.
+  - family: Gilg
+    given: O.
+  - family: Gosselin
+    given: F.
+  issued:
+  - year: '2015'
+    month: '6'
+  title: 'Quantifying the recovery of old-growth attributes in forest reserves:
+    A first reference for France'
+  container-title: Forest Ecology and Management
+  publisher: Elsevier BV
+  page: '51-64'
+  volume: '346'
+  URL: https://doi.org/10.1016%2Fj.foreco.2015.02.037
+  DOI: 10.1016/j.foreco.2015.02.037
+...

@@ -1,0 +1,23 @@
+---
+references:
+- id: ID66749167061
+  type: article-journal
+  author:
+  - family: Gilg
+    given: O.
+  - family: Sittler
+    given: B.
+  - family: Hanski
+    given: I.
+  issued:
+  - year: '2009'
+    month: '11'
+  title: Climate change and cyclic predator-prey population dynamics in the high Arctic
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '2634-2652'
+  volume: '15'
+  issue: '11'
+  URL: https://doi.org/10.1111%2Fj.1365-2486.2009.01927.x
+  DOI: 10.1111/j.1365-2486.2009.01927.x
+...

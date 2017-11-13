@@ -1,0 +1,30 @@
+---
+references:
+- id: ID80054734170
+  type: article-journal
+  author:
+  - family: Krebs
+    given: C. J.
+  - family: Boonstra
+    given: R.
+  - family: Gilbert
+    given: S.
+  - family: Reid
+    given: D.
+  - family: Kenney
+    given: A. J.
+  - family: Hofer
+    given: E. J.
+  issued:
+  - year: '2011'
+    month: '10'
+  title: 'Density estimation for small mammals from livetrapping grids: Rodents
+    in northern Canada'
+  container-title: Journal of Mammalogy
+  publisher: Oxford University Press (OUP)
+  page: '974-981'
+  volume: '92'
+  issue: '5'
+  URL: https://doi.org/10.1644%2F10-mamm-a-313.1
+  DOI: 10.1644/10-mamm-a-313.1
+...

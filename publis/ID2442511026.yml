@@ -1,0 +1,21 @@
+---
+references:
+- id: ID2442511026
+  type: article-journal
+  author:
+  - family: Loreau
+    given: M.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2004'
+    month: '4'
+  title: Spatial flows and the regulation of ecosystems
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '606-615'
+  volume: '163'
+  issue: '4'
+  URL: https://doi.org/10.1086%2F382600
+  DOI: 10.1086/382600
+...

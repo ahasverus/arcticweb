@@ -1,0 +1,29 @@
+---
+references:
+- id: ID85026660024
+  type: article-journal
+  author:
+  - family: Moullec
+    given: M. L.
+  - family: Pedersen
+    given: S. N.
+  - family: Yoccoz
+    given: N. G.
+  - family: Aanes
+    given: R.
+  - family: Tufto
+    given: J.
+  - family: Hansen
+    given: B. B.
+  issued:
+  - year: '2017'
+    month: '1'
+  title: 'Ungulate population monitoring in an open tundra landscape: Distance sampling
+    versus total counts'
+  container-title: Wildlife Biology
+  publisher: Wildlife Biology
+  page: wlb.00299
+  volume: '17'
+  URL: https://doi.org/10.2981%2Fwlb.00299
+  DOI: 10.2981/wlb.00299
+...

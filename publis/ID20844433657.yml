@@ -1,0 +1,26 @@
+---
+references:
+- id: ID20844433657
+  type: article-journal
+  author:
+  - family: Calvert
+    given: A. M.
+  - family: Gauthier
+    given: G.
+  - family: Reed
+    given: A.
+  editor:
+  - family: Guliano
+  issued:
+  - year: '2005'
+    month: '4'
+  title: Spatiotemporal heterogeneity of greater snow goose harvest and implications
+    for hunting regulations
+  container-title: Journal of Wildlife Management
+  publisher: Wiley-Blackwell
+  page: '561-573'
+  volume: '69'
+  issue: '2'
+  URL: https://doi.org/10.2193%2F0022-541x%282005%29069%5B0561%3Ashogsg%5D2.0.co%3B2
+  DOI: 10.2193/0022-541x(2005)069[0561:shogsg]2.0.co;2
+...

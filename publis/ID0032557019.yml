@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0032557019
+  type: article-journal
+  author:
+  - family: Forchhammer
+    given: M. C.
+  - family: Stenseth
+    given: N. C.
+  - family: Post
+    given: E.
+  - family: Landvatn
+    given: R.
+  issued:
+  - year: '1998'
+    month: '2'
+  title: 'Population dynamics of Norwegian red deer: Density-dependence and climatic
+    variation'
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '341-350'
+  volume: '265'
+  issue: '1393'
+  URL: https://doi.org/10.1098%2Frspb.1998.0301
+  DOI: 10.1098/rspb.1998.0301
+...

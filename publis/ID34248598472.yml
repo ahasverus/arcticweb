@@ -1,0 +1,26 @@
+---
+references:
+- id: ID34248598472
+  type: article-journal
+  author:
+  - family: Pedersen
+    given: Å. Ø.
+  - family: Jepsen
+    given: J. U.
+  - family: Yoccoz
+    given: N. G.
+  - family: Fuglei
+    given: E.
+  issued:
+  - year: '2007'
+    month: '1'
+  title: Ecological correlates of the distribution of territorial Svalbard rock ptarmigan
+    (Lagopus muta hyperborea)
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '122-132'
+  volume: '85'
+  issue: '1'
+  URL: https://doi.org/10.1139%2Fz06-197
+  DOI: 10.1139/z06-197
+...

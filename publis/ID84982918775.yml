@@ -1,0 +1,37 @@
+---
+references:
+- id: ID84982918775
+  type: article-journal
+  author:
+  - family: Barros
+    given: C.
+  - family: Guéguen
+    given: M.
+  - family: Douzet
+    given: R.
+  - family: Carboni
+    given: M.
+  - family: Boulangeat
+    given: I.
+  - family: Zimmermann
+    given: N. E.
+  - family: Münkemüller
+    given: T.
+  - family: Thuiller
+    given: W.
+  editor:
+  - family: Mori
+    given: Akira
+  issued:
+  - year: '2016'
+    month: '8'
+  title: Extreme climate events counteract the effects of climate and land-use changes
+    in Alpine tree lines
+  container-title: Journal of Applied Ecology
+  publisher: Wiley-Blackwell
+  page: '39-50'
+  volume: '54'
+  issue: '1'
+  URL: https://doi.org/10.1111%2F1365-2664.12742
+  DOI: 10.1111/1365-2664.12742
+...

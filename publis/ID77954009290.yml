@@ -1,0 +1,25 @@
+---
+references:
+- id: ID77954009290
+  type: article-journal
+  author:
+  - family: Schott
+    given: T.
+  - family: Hagen
+    given: S. B.
+  - family: Ims
+    given: R. A.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2010'
+    month: '5'
+  title: Are population outbreaks in sub-arctic geometrids terminated by larval parasitoids?
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '701-708'
+  volume: '79'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2010.01673.x
+  DOI: 10.1111/j.1365-2656.2010.01673.x
+...

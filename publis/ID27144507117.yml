@@ -1,0 +1,27 @@
+---
+references:
+- id: ID27144507117
+  type: article-journal
+  author:
+  - family: Knight
+    given: T. M.
+  - family: McCoy
+    given: M. W.
+  - family: Chase
+    given: J. M.
+  - family: McCoy
+    given: K. A.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2005'
+    month: '10'
+  title: Trophic cascades across ecosystems
+  container-title: Nature
+  publisher: Springer Nature
+  page: '880-883'
+  volume: '437'
+  issue: '7060'
+  URL: https://doi.org/10.1038%2Fnature03962
+  DOI: 10.1038/nature03962
+...

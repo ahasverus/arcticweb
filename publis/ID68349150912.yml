@@ -1,0 +1,36 @@
+---
+references:
+- id: ID68349150912
+  type: article-journal
+  author:
+  - family: Harding
+    given: A. M. A.
+  - family: Kitaysky
+    given: A. S.
+  - family: Hamer
+    given: K. C.
+  - family: Hall
+    given: M. E.
+  - family: Welcker
+    given: J.
+  - family: Talbot
+    given: S. L.
+  - family: Karnovsky
+    given: N. J.
+  - family: Gabrielsen
+    given: G. W.
+  - family: Grémillet
+    given: D.
+  issued:
+  - year: '2009'
+    month: '8'
+  title: 'Impacts of experimentally increased foraging effort on the family: offspring
+    sex matters'
+  container-title: Animal Behaviour
+  publisher: Elsevier BV
+  page: '321-328'
+  volume: '78'
+  issue: '2'
+  URL: https://doi.org/10.1016%2Fj.anbehav.2009.05.009
+  DOI: 10.1016/j.anbehav.2009.05.009
+...

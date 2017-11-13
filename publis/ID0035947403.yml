@@ -1,0 +1,19 @@
+---
+references:
+- id: ID0035947403
+  type: article-journal
+  author:
+  - family: Gaillard
+    given: J.-M.
+  issued:
+  - year: '2001'
+    month: '5'
+  title: 'Population ecology: Not all sheep are equal'
+  container-title: Science
+  publisher: American Association for the Advancement of Science (AAAS)
+  page: '1499-1500'
+  volume: '292'
+  issue: '5521'
+  URL: https://doi.org/10.1126%2Fscience.1061765
+  DOI: 10.1126/science.1061765
+...

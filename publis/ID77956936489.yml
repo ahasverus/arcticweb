@@ -1,0 +1,24 @@
+---
+references:
+- id: ID77956936489
+  type: article-journal
+  author:
+  - family: Heath
+    given: J. P.
+  - family: Gilchrist
+    given: H. G.
+  - family: Ydenberg
+    given: R. C.
+  issued:
+  - year: '2010'
+    month: '5'
+  title: Interactions between rate processes with different timescales explain counterintuitive
+    foraging patterns of arctic wintering eiders
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '3179-3186'
+  volume: '277'
+  issue: '1697'
+  URL: https://doi.org/10.1098%2Frspb.2010.0812
+  DOI: 10.1098/rspb.2010.0812
+...

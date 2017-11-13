@@ -1,0 +1,32 @@
+---
+references:
+- id: ID81355138826
+  type: article-journal
+  author:
+  - family: McDevitt
+    given: A. D.
+  - family: Vega
+    given: R.
+  - family: Rambau
+    given: R. V.
+  - family: Yannic
+    given: G.
+  - family: Herman
+    given: J. S.
+  - family: Hayden
+    given: T. J.
+  - family: Searle
+    given: J. B.
+  issued:
+  - year: '2011'
+    month: '6'
+  title: 'Colonization of Ireland: Revisiting the pygmy shrew syndrome using mitochondrial,
+    y chromosomal and microsatellite markers'
+  container-title: Heredity
+  publisher: Springer Nature
+  page: '548-557'
+  volume: '107'
+  issue: '6'
+  URL: https://doi.org/10.1038%2Fhdy.2011.41
+  DOI: 10.1038/hdy.2011.41
+...

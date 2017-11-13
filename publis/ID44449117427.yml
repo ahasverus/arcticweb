@@ -1,0 +1,29 @@
+---
+references:
+- id: ID44449117427
+  type: article-journal
+  author:
+  - family: Mysterud
+    given: A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Langvatn
+    given: R.
+  - family: Pettorelli
+    given: N.
+  - family: Stenseth
+    given: N. C.
+  issued:
+  - year: '2008'
+    month: '7'
+  title: Hierarchical path analysis of deer responses to direct and indirect effects
+    of climate in northern forest
+  container-title: 'Philosophical Transactions of the Royal Society B: Biological
+    Sciences'
+  publisher: The Royal Society
+  page: '2357-2366'
+  volume: '363'
+  issue: '1501'
+  URL: https://doi.org/10.1098%2Frstb.2007.2206
+  DOI: 10.1098/rstb.2007.2206
+...

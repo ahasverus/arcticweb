@@ -1,0 +1,37 @@
+---
+references:
+- id: ID84894284771
+  type: article-journal
+  author:
+  - family: Legagneux
+    given: P.
+  - family: Harms
+    given: N. J.
+  - family: Gauthier
+    given: G.
+  - family: Chastel
+    given: O.
+  - family: Gilchrist
+    given: H. G.
+  - family: Bortolotti
+    given: G.
+  - family: Bêty
+    given: J.
+  - family: Soos
+    given: C.
+  editor:
+  - family: McGraw
+    given: Kevin
+  issued:
+  - year: '2013'
+    month: '12'
+  title: Does feather corticosterone reflect individual quality or external stress
+    in arctic-nesting migratory birds?
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e82644'
+  volume: '8'
+  issue: '12'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0082644
+  DOI: 10.1371/journal.pone.0082644
+...

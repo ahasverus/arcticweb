@@ -1,0 +1,47 @@
+---
+references:
+- id: ID84871922008
+  type: article-journal
+  author:
+  - family: Holt
+    given: B. G.
+  - family: Lessard
+    given: J.-P.
+  - family: Borregaard
+    given: M. K.
+  - family: Fritz
+    given: S. A.
+  - family: Araujo
+    given: M. B.
+  - family: Dimitrov
+    given: D.
+  - family: Fabre
+    given: P.-H.
+  - family: Graham
+    given: C. H.
+  - family: Graves
+    given: G. R.
+  - family: Jonsson
+    given: K. A.
+  - family: Nogues-Bravo
+    given: D.
+  - family: Wang
+    given: Z.
+  - family: Whittaker
+    given: R. J.
+  - family: Fjeldsa
+    given: J.
+  - family: Rahbek
+    given: C.
+  issued:
+  - year: '2012'
+    month: '12'
+  title: An update of Wallace’s zoogeographic regions of the world
+  container-title: Science
+  publisher: American Association for the Advancement of Science (AAAS)
+  page: '74-78'
+  volume: '339'
+  issue: '6115'
+  URL: https://doi.org/10.1126%2Fscience.1228282
+  DOI: 10.1126/science.1228282
+...

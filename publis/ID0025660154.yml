@@ -1,0 +1,19 @@
+---
+references:
+- id: ID0025660154
+  type: article-journal
+  author:
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '1990'
+    month: '9'
+  title: The microevolutionary consequences of climate change
+  container-title: Trends in Ecology & Evolution
+  publisher: Elsevier BV
+  page: '311-315'
+  volume: '5'
+  issue: '9'
+  URL: https://doi.org/10.1016%2F0169-5347%2890%2990088-u
+  DOI: 10.1016/0169-5347(90)90088-u
+...

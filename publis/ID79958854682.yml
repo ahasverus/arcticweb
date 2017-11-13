@@ -1,0 +1,30 @@
+---
+references:
+- id: ID79958854682
+  type: article-journal
+  author:
+  - family: Kristiansen
+    given: T.
+  - family: Svenning
+    given: J.-C.
+  - family: Pedersen
+    given: D.
+  - family: Eiserhardt
+    given: W. L.
+  - family: Grández
+    given: C.
+  - family: Balslev
+    given: H.
+  issued:
+  - year: '2011'
+    month: '3'
+  title: Local and regional palm (Arecaceae) species richness patterns and their cross-scale
+    determinants in the western Amazon
+  container-title: Journal of Ecology
+  publisher: Wiley-Blackwell
+  page: '1001-1015'
+  volume: '99'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1365-2745.2011.01834.x
+  DOI: 10.1111/j.1365-2745.2011.01834.x
+...

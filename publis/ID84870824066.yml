@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84870824066
+  type: article-journal
+  author:
+  - family: Odgaard
+    given: M. V.
+  - family: Moeslund
+    given: J. E.
+  - family: Bøcher
+    given: P. K.
+  - family: Dalgaard
+    given: T.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2013'
+    month: '1'
+  title: The relative importance of geophysical constraints, amenity values, and farm-related
+    factors in the dynamics of grassland set-aside
+  container-title: Agriculture, Ecosystems & Environment
+  publisher: Elsevier BV
+  page: '286-291'
+  volume: '164'
+  URL: https://doi.org/10.1016%2Fj.agee.2012.09.009
+  DOI: 10.1016/j.agee.2012.09.009
+...

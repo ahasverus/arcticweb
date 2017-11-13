@@ -1,0 +1,35 @@
+---
+references:
+- id: ID66749085068
+  type: article-journal
+  author:
+  - family: Hamer
+    given: K. C.
+  - family: Humphreys
+    given: E. M.
+  - family: Magalhães
+    given: M. C.
+  - family: Garthe
+    given: S.
+  - family: Hennicke
+    given: J.
+  - family: Peters
+    given: G.
+  - family: Grémillet
+    given: D.
+  - family: Skov
+    given: H.
+  - family: Wanless
+    given: S.
+  issued:
+  - year: '2009'
+    month: '7'
+  title: Fine-scale foraging behaviour of a medium-ranging marine predator
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '880-889'
+  volume: '78'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2009.01549.x
+  DOI: 10.1111/j.1365-2656.2009.01549.x
+...

@@ -1,0 +1,30 @@
+---
+references:
+- id: ID85019412374
+  type: article-journal
+  author:
+  - family: Robillard
+    given: A.
+  - family: Gauthier
+    given: G.
+  - family: Therrien
+    given: J.-F.
+  - family: Fitzgerald
+    given: G.
+  - family: Provencher
+    given: J. F.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2017'
+    month: '5'
+  title: Variability in stable isotopes of snowy owl feathers and contribution of
+    marine resources to their winter diet
+  container-title: Journal of Avian Biology
+  publisher: Wiley-Blackwell
+  page: '759-769'
+  volume: '48'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fjav.01257
+  DOI: 10.1111/jav.01257
+...

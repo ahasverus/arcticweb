@@ -1,0 +1,33 @@
+---
+references:
+- id: ID84857344948
+  type: article-journal
+  author:
+  - family: Krebs
+    given: C. J.
+  - family: Bilodeau
+    given: F.
+  - family: Reid
+    given: D.
+  - family: Gauthier
+    given: G.
+  - family: Kenney
+    given: A. J.
+  - family: Gilbert
+    given: S.
+  - family: Duchesne
+    given: D.
+  - family: Wilson
+    given: D. J.
+  issued:
+  - year: '2012'
+    month: '2'
+  title: Are lemming winter nest counts a good index of population density?
+  container-title: Journal of Mammalogy
+  publisher: Oxford University Press (OUP)
+  page: '87-92'
+  volume: '93'
+  issue: '1'
+  URL: https://doi.org/10.1644%2F11-mamm-a-137.1
+  DOI: 10.1644/11-mamm-a-137.1
+...

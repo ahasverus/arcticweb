@@ -1,0 +1,24 @@
+---
+references:
+- id: ID20444431940
+  type: article-journal
+  author:
+  - family: Gaston
+    given: A. J.
+  - family: Gilchrist
+    given: H. G.
+  - family: Mallory
+    given: M. L.
+  issued:
+  - year: '2005'
+    month: '6'
+  title: Variation in ice conditions has strong effects on the breeding of marine
+    birds at Prince Leopold Island, Nunavut
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '331-344'
+  volume: '28'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.0906-7590.2005.04179.x
+  DOI: 10.1111/j.0906-7590.2005.04179.x
+...

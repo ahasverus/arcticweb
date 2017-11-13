@@ -1,0 +1,32 @@
+---
+references:
+- id: ID1242337306
+  type: article-journal
+  author:
+  - family: Pedersen
+    given: H. C.
+  - family: Steen
+    given: H.
+  - family: Kastdalen
+    given: L.
+  - family: Broseth
+    given: H.
+  - family: Ims
+    given: R. A.
+  - family: Svendsen
+    given: W.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2004'
+    month: '2'
+  title: Weak compensation of harvest despite strong density-dependent growth in willow
+    ptarmigan
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '381-385'
+  volume: '271'
+  issue: '1537'
+  URL: https://doi.org/10.1098%2Frspb.2003.2599
+  DOI: 10.1098/rspb.2003.2599
+...

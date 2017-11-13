@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84884814319
+  type: article-journal
+  author:
+  - family: Meijer
+    given: T.
+  - family: Elmhagen
+    given: B.
+  - family: Eide
+    given: N. E.
+  - family: Angerbjörn
+    given: A.
+  issued:
+  - year: '2013'
+    month: '3'
+  title: 'Life history traits in a cyclic ecosystem: A field experiment on the arctic
+    fox'
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '439-447'
+  volume: '173'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs00442-013-2641-8
+  DOI: 10.1007/s00442-013-2641-8
+...

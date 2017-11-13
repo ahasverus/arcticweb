@@ -1,0 +1,34 @@
+---
+references:
+- id: ID84941898214
+  type: article-journal
+  author:
+  - family: Aarnes
+    given: S.
+  - family: Fløystad
+    given: I.
+  - family: Schregel
+    given: J.
+  - family: Vindstad
+    given: O.
+  - family: Jepsen
+    given: J.
+  - family: Eiken
+    given: H.
+  - family: Ims
+    given: R.
+  - family: Hagen
+    given: S.
+  issued:
+  - year: '2015'
+    month: '9'
+  title: 'Identification and evaluation of 21 novel microsatellite markers from
+    the autumnal moth (Epirrita autumnata) (Lepidoptera: Geometridae)'
+  container-title: International Journal of Molecular Sciences
+  publisher: MDPI AG
+  page: '22541-22554'
+  volume: '16'
+  issue: '9'
+  URL: https://doi.org/10.3390%2Fijms160922541
+  DOI: 10.3390/ijms160922541
+...

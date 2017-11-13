@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84859850114
+  type: article-journal
+  author:
+  - family: Gevers
+    given: J.
+  - family: Høye
+    given: T. T.
+  - family: Topping
+    given: C. J.
+  - family: Glemnitz
+    given: M.
+  - family: Schröder
+    given: B.
+  issued:
+  - year: '2011'
+    month: '4'
+  title: 'Biodiversity and the mitigation of climate change through bioenergy: impacts
+    of increased maize cultivation on farmland wildlife'
+  container-title: GCB Bioenergy
+  publisher: Wiley-Blackwell
+  page: '472-482'
+  volume: '3'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1757-1707.2011.01104.x
+  DOI: 10.1111/j.1757-1707.2011.01104.x
+...

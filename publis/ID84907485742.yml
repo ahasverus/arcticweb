@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84907485742
+  type: article-journal
+  author:
+  - family: Amelineau
+    given: F.
+  - family: Peron
+    given: C.
+  - family: Lescroel
+    given: A.
+  - family: Authier
+    given: M.
+  - family: Provost
+    given: P.
+  - family: Gremillet
+    given: D.
+  issued:
+  - year: '2014'
+    month: '3'
+  title: Windscape and tortuosity shape the flight costs of northern gannets
+  container-title: Journal of Experimental Biology
+  publisher: The Company of Biologists
+  page: '876-885'
+  volume: '217'
+  issue: '6'
+  URL: https://doi.org/10.1242%2Fjeb.097915
+  DOI: 10.1242/jeb.097915
+...

@@ -1,0 +1,22 @@
+---
+references:
+- id: ID33847202225
+  type: article-journal
+  author:
+  - family: Smith
+    given: P. A.
+  - family: Gilchrist
+    given: H. G.
+  - family: Smith
+    given: J. N. M.
+  issued:
+  - year: '2007'
+  title: Effects of nest habitat, food, and parental behavior on shorebird nest success
+  container-title: The Condor
+  publisher: Cooper Ornithological Society
+  page: '15'
+  volume: '109'
+  issue: '1'
+  URL: https://doi.org/10.1650%2F0010-5422%282007%29109%5B15%3Aeonhfa%5D2.0.co%3B2
+  DOI: 10.1650/0010-5422(2007)109[15:eonhfa]2.0.co;2
+...

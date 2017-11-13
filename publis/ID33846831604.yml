@@ -1,0 +1,45 @@
+---
+references:
+- id: ID33846831604
+  type: article-journal
+  author:
+  - family: Liebezeit
+    given: J. R.
+  - family: Smith
+    given: P. A.
+  - family: Lanctot
+    given: R. B.
+  - family: Schekkerman
+    given: H.
+  - family: Tulp
+    given: I.
+  - family: Kendall
+    given: S. J.
+  - family: Tracy
+    given: D. M.
+  - family: Rodrigues
+    given: R. J.
+  - family: Meltofte
+    given: H.
+  - family: Robinson
+    given: J. A.
+  - family: Gratto-Trevor
+    given: C.
+  - family: McCaffery
+    given: B. J.
+  - family: Morse
+    given: J.
+  - family: Zack
+    given: S. W.
+  issued:
+  - year: '2007'
+  title: 'Assessing the development of shorebird eggs using the flotation method:
+    Species-specific and generalized regression models'
+  container-title: The Condor
+  publisher: Cooper Ornithological Society
+  page: '32'
+  volume: '109'
+  issue: '1'
+  URL: https://doi.org/10.1650%2F0010-5422%282007%29109%5B32%3Aatdose%5D2.0.co%3B2
+  DOI: 10.1650/0010-5422(2007)109[32:atdose]2.0.co;2
+...

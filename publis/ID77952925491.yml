@@ -1,0 +1,32 @@
+---
+references:
+- id: ID77952925491
+  type: article-journal
+  author:
+  - family: Albert
+    given: C. H.
+  - family: Thuiller
+    given: W.
+  - family: Yoccoz
+    given: N. G.
+  - family: Soudant
+    given: A.
+  - family: Boucher
+    given: F.
+  - family: Saccone
+    given: P.
+  - family: Lavorel
+    given: S.
+  issued:
+  - year: '2010'
+    month: '5'
+  title: 'Intraspecific functional variability: Extent, structure and sources of
+    variation'
+  container-title: Journal of Ecology
+  publisher: Wiley-Blackwell
+  page: '604-613'
+  volume: '98'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1365-2745.2010.01651.x
+  DOI: 10.1111/j.1365-2745.2010.01651.x
+...

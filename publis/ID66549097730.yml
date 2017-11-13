@@ -1,0 +1,22 @@
+---
+references:
+- id: ID66549097730
+  type: paper-conference
+  author:
+  - family: Collin
+    given: A.
+  - family: Long
+    given: B.
+  - family: Archambault
+    given: P.
+  issued:
+  - year: '2008'
+  title: The use of the shoals waveforms to mapping habitat within the seamless benthoscape
+  container-title: IGARSS 2008 - 2008 IEEE International Geoscience and Remote Sensing
+    Symposium
+  collection-number: '1'
+  publisher: IEEE
+  volume: '2'
+  URL: https://doi.org/10.1109%2Figarss.2008.4779202
+  DOI: 10.1109/igarss.2008.4779202
+...

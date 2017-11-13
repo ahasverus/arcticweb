@@ -1,0 +1,25 @@
+---
+references:
+- id: ID34547132547
+  type: article-journal
+  author:
+  - family: Davidson
+    given: D. W.
+  - family: Lessard
+    given: J.-P.
+  - family: Bernau
+    given: C. R.
+  - family: Cook
+    given: S. C.
+  issued:
+  - year: '2007'
+    month: '7'
+  title: The tropical ant mosaic in a primary Bornean rain forest
+  container-title: Biotropica
+  publisher: Wiley-Blackwell
+  page: '468-475'
+  volume: '39'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1744-7429.2007.00304.x
+  DOI: 10.1111/j.1744-7429.2007.00304.x
+...

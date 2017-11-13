@@ -1,0 +1,38 @@
+---
+references:
+- id: ID28844495050
+  type: article-journal
+  author:
+  - family: Cumming
+    given: G. S.
+  - family: Barnes
+    given: G.
+  - family: Perz
+    given: S.
+  - family: Schmink
+    given: M.
+  - family: Sieving
+    given: K. E.
+  - family: Southworth
+    given: J.
+  - family: Binford
+    given: M.
+  - family: Holt
+    given: R. D.
+  - family: Stickler
+    given: C.
+  - family: Holt
+    given: T.
+    dropping-particle: van
+  issued:
+  - year: '2005'
+    month: '11'
+  title: An exploratory framework for the empirical measurement of resilience
+  container-title: Ecosystems
+  publisher: Springer Nature
+  page: '975-987'
+  volume: '8'
+  issue: '8'
+  URL: https://doi.org/10.1007%2Fs10021-005-0129-z
+  DOI: 10.1007/s10021-005-0129-z
+...

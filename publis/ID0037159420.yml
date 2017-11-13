@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0037159420
+  type: article-journal
+  author:
+  - family: Reneerkens
+    given: J.
+  - family: Piersma
+    given: T.
+  - family: Damste
+    given: J. S. S.
+  issued:
+  - year: '2002'
+    month: '10'
+  title: Sandpipers (Scolopacidae) switch from monoester to diester preen waxes during
+    courtship and incubation, but why?
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '2135-2139'
+  volume: '269'
+  issue: '1505'
+  URL: https://doi.org/10.1098%2Frspb.2002.2132
+  DOI: 10.1098/rspb.2002.2132
+...

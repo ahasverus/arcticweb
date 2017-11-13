@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84856613393
+  type: article-journal
+  author:
+  - family: Sigurdsen
+    given: T.
+  - family: Pedersen
+    given: S. Ø.
+  - family: Yoccoz
+    given: N. G.
+  - family: Haukisalmi
+    given: V.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2011'
+    month: '5'
+  title: Are endoparasites of common shrews (Sorex araneus) sensitive to tree species
+    conversion in sub-Arctic birch forests?
+  container-title: European Journal of Forest Research
+  publisher: Springer Nature
+  page: '389-400'
+  volume: '131'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs10342-011-0511-7
+  DOI: 10.1007/s10342-011-0511-7
+...

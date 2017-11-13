@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84903190386
+  type: article-journal
+  author:
+  - family: Giroux
+    given: M.-A.
+  - family: Tremblay
+    given: J.-P.
+  - family: Simard
+    given: M. A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Côté
+    given: S. D.
+  issued:
+  - year: '2014'
+    month: '5'
+  title: 'Forage-mediated density and climate effects on body mass in a temperate
+    herbivore: A mechanistic approach'
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '1332-1340'
+  volume: '95'
+  issue: '5'
+  URL: https://doi.org/10.1890%2F13-0956.1
+  DOI: 10.1890/13-0956.1
+...

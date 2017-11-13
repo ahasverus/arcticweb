@@ -1,0 +1,34 @@
+---
+references:
+- id: ID84882612427
+  type: article-journal
+  author:
+  - family: Gizaw
+    given: A.
+  - family: Kebede
+    given: M.
+  - family: Nemomissa
+    given: S.
+  - family: Ehrich
+    given: D.
+  - family: Bekele
+    given: B.
+  - family: Mirré
+    given: V.
+  - family: Popp
+    given: M.
+  - family: Brochmann
+    given: C.
+  issued:
+  - year: '2013'
+    month: '7'
+  title: Phylogeography of the heathers Erica arborea and E. trimera in the afro-alpine
+    ’sky islands’ inferred from AFLPs and plastid DNA sequences
+  container-title: Flora - Morphology, Distribution, Functional Ecology of Plants
+  publisher: Elsevier BV
+  page: '453-463'
+  volume: '208'
+  issue: '7'
+  URL: https://doi.org/10.1016%2Fj.flora.2013.07.007
+  DOI: 10.1016/j.flora.2013.07.007
+...

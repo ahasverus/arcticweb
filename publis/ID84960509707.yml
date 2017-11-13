@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84960509707
+  type: article-journal
+  author:
+  - family: Hamilton
+    given: C. D.
+  - family: Lydersen
+    given: C.
+  - family: Ims
+    given: R. A.
+  - family: Kovacs
+    given: K. M.
+  issued:
+  - year: '2015'
+    month: '11'
+  title: 'Predictions replaced by facts: A keystone species’ behavioural responses
+    to declining arctic sea-ice'
+  container-title: Biology Letters
+  publisher: The Royal Society
+  page: '20150803'
+  volume: '11'
+  issue: '11'
+  URL: https://doi.org/10.1098%2Frsbl.2015.0803
+  DOI: 10.1098/rsbl.2015.0803
+...

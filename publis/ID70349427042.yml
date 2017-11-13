@@ -1,0 +1,28 @@
+---
+references:
+- id: ID70349427042
+  type: article-journal
+  author:
+  - family: Callier
+    given: M. D.
+  - family: Richard
+    given: M.
+  - family: McKindsey
+    given: C. W.
+  - family: Archambault
+    given: P.
+  - family: Desrosiers
+    given: G.
+  issued:
+  - year: '2009'
+    month: '10'
+  title: 'Responses of benthic macrofauna and biogeochemical fluxes to various levels
+    of mussel biodeposition: An in situ “benthocosm” experiment'
+  container-title: Marine Pollution Bulletin
+  publisher: Elsevier BV
+  page: '1544-1553'
+  volume: '58'
+  issue: '10'
+  URL: https://doi.org/10.1016%2Fj.marpolbul.2009.05.010
+  DOI: 10.1016/j.marpolbul.2009.05.010
+...

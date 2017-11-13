@@ -1,0 +1,28 @@
+---
+references:
+- id: ID38049082959
+  type: article-journal
+  author:
+  - family: Prestrud
+    given: K. W.
+  - family: Dubey
+    given: J. P.
+  - family: Åsbakk
+    given: K.
+  - family: Fuglei
+    given: E.
+  - family: Su
+    given: C.
+  issued:
+  - year: '2008'
+    month: '2'
+  title: First isolate of Toxoplasma gondii from arctic fox (Vulpes lagopus) from
+    Svalbard
+  container-title: Veterinary Parasitology
+  publisher: Elsevier BV
+  page: '110-114'
+  volume: '151'
+  issue: '2-4'
+  URL: https://doi.org/10.1016%2Fj.vetpar.2007.11.011
+  DOI: 10.1016/j.vetpar.2007.11.011
+...

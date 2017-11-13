@@ -1,0 +1,21 @@
+---
+references:
+- id: ID0038013360
+  type: article-journal
+  author:
+  - family: Lvovitch
+    given: M. I.
+  - family: Sokolov
+    given: A. A.
+  issued:
+  - year: '1976'
+    month: '1'
+  title: Anthropogenic changes in the hydrosphere
+  container-title: Geoforum
+  publisher: Elsevier BV
+  page: '89-98'
+  volume: '7'
+  issue: '2'
+  URL: https://doi.org/10.1016%2F0016-7185%2876%2990003-8
+  DOI: 10.1016/0016-7185(76)90003-8
+...

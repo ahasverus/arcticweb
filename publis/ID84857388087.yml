@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84857388087
+  type: article-journal
+  author:
+  - family: Legagneux
+    given: P.
+  - family: Emeriau
+    given: S.
+  - family: Giraudeau
+    given: M.
+  - family: Duval
+    given: C.
+  - family: Caizergues
+    given: A.
+  issued:
+  - year: '2011'
+    month: '7'
+  title: 'Combining field and aviary approaches to monitor incubation in ducks:
+    Importance of clutch size, body mass and weather'
+  container-title: Bird Study
+  publisher: Informa UK Limited
+  page: '421-434'
+  volume: '58'
+  issue: '4'
+  URL: https://doi.org/10.1080%2F00063657.2011.595774
+  DOI: 10.1080/00063657.2011.595774
+...

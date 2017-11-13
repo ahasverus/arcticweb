@@ -1,0 +1,26 @@
+---
+references:
+- id: ID33845359463
+  type: article-journal
+  author:
+  - family: Mainguy
+    given: J.
+  - family: Gauthier
+    given: G.
+  - family: Giroux
+    given: J.-F.
+  - family: Duclos
+    given: I.
+  issued:
+  - year: '2006'
+    month: '8'
+  title: Habitat use and behaviour of Greater Snow Geese during movements from nesting
+    to brood-rearing areas
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '1096-1103'
+  volume: '84'
+  issue: '8'
+  URL: https://doi.org/10.1139%2Fz06-096
+  DOI: 10.1139/z06-096
+...

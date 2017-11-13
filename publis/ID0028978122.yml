@@ -1,0 +1,22 @@
+---
+references:
+- id: ID0028978122
+  type: article-journal
+  author:
+  - family: Krebs
+    given: C.
+  - family: Kenney
+    given: A.
+  - family: Singleton
+    given: G.
+  issued:
+  - year: '1995'
+  title: Movements of feral house mice in agricultural landscapes
+  container-title: Australian Journal of Zoology
+  publisher: CSIRO Publishing
+  page: '293'
+  volume: '43'
+  issue: '3'
+  URL: https://doi.org/10.1071%2Fzo9950293
+  DOI: 10.1071/zo9950293
+...

@@ -1,0 +1,29 @@
+---
+references:
+- id: ID0037672724
+  type: article-journal
+  author:
+  - family: Lindström
+    given: J.
+  - family: Coulson
+    given: T.
+  - family: Kruuk
+    given: L.
+  - family: Forchhammer
+    given: M.
+  - family: Coltman
+    given: D.
+  - family: Clutton-Brock
+    given: T.
+  issued:
+  - year: '2002'
+    month: '12'
+  title: Sex-ratio variation in Soay sheep
+  container-title: Behavioral Ecology and Sociobiology
+  publisher: Springer Nature
+  page: '25-30'
+  volume: '53'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs00265-002-0545-4
+  DOI: 10.1007/s00265-002-0545-4
+...

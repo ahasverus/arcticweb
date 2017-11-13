@@ -1,0 +1,28 @@
+---
+references:
+- id: ID37249079746
+  type: article-journal
+  author:
+  - family: Bustnes
+    given: J. O.
+  - family: Yoccoz
+    given: N. G.
+  - family: Bangjord
+    given: G.
+  - family: Polder
+    given: A.
+  - family: Skaare
+    given: J. U.
+  issued:
+  - year: '2007'
+    month: '12'
+  title: Temporal trends (1986-2004) of organochlorines and brominated flame retardants
+    in tawny owl eggs from northern Europe
+  container-title: Environmental Science & Technology
+  publisher: American Chemical Society (ACS)
+  page: '8491-8497'
+  volume: '41'
+  issue: '24'
+  URL: https://doi.org/10.1021%2Fes071581w
+  DOI: 10.1021/es071581w
+...

@@ -1,0 +1,32 @@
+---
+references:
+- id: ID79953805128
+  type: article-journal
+  author:
+  - family: Ortego
+    given: J.
+  - family: Yannic
+    given: G.
+  - family: Shafer
+    given: A. B. A.
+  - family: Mainguy
+    given: J.
+  - family: Festa-Bianchet
+    given: M.
+  - family: Coltman
+    given: D. W.
+  - family: Côté
+    given: S. D.
+  issued:
+  - year: '2011'
+    month: '3'
+  title: Temporal dynamics of genetic variability in a mountain goat (Oreamnos americanus)
+    population
+  container-title: Molecular Ecology
+  publisher: Wiley-Blackwell
+  page: '1601-1611'
+  volume: '20'
+  issue: '8'
+  URL: https://doi.org/10.1111%2Fj.1365-294x.2011.05022.x
+  DOI: 10.1111/j.1365-294x.2011.05022.x
+...

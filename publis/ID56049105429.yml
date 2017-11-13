@@ -1,0 +1,35 @@
+---
+references:
+- id: ID56049105429
+  type: article-journal
+  author:
+  - family: Tombre
+    given: I. M.
+  - family: Høgda
+    given: K. A.
+  - family: Madsen
+    given: J.
+  - family: Griffin
+    given: L. R.
+  - family: Kuijken
+    given: E.
+  - family: Shimmings
+    given: P.
+  - family: Rees
+    given: E.
+  - family: Verscheure
+    given: C.
+  issued:
+  - year: '2008'
+    month: '11'
+  title: 'The onset of spring and timing of migration in two arctic nesting goose
+    populations: The pink-footed goose Anser bachyrhynchus and the barnacle goose
+    Branta leucopsis'
+  container-title: Journal of Avian Biology
+  publisher: Wiley-Blackwell
+  page: '691-703'
+  volume: '39'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1600-048x.2008.04440.x
+  DOI: 10.1111/j.1600-048x.2008.04440.x
+...

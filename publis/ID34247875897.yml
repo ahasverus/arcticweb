@@ -1,0 +1,24 @@
+---
+references:
+- id: ID34247875897
+  type: article-journal
+  author:
+  - family: Heath
+    given: J. P.
+  - family: Gilchrist
+    given: H. G.
+  - family: Ydenberg
+    given: R. C.
+  issued:
+  - year: '2007'
+    month: '5'
+  title: Can dive cycle models predict patterns of foraging behaviour? Diving by common
+    eiders in an Arctic polynya
+  container-title: Animal Behaviour
+  publisher: Elsevier BV
+  page: '877-884'
+  volume: '73'
+  issue: '5'
+  URL: https://doi.org/10.1016%2Fj.anbehav.2006.10.015
+  DOI: 10.1016/j.anbehav.2006.10.015
+...

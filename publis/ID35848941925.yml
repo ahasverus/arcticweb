@@ -1,0 +1,28 @@
+---
+references:
+- id: ID35848941925
+  type: article-journal
+  author:
+  - family: Verspoor
+    given: J. J.
+  - family: Love
+    given: O. P.
+  - family: Rowland
+    given: E.
+  - family: Chin
+    given: E. H.
+  - family: Williams
+    given: T. D.
+  issued:
+  - year: '2007'
+    month: '8'
+  title: Sex-specific development of avian flight performance under experimentally
+    altered rearing conditions
+  container-title: Behavioral Ecology
+  publisher: Oxford University Press (OUP)
+  page: '967-973'
+  volume: '18'
+  issue: '6'
+  URL: https://doi.org/10.1093%2Fbeheco%2Farm089
+  DOI: 10.1093/beheco/arm089
+...

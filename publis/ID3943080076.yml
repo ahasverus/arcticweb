@@ -1,0 +1,26 @@
+---
+references:
+- id: ID3943080076
+  type: article-journal
+  author:
+  - family: Vormisto
+    given: J.
+  - family: Svenning
+    given: J.-C.
+  - family: Hall
+    given: P.
+  - family: Balslev
+    given: H.
+  issued:
+  - year: '2004'
+    month: '7'
+  title: Diversity and dominance in palm (Arecaceae) communities in terra firme forests
+    in the western Amazon basin
+  container-title: Journal of Ecology
+  publisher: Wiley-Blackwell
+  page: '577-588'
+  volume: '92'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.0022-0477.2004.00904.x
+  DOI: 10.1111/j.0022-0477.2004.00904.x
+...

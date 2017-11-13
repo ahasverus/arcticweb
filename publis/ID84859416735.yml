@@ -1,0 +1,35 @@
+---
+references:
+- id: ID84859416735
+  type: article-journal
+  author:
+  - family: Alsos
+    given: I. G.
+  - family: Ehrich
+    given: D.
+  - family: Thuiller
+    given: W.
+  - family: Eidesen
+    given: P. B.
+  - family: Tribsch
+    given: A.
+  - family: Schonswetter
+    given: P.
+  - family: Lagaye
+    given: C.
+  - family: Taberlet
+    given: P.
+  - family: Brochmann
+    given: C.
+  issued:
+  - year: '2012'
+    month: '1'
+  title: Genetic consequences of climate change for northern plants
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '2042-2051'
+  volume: '279'
+  issue: '1735'
+  URL: https://doi.org/10.1098%2Frspb.2011.2363
+  DOI: 10.1098/rspb.2011.2363
+...

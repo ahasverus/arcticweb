@@ -1,0 +1,33 @@
+---
+references:
+- id: ID84931956031
+  type: article-journal
+  author:
+  - family: Eskildsen
+    given: A.
+  - family: Carvalheiro
+    given: L. G.
+  - family: Kissling
+    given: W. D.
+  - family: Biesmeijer
+    given: J. C.
+  - family: Schweiger
+    given: O.
+  - family: Høye
+    given: T. T.
+  editor:
+  - family: Nally
+    given: Ralph Mac
+  issued:
+  - year: '2015'
+    month: '5'
+  title: 'Ecological specialization matters: Long-term trends in butterfly species
+    richness and assemblage composition depend on multiple functional traits'
+  container-title: Diversity and Distributions
+  publisher: Wiley-Blackwell
+  page: '792-802'
+  volume: '21'
+  issue: '7'
+  URL: https://doi.org/10.1111%2Fddi.12340
+  DOI: 10.1111/ddi.12340
+...

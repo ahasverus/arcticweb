@@ -1,0 +1,53 @@
+---
+references:
+- id: ID84930171424
+  type: article-journal
+  author:
+  - family: Nieto-Lugilde
+    given: D.
+  - family: Lenoir
+    given: J.
+  - family: Abdulhak
+    given: S.
+  - family: Aeschimann
+    given: D.
+  - family: Dullinger
+    given: S.
+  - family: Gégout
+    given: J.-C.
+  - family: Guisan
+    given: A.
+  - family: Pauli
+    given: H.
+  - family: Renaud
+    given: J.
+  - family: Theurillat
+    given: J.-P.
+  - family: Thuiller
+    given: W.
+  - family: Es
+    given: J.
+    dropping-particle: van
+  - family: Vittoz
+    given: P.
+  - family: Willner
+    given: W.
+  - family: Wohlgemuth
+    given: T.
+  - family: Zimmermann
+    given: N. E.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2014'
+    month: '11'
+  title: Tree cover at fine and coarse spatial grains interacts with shade tolerance
+    to shape plant species distributions across the Alps
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '578-589'
+  volume: '38'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fecog.00954
+  DOI: 10.1111/ecog.00954
+...

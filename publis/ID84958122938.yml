@@ -1,0 +1,52 @@
+---
+references:
+- id: ID84958122938
+  type: article-journal
+  author:
+  - family: Pellissier
+    given: L.
+  - family: Eidesen
+    given: P. B.
+  - family: Ehrich
+    given: D.
+  - family: Descombes
+    given: P.
+  - family: Schönswetter
+    given: P.
+  - family: Tribsch
+    given: A.
+  - family: Westergaard
+    given: K. B.
+  - family: Alvarez
+    given: N.
+  - family: Guisan
+    given: A.
+  - family: Zimmermann
+    given: N. E.
+  - family: Normand
+    given: S.
+  - family: Vittoz
+    given: P.
+  - family: Luoto
+    given: M.
+  - family: Damgaard
+    given: C.
+  - family: Brochmann
+    given: C.
+  - family: Wisz
+    given: M. S.
+  - family: Alsos
+    given: I. G.
+  issued:
+  - year: '2015'
+    month: '11'
+  title: Past climate-driven range shifts and population genetic diversity in arctic
+    plants
+  container-title: Journal of Biogeography
+  publisher: Wiley-Blackwell
+  page: '461-470'
+  volume: '43'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fjbi.12657
+  DOI: 10.1111/jbi.12657
+...

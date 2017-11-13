@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84870761657
+  type: article-journal
+  author:
+  - family: Dalby
+    given: L.
+  - family: Fox
+    given: A. D.
+  - family: Petersen
+    given: I. K.
+  - family: Delany
+    given: S.
+  - family: Svenning
+    given: J.-C.
+  editor:
+  - family: Pichegru
+    given: Lorien
+  issued:
+  - year: '2012'
+    month: '7'
+  title: Temperature does not dictate the wintering distributions of European dabbling
+    duck species
+  container-title: Ibis
+  publisher: Wiley-Blackwell
+  page: '80-88'
+  volume: '155'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1474-919x.2012.01257.x
+  DOI: 10.1111/j.1474-919x.2012.01257.x
+...

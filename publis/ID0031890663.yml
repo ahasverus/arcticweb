@@ -1,0 +1,44 @@
+---
+references:
+- id: ID0031890663
+  type: article-journal
+  author:
+  - family: Lawton
+    given: J. H.
+  - family: Bignell
+    given: D. E.
+  - family: Bolton
+    given: B.
+  - family: Bloemers
+    given: G. F.
+  - family: Eggleton
+    given: P.
+  - family: Hammond
+    given: P. M.
+  - family: Hodda
+    given: M.
+  - family: Holt
+    given: R. D.
+  - family: Larsen
+    given: T. B.
+  - family: Mawdsley
+    given: N. A.
+  - family: Stork
+    given: N. E.
+  - family: Srivastava
+    given: D. S.
+  - family: Watt
+    given: A. D.
+  issued:
+  - year: '1998'
+    month: '1'
+  title: Biodiversity inventories, indicator taxa and effects of habitat modification
+    in tropical forest
+  container-title: Nature
+  publisher: Springer Nature
+  page: '72-76'
+  volume: '391'
+  issue: '6662'
+  URL: https://doi.org/10.1038%2F34166
+  DOI: 10.1038/34166
+...

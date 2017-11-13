@@ -1,0 +1,25 @@
+---
+references:
+- id: ID48149100233
+  type: article-journal
+  author:
+  - family: Freitas
+    given: C.
+  - family: Kovacs
+    given: K. M.
+  - family: Ims
+    given: R. A.
+  - family: Lydersen
+    given: C.
+  issued:
+  - year: '2008'
+    month: '9'
+  title: Predicting habitat use by ringed seals (Phoca hispida) in a warming Arctic
+  container-title: Ecological Modelling
+  publisher: Elsevier BV
+  page: '19-32'
+  volume: '217'
+  issue: '1-2'
+  URL: https://doi.org/10.1016%2Fj.ecolmodel.2008.05.014
+  DOI: 10.1016/j.ecolmodel.2008.05.014
+...

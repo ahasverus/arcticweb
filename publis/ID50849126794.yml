@@ -1,0 +1,28 @@
+---
+references:
+- id: ID50849126794
+  type: article-journal
+  author:
+  - family: Kaldonski
+    given: N.
+  - family: Lagrue
+    given: C.
+  - family: Motreuil
+    given: S.
+  - family: Rigaud
+    given: T.
+  - family: Bollache
+    given: L.
+  issued:
+  - year: '2008'
+    month: '6'
+  title: Habitat segregation mediates predation by the benthic fish Cottus gobio on
+    the exotic amphipod species Gammarus roeseli
+  container-title: Naturwissenschaften
+  publisher: Springer Nature
+  page: '839-844'
+  volume: '95'
+  issue: '9'
+  URL: https://doi.org/10.1007%2Fs00114-008-0392-x
+  DOI: 10.1007/s00114-008-0392-x
+...

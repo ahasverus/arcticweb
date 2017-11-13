@@ -1,0 +1,62 @@
+---
+references:
+- id: ID85032744516
+  type: article-journal
+  author:
+  - family: Weiser
+    given: E. L.
+  - family: Lanctot
+    given: R. B.
+  - family: Brown
+    given: S. C.
+  - family: Gates
+    given: H. R.
+  - family: Bentzen
+    given: R. L.
+  - family: Bêty
+    given: J.
+  - family: Boldenow
+    given: M. L.
+  - family: English
+    given: W. B.
+  - family: Franks
+    given: S. E.
+  - family: Koloski
+    given: L.
+  - family: Kwon
+    given: E.
+  - family: Lamarre
+    given: J.-F.
+  - family: Lank
+    given: D. B.
+  - family: Liebezeit
+    given: J. R.
+  - family: McKinnon
+    given: L.
+  - family: Nol
+    given: E.
+  - family: Rausch
+    given: J.
+  - family: Saalfeld
+    given: S. T.
+  - family: Senner
+    given: N. R.
+  - family: Ward
+    given: D. H.
+  - family: Woodard
+    given: P. F.
+  - family: Sandercock
+    given: B. K.
+  issued:
+  - year: '2017'
+    month: '11'
+  title: Environmental and ecological conditions at Arctic breeding sites have limited
+    effects on true survival rates of adult shorebirds
+  container-title: The Auk
+  publisher: American Ornithologists Union
+  page: '29-43'
+  volume: '135'
+  issue: '1'
+  URL: https://doi.org/10.1642%2Fauk-17-107.1
+  DOI: 10.1642/auk-17-107.1
+...

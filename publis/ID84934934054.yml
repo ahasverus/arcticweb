@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84934934054
+  type: article-journal
+  author:
+  - family: Zhang
+    given: Z.
+  - family: Yan
+    given: C.
+  - family: Krebs
+    given: C. J.
+  - family: Stenseth
+    given: N. C.
+  issued:
+  - year: '2015'
+    month: '9'
+  title: Ecological non-monotonicity and its effects on complexity and stability of
+    populations, communities and ecosystems
+  container-title: Ecological Modelling
+  publisher: Elsevier BV
+  page: '374-384'
+  volume: '312'
+  URL: https://doi.org/10.1016%2Fj.ecolmodel.2015.06.004
+  DOI: 10.1016/j.ecolmodel.2015.06.004
+...

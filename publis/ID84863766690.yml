@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84863766690
+  type: article-journal
+  author:
+  - family: Boesgaard
+    given: K. S.
+  - family: Albert
+    given: K. R.
+  - family: Ro-Poulsen
+    given: H.
+  - family: Michelsen
+    given: A.
+  - family: Mikkelsen
+    given: T. N.
+  - family: Schmidt
+    given: N. M.
+  issued:
+  - year: '2012'
+    month: '2'
+  title: Long-term structural canopy changes sustain net photosynthesis per ground
+    area in high arctic Vaccinium uliginosum exposed to changes in near-ambient UV-B
+    levels
+  container-title: Physiologia Plantarum
+  publisher: Wiley-Blackwell
+  page: '540-550'
+  volume: '145'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1399-3054.2011.01564.x
+  DOI: 10.1111/j.1399-3054.2011.01564.x
+...

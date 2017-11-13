@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84905367500
+  type: article-journal
+  author:
+  - family: Devost
+    given: I.
+  - family: Hallot
+    given: F.
+  - family: Milbergue
+    given: M.
+  - family: Petit
+    given: M.
+  - family: Vézina
+    given: F.
+  issued:
+  - year: '2014'
+    month: '11'
+  title: 'Lipid metabolites as markers of fattening rate in a non-migratory passerine:
+    Effects of ambient temperature and individual variation'
+  container-title: 'Comparative Biochemistry and Physiology Part A: Molecular &
+    Integrative Physiology'
+  publisher: Elsevier BV
+  page: '18-26'
+  volume: '177'
+  URL: https://doi.org/10.1016%2Fj.cbpa.2014.07.014
+  DOI: 10.1016/j.cbpa.2014.07.014
+...

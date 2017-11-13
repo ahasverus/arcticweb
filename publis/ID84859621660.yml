@@ -1,0 +1,56 @@
+---
+references:
+- id: ID84859621660
+  type: article-journal
+  author:
+  - family: Epp
+    given: L. S.
+  - family: Boessenkool
+    given: S.
+  - family: Bellemain
+    given: E. P.
+  - family: Haile
+    given: J.
+  - family: Esposito
+    given: A.
+  - family: Riaz
+    given: T.
+  - family: Erséus
+    given: C.
+  - family: Gusarov
+    given: V. I.
+  - family: Edwards
+    given: M. E.
+  - family: Johnsen
+    given: A.
+  - family: Stenøien
+    given: H. K.
+  - family: Hassel
+    given: K.
+  - family: Kauserud
+    given: H.
+  - family: Yoccoz
+    given: N. G.
+  - family: Bråthen
+    given: K. A.
+  - family: Willerslev
+    given: E.
+  - family: Taberlet
+    given: P.
+  - family: Coissac
+    given: E.
+  - family: Brochmann
+    given: C.
+  issued:
+  - year: '2012'
+    month: '4'
+  title: 'New environmental metabarcodes for analysing soil DNA: Potential for studying
+    past and present ecosystems'
+  container-title: Molecular Ecology
+  publisher: Wiley-Blackwell
+  page: '1821-1833'
+  volume: '21'
+  issue: '8'
+  URL: https://doi.org/10.1111%2Fj.1365-294x.2012.05537.x
+  DOI: 10.1111/j.1365-294x.2012.05537.x
+...

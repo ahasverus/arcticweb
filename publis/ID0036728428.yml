@@ -1,0 +1,21 @@
+---
+references:
+- id: ID0036728428
+  type: article-journal
+  author:
+  - family: Kawecki
+    given: T. J.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2002'
+    month: '9'
+  title: Evolutionary consequences of asymmetric dispersal rates
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '333-347'
+  volume: '160'
+  issue: '3'
+  URL: https://doi.org/10.1086%2F341519
+  DOI: 10.1086/341519
+...

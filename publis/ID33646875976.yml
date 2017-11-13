@@ -1,0 +1,31 @@
+---
+references:
+- id: ID33646875976
+  type: article-journal
+  author:
+  - family: Wattier
+    given: R. A.
+  - family: Beguet
+    given: J.
+  - family: Gaillard
+    given: M.
+  - family: Muller
+    given: J. C.
+  - family: Bollache
+    given: L.
+  - family: Perrot-Minnot
+    given: M.-J.
+  issued:
+  - year: '2006'
+    month: '6'
+  title: Molecular markers for systematic identification and population genetics of
+    the invasive Ponto-Caspian freshwater gammarid Dikerogammarus villosus (Crustacea,
+    Amphipoda)
+  container-title: Molecular Ecology Notes
+  publisher: Wiley-Blackwell
+  page: '487-489'
+  volume: '6'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1471-8286.2006.01283.x
+  DOI: 10.1111/j.1471-8286.2006.01283.x
+...

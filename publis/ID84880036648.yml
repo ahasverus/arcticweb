@@ -1,0 +1,43 @@
+---
+references:
+- id: ID84880036648
+  type: article-journal
+  author:
+  - family: Pellissier
+    given: L.
+  - family: Bråthen
+    given: K. A.
+  - family: Vittoz
+    given: P.
+  - family: Yoccoz
+    given: N. G.
+  - family: Dubuis
+    given: A.
+  - family: Meier
+    given: E. S.
+  - family: Zimmermann
+    given: N. E.
+  - family: Randin
+    given: C. F.
+  - family: Thuiller
+    given: W.
+  - family: Garraud
+    given: L.
+  - family: Es
+    given: J.
+    dropping-particle: van
+  - family: Guisan
+    given: A.
+  issued:
+  - year: '2013'
+    month: '3'
+  title: Thermal niches are more conserved at cold than warm limits in arctic-alpine
+    plant species
+  container-title: Global Ecology and Biogeography
+  publisher: Wiley-Blackwell
+  page: '933-941'
+  volume: '22'
+  issue: '8'
+  URL: https://doi.org/10.1111%2Fgeb.12057
+  DOI: 10.1111/geb.12057
+...

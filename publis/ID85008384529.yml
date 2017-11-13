@@ -1,0 +1,27 @@
+---
+references:
+- id: ID85008384529
+  type: article-journal
+  author:
+  - family: Feng
+    given: G.
+  - family: Mao
+    given: L.
+  - family: Benito
+    given: B. M.
+  - family: Swenson
+    given: N. G.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2017'
+    month: '6'
+  title: Historical anthropogenic footprints in the distribution of threatened plants
+    in China
+  container-title: Biological Conservation
+  publisher: Elsevier BV
+  page: '3-8'
+  volume: '210'
+  URL: https://doi.org/10.1016%2Fj.biocon.2016.05.038
+  DOI: 10.1016/j.biocon.2016.05.038
+...

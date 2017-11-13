@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84976260755
+  type: article-journal
+  author:
+  - family: McKinnon
+    given: E. A.
+  - family: Macdonald
+    given: C. M.
+  - family: Gilchrist
+    given: H. G.
+  - family: Love
+    given: O. P.
+  issued:
+  - year: '2016'
+    month: '3'
+  title: Spring and fall migration phenology of an Arctic-breeding passerine
+  container-title: Journal of Ornithology
+  publisher: Springer Nature
+  page: '681-693'
+  volume: '157'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs10336-016-1333-7
+  DOI: 10.1007/s10336-016-1333-7
+...

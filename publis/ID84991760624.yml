@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84991760624
+  type: article-journal
+  author:
+  - family: Unander
+    given: S.
+  - family: Pedersen
+    given: S. Ø.
+  - family: Soininen
+    given: E. M.
+  - family: Descamps
+    given: S.
+  - family: Hörnell-Willebrand
+    given: M.
+  - family: Fuglei
+    given: E.
+  issued:
+  - year: '2015'
+    month: '9'
+  title: 'Populations on the limits: Survival of Svalbard rock ptarmigan'
+  container-title: Journal of Ornithology
+  publisher: Springer Nature
+  page: '407-418'
+  volume: '157'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs10336-015-1282-6
+  DOI: 10.1007/s10336-015-1282-6
+...

@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84862001728
+  type: article-journal
+  author:
+  - family: Grémillet
+    given: D.
+  - family: Prudor
+    given: A.
+  - family: Maho
+    given: Y. L.
+  - family: Weimerskirch
+    given: H.
+  editor:
+  - family: Peter
+    given: Hans-Ulrich
+  issued:
+  - year: '2012'
+    month: '6'
+  title: 'Vultures of the seas: Hyperacidic stomachs in wandering albatrosses as
+    an adaptation to dispersed food resources, including fishery wastes'
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e37834'
+  volume: '7'
+  issue: '6'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0037834
+  DOI: 10.1371/journal.pone.0037834
+...

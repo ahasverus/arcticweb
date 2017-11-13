@@ -1,0 +1,24 @@
+---
+references:
+- id: ID79958757841
+  type: article-journal
+  author:
+  - family: Sheriff
+    given: M. J.
+  - family: Krebs
+    given: C. J.
+  - family: Boonstra
+    given: R.
+  issued:
+  - year: '2011'
+    month: '1'
+  title: 'From process to pattern: How fluctuating predation risk impacts the stress
+    axis of snowshoe hares during the 10-year cycle'
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '593-605'
+  volume: '166'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs00442-011-1907-2
+  DOI: 10.1007/s00442-011-1907-2
+...

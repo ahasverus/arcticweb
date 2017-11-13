@@ -1,0 +1,35 @@
+---
+references:
+- id: ID84941171690
+  type: article-journal
+  author:
+  - family: Wirta
+    given: H. K.
+  - family: Vesterinen
+    given: E. J.
+  - family: Hambäck
+    given: P. A.
+  - family: Weingartner
+    given: E.
+  - family: Rasmussen
+    given: C.
+  - family: Reneerkens
+    given: J.
+  - family: Schmidt
+    given: N. M.
+  - family: Gilg
+    given: O.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2015'
+    month: '8'
+  title: Exposing the structure of an Arctic food web
+  container-title: Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '3842-3856'
+  volume: '5'
+  issue: '17'
+  URL: https://doi.org/10.1002%2Fece3.1647
+  DOI: 10.1002/ece3.1647
+...

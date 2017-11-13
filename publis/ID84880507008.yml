@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84880507008
+  type: article-journal
+  author:
+  - family: Bilodeau
+    given: F.
+  - family: Reid
+    given: D. G.
+  - family: Gauthier
+    given: G.
+  - family: Krebs
+    given: C. J.
+  - family: Berteaux
+    given: D.
+  - family: Kenney
+    given: A. J.
+  issued:
+  - year: '2012'
+    month: '12'
+  title: Demographic response of tundra small mammals to a snow fencing experiment
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '1167-1176'
+  volume: '122'
+  issue: '8'
+  URL: https://doi.org/10.1111%2Fj.1600-0706.2012.00220.x
+  DOI: 10.1111/j.1600-0706.2012.00220.x
+...

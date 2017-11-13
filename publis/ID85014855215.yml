@@ -1,0 +1,34 @@
+---
+references:
+- id: ID85014855215
+  type: article-journal
+  author:
+  - family: Xiao
+    given: Z.
+  - family: Mi
+    given: X.
+  - family: Holyoak
+    given: M.
+  - family: Xie
+    given: W.
+  - family: Cao
+    given: K.
+  - family: Yang
+    given: X.
+  - family: Huang
+    given: X.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '2016'
+    month: '12'
+  title: Seed-predator satiation and Janzen-Connell effects vary with spatial scales
+    for seed-feeding insects
+  container-title: Annals of Botany
+  publisher: Oxford University Press (OUP)
+  page: '109-116'
+  volume: '119'
+  issue: '1'
+  URL: https://doi.org/10.1093%2Faob%2Fmcw224
+  DOI: 10.1093/aob/mcw224
+...

@@ -1,0 +1,30 @@
+---
+references:
+- id: ID85008311753
+  type: article-journal
+  author:
+  - family: Johnsen
+    given: K.
+  - family: Boonstra
+    given: R.
+  - family: Boutin
+    given: S.
+  - family: Devineau
+    given: O.
+  - family: Krebs
+    given: C. J.
+  - family: Andreassen
+    given: H. P.
+  issued:
+  - year: '2016'
+    month: '12'
+  title: 'Surviving winter: Food, but not habitat structure, prevents crashes in
+    cyclic vole populations'
+  container-title: Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '115-124'
+  volume: '7'
+  issue: '1'
+  URL: https://doi.org/10.1002%2Fece3.2635
+  DOI: 10.1002/ece3.2635
+...

@@ -1,0 +1,23 @@
+---
+references:
+- id: ID84997545199
+  type: article-journal
+  author:
+  - family: Ordonez
+    given: A.
+  - family: Williams
+    given: J. W.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2016'
+    month: '9'
+  title: Mapping climatic mechanisms likely to favour the emergence of novel communities
+  container-title: Nature Climate Change
+  publisher: Springer Nature
+  page: '1104-1109'
+  volume: '6'
+  issue: '12'
+  URL: https://doi.org/10.1038%2Fnclimate3127
+  DOI: 10.1038/nclimate3127
+...

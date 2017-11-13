@@ -1,0 +1,33 @@
+---
+references:
+- id: ID84893960255
+  type: article-journal
+  author:
+  - family: Milot
+    given: E.
+  - family: Cohen
+    given: A. A.
+  - family: Vézina
+    given: F.
+  - family: Buehler
+    given: D. M.
+  - family: Matson
+    given: K. D.
+  - family: Piersma
+    given: T.
+  editor:
+  - family: Freckleton
+    given: Robert
+  issued:
+  - year: '2014'
+    month: '1'
+  title: A novel integrative method for measuring body condition in ecological studies
+    based on physiological dysregulation
+  container-title: Methods in Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '146-155'
+  volume: '5'
+  issue: '2'
+  URL: https://doi.org/10.1111%2F2041-210x.12145
+  DOI: 10.1111/2041-210x.12145
+...

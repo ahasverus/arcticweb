@@ -1,0 +1,34 @@
+---
+references:
+- id: ID34548531156
+  type: article-journal
+  author:
+  - family: Madsen
+    given: J.
+  - family: Tamstorf
+    given: M.
+  - family: Klaassen
+    given: M.
+  - family: Eide
+    given: N.
+  - family: Glahder
+    given: C.
+  - family: Rigét
+    given: F.
+  - family: Nyegaard
+    given: H.
+  - family: Cottaar
+    given: F.
+  issued:
+  - year: '2007'
+    month: '5'
+  title: Effects of snow cover on the timing and success of reproduction in high-Arctic
+    pink-footed geese Anser brachyrhynchus
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '1363-1372'
+  volume: '30'
+  issue: '11'
+  URL: https://doi.org/10.1007%2Fs00300-007-0296-9
+  DOI: 10.1007/s00300-007-0296-9
+...

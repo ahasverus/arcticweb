@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84860824782
+  type: article-journal
+  author:
+  - family: Kissling
+    given: W. D.
+  - family: Eiserhardt
+    given: W. L.
+  - family: Baker
+    given: W. J.
+  - family: Borchsenius
+    given: F.
+  - family: Couvreur
+    given: T. L. P.
+  - family: Balslev
+    given: H.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2012'
+    month: '4'
+  title: Cenozoic imprints on the phylogenetic structure of palm species assemblages
+    worldwide
+  container-title: Proceedings of the National Academy of Sciences
+  publisher: Proceedings of the National Academy of Sciences
+  page: '7379-7384'
+  volume: '109'
+  issue: '19'
+  URL: https://doi.org/10.1073%2Fpnas.1120467109
+  DOI: 10.1073/pnas.1120467109
+...

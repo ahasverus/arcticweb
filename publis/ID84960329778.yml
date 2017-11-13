@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84960329778
+  type: article-journal
+  author:
+  - family: Marmillot
+    given: V.
+  - family: Gauthier
+    given: G.
+  - family: Cadieux
+    given: M.-C.
+  - family: Legagneux
+    given: P.
+  issued:
+  - year: '2016'
+    month: '3'
+  title: Plasticity in moult speed and timing in an arctic-nesting goose species
+  container-title: Journal of Avian Biology
+  publisher: Wiley-Blackwell
+  page: '650-658'
+  volume: '47'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fjav.00982
+  DOI: 10.1111/jav.00982
+...

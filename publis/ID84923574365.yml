@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84923574365
+  type: article-journal
+  author:
+  - family: Nystrom
+    given: V.
+  - family: Dalen
+    given: L.
+  - family: Vartanyan
+    given: S.
+  - family: Liden
+    given: K.
+  - family: Ryman
+    given: N.
+  - family: Angerbjorn
+    given: A.
+  issued:
+  - year: '2010'
+    month: '3'
+  title: Temporal genetic change in the last remaining population of woolly mammoth
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '2331-2337'
+  volume: '277'
+  issue: '1692'
+  URL: https://doi.org/10.1098%2Frspb.2010.0301
+  DOI: 10.1098/rspb.2010.0301
+...

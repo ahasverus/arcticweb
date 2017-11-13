@@ -1,0 +1,28 @@
+---
+references:
+- id: ID33748209569
+  type: article-journal
+  author:
+  - family: Bollache
+    given: L.
+  - family: Kaldonski
+    given: N.
+  - family: Troussard
+    given: J.-P.
+  - family: Lagrue
+    given: C.
+  - family: Rigaud
+    given: T.
+  issued:
+  - year: '2006'
+    month: '9'
+  title: Spines and behaviour as defences against fish predators in an invasive freshwater
+    amphipod
+  container-title: Animal Behaviour
+  publisher: Elsevier BV
+  page: '627-633'
+  volume: '72'
+  issue: '3'
+  URL: https://doi.org/10.1016%2Fj.anbehav.2005.11.020
+  DOI: 10.1016/j.anbehav.2005.11.020
+...

@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84919743010
+  type: article-journal
+  author:
+  - family: Studd
+    given: E. K.
+  - family: Boutin
+    given: S.
+  - family: McAdam
+    given: A. G.
+  - family: Krebs
+    given: C. J.
+  - family: Humphries
+    given: M. M.
+  editor:
+  - family: Coulson
+    given: Tim
+  issued:
+  - year: '2014'
+    month: '9'
+  title: Predators, energetics and fitness drive neonatal reproductive failure in
+    red squirrels
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '249-259'
+  volume: '84'
+  issue: '1'
+  URL: https://doi.org/10.1111%2F1365-2656.12279
+  DOI: 10.1111/1365-2656.12279
+...

@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84922985553
+  type: article-journal
+  author:
+  - family: Vas
+    given: E.
+  - family: Lescroel
+    given: A.
+  - family: Duriez
+    given: O.
+  - family: Boguszewski
+    given: G.
+  - family: Gremillet
+    given: D.
+  issued:
+  - year: '2015'
+    month: '2'
+  title: 'Approaching birds with drones: First experiments and ethical guidelines'
+  container-title: Biology Letters
+  publisher: The Royal Society
+  page: '20140754-20140754'
+  volume: '11'
+  issue: '2'
+  URL: https://doi.org/10.1098%2Frsbl.2014.0754
+  DOI: 10.1098/rsbl.2014.0754
+...

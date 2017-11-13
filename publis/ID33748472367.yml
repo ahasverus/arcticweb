@@ -1,0 +1,19 @@
+---
+references:
+- id: ID33748472367
+  type: article-journal
+  author:
+  - family: Holt
+    given: R.
+  issued:
+  - year: '2006'
+    month: '10'
+  title: Emergent neutrality
+  container-title: Trends in Ecology & Evolution
+  publisher: Elsevier BV
+  page: '531-533'
+  volume: '21'
+  issue: '10'
+  URL: https://doi.org/10.1016%2Fj.tree.2006.08.003
+  DOI: 10.1016/j.tree.2006.08.003
+...

@@ -1,0 +1,47 @@
+---
+references:
+- id: ID84943142925
+  type: article-journal
+  author:
+  - family: Jansson
+    given: R.
+  - family: Nilsson
+    given: C.
+  - family: Keskitalo
+    given: E. C. H.
+  - family: Vlasova
+    given: T.
+  - family: Sutinen
+    given: M.-L.
+  - family: Moen
+    given: J.
+  - family: Iii
+    given: F. S. C.
+  - family: Bråthen
+    given: K. A.
+  - family: Cabeza
+    given: M.
+  - family: Callaghan
+    given: T. V.
+  - family: Oort
+    given: B.
+    dropping-particle: van
+  - family: Dannevig
+    given: H.
+  - family: Bay-Larsen
+    given: I. A.
+  - family: Ims
+    given: R. A.
+  - family: Aspholm
+    given: P. E.
+  issued:
+  - year: '2015'
+  title: 'Future changes in the supply of goods and services from natural ecosystems:
+    Prospects for the European North'
+  container-title: Ecology and Society
+  publisher: Resilience Alliance, Inc.
+  volume: '20'
+  issue: '3'
+  URL: https://doi.org/10.5751%2Fes-07607-200332
+  DOI: 10.5751/es-07607-200332
+...

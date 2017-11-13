@@ -1,0 +1,24 @@
+---
+references:
+- id: ID22144440176
+  type: article-journal
+  author:
+  - family: Tombre
+    given: I. M.
+  - family: Tømmervik
+    given: H.
+  - family: Madsen
+    given: J.
+  issued:
+  - year: '2005'
+    month: '9'
+  title: Land use changes and goose habitats, assessed by remote sensing techniques,
+    and corresponding goose distribution, in Vesterålen, Northern Norway
+  container-title: Agriculture, Ecosystems & Environment
+  publisher: Elsevier BV
+  page: '284-296'
+  volume: '109'
+  issue: '3-4'
+  URL: https://doi.org/10.1016%2Fj.agee.2005.02.023
+  DOI: 10.1016/j.agee.2005.02.023
+...

@@ -1,0 +1,27 @@
+---
+references:
+- id: ID67650925530
+  type: article-journal
+  author:
+  - family: Sibly
+    given: R. M.
+  - family: Nabe-Nielsen
+    given: J.
+  - family: Forchhammer
+    given: M. C.
+  - family: Forbes
+    given: V. E.
+  - family: Topping
+    given: C. J.
+  issued:
+  - year: '2009'
+  title: The effects of spatial and temporal heterogeneity on the population dynamics
+    of four animal species in a Danish landscape
+  container-title: BMC Ecology
+  publisher: Springer Nature
+  page: '18'
+  volume: '9'
+  issue: '1'
+  URL: https://doi.org/10.1186%2F1472-6785-9-18
+  DOI: 10.1186/1472-6785-9-18
+...

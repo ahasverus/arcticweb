@@ -1,0 +1,25 @@
+---
+references:
+- id: ID33344479365
+  type: article-journal
+  author:
+  - family: Grémillet
+    given: D.
+  - family: Enstipp
+    given: M. R.
+  - family: Boudiffa
+    given: M.
+  - family: Liu
+    given: H.
+  issued:
+  - year: '2005'
+    month: '10'
+  title: Do cormorants injure fish without eating them? An underwater video study
+  container-title: Marine Biology
+  publisher: Springer Nature
+  page: '1081-1087'
+  volume: '148'
+  issue: '5'
+  URL: https://doi.org/10.1007%2Fs00227-005-0130-2
+  DOI: 10.1007/s00227-005-0130-2
+...

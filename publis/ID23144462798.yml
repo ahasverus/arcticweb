@@ -1,0 +1,19 @@
+---
+references:
+- id: ID23144462798
+  type: article-journal
+  author:
+  - family: Vezina
+    given: F.
+  issued:
+  - year: '2005'
+    month: '7'
+  title: The metabolic cost of egg production is repeatable
+  container-title: Journal of Experimental Biology
+  publisher: The Company of Biologists
+  page: '2533-2538'
+  volume: '208'
+  issue: '13'
+  URL: https://doi.org/10.1242%2Fjeb.01675
+  DOI: 10.1242/jeb.01675
+...

@@ -1,0 +1,26 @@
+---
+references:
+- id: ID67149084353
+  type: article-journal
+  author:
+  - family: Vézina
+    given: F.
+  - family: Love
+    given: O. P.
+  - family: Lessard
+    given: M.
+  - family: Williams
+    given: T. D.
+  issued:
+  - year: '2009'
+    month: '5'
+  title: Shifts in metabolic demands in growing altricial nestlings illustrate context-specific
+    relationships between basal metabolic rate and body composition
+  container-title: Physiological and Biochemical Zoology
+  publisher: University of Chicago Press
+  page: '248-257'
+  volume: '82'
+  issue: '3'
+  URL: https://doi.org/10.1086%2F597548
+  DOI: 10.1086/597548
+...

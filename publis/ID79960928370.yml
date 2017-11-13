@@ -1,0 +1,39 @@
+---
+references:
+- id: ID79960928370
+  type: article-journal
+  author:
+  - family: Anjos
+    given: L.
+    dropping-particle: dos
+  - family: Collins
+    given: C. D.
+  - family: Holt
+    given: R. D.
+  - family: Volpato
+    given: G. H.
+  - family: Mendonça
+    given: L. B.
+  - family: Lopes
+    given: E. V.
+  - family: Boçon
+    given: R.
+  - family: Bisheimer
+    given: M. V.
+  - family: Serafini
+    given: P. P.
+  - family: Carvalho
+    given: J.
+  issued:
+  - year: '2011'
+    month: '9'
+  title: 'Bird species abundance-occupancy patterns and sensitivity to forest fragmentation:
+    Implications for conservation in the Brazilian Atlantic forest'
+  container-title: Biological Conservation
+  publisher: Elsevier BV
+  page: '2213-2222'
+  volume: '144'
+  issue: '9'
+  URL: https://doi.org/10.1016%2Fj.biocon.2011.05.013
+  DOI: 10.1016/j.biocon.2011.05.013
+...

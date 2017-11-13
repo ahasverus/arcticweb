@@ -1,0 +1,25 @@
+---
+references:
+- id: ID85030171570
+  type: article-journal
+  author:
+  - family: Orive
+    given: M. E.
+  - family: Barfield
+    given: M.
+  - family: Fernandez
+    given: C.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2017'
+    month: '10'
+  title: Effects of clonal reproduction on evolutionary lag and evolutionary rescue
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '469-490'
+  volume: '190'
+  issue: '4'
+  URL: https://doi.org/10.1086%2F693006
+  DOI: 10.1086/693006
+...

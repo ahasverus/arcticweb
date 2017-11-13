@@ -1,0 +1,59 @@
+---
+references:
+- id: ID84896806989
+  type: article-journal
+  author:
+  - family: Yannic
+    given: G.
+  - family: Pellissier
+    given: L.
+  - family: Ortego
+    given: J.
+  - family: Lecomte
+    given: N.
+  - family: Couturier
+    given: S.
+  - family: Cuyler
+    given: C.
+  - family: Dussault
+    given: C.
+  - family: Hundertmark
+    given: K. J.
+  - family: Irvine
+    given: R. J.
+  - family: Jenkins
+    given: D. A.
+  - family: Kolpashikov
+    given: L.
+  - family: Mager
+    given: K.
+  - family: Musiani
+    given: M.
+  - family: Parker
+    given: K. L.
+  - family: Røed
+    given: K. H.
+  - family: Sipko
+    given: T.
+  - family: Thórisson
+    given: S. G.
+  - family: Weckworth
+    given: B. V.
+  - family: Guisan
+    given: A.
+  - family: Bernatchez
+    given: L.
+  - family: Côté
+    given: S. D.
+  issued:
+  - year: '2013'
+    month: '12'
+  title: Genetic diversity in caribou linked to past and future climate change
+  container-title: Nature Climate Change
+  publisher: Springer Nature
+  page: '132-137'
+  volume: '4'
+  issue: '2'
+  URL: https://doi.org/10.1038%2Fnclimate2074
+  DOI: 10.1038/nclimate2074
+...

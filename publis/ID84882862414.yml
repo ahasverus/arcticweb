@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84882862414
+  type: article-journal
+  author:
+  - family: Glorvigen
+    given: P.
+  - family: Gundersen
+    given: G.
+  - family: Andreassen
+    given: H. P.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2013'
+    month: '2'
+  title: The role of colonization in the dynamics of patchy populations of a cyclic
+    vole species
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '161-167'
+  volume: '173'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs00442-013-2614-y
+  DOI: 10.1007/s00442-013-2614-y
+...

@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84885939889
+  type: article-journal
+  author:
+  - family: Karlsen
+    given: S. R.
+  - family: Jepsen
+    given: J. U.
+  - family: Odland
+    given: A.
+  - family: Ims
+    given: R. A.
+  - family: Elvebakk
+    given: A.
+  issued:
+  - year: '2013'
+    month: '4'
+  title: Outbreaks by canopy-feeding geometrid moth cause state-dependent shifts in
+    understorey plant communities
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '859-870'
+  volume: '173'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs00442-013-2648-1
+  DOI: 10.1007/s00442-013-2648-1
+...

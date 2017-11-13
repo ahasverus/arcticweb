@@ -1,0 +1,25 @@
+---
+references:
+- id: ID54349102357
+  type: article-journal
+  author:
+  - family: Careau
+    given: V.
+  - family: Giroux
+    given: J.-F.
+  - family: Gauthier
+    given: G.
+  - family: Berteaux
+    given: D.
+  issued:
+  - year: '2008'
+    month: '10'
+  title: Surviving on cached foods - The energetics of egg-caching by arctic foxes
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '1217-1223'
+  volume: '86'
+  issue: '10'
+  URL: https://doi.org/10.1139%2Fz08-102
+  DOI: 10.1139/z08-102
+...

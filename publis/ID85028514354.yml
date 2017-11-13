@@ -1,0 +1,27 @@
+---
+references:
+- id: ID85028514354
+  type: article-journal
+  author:
+  - family: Toïgo
+    given: M.
+  - family: Barraquand
+    given: F.
+  - family: Barnagaud
+    given: J.-Y.
+  - family: Piou
+    given: D.
+  - family: Jactel
+    given: H.
+  issued:
+  - year: '2017'
+    month: '11'
+  title: Geographical variation in climatic drivers of the pine processionary moth
+    population dynamics
+  container-title: Forest Ecology and Management
+  publisher: Elsevier BV
+  page: '141-155'
+  volume: '404'
+  URL: https://doi.org/10.1016%2Fj.foreco.2017.08.024
+  DOI: 10.1016/j.foreco.2017.08.024
+...

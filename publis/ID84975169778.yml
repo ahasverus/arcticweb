@@ -1,0 +1,90 @@
+---
+references:
+- id: ID84975169778
+  type: article-journal
+  author:
+  - family: Steinbauer
+    given: M. J.
+  - family: Field
+    given: R.
+  - family: Grytnes
+    given: J.-A.
+  - family: Trigas
+    given: P.
+  - family: Ah-Peng
+    given: C.
+  - family: Attorre
+    given: F.
+  - family: Birks
+    given: H. J. B.
+  - family: Borges
+    given: P. A. V.
+  - family: Cardoso
+    given: P.
+  - family: Chou
+    given: C.-H.
+  - family: Sanctis
+    given: M.
+    dropping-particle: de
+  - family: Sequeira
+    given: M. M.
+    dropping-particle: de
+  - family: Duarte
+    given: M. C.
+  - family: Elias
+    given: R. B.
+  - family: Fernández-Palacios
+    given: J. M.
+  - family: Gabriel
+    given: R.
+  - family: Gereau
+    given: R. E.
+  - family: Gillespie
+    given: R. G.
+  - family: Greimler
+    given: J.
+  - family: Harter
+    given: D. E. V.
+  - family: Huang
+    given: T.-J.
+  - family: Irl
+    given: S. D. H.
+  - family: Jeanmonod
+    given: D.
+  - family: Jentsch
+    given: A.
+  - family: Jump
+    given: A. S.
+  - family: Kueffer
+    given: C.
+  - family: Nogué
+    given: S.
+  - family: Otto
+    given: R.
+  - family: Price
+    given: J.
+  - family: Romeiras
+    given: M. M.
+  - family: Strasberg
+    given: D.
+  - family: Stuessy
+    given: T.
+  - family: Svenning
+    given: J.-C.
+  - family: Vetaas
+    given: O. R.
+  - family: Beierkuhnlein
+    given: C.
+  issued:
+  - year: '2016'
+    month: '6'
+  title: Topography-driven isolation, speciation and a global increase of endemism
+    with elevation
+  container-title: Global Ecology and Biogeography
+  publisher: Wiley-Blackwell
+  page: '1097-1107'
+  volume: '25'
+  issue: '9'
+  URL: https://doi.org/10.1111%2Fgeb.12469
+  DOI: 10.1111/geb.12469
+...

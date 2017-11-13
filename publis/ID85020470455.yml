@@ -1,0 +1,46 @@
+---
+references:
+- id: ID85020470455
+  type: article-journal
+  author:
+  - family: Csergő
+    given: A. M.
+  - family: Salguero-Gómez
+    given: R.
+  - family: Broennimann
+    given: O.
+  - family: Coutts
+    given: S. R.
+  - family: Guisan
+    given: A.
+  - family: Angert
+    given: A. L.
+  - family: Welk
+    given: E.
+  - family: Stott
+    given: I.
+  - family: Enquist
+    given: B. J.
+  - family: McGill
+    given: B.
+  - family: Svenning
+    given: J.-C.
+  - family: Violle
+    given: C.
+  - family: Buckley
+    given: Y. M.
+  editor:
+  - family: Gurevitch
+    given: Jessica
+  issued:
+  - year: '2017'
+    month: '6'
+  title: Less favourable climates constrain demographic strategies in plants
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '969-980'
+  volume: '20'
+  issue: '8'
+  URL: https://doi.org/10.1111%2Fele.12794
+  DOI: 10.1111/ele.12794
+...

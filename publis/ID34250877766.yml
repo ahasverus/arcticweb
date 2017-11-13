@@ -1,0 +1,25 @@
+---
+references:
+- id: ID34250877766
+  type: article-journal
+  author:
+  - family: Richard
+    given: M.
+  - family: Archambault
+    given: P.
+  - family: Thouzeau
+    given: G.
+  - family: Desrosiers
+    given: G.
+  issued:
+  - year: '2007'
+    month: '5'
+  title: Summer influence of 1 and 2 yr old mussel cultures on benthic fluxes in Grande-Entrée
+    lagoon, Îles-de-la-Madeleine (Québec, Canada)
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '131-143'
+  volume: '338'
+  URL: https://doi.org/10.3354%2Fmeps338131
+  DOI: 10.3354/meps338131
+...

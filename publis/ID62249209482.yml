@@ -1,0 +1,76 @@
+---
+references:
+- id: ID62249209482
+  type: article-journal
+  author:
+  - family: Dunn
+    given: R. R.
+  - family: Agosti
+    given: D.
+  - family: Andersen
+    given: A. N.
+  - family: Arnan
+    given: X.
+  - family: Bruhl
+    given: C. A.
+  - family: Cerdá
+    given: X.
+  - family: Ellison
+    given: A. M.
+  - family: Fisher
+    given: B. L.
+  - family: Fitzpatrick
+    given: M. C.
+  - family: Gibb
+    given: H.
+  - family: Gotelli
+    given: N. J.
+  - family: Gove
+    given: A. D.
+  - family: Guenard
+    given: B.
+  - family: Janda
+    given: M.
+  - family: Kaspari
+    given: M.
+  - family: Laurent
+    given: E. J.
+  - family: Lessard
+    given: J.-P.
+  - family: Longino
+    given: J. T.
+  - family: Majer
+    given: J. D.
+  - family: Menke
+    given: S. B.
+  - family: McGlynn
+    given: T. P.
+  - family: Parr
+    given: C. L.
+  - family: Philpott
+    given: S. M.
+  - family: Pfeiffer
+    given: M.
+  - family: Retana
+    given: J.
+  - family: Suarez
+    given: A. V.
+  - family: Vasconcelos
+    given: H. L.
+  - family: Weiser
+    given: M. D.
+  - family: Sanders
+    given: N. J.
+  issued:
+  - year: '2009'
+    month: '4'
+  title: Climatic drivers of hemispheric asymmetry in global patterns of ant species
+    richness
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '324-333'
+  volume: '12'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1461-0248.2009.01291.x
+  DOI: 10.1111/j.1461-0248.2009.01291.x
+...

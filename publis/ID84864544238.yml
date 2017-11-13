@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84864544238
+  type: article-journal
+  author:
+  - family: Tarroux
+    given: A.
+  - family: Bêty
+    given: J.
+  - family: Gauthier
+    given: G.
+  - family: Berteaux
+    given: D.
+  editor:
+  - family: Blanc
+    given: Stephane
+  issued:
+  - year: '2012'
+    month: '8'
+  title: 'The marine side of a terrestrial carnivore: Intra-population variation
+    in use of allochthonous resources by Arctic foxes'
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e42427'
+  volume: '7'
+  issue: '8'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0042427
+  DOI: 10.1371/journal.pone.0042427
+...

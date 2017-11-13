@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84907921084
+  type: article-journal
+  author:
+  - family: Fort
+    given: J.
+  - family: Robertson
+    given: G. J.
+  - family: Grémillet
+    given: D.
+  - family: Traisnel
+    given: G.
+  - family: Bustamante
+    given: P.
+  issued:
+  - year: '2014'
+    month: '9'
+  title: 'Spatial ecotoxicology: Migratory arctic seabirds are exposed to mercury
+    contamination while overwintering in the northwest Atlantic'
+  container-title: Environmental Science & Technology
+  publisher: American Chemical Society (ACS)
+  page: '11560-11567'
+  volume: '48'
+  issue: '19'
+  URL: https://doi.org/10.1021%2Fes504045g
+  DOI: 10.1021/es504045g
+...

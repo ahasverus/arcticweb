@@ -1,0 +1,32 @@
+---
+references:
+- id: ID20844448502
+  type: article-journal
+  author:
+  - family: Fox
+    given: A. D.
+  - family: Madsen
+    given: J.
+  - family: Boyd
+    given: H.
+  - family: Kuijken
+    given: E.
+  - family: Norriss
+    given: D. W.
+  - family: Tombre
+    given: I. M.
+  - family: Stroud
+    given: D. A.
+  issued:
+  - year: '2005'
+    month: '6'
+  title: Effects of agricultural change on abundance, fitness components and distribution
+    of two arctic-nesting goose populations
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '881-893'
+  volume: '11'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1365-2486.2005.00941.x
+  DOI: 10.1111/j.1365-2486.2005.00941.x
+...

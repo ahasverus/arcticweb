@@ -1,0 +1,36 @@
+---
+references:
+- id: ID85012159201
+  type: article-journal
+  author:
+  - family: Lanctot
+    given: R. B.
+  - family: Yezerinac
+    given: S.
+  - family: Aldabe
+    given: J.
+  - family: Almeida
+    given: J. B.
+    dropping-particle: de
+  - family: Castresana
+    given: G.
+  - family: Brown
+    given: S.
+  - family: Rocca
+    given: P.
+  - family: Saalfeld
+    given: S. T.
+  - family: Fox
+    given: J. W.
+  issued:
+  - year: '2016'
+    month: '4'
+  title: Light-level geolocation reveals migration patterns of the buff-breasted sandpiper
+  container-title: Wader Study
+  publisher: International Wader Study Group
+  page: '29-43'
+  volume: '123'
+  issue: '1'
+  URL: https://doi.org/10.18194%2Fws.00032
+  DOI: 10.18194/ws.00032
+...

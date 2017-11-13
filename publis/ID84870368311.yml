@@ -1,0 +1,34 @@
+---
+references:
+- id: ID84870368311
+  type: article-journal
+  author:
+  - family: Pettex
+    given: E.
+  - family: Lorentsen
+    given: S.-H.
+  - family: Grémillet
+    given: D.
+  - family: Gimenez
+    given: O.
+  - family: Barrett
+    given: R. T.
+  - family: Pons
+    given: J.-B.
+  - family: Bohec
+    given: C.
+  - family: Bonadonna
+    given: F.
+  issued:
+  - year: '2012'
+    month: '8'
+  title: Multi-scale foraging variability in Northern gannet (Morus bassanus) fuels
+    potential foraging plasticity
+  container-title: Marine Biology
+  publisher: Springer Nature
+  page: '2743-2756'
+  volume: '159'
+  issue: '12'
+  URL: https://doi.org/10.1007%2Fs00227-012-2035-1
+  DOI: 10.1007/s00227-012-2035-1
+...

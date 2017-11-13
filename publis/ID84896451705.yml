@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84896451705
+  type: article-journal
+  author:
+  - family: Canard
+    given: E. F.
+  - family: Mouquet
+    given: N.
+  - family: Mouillot
+    given: D.
+  - family: Stanko
+    given: M.
+  - family: Miklisova
+    given: D.
+  - family: Gravel
+    given: D.
+  issued:
+  - year: '2014'
+    month: '4'
+  title: Empirical evaluation of neutral interactions in host-parasite networks
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '468-479'
+  volume: '183'
+  issue: '4'
+  URL: https://doi.org/10.1086%2F675363
+  DOI: 10.1086/675363
+...

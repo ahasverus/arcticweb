@@ -1,0 +1,36 @@
+---
+references:
+- id: ID84945487355
+  type: article-journal
+  author:
+  - family: Gouveia
+    given: A.
+  - family: Bejček
+    given: V.
+  - family: Flousek
+    given: J.
+  - family: Sedláček
+    given: F.
+  - family: Šťastný
+    given: K.
+  - family: Zima
+    given: J.
+  - family: Yoccoz
+    given: N. G.
+  - family: Stenseth
+    given: N. C.
+  - family: Tkadlec
+    given: E.
+  issued:
+  - year: '2015'
+    month: '9'
+  title: 'Long-term pattern of population dynamics in the field vole from central
+    Europe: cyclic pattern with amplitude dampening'
+  container-title: Population Ecology
+  publisher: Springer Nature
+  page: '581-589'
+  volume: '57'
+  issue: '4'
+  URL: https://doi.org/10.1007%2Fs10144-015-0504-3
+  DOI: 10.1007/s10144-015-0504-3
+...

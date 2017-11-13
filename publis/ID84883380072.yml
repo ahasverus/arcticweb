@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84883380072
+  type: article-journal
+  author:
+  - family: Julien
+    given: J. R.
+  - family: Gauthier
+    given: G.
+  - family: Morrison
+    given: R. I. G.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2013'
+    month: '8'
+  title: Survival rate of the long-tailed jaeger at alert, Ellesmere Island, Nunavut
+  container-title: The Condor
+  publisher: Cooper Ornithological Society
+  page: '543-550'
+  volume: '115'
+  issue: '3'
+  URL: https://doi.org/10.1525%2Fcond.2013.120153
+  DOI: 10.1525/cond.2013.120153
+...

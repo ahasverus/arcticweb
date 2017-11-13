@@ -1,0 +1,49 @@
+---
+references:
+- id: ID84912523408
+  type: article-journal
+  author:
+  - family: Thuiller
+    given: W.
+  - family: Münkemüller
+    given: T.
+  - family: Schiffers
+    given: K. H.
+  - family: Georges
+    given: D.
+  - family: Dullinger
+    given: S.
+  - family: Eckhart
+    given: V. M.
+  - family: Edwards
+    given: T. C.
+  - family: Gravel
+    given: D.
+  - family: Kunstler
+    given: G.
+  - family: Merow
+    given: C.
+  - family: Moore
+    given: K.
+  - family: Piedallu
+    given: C.
+  - family: Vissault
+    given: S.
+  - family: Zimmermann
+    given: N. E.
+  - family: Zurell
+    given: D.
+  - family: Schurr
+    given: F. M.
+  issued:
+  - year: '2014'
+    month: '9'
+  title: Does probability of occurrence relate to population dynamics?
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '1155-1166'
+  volume: '37'
+  issue: '12'
+  URL: https://doi.org/10.1111%2Fecog.00836
+  DOI: 10.1111/ecog.00836
+...

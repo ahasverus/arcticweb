@@ -1,0 +1,33 @@
+---
+references:
+- id: ID85008975656
+  type: article-journal
+  author:
+  - family: Paillet
+    given: Y.
+  - family: Archaux
+    given: F.
+  - family: Boulanger
+    given: V.
+  - family: Debaive
+    given: N.
+  - family: Fuhr
+    given: M.
+  - family: Gilg
+    given: O.
+  - family: Gosselin
+    given: F.
+  - family: Guilbert
+    given: E.
+  issued:
+  - year: '2017'
+    month: '4'
+  title: Snags and large trees drive higher tree microhabitat densities in strict
+    forest reserves
+  container-title: Forest Ecology and Management
+  publisher: Elsevier BV
+  page: '176-186'
+  volume: '389'
+  URL: https://doi.org/10.1016%2Fj.foreco.2016.12.014
+  DOI: 10.1016/j.foreco.2016.12.014
+...

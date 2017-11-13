@@ -1,0 +1,33 @@
+---
+references:
+- id: ID84892559678
+  type: article-journal
+  author:
+  - family: Fabre
+    given: P.-H.
+  - family: Moltensen
+    given: M.
+  - family: Fjeldså
+    given: J.
+  - family: Irestedt
+    given: M.
+  - family: Lessard
+    given: J.-P.
+  - family: Jønsson
+    given: K. A.
+  editor:
+  - family: Carine
+    given: Mark
+  issued:
+  - year: '2013'
+    month: '9'
+  title: Multiple waves of colonization by monarch flycatchers (Myiagra, Monarchidae)
+    across the Indo-Pacific and their implications for coexistence and speciation
+  container-title: Journal of Biogeography
+  publisher: Wiley-Blackwell
+  page: '274-286'
+  volume: '41'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fjbi.12202
+  DOI: 10.1111/jbi.12202
+...

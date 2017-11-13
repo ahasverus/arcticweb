@@ -1,0 +1,24 @@
+---
+references:
+- id: ID85008196511
+  type: article-journal
+  author:
+  - family: Hausner
+    given: V. H.
+  - family: Engen
+    given: S.
+  - family: Bludd
+    given: E. K.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2017'
+    month: '4'
+  title: Policy indicators for use in impact evaluations of protected area networks
+  container-title: Ecological Indicators
+  publisher: Elsevier BV
+  page: '192-202'
+  volume: '75'
+  URL: https://doi.org/10.1016%2Fj.ecolind.2016.12.026
+  DOI: 10.1016/j.ecolind.2016.12.026
+...

@@ -1,0 +1,22 @@
+---
+references:
+- id: ID0037907283
+  type: article-journal
+  author:
+  - family: Holt
+    given: R. D.
+  - family: Barfield
+    given: M.
+  issued:
+  - year: '2003'
+    month: '4'
+  title: Impacts of temporal variation on apparent competition and coexistence in
+    open ecosystems
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '49-58'
+  volume: '101'
+  issue: '1'
+  URL: https://doi.org/10.1034%2Fj.1600-0706.2003.12570.x
+  DOI: 10.1034/j.1600-0706.2003.12570.x
+...

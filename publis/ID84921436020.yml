@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84921436020
+  type: article-journal
+  author:
+  - family: Descamps
+    given: S.
+  - family: Tarroux
+    given: A.
+  - family: Varpe
+    given: Y.
+  - family: Yoccoz
+    given: N. G.
+  - family: Tveraa
+    given: T.
+  - family: Lorentsen
+    given: S.-H.
+  issued:
+  - year: '2014'
+    month: '12'
+  title: 'Demographic effects of extreme weather events: Snow storms, breeding success,
+    and population growth rate in a long-lived Antarctic seabird'
+  container-title: Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '314-325'
+  volume: '5'
+  issue: '2'
+  URL: https://doi.org/10.1002%2Fece3.1357
+  DOI: 10.1002/ece3.1357
+...

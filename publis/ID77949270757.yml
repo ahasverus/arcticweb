@@ -1,0 +1,30 @@
+---
+references:
+- id: ID77949270757
+  type: article-journal
+  author:
+  - family: Ravolainen
+    given: V. T.
+  - family: Yoccoz
+    given: N. G.
+  - family: Bråthen
+    given: K. A.
+  - family: Ims
+    given: R. A.
+  - family: Iversen
+    given: M.
+  - family: González
+    given: V. T.
+  issued:
+  - year: '2010'
+    month: '1'
+  title: Additive partitioning of diversity reveals no scale-dependent impacts of
+    large ungulates on the structure of tundra plant communities
+  container-title: Ecosystems
+  publisher: Springer Nature
+  page: '157-170'
+  volume: '13'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs10021-009-9308-7
+  DOI: 10.1007/s10021-009-9308-7
+...

@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84924709339
+  type: article-journal
+  author:
+  - family: Potier
+    given: S.
+  - family: Carpentier
+    given: A.
+  - family: Grémillet
+    given: D.
+  - family: Leroy
+    given: B.
+  - family: Lescroël
+    given: A.
+  issued:
+  - year: '2015'
+    month: '5'
+  title: Individual repeatability of foraging behaviour in a marine predator, the
+    great cormorant, Phalacrocorax carbo
+  container-title: Animal Behaviour
+  publisher: Elsevier BV
+  page: '83-90'
+  volume: '103'
+  URL: https://doi.org/10.1016%2Fj.anbehav.2015.02.008
+  DOI: 10.1016/j.anbehav.2015.02.008
+...

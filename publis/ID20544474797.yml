@@ -1,0 +1,26 @@
+---
+references:
+- id: ID20544474797
+  type: article-journal
+  author:
+  - family: Fenton
+    given: N.
+  - family: Lecomte
+    given: N.
+  - family: Légaré
+    given: S.
+  - family: Bergeron
+    given: Y.
+  issued:
+  - year: '2005'
+    month: '7'
+  title: 'Paludification in black spruce (Picea mariana) forests of eastern Canada:
+    Potential factors and management implications'
+  container-title: Forest Ecology and Management
+  publisher: Elsevier BV
+  page: '151-159'
+  volume: '213'
+  issue: '1-3'
+  URL: https://doi.org/10.1016%2Fj.foreco.2005.03.017
+  DOI: 10.1016/j.foreco.2005.03.017
+...

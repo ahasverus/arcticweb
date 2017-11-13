@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84961279167
+  type: article-journal
+  author:
+  - family: Belley
+    given: R.
+  - family: Snelgrove
+    given: P. V. R.
+  - family: Archambault
+    given: P.
+  - family: Juniper
+    given: S. K.
+  editor:
+  - family: Vopel
+    given: Kay C.
+  issued:
+  - year: '2016'
+    month: '3'
+  title: Environmental Drivers of Benthic Flux Variation and Ecosystem Functioning
+    in Salish Sea and Northeast Pacific Sediments
+  container-title: PLOS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e0151110'
+  volume: '11'
+  issue: '3'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0151110
+  DOI: 10.1371/journal.pone.0151110
+...

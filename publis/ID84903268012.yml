@@ -1,0 +1,22 @@
+---
+references:
+- id: ID84903268012
+  type: article-journal
+  author:
+  - family: Barraquand
+    given: F.
+  - family: Hušek
+    given: J.
+  issued:
+  - year: '2014'
+    month: '4'
+  title: Covariation between mean vole density and variability drives the numerical
+    response of storks to vole prey
+  container-title: Population Ecology
+  publisher: Springer Nature
+  page: '551-553'
+  volume: '56'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs10144-014-0440-7
+  DOI: 10.1007/s10144-014-0440-7
+...

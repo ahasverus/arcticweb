@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84953262885
+  type: article-journal
+  author:
+  - family: Slade
+    given: E. M.
+  - family: Riutta
+    given: T.
+  - family: Roslin
+    given: T.
+  - family: Tuomisto
+    given: H. L.
+  issued:
+  - year: '2016'
+    month: '1'
+  title: The role of dung beetles in reducing greenhouse gas emissions from cattle
+    farming
+  container-title: Scientific Reports
+  publisher: Springer Nature
+  volume: '6'
+  issue: '1'
+  URL: https://doi.org/10.1038%2Fsrep18140
+  DOI: 10.1038/srep18140
+...

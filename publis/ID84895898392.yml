@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84895898392
+  type: article-journal
+  author:
+  - family: Zeyl
+    given: J. N.
+  - family: Love
+    given: O. P.
+  - family: Higgs
+    given: D. M.
+  issued:
+  - year: '2014'
+    month: '3'
+  title: Evaluating gonadosomatic index as an estimator of reproductive condition
+    in the invasive round goby, Neogobius melanostomus
+  container-title: Journal of Great Lakes Research
+  publisher: Elsevier BV
+  page: '164-171'
+  volume: '40'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fj.jglr.2013.12.004
+  DOI: 10.1016/j.jglr.2013.12.004
+...

@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84920837108
+  type: article-journal
+  author:
+  - family: Elmhagen
+    given: B.
+  - family: Kindberg
+    given: J.
+  - family: Hellström
+    given: P.
+  - family: Angerbjörn
+    given: A.
+  issued:
+  - year: '2015'
+    month: '1'
+  title: A boreal invasion in response to climate change? Range shifts and community
+    effects in the borderland between forest and tundra
+  container-title: AMBIO
+  publisher: Springer Nature
+  page: '39-50'
+  volume: '44'
+  issue: S1
+  URL: https://doi.org/10.1007%2Fs13280-014-0606-8
+  DOI: 10.1007/s13280-014-0606-8
+...

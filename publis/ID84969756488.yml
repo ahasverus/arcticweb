@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84969756488
+  type: article-journal
+  author:
+  - family: Levi
+    given: T.
+  - family: Keesing
+    given: F.
+  - family: Holt
+    given: R. D.
+  - family: Barfield
+    given: M.
+  - family: Ostfeld
+    given: R. S.
+  issued:
+  - year: '2016'
+    month: '3'
+  title: Quantifying dilution and amplification in a community of hosts for tick-borne
+    pathogens
+  container-title: Ecological Applications
+  publisher: Wiley-Blackwell
+  page: '484-498'
+  volume: '26'
+  issue: '2'
+  URL: https://doi.org/10.1890%2F15-0122
+  DOI: 10.1890/15-0122
+...

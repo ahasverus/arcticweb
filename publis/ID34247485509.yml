@@ -1,0 +1,28 @@
+---
+references:
+- id: ID34247485509
+  type: article-journal
+  author:
+  - family: Braune
+    given: B.
+  - family: Mallory
+    given: M.
+  - family: Grantgilchrist
+    given: H.
+  - family: Letcher
+    given: R.
+  - family: Drouillard
+    given: K.
+  issued:
+  - year: '2007'
+    month: '6'
+  title: Levels and trends of organochlorines and brominated flame retardants in Ivory
+    Gull eggs from the Canadian Arctic, 1976 to 2004
+  container-title: Science of The Total Environment
+  publisher: Elsevier BV
+  page: '403-417'
+  volume: '378'
+  issue: '3'
+  URL: https://doi.org/10.1016%2Fj.scitotenv.2007.03.003
+  DOI: 10.1016/j.scitotenv.2007.03.003
+...

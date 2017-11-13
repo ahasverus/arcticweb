@@ -1,0 +1,28 @@
+---
+references:
+- id: ID0025624003
+  type: article-journal
+  author:
+  - family: Fredga
+    given: K.
+  - family: Jaarola
+    given: M.
+  - family: Ims
+    given: R. A.
+  - family: Steen
+    given: H.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '1990'
+    month: '12'
+  title: The ’common vole’ in Svalbard identified as Microtus epiroticus by chromosome
+    analysis
+  container-title: Polar Research
+  publisher: Informa UK Limited
+  page: '283-290'
+  volume: '8'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1751-8369.1990.tb00390.x
+  DOI: 10.1111/j.1751-8369.1990.tb00390.x
+...

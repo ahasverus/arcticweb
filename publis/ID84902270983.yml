@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84902270983
+  type: article-journal
+  author:
+  - family: Dunoyer
+    given: L.
+  - family: Dijoux
+    given: L.
+  - family: Bollache
+    given: L.
+  - family: Lagrue
+    given: C.
+  issued:
+  - year: '2013'
+    month: '11'
+  title: 'Effects of crayfish on leaf litter breakdown and shredder prey: Are native
+    and introduced species functionally redundant?'
+  container-title: Biological Invasions
+  publisher: Springer Nature
+  page: '1545-1555'
+  volume: '16'
+  issue: '7'
+  URL: https://doi.org/10.1007%2Fs10530-013-0590-0
+  DOI: 10.1007/s10530-013-0590-0
+...

@@ -1,0 +1,24 @@
+---
+references:
+- id: ID79953857018
+  type: article-journal
+  author:
+  - family: Gravel
+    given: D.
+  - family: Beaudet
+    given: M.
+  - family: Messier
+    given: C.
+  issued:
+  - year: '2011'
+    month: '4'
+  title: Sapling age structure and growth series reveal a shift in recruitment dynamics
+    of sugar maple and American beech over the last 40 years
+  container-title: Canadian Journal of Forest Research
+  publisher: Canadian Science Publishing
+  page: '873-880'
+  volume: '41'
+  issue: '4'
+  URL: https://doi.org/10.1139%2Fx10-242
+  DOI: 10.1139/x10-242
+...

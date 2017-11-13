@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84897078479
+  type: article-journal
+  author:
+  - family: Dalby
+    given: L.
+  - family: McGill
+    given: B. J.
+  - family: Fox
+    given: A. D.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2014'
+    month: '3'
+  title: Seasonality drives global-scale diversity patterns in waterfowl (Anseriformes)
+    via temporal niche exploitation
+  container-title: Global Ecology and Biogeography
+  publisher: Wiley-Blackwell
+  page: '550-562'
+  volume: '23'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fgeb.12154
+  DOI: 10.1111/geb.12154
+...

@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84888307950
+  type: article-journal
+  author:
+  - family: Holt
+    given: R. D.
+  - family: Taylor
+    given: E.
+  - family: Roy
+    given: M.
+  - family: Barfield
+    given: M.
+  issued:
+  - year: '2013'
+    month: '3'
+  title: Unstable predator-prey dynamics permits the coexistence of generalist and
+    specialist predators, and the maintenance of partial preferences
+  container-title: Israel Journal of Ecology & Evolution
+  publisher: Brill Academic Publishers
+  page: '27-36'
+  volume: '59'
+  issue: '1'
+  URL: https://doi.org/10.1080%2F15659801.2013.823749
+  DOI: 10.1080/15659801.2013.823749
+...

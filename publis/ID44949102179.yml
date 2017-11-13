@@ -1,0 +1,49 @@
+---
+references:
+- id: ID44949102179
+  type: article-journal
+  author:
+  - family: Irons
+    given: D. B.
+  - family: Anker-Nilssen
+    given: T.
+  - family: Gaston
+    given: A. J.
+  - family: Byrd
+    given: G. V.
+  - family: Falk
+    given: K.
+  - family: Gilchrist
+    given: G.
+  - family: Hario
+    given: M.
+  - family: Hjernquist
+    given: M.
+  - family: Krasnov
+    given: Y. V.
+  - family: Mosbech
+    given: A.
+  - family: Olsen
+    given: B.
+  - family: Petersen
+    given: A.
+  - family: Reid
+    given: J. B.
+  - family: Robertson
+    given: G. J.
+  - family: Strøm
+    given: H.
+  - family: Wohl
+    given: K. D.
+  issued:
+  - year: '2008'
+    month: '7'
+  title: Fluctuations in circumpolar seabird populations linked to climate oscillations
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '1455-1463'
+  volume: '14'
+  issue: '7'
+  URL: https://doi.org/10.1111%2Fj.1365-2486.2008.01581.x
+  DOI: 10.1111/j.1365-2486.2008.01581.x
+...

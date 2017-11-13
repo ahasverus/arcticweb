@@ -1,0 +1,29 @@
+---
+references:
+- id: ID33644551218
+  type: article-journal
+  author:
+  - family: Bruun
+    given: H. H.
+  - family: Moen
+    given: J.
+  - family: Virtanen
+    given: R.
+  - family: Grytnes
+    given: J.-A.
+  - family: Oksanen
+    given: L.
+  - family: Angerbjörn
+    given: A.
+  issued:
+  - year: '2006'
+  title: Effects of altitude and topography on species richness of vascular plants,
+    bryophytes and lichens in alpine communities
+  container-title: Journal of Vegetation Science
+  publisher: Wiley-Blackwell
+  page: '37'
+  volume: '17'
+  issue: '1'
+  URL: https://doi.org/10.1658%2F1100-9233%282006%29017%5B0037%3Aeoaato%5D2.0.co%3B2
+  DOI: 10.1658/1100-9233(2006)017[0037:eoaato]2.0.co;2
+...

@@ -1,0 +1,25 @@
+---
+references:
+- id: ID34247153522
+  type: article-journal
+  author:
+  - family: Basset
+    given: P.
+  - family: Yannic
+    given: G.
+  - family: Brünner
+    given: H.
+  - family: Hausser
+    given: J.
+  issued:
+  - year: '2007'
+  title: Using a Bayesian method to assign individuals to karyotypic taxa in shrew
+    hybrid zones
+  container-title: Cytogenetic and Genome Research
+  publisher: S. Karger AG
+  page: '282-288'
+  volume: '116'
+  issue: '4'
+  URL: https://doi.org/10.1159%2F000100412
+  DOI: 10.1159/000100412
+...

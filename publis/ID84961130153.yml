@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84961130153
+  type: article-journal
+  author:
+  - family: Poisot
+    given: T.
+  - family: Cirtwill
+    given: A. R.
+  - family: Cazelles
+    given: K.
+  - family: Gravel
+    given: D.
+  - family: Fortin
+    given: M.-J.
+  - family: Stouffer
+    given: D. B.
+  editor:
+  - family: Vamosi
+    given: Jana
+  issued:
+  - year: '2015'
+    month: '10'
+  title: The structure of probabilistic networks
+  container-title: Methods in Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '303-312'
+  volume: '7'
+  issue: '3'
+  URL: https://doi.org/10.1111%2F2041-210x.12468
+  DOI: 10.1111/2041-210x.12468
+...

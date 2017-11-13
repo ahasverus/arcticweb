@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0036194541
+  type: article-journal
+  author:
+  - family: Bety
+    given: J.
+  - family: Gauthier
+    given: G.
+  - family: Korpimaki
+    given: E.
+  - family: Giroux
+    given: J.-F.
+  issued:
+  - year: '2002'
+    month: '1'
+  title: 'Shared predators and indirect trophic interactions: Lemming cycles and
+    arctic-nesting geese'
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '88-98'
+  volume: '71'
+  issue: '1'
+  URL: https://doi.org/10.1046%2Fj.0021-8790.2001.00581.x
+  DOI: 10.1046/j.0021-8790.2001.00581.x
+...

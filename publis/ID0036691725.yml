@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0036691725
+  type: article-journal
+  author:
+  - family: Smith
+    given: P. A.
+  - family: Schaefer
+    given: J. A.
+  - family: Patterson
+    given: B. R.
+  issued:
+  - year: '2002'
+    month: '8'
+  title: 'Variation at high latitudes: The geography of body size and cranial morphology
+    of the muskox, Ovibos moschatus'
+  container-title: Journal of Biogeography
+  publisher: Wiley-Blackwell
+  page: '1089-1094'
+  volume: '29'
+  issue: '8'
+  URL: https://doi.org/10.1046%2Fj.1365-2699.2002.00751.x
+  DOI: 10.1046/j.1365-2699.2002.00751.x
+...

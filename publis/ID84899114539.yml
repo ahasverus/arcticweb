@@ -1,0 +1,23 @@
+---
+references:
+- id: ID84899114539
+  type: article-journal
+  author:
+  - family: Brunbjerg
+    given: A. K.
+  - family: Svenning
+    given: J.-C.
+  - family: Ejrnæs
+    given: R.
+  issued:
+  - year: '2014'
+    month: '6'
+  title: Experimental evidence for disturbance as key to the conservation of dune
+    grassland
+  container-title: Biological Conservation
+  publisher: Elsevier BV
+  page: '101-110'
+  volume: '174'
+  URL: https://doi.org/10.1016%2Fj.biocon.2014.04.002
+  DOI: 10.1016/j.biocon.2014.04.002
+...

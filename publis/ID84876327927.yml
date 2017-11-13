@@ -1,0 +1,59 @@
+---
+references:
+- id: ID84876327927
+  type: article-journal
+  author:
+  - family: Cornulier
+    given: T.
+  - family: Yoccoz
+    given: N. G.
+  - family: Bretagnolle
+    given: V.
+  - family: Brommer
+    given: J. E.
+  - family: Butet
+    given: A.
+  - family: Ecke
+    given: F.
+  - family: Elston
+    given: D. A.
+  - family: Framstad
+    given: E.
+  - family: Henttonen
+    given: H.
+  - family: Hornfeldt
+    given: B.
+  - family: Huitu
+    given: O.
+  - family: Imholt
+    given: C.
+  - family: Ims
+    given: R. A.
+  - family: Jacob
+    given: J.
+  - family: Jedrzejewska
+    given: B.
+  - family: Millon
+    given: A.
+  - family: Petty
+    given: S. J.
+  - family: Pietiainen
+    given: H.
+  - family: Tkadlec
+    given: E.
+  - family: Zub
+    given: K.
+  - family: Lambin
+    given: X.
+  issued:
+  - year: '2013'
+    month: '4'
+  title: Europe-wide dampening of population cycles in keystone herbivores
+  container-title: Science
+  publisher: American Association for the Advancement of Science (AAAS)
+  page: '63-66'
+  volume: '340'
+  issue: '6128'
+  URL: https://doi.org/10.1126%2Fscience.1228992
+  DOI: 10.1126/science.1228992
+...

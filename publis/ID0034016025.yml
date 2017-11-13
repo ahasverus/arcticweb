@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0034016025
+  type: article-journal
+  author:
+  - family: Karels
+    given: T. J.
+  - family: Byrom
+    given: A. E.
+  - family: Boonstra
+    given: R.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '2000'
+    month: '3'
+  title: The interactive effects of food and predators on reproduction and overwinter
+    survival of arctic ground squirrels
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '235-247'
+  volume: '69'
+  issue: '2'
+  URL: https://doi.org/10.1046%2Fj.1365-2656.2000.00387.x
+  DOI: 10.1046/j.1365-2656.2000.00387.x
+...

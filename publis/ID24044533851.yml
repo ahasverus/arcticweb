@@ -1,0 +1,23 @@
+---
+references:
+- id: ID24044533851
+  type: article-journal
+  author:
+  - family: Tamstorf
+    given: M. P.
+  - family: Aastrup
+    given: P.
+  - family: Cuyler
+    given: L. C.
+  issued:
+  - year: '2005'
+    month: '5'
+  title: Modelling critical caribou summer ranges in West Greenland
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '714-724'
+  volume: '28'
+  issue: '9'
+  URL: https://doi.org/10.1007%2Fs00300-005-0731-8
+  DOI: 10.1007/s00300-005-0731-8
+...

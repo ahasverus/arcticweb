@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84874747793
+  type: article-journal
+  author:
+  - family: Doiron
+    given: M.
+  - family: Legagneux
+    given: P.
+  - family: Gauthier
+    given: G.
+  - family: Lévesque
+    given: E.
+  editor:
+  - family: Henebry
+    given: Geoffrey
+  issued:
+  - year: '2012'
+    month: '7'
+  title: Broad-scale satellite Normalized Difference Vegetation Index data predict
+    plant biomass and peak date of nitrogen concentration in Arctic tundra vegetation
+  container-title: Applied Vegetation Science
+  publisher: Wiley-Blackwell
+  page: '343-351'
+  volume: '16'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1654-109x.2012.01219.x
+  DOI: 10.1111/j.1654-109x.2012.01219.x
+...

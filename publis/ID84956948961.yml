@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84956948961
+  type: article-journal
+  author:
+  - family: Pettex
+    given: E.
+  - family: Barrett
+    given: R. T.
+  - family: Lorentsen
+    given: S.-H.
+  - family: Bonadonna
+    given: F.
+  - family: Pichegru
+    given: L.
+  - family: Pons
+    given: J.-B.
+  - family: Grémillet
+    given: D.
+  issued:
+  - year: '2014'
+    month: '11'
+  title: 'Contrasting population trends at seabirds colonies: Is food limitation
+    a factor in Norway?'
+  container-title: Journal of Ornithology
+  publisher: Springer Nature
+  page: '397-406'
+  volume: '156'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs10336-014-1137-6
+  DOI: 10.1007/s10336-014-1137-6
+...

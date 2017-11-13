@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84955459039
+  type: article-journal
+  author:
+  - family: Giroux
+    given: M.-A.
+  - family: Valiquette
+    given: L.
+  - family: Tremblay
+    given: J.-P.
+  - family: Côté
+    given: S. D.
+  editor:
+  - family: Sotka
+    given: Erik
+  issued:
+  - year: '2015'
+    month: '11'
+  title: 'Isotopic differences between forage consumed by a large herbivore in open,
+    closed, and coastal habitats: New evidence from a boreal study system'
+  container-title: PLOS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e0142781'
+  volume: '10'
+  issue: '11'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0142781
+  DOI: 10.1371/journal.pone.0142781
+...

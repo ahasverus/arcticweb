@@ -1,0 +1,35 @@
+---
+references:
+- id: ID84878450963
+  type: article-journal
+  author:
+  - family: Kutschera
+    given: V. E.
+  - family: Lecomte
+    given: N.
+  - family: Janke
+    given: A.
+  - family: Selva
+    given: N.
+  - family: Sokolov
+    given: A. A.
+  - family: Haun
+    given: T.
+  - family: Steyer
+    given: K.
+  - family: Nowak
+    given: C.
+  - family: Hailer
+    given: F.
+  issued:
+  - year: '2013'
+  title: A range-wide synthesis and timeline for phylogeographic events in the red
+    fox (Vulpes vulpes)
+  container-title: BMC Evolutionary Biology
+  publisher: Springer Nature
+  page: '114'
+  volume: '13'
+  issue: '1'
+  URL: https://doi.org/10.1186%2F1471-2148-13-114
+  DOI: 10.1186/1471-2148-13-114
+...

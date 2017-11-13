@@ -1,0 +1,31 @@
+---
+references:
+- id: ID80555149365
+  type: article-journal
+  author:
+  - family: Sandel
+    given: B.
+  - family: Arge
+    given: L.
+  - family: Dalsgaard
+    given: B.
+  - family: Davies
+    given: R. G.
+  - family: Gaston
+    given: K. J.
+  - family: Sutherland
+    given: W. J.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2011'
+    month: '10'
+  title: The influence of late quaternary climate-change velocity on species endemism
+  container-title: Science
+  publisher: American Association for the Advancement of Science (AAAS)
+  page: '660-664'
+  volume: '334'
+  issue: '6056'
+  URL: https://doi.org/10.1126%2Fscience.1210173
+  DOI: 10.1126/science.1210173
+...

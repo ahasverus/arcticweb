@@ -1,0 +1,29 @@
+---
+references:
+- id: ID3843071109
+  type: article-journal
+  author:
+  - family: Béchet
+    given: A.
+  - family: Reed
+    given: A.
+  - family: Plante
+    given: N.
+  - family: Giroux
+    given: J.-F.
+  - family: Gauthier
+    given: G.
+  editor:
+  - family: Sheaffer
+  issued:
+  - year: '2004'
+    month: '7'
+  title: Estimating the size of the greater snow goose population
+  container-title: Journal of Wildlife Management
+  publisher: Wiley-Blackwell
+  page: '639-649'
+  volume: '68'
+  issue: '3'
+  URL: https://doi.org/10.2193%2F0022-541x%282004%29068%5B0639%3Aetsotg%5D2.0.co%3B2
+  DOI: 10.2193/0022-541x(2004)068[0639:etsotg]2.0.co;2
+...

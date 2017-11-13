@@ -1,0 +1,25 @@
+---
+references:
+- id: ID77955633205
+  type: article-journal
+  author:
+  - family: Gravel
+    given: D.
+  - family: Mouquet
+    given: N.
+  - family: Loreau
+    given: M.
+  - family: Guichard
+    given: F.
+  issued:
+  - year: '2010'
+    month: '9'
+  title: Patch dynamics, persistence, and species coexistence in metaecosystems
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '289-302'
+  volume: '176'
+  issue: '3'
+  URL: https://doi.org/10.1086%2F655426
+  DOI: 10.1086/655426
+...

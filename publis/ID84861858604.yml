@@ -1,0 +1,34 @@
+---
+references:
+- id: ID84861858604
+  type: article-journal
+  author:
+  - family: McManus
+    given: K. M.
+  - family: Morton
+    given: D. C.
+  - family: Masek
+    given: J. G.
+  - family: Wang
+    given: D.
+  - family: Sexton
+    given: J. O.
+  - family: Nagol
+    given: J. R.
+  - family: Ropars
+    given: P.
+  - family: Boudreau
+    given: S.
+  issued:
+  - year: '2012'
+    month: '5'
+  title: Satellite-based evidence for shrub and graminoid tundra expansion in northern
+    Quebec from 1986 to 2010
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '2313-2323'
+  volume: '18'
+  issue: '7'
+  URL: https://doi.org/10.1111%2Fj.1365-2486.2012.02708.x
+  DOI: 10.1111/j.1365-2486.2012.02708.x
+...

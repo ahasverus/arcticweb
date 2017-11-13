@@ -1,0 +1,29 @@
+---
+references:
+- id: ID85016465971
+  type: article-journal
+  author:
+  - family: Soininen
+    given: E. M.
+  - family: Zinger
+    given: L.
+  - family: Gielly
+    given: L.
+  - family: Yoccoz
+    given: N. G.
+  - family: Henden
+    given: J.-A.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2017'
+    month: '4'
+  title: 'Not only mosses: lemming winter diets as described by DNA metabarcoding'
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '2097-2103'
+  volume: '40'
+  issue: '10'
+  URL: https://doi.org/10.1007%2Fs00300-017-2114-3
+  DOI: 10.1007/s00300-017-2114-3
+...

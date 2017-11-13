@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0035820779
+  type: article-journal
+  author:
+  - family: Mysterud
+    given: A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Stenseth
+    given: N. C.
+  - family: Langvatn
+    given: R.
+  issued:
+  - year: '2001'
+    month: '5'
+  title: 'Effects of age, sex and density on body weight of Norwegian red deer:
+    Evidence of density-dependent senescence'
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '911-919'
+  volume: '268'
+  issue: '1470'
+  URL: https://doi.org/10.1098%2Frspb.2001.1585
+  DOI: 10.1098/rspb.2001.1585
+...

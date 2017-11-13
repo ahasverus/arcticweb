@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84976619868
+  type: article-journal
+  author:
+  - family: Therrien
+    given: J.-F.
+  - family: Pinaud
+    given: D.
+  - family: Gauthier
+    given: G.
+  - family: Lecomte
+    given: N.
+  - family: Bildstein
+    given: K. L.
+  - family: Bety
+    given: J.
+  issued:
+  - year: '2015'
+  title: Is pre-breeding prospecting behaviour affected by snow cover in the irruptive
+    snowy owl? A test using state-space modelling and environmental data annotated
+    via Movebank
+  container-title: Movement Ecology
+  publisher: Springer Nature
+  page: '1'
+  volume: '3'
+  issue: '1'
+  URL: https://doi.org/10.1186%2Fs40462-015-0028-7
+  DOI: 10.1186/s40462-015-0028-7
+...

@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0037438908
+  type: article-journal
+  author:
+  - family: Cooch
+    given: E. G.
+  - family: Gauthier
+    given: G.
+  - family: Rockwell
+    given: R. F.
+  issued:
+  - year: '2003'
+    month: '1'
+  title: 'Apparent differences in stochastic growth rates based on timing of census:
+    A cautionary note'
+  container-title: Ecological Modelling
+  publisher: Elsevier BV
+  page: '133-143'
+  volume: '159'
+  issue: '2-3'
+  URL: https://doi.org/10.1016%2Fs0304-3800%2802%2900292-2
+  DOI: 10.1016/s0304-3800(02)00292-2
+...

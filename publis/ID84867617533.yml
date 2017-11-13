@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84867617533
+  type: article-journal
+  author:
+  - family: Dufour-Tremblay
+    given: G.
+  - family: Vriendt
+    given: L.
+    dropping-particle: de
+  - family: Levesque
+    given: E.
+  - family: Boudreau
+    given: S.
+  issued:
+  - year: '2012'
+    month: '9'
+  title: The importance of ecological constraints on the control of multi-species
+    treeline dynamics in Eastern Nunavik, Québec
+  container-title: American Journal of Botany
+  publisher: Botanical Society of America
+  page: '1638-1646'
+  volume: '99'
+  issue: '10'
+  URL: https://doi.org/10.3732%2Fajb.1200279
+  DOI: 10.3732/ajb.1200279
+...

@@ -1,0 +1,20 @@
+---
+references:
+- id: ID0027091746
+  type: article-journal
+  author:
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '1992'
+    month: '6'
+  title: 'A neglected facet of island biogeography: The role of internal spatial
+    dynamics in area effects'
+  container-title: Theoretical Population Biology
+  publisher: Elsevier BV
+  page: '354-371'
+  volume: '41'
+  issue: '3'
+  URL: https://doi.org/10.1016%2F0040-5809%2892%2990034-q
+  DOI: 10.1016/0040-5809(92)90034-q
+...

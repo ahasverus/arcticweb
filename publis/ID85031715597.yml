@@ -1,0 +1,25 @@
+---
+references:
+- id: ID85031715597
+  type: article-journal
+  author:
+  - family: Avery-Gomm
+    given: S.
+  - family: Provencher
+    given: J. F.
+  - family: Liboiron
+    given: M.
+  - family: Poon
+    given: F. E.
+  - family: Smith
+    given: P. A.
+  issued:
+  - year: '2017'
+    month: '10'
+  title: 'Plastic pollution in the Labrador Sea: An assessment using the seabird
+    northern fulmar Fulmarus glacialis as a biological monitoring species'
+  container-title: Marine Pollution Bulletin
+  publisher: Elsevier BV
+  URL: https://doi.org/10.1016%2Fj.marpolbul.2017.10.001
+  DOI: 10.1016/j.marpolbul.2017.10.001
+...

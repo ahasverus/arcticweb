@@ -1,0 +1,30 @@
+---
+references:
+- id: ID77956562538
+  type: article-journal
+  author:
+  - family: Franceschi
+    given: N.
+  - family: Bollache
+    given: L.
+  - family: Cornet
+    given: S.
+  - family: Bauer
+    given: A.
+  - family: Motreuil
+    given: S.
+  - family: Rigaud
+    given: T.
+  issued:
+  - year: '2010'
+    month: '8'
+  title: Co-variation between the intensity of behavioural manipulation and parasite
+    development time in an acanthocephalan-amphipod system
+  container-title: Journal of Evolutionary Biology
+  publisher: Wiley-Blackwell
+  page: '2143-2150'
+  volume: '23'
+  issue: '10'
+  URL: https://doi.org/10.1111%2Fj.1420-9101.2010.02076.x
+  DOI: 10.1111/j.1420-9101.2010.02076.x
+...

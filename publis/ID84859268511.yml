@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84859268511
+  type: article-journal
+  author:
+  - family: Gauthier
+    given: G.
+  - family: Milot
+    given: E.
+  - family: Weimerskirch
+    given: H.
+  issued:
+  - year: '2010'
+    month: '6'
+  title: Estimating dispersal, recruitment and survival in a biennially breeding species,
+    the Wandering Albatross
+  container-title: Journal of Ornithology
+  publisher: Springer Nature
+  page: '457-467'
+  volume: '152'
+  issue: S2
+  URL: https://doi.org/10.1007%2Fs10336-010-0541-9
+  DOI: 10.1007/s10336-010-0541-9
+...

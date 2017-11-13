@@ -1,0 +1,23 @@
+---
+references:
+- id: ID84892673933
+  type: article-journal
+  author:
+  - family: Piot
+    given: A.
+  - family: Nozais
+    given: C.
+  - family: Archambault
+    given: P.
+  issued:
+  - year: '2013'
+    month: '9'
+  title: Meiofauna affect the macrobenthic biodiversity-ecosystem functioning relationship
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '203-213'
+  volume: '123'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1600-0706.2013.00631.x
+  DOI: 10.1111/j.1600-0706.2013.00631.x
+...

@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84863749340
+  type: article-journal
+  author:
+  - family: Pokrovsky
+    given: I.
+  - family: Ehrich
+    given: D.
+  - family: Ims
+    given: R. A.
+  - family: Kulikova
+    given: O.
+  - family: Lecomte
+    given: N.
+  - family: Yoccoz
+    given: N.
+  issued:
+  - year: '2012'
+    month: '1'
+  title: Assessing the causes of breeding failure among the rough-legged buzzard (Buteo
+    lagopus) during the nestling period
+  container-title: Polar Research
+  publisher: Informa UK Limited
+  page: '17294'
+  volume: '31'
+  issue: '1'
+  URL: https://doi.org/10.3402%2Fpolar.v31i0.17294
+  DOI: 10.3402/polar.v31i0.17294
+...

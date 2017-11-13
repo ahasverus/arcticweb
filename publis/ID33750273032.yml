@@ -1,0 +1,36 @@
+---
+references:
+- id: ID33750273032
+  type: article-journal
+  author:
+  - family: Davey
+    given: C.
+  - family: Sinclair
+    given: A. R. E.
+  - family: Pech
+    given: R. P.
+  - family: Arthur
+    given: A. D.
+  - family: Krebs
+    given: C. J.
+  - family: Newsome
+    given: A. E.
+  - family: Hik
+    given: D.
+  - family: Molsher
+    given: R.
+  - family: Allcock
+    given: K.
+  issued:
+  - year: '2006'
+    month: '9'
+  title: Do exotic vertebrates structure the biota of Australia? An experimental test
+    in New South Wales
+  container-title: Ecosystems
+  publisher: Springer Nature
+  page: '992-1008'
+  volume: '9'
+  issue: '6'
+  URL: https://doi.org/10.1007%2Fs10021-004-0173-0
+  DOI: 10.1007/s10021-004-0173-0
+...

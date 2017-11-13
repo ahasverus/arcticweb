@@ -1,0 +1,24 @@
+---
+references:
+- id: ID77049105140
+  type: article-journal
+  author:
+  - family: Baptist
+    given: F.
+  - family: Yoccoz
+    given: N. G.
+  - family: Choler
+    given: P.
+  issued:
+  - year: '2009'
+    month: '8'
+  title: Direct and indirect control by snow cover over decomposition in alpine tundra
+    along a snowmelt gradient
+  container-title: Plant and Soil
+  publisher: Springer Nature
+  page: '397-410'
+  volume: '328'
+  issue: '1-2'
+  URL: https://doi.org/10.1007%2Fs11104-009-0119-6
+  DOI: 10.1007/s11104-009-0119-6
+...

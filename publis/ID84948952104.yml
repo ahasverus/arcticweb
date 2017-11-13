@@ -1,0 +1,23 @@
+---
+references:
+- id: ID84948952104
+  type: article-journal
+  author:
+  - family: Chevallier
+    given: C.
+  - family: Lai
+    given: S.
+  - family: Berteaux
+    given: D.
+  issued:
+  - year: '2015'
+    month: '11'
+  title: Predation of arctic fox (Vulpes lagopus) pups by common ravens (Corvus corax)
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '1335-1341'
+  volume: '39'
+  issue: '7'
+  URL: https://doi.org/10.1007%2Fs00300-015-1843-4
+  DOI: 10.1007/s00300-015-1843-4
+...

@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84943171183
+  type: article-journal
+  author:
+  - family: Gaillard
+    given: B.
+  - family: Meziane
+    given: T.
+  - family: Tremblay
+    given: R.
+  - family: Archambault
+    given: P.
+  - family: Layton
+    given: K.
+  - family: Martel
+    given: A.
+  - family: Olivier
+    given: F.
+  issued:
+  - year: '2015'
+    month: '9'
+  title: Dietary tracers in Bathyarca glacialis from contrasting trophic regions in
+    the Canadian Arctic
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '175-186'
+  volume: '536'
+  URL: https://doi.org/10.3354%2Fmeps11424
+  DOI: 10.3354/meps11424
+...

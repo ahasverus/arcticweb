@@ -1,0 +1,38 @@
+---
+references:
+- id: ID85031489606
+  type: article-journal
+  author:
+  - family: Brucet
+    given: S.
+  - family: Tavşanoğlu
+    given: L. N.
+  - family: Özen
+    given: A.
+  - family: Levi
+    given: E. E.
+  - family: Bezirci
+    given: G.
+  - family: Çakiroğlu
+    given: A. D.
+  - family: Jeppesen
+    given: E.
+  - family: Svenning
+    given: J.-C.
+  - family: Ersoy
+    given: Z.
+  - family: Beklioğlu
+    given: M.
+  issued:
+  - year: '2017'
+    month: '9'
+  title: Size-based interactions across trophic levels in food webs of shallow Mediterranean
+    lakes
+  container-title: Freshwater Biology
+  publisher: Wiley-Blackwell
+  page: '1819-1830'
+  volume: '62'
+  issue: '11'
+  URL: https://doi.org/10.1111%2Ffwb.12997
+  DOI: 10.1111/fwb.12997
+...

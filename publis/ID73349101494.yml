@@ -1,0 +1,27 @@
+---
+references:
+- id: ID73349101494
+  type: article-journal
+  author:
+  - family: Ryan
+    given: P. G.
+  - family: Pichegru
+    given: L.
+  - family: Ropert-Coudert
+    given: Y.
+  - family: Grémillet
+    given: D.
+  - family: Kato
+    given: A.
+  issued:
+  - year: '2010'
+    month: '1'
+  title: 'On a wing and a prayer: The foraging ecology of breeding Cape cormorants'
+  container-title: Journal of Zoology
+  publisher: Wiley-Blackwell
+  page: '25-32'
+  volume: '280'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1469-7998.2009.00637.x
+  DOI: 10.1111/j.1469-7998.2009.00637.x
+...

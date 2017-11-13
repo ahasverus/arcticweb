@@ -1,0 +1,24 @@
+---
+references:
+- id: ID34848859500
+  type: article-journal
+  author:
+  - family: Legagneux
+    given: P.
+  - family: Duhart
+    given: M.
+  - family: Schricke
+    given: V.
+  issued:
+  - year: '2007'
+    month: '6'
+  title: 'Seeds consumed by waterfowl in winter: A review of methods and a new web-based
+    photographic atlas for seed identification'
+  container-title: Journal of Ornithology
+  publisher: Springer Nature
+  page: '537-541'
+  volume: '148'
+  issue: '4'
+  URL: https://doi.org/10.1007%2Fs10336-007-0148-y
+  DOI: 10.1007/s10336-007-0148-y
+...

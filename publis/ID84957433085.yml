@@ -1,0 +1,216 @@
+---
+references:
+- id: ID84957433085
+  type: article-journal
+  author:
+  - family: Chytrý
+    given: M.
+  - family: Hennekens
+    given: S. M.
+  - family: Jiménez-Alfaro
+    given: B.
+  - family: Knollová
+    given: I.
+  - family: Dengler
+    given: J.
+  - family: Jansen
+    given: F.
+  - family: Landucci
+    given: F.
+  - family: Schaminée
+    given: J. H. J.
+  - family: Aćić
+    given: S.
+  - family: Agrillo
+    given: E.
+  - family: Ambarli
+    given: D.
+  - family: Angelini
+    given: P.
+  - family: Apostolova
+    given: I.
+  - family: Attorre
+    given: F.
+  - family: Berg
+    given: C.
+  - family: Bergmeier
+    given: E.
+  - family: Biurrun
+    given: I.
+  - family: Botta-Dukát
+    given: Z.
+  - family: Brisse
+    given: H.
+  - family: Campos
+    given: J. A.
+  - family: Carlón
+    given: L.
+  - family: Čarni
+    given: A.
+  - family: Casella
+    given: L.
+  - family: Csiky
+    given: J.
+  - family: Ćušterevska
+    given: R.
+  - family: Stevanović
+    given: Z. D.
+  - family: Danihelka
+    given: J.
+  - family: Bie
+    given: E.
+    dropping-particle: de
+  - family: Ruffray
+    given: P.
+    dropping-particle: de
+  - family: Sanctis
+    given: M.
+    dropping-particle: de
+  - family: Dickoré
+    given: W. B.
+  - family: Dimopoulos
+    given: P.
+  - family: Dubyna
+    given: D.
+  - family: Dziuba
+    given: T.
+  - family: Ejrnaes
+    given: R.
+  - family: Ermakov
+    given: N.
+  - family: Ewald
+    given: J.
+  - family: Fanelli
+    given: G.
+  - family: Fernández-González
+    given: F.
+  - family: Fitzpatrick
+    given: N.
+  - family: Font
+    given: X.
+  - family: García-Mijangos
+    given: I.
+  - family: Gavilán
+    given: R. G.
+  - family: Golub
+    given: V.
+  - family: Guarino
+    given: R.
+  - family: Haveman
+    given: R.
+  - family: Indreica
+    given: A.
+  - family: Gürsoy
+    given: D. I.
+  - family: Jandt
+    given: U.
+  - family: Janssen
+    given: J. A. M.
+  - family: Jiroušek
+    given: M.
+  - family: Kacki
+    given: Z.
+  - family: Kavgaci
+    given: A.
+  - family: Kleikamp
+    given: M.
+  - family: Kolomiychuk
+    given: V.
+  - family: Ćuk
+    given: M. K.
+  - family: Krstonošić
+    given: D.
+  - family: Kuzemko
+    given: A.
+  - family: Lenoir
+    given: J.
+  - family: Lysenko
+    given: T.
+  - family: Marcenò
+    given: C.
+  - family: Martynenko
+    given: V.
+  - family: Michalcová
+    given: D.
+  - family: Moeslund
+    given: J. E.
+  - family: Onyshchenko
+    given: V.
+  - family: Pedashenko
+    given: H.
+  - family: Pérez-Haase
+    given: A.
+  - family: Peterka
+    given: T.
+  - family: Prokhorov
+    given: V.
+  - family: Rašomavičius
+    given: V.
+  - family: Rodríguez-Rojo
+    given: M. P.
+  - family: Rodwell
+    given: J. S.
+  - family: Rogova
+    given: T.
+  - family: Ruprecht
+    given: E.
+  - family: Rūsina
+    given: S.
+  - family: Seidler
+    given: G.
+  - family: Šibík
+    given: J.
+  - family: Šilc
+    given: U.
+  - family: Škvorc
+    given: E.
+  - family: Sopotlieva
+    given: D.
+  - family: Stančić
+    given: Z.
+  - family: Svenning
+    given: J.-C.
+  - family: Swacha
+    given: G.
+  - family: Tsiripidis
+    given: I.
+  - family: Turtureanu
+    given: P. D.
+  - family: Uğurlu
+    given: E.
+  - family: Uogintas
+    given: D.
+  - family: Valachovič
+    given: M.
+  - family: Vashenyak
+    given: Y.
+  - family: Vassilev
+    given: K.
+  - family: Venanzoni
+    given: R.
+  - family: Virtanen
+    given: R.
+  - family: Weekes
+    given: L.
+  - family: Willner
+    given: W.
+  - family: Wohlgemuth
+    given: T.
+  - family: Yamalov
+    given: S.
+  editor:
+  - family: Pärtel
+    given: Meelis
+  issued:
+  - year: '2015'
+    month: '8'
+  title: 'European Vegetation Archive (EVA): An integrated database of European
+    vegetation plots'
+  container-title: Applied Vegetation Science
+  publisher: Wiley-Blackwell
+  page: '173-180'
+  volume: '19'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Favsc.12191
+  DOI: 10.1111/avsc.12191
+...

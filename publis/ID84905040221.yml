@@ -1,0 +1,36 @@
+---
+references:
+- id: ID84905040221
+  type: article-journal
+  author:
+  - family: Bouget
+    given: C.
+  - family: Parmain
+    given: G.
+  - family: Gilg
+    given: O.
+  - family: Noblecourt
+    given: T.
+  - family: Nusillard
+    given: B.
+  - family: Paillet
+    given: Y.
+  - family: Pernot
+    given: C.
+  - family: Larrieu
+    given: L.
+  - family: Gosselin
+    given: F.
+  issued:
+  - year: '2014'
+    month: '1'
+  title: Does a set-aside conservation strategy help the restoration of old-growth
+    forest attributes and recolonization by saproxylic beetles?
+  container-title: Animal Conservation
+  publisher: Wiley-Blackwell
+  page: '342-353'
+  volume: '17'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Facv.12101
+  DOI: 10.1111/acv.12101
+...

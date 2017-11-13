@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84900867402
+  type: article-journal
+  author:
+  - family: Bewick
+    given: S.
+  - family: Stuble
+    given: K. L.
+  - family: Lessard
+    given: J.-P.
+  - family: Dunn
+    given: R. R.
+  - family: Adler
+    given: F. R.
+  - family: Sanders
+    given: N. J.
+  issued:
+  - year: '2014'
+    month: '4'
+  title: Predicting future coexistence in a North American ant community
+  container-title: Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '1804-1819'
+  volume: '4'
+  issue: '10'
+  URL: https://doi.org/10.1002%2Fece3.1048
+  DOI: 10.1002/ece3.1048
+...

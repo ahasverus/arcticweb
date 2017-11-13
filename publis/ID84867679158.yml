@@ -1,0 +1,42 @@
+---
+references:
+- id: ID84867679158
+  type: article-journal
+  author:
+  - family: Darnis
+    given: G.
+  - family: Robert
+    given: D.
+  - family: Pomerleau
+    given: C.
+  - family: Link
+    given: H.
+  - family: Archambault
+    given: P.
+  - family: Nelson
+    given: R. J.
+  - family: Geoffroy
+    given: M.
+  - family: Tremblay
+    given: J.-R.
+  - family: Lovejoy
+    given: C.
+  - family: Ferguson
+    given: S. H.
+  - family: Hunt
+    given: B. P. V.
+  - family: Fortier
+    given: L.
+  issued:
+  - year: '2012'
+    month: '6'
+  title: 'Current state and trends in Canadian Arctic marine ecosystems: II. Heterotrophic
+    food web, pelagic-benthic coupling, and biodiversity'
+  container-title: Climatic Change
+  publisher: Springer Nature
+  page: '179-205'
+  volume: '115'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs10584-012-0483-8
+  DOI: 10.1007/s10584-012-0483-8
+...

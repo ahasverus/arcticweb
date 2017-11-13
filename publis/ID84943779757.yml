@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84943779757
+  type: article-journal
+  author:
+  - family: Bowden
+    given: J. J.
+  - family: Eskildsen
+    given: A.
+  - family: Hansen
+    given: R. R.
+  - family: Olsen
+    given: K.
+  - family: Kurle
+    given: C. M.
+  - family: Høye
+    given: T. T.
+  issued:
+  - year: '2015'
+    month: '10'
+  title: High-arctic butterflies become smaller with rising temperatures
+  container-title: Biology Letters
+  publisher: The Royal Society
+  page: '20150574'
+  volume: '11'
+  issue: '10'
+  URL: https://doi.org/10.1098%2Frsbl.2015.0574
+  DOI: 10.1098/rsbl.2015.0574
+...

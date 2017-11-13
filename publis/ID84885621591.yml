@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84885621591
+  type: article-journal
+  author:
+  - family: Carlson
+    given: B. Z.
+  - family: Randin
+    given: C. F.
+  - family: Boulangeat
+    given: I.
+  - family: Lavergne
+    given: S.
+  - family: Thuiller
+    given: W.
+  - family: Choler
+    given: P.
+  issued:
+  - year: '2013'
+    month: '9'
+  title: Working toward integrated models of alpine plant distribution
+  container-title: Alpine Botany
+  publisher: Springer Nature
+  page: '41-53'
+  volume: '123'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs00035-013-0117-4
+  DOI: 10.1007/s00035-013-0117-4
+...

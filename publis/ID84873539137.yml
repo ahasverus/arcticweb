@@ -1,0 +1,35 @@
+---
+references:
+- id: ID84873539137
+  type: article-journal
+  author:
+  - family: Ponchon
+    given: A.
+  - family: Grémillet
+    given: D.
+  - family: Doligez
+    given: B.
+  - family: Chambert
+    given: T.
+  - family: Tveraa
+    given: T.
+  - family: González-Solís
+    given: J.
+  - family: Boulinier
+    given: T.
+  editor:
+  - family: Rands
+    given: Sean
+  issued:
+  - year: '2012'
+    month: '11'
+  title: 'Tracking prospecting movements involved in breeding habitat selection:
+    Insights, pitfalls and perspectives'
+  container-title: Methods in Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '143-150'
+  volume: '4'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.2041-210x.2012.00259.x
+  DOI: 10.1111/j.2041-210x.2012.00259.x
+...

@@ -1,0 +1,28 @@
+---
+references:
+- id: ID85008354365
+  type: article-journal
+  author:
+  - family: Haddad
+    given: N. M.
+  - family: Holt
+    given: R. D.
+  - family: Fletcher
+    given: R. J. J.
+  - family: Loreau
+    given: M.
+  - family: Clobert
+    given: J.
+  issued:
+  - year: '2017'
+    month: '1'
+  title: Connecting models, data, and concepts to understand fragmentation’s ecosystem-wide
+    effects
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '1-8'
+  volume: '40'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fecog.02974
+  DOI: 10.1111/ecog.02974
+...

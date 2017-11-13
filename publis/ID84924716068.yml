@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84924716068
+  type: article-journal
+  author:
+  - family: Alba-Sánchez
+    given: F.
+  - family: López-Sáez
+    given: J. A.
+  - family: Nieto-Lugilde
+    given: D.
+  - family: Svenning
+    given: J.-C.
+  editor:
+  - family: Rocchini
+    given: Duccio
+  issued:
+  - year: '2014'
+    month: '9'
+  title: Long-term climate forcings to assess vulnerability in North Africa dry argan
+    woodlands
+  container-title: Applied Vegetation Science
+  publisher: Wiley-Blackwell
+  page: '283-296'
+  volume: '18'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Favsc.12133
+  DOI: 10.1111/avsc.12133
+...

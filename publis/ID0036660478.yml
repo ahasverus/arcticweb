@@ -1,0 +1,21 @@
+---
+references:
+- id: ID0036660478
+  type: article-journal
+  author:
+  - family: Vézina
+    given: F.
+  - family: Williams
+    given: T. D.
+  issued:
+  - year: '2002'
+    month: '7'
+  title: Metabolic costs of egg production in the European starling (Sturnus vulgaris)
+  container-title: Physiological and Biochemical Zoology
+  publisher: University of Chicago Press
+  page: '377-385'
+  volume: '75'
+  issue: '4'
+  URL: https://doi.org/10.1086%2F343137
+  DOI: 10.1086/343137
+...

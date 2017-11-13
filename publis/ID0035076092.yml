@@ -1,0 +1,30 @@
+---
+references:
+- id: ID0035076092
+  type: article-journal
+  author:
+  - family: Ehrich
+    given: D.
+  - family: Jorde
+    given: P. E.
+  - family: Krebs
+    given: C. J.
+  - family: Kenney
+    given: A. J.
+  - family: Stacy
+    given: J. E.
+  - family: Stenseth
+    given: N. C.
+  issued:
+  - year: '2001'
+    month: '2'
+  title: Spatial structure of lemming populations (Dicrostonyx groenlandicus) fluctuating
+    in density
+  container-title: Molecular Ecology
+  publisher: Wiley-Blackwell
+  page: '481-495'
+  volume: '10'
+  issue: '2'
+  URL: https://doi.org/10.1046%2Fj.1365-294x.2001.01229.x
+  DOI: 10.1046/j.1365-294x.2001.01229.x
+...

@@ -1,0 +1,37 @@
+---
+references:
+- id: ID84911498626
+  type: article-journal
+  author:
+  - family: Legagneux
+    given: P.
+  - family: Suffice
+    given: P.
+  - family: Messier
+    given: J.-S.
+  - family: Lelievre
+    given: F.
+  - family: Tremblay
+    given: J. A.
+  - family: Maisonneuve
+    given: C.
+  - family: Saint-Louis
+    given: R.
+  - family: Bêty
+    given: J.
+  editor:
+  - family: Johnson
+    given: Christopher James
+  issued:
+  - year: '2014'
+    month: '11'
+  title: High risk of lead contamination for scavengers in an area with high moose
+    hunting success
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e111546'
+  volume: '9'
+  issue: '11'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0111546
+  DOI: 10.1371/journal.pone.0111546
+...

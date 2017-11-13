@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84987941350
+  type: article-journal
+  author:
+  - family: Daigle
+    given: R. M.
+  - family: Haider
+    given: W.
+  - family: Fernández-Lozada
+    given: S.
+  - family: Irwin
+    given: K.
+  - family: Archambault
+    given: P.
+  - family: Côté
+    given: I. M.
+  issued:
+  - year: '2016'
+    month: '12'
+  title: 'From coast to coast: Public perception of ocean-derived benefits in Canada'
+  container-title: Marine Policy
+  publisher: Elsevier BV
+  page: '77-84'
+  volume: '74'
+  URL: https://doi.org/10.1016%2Fj.marpol.2016.09.012
+  DOI: 10.1016/j.marpol.2016.09.012
+...

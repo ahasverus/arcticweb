@@ -1,0 +1,26 @@
+---
+references:
+- id: ID44349153502
+  type: article-journal
+  author:
+  - family: Franceschi
+    given: N.
+  - family: Bauer
+    given: A.
+  - family: Bollache
+    given: L.
+  - family: Rigaud
+    given: T.
+  issued:
+  - year: '2008'
+    month: '8'
+  title: The effects of parasite age and intensity on variability in acanthocephalan-induced
+    behavioural manipulation
+  container-title: International Journal for Parasitology
+  publisher: Elsevier BV
+  page: '1161-1170'
+  volume: '38'
+  issue: '10'
+  URL: https://doi.org/10.1016%2Fj.ijpara.2008.01.003
+  DOI: 10.1016/j.ijpara.2008.01.003
+...

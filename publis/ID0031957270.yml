@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0031957270
+  type: article-journal
+  author:
+  - family: Lepage
+    given: D.
+  - family: Gauthier
+    given: G.
+  - family: Desrochers
+    given: A.
+  issued:
+  - year: '1998'
+    month: '3'
+  title: Larger clutch size increases fledging success and offspring quality in a
+    precocial species
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '210-216'
+  volume: '67'
+  issue: '2'
+  URL: https://doi.org/10.1046%2Fj.1365-2656.1998.00182.x
+  DOI: 10.1046/j.1365-2656.1998.00182.x
+...

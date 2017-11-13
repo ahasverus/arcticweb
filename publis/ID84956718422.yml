@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84956718422
+  type: article-journal
+  author:
+  - family: Mortensen
+    given: L. O.
+  - family: Jeppesen
+    given: E.
+  - family: Schmidt
+    given: N. M.
+  - family: Christoffersen
+    given: K. S.
+  - family: Tamstorf
+    given: M. P.
+  - family: Forchhammer
+    given: M. C.
+  issued:
+  - year: '2014'
+    month: '4'
+  title: 'Temporal trends and variability in a high-arctic ecosystem in Greenland:
+    multidimensional analyses of limnic and terrestrial ecosystems'
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '1073-1082'
+  volume: '37'
+  issue: '8'
+  URL: https://doi.org/10.1007%2Fs00300-014-1501-2
+  DOI: 10.1007/s00300-014-1501-2
+...

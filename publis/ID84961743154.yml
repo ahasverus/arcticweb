@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84961743154
+  type: article-journal
+  author:
+  - family: Fort
+    given: J.
+  - family: Grémillet
+    given: D.
+  - family: Traisnel
+    given: G.
+  - family: Amélineau
+    given: F.
+  - family: Bustamante
+    given: P.
+  issued:
+  - year: '2016'
+    month: '4'
+  title: Does temporal variation of mercury levels in Arctic seabirds reflect changes
+    in global environmental contamination, or a modification of Arctic marine food
+    web functioning?
+  container-title: Environmental Pollution
+  publisher: Elsevier BV
+  page: '382-388'
+  volume: '211'
+  URL: https://doi.org/10.1016%2Fj.envpol.2015.12.061
+  DOI: 10.1016/j.envpol.2015.12.061
+...

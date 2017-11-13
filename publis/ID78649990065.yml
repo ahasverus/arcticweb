@@ -1,0 +1,24 @@
+---
+references:
+- id: ID78649990065
+  type: article-journal
+  author:
+  - family: Tack
+    given: A. J. M.
+  - family: Gripenberg
+    given: S.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2010'
+    month: '8'
+  title: Can we predict indirect interactions from quantitative food webs? - An experimental
+    approach
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '108-118'
+  volume: '80'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2010.01744.x
+  DOI: 10.1111/j.1365-2656.2010.01744.x
+...

@@ -1,0 +1,30 @@
+---
+references:
+- id: ID33645117794
+  type: article-journal
+  author:
+  - family: Lewis
+    given: S.
+  - family: Grémillet
+    given: D.
+  - family: Daunt
+    given: F.
+  - family: Ryan
+    given: P. G.
+  - family: Crawford
+    given: R. J. M.
+  - family: Wanless
+    given: S.
+  issued:
+  - year: '2005'
+    month: '12'
+  title: Using behavioural and state variables to identify proximate causes of population
+    change in a seabird
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '606-614'
+  volume: '147'
+  issue: '4'
+  URL: https://doi.org/10.1007%2Fs00442-005-0321-z
+  DOI: 10.1007/s00442-005-0321-z
+...

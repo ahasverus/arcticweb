@@ -1,0 +1,21 @@
+---
+references:
+- id: ID0015581325
+  type: article-journal
+  author:
+  - family: Tamarin
+    given: R. H.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '1973'
+    month: '2'
+  title: Selection at the transferrin locus in cropped vole populations
+  container-title: Heredity
+  publisher: Springer Nature
+  page: '53-62'
+  volume: '30'
+  issue: '1'
+  URL: https://doi.org/10.1038%2Fhdy.1973.6
+  DOI: 10.1038/hdy.1973.6
+...

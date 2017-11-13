@@ -1,0 +1,21 @@
+---
+references:
+- id: ID84866761236
+  type: chapter
+  author:
+  - family: Manel
+    given: S.
+  - family: Albert
+    given: C. H.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2012'
+  title: Sampling in landscape genomics
+  container-title: Data Production and Analysis in Population Genomics
+  publisher: Humana Press
+  page: '3-12'
+  volume: '888'
+  URL: https://doi.org/10.1007%2F978-1-61779-870-2_1
+  DOI: 10.1007/978-1-61779-870-2_1
+...

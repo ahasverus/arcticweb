@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84880641252
+  type: article-journal
+  author:
+  - family: Campioli
+    given: M.
+  - family: Schmidt
+    given: N. M.
+  - family: Albert
+    given: K. R.
+  - family: Leblans
+    given: N.
+  - family: Ro-Poulsen
+    given: H.
+  - family: Michelsen
+    given: A.
+  issued:
+  - year: '2013'
+    month: '7'
+  title: Does warming affect growth rate and biomass production of shrubs in the High
+    Arctic?
+  container-title: Plant Ecology
+  publisher: Springer Nature
+  page: '1049-1058'
+  volume: '214'
+  issue: '8'
+  URL: https://doi.org/10.1007%2Fs11258-013-0230-x
+  DOI: 10.1007/s11258-013-0230-x
+...

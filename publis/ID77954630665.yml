@@ -1,0 +1,30 @@
+---
+references:
+- id: ID77954630665
+  type: article-journal
+  author:
+  - family: Hamel
+    given: S.
+  - family: Gaillard
+    given: J.-M.
+  - family: Yoccoz
+    given: N. G.
+  - family: Loison
+    given: A.
+  - family: Bonenfant
+    given: C.
+  - family: Descamps
+    given: S.
+  issued:
+  - year: '2010'
+    month: '5'
+  title: 'Fitness costs of reproduction depend on life speed: Empirical evidence
+    from mammalian populations'
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '915-935'
+  volume: '13'
+  issue: '7'
+  URL: https://doi.org/10.1111%2Fj.1461-0248.2010.01478.x
+  DOI: 10.1111/j.1461-0248.2010.01478.x
+...

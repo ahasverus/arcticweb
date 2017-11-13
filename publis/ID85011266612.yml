@@ -1,0 +1,33 @@
+---
+references:
+- id: ID85011266612
+  type: article-journal
+  author:
+  - family: Aussenac
+    given: R.
+  - family: Bergeron
+    given: Y.
+  - family: Mekontchou
+    given: C. G.
+  - family: Gravel
+    given: D.
+  - family: Pilch
+    given: K.
+  - family: Drobyshev
+    given: I.
+  editor:
+  - family: Hector
+    given: Andrew
+  issued:
+  - year: '2017'
+    month: '1'
+  title: Intraspecific variability in growth response to environmental fluctuations
+    modulates the stabilizing effect of species diversity on forest growth
+  container-title: Journal of Ecology
+  publisher: Wiley-Blackwell
+  page: '1010-1020'
+  volume: '105'
+  issue: '4'
+  URL: https://doi.org/10.1111%2F1365-2745.12728
+  DOI: 10.1111/1365-2745.12728
+...

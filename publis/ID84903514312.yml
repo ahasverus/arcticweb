@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84903514312
+  type: article-journal
+  author:
+  - family: Pedersen
+    given: R. S.
+  - family: Sandel
+    given: B.
+  - family: Svenning
+    given: J.-C.
+  editor:
+  - family: Russo
+    given: Danilo
+  issued:
+  - year: '2014'
+    month: '6'
+  title: Macroecological evidence for competitive regional-scale interactions between
+    the two major clades of mammal carnivores (Feliformia and Caniformia)
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e100553'
+  volume: '9'
+  issue: '6'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0100553
+  DOI: 10.1371/journal.pone.0100553
+...

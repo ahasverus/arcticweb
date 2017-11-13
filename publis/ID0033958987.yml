@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0033958987
+  type: article-journal
+  author:
+  - family: Johannesen
+    given: E.
+  - family: Andreassen
+    given: H. P.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2000'
+    month: '1'
+  title: 'Spatial explicit demography: The effects habitat patch isolation have
+    on vole matrilines'
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '48-57'
+  volume: '3'
+  issue: '1'
+  URL: https://doi.org/10.1046%2Fj.1461-0248.2000.00119.x
+  DOI: 10.1046/j.1461-0248.2000.00119.x
+...

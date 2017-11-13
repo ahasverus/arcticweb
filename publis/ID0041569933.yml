@@ -1,0 +1,57 @@
+---
+references:
+- id: ID0041569933
+  type: article-journal
+  author:
+  - family: Krebs
+    given: C. J.
+  - family: Danell
+    given: K.
+  - family: Angerbjörn
+    given: A.
+  - family: Agrell
+    given: J.
+  - family: Berteaux
+    given: D.
+  - family: Bråthen
+    given: K. A.
+  - family: Danell
+    given: J.
+  - family: Erlinge
+    given: S.
+  - family: Fedorov
+    given: V.
+  - family: Fredga
+    given: K.
+  - family: Hjältén
+    given: J.
+  - family: Högstedt
+    given: G.
+  - family: Jónsdóttir
+    given: I. S.
+  - family: Kenney
+    given: A. J.
+  - family: Kjellén
+    given: N.
+  - family: Nordin
+    given: T.
+  - family: Roininen
+    given: H.
+  - family: Svensson
+    given: M.
+  - family: Tannerfeldt
+    given: M.
+  - family: Wiklund
+    given: C.
+  issued:
+  - year: '2003'
+    month: '5'
+  title: Terrestrial trophic dynamics in the Canadian Arctic
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '827-843'
+  volume: '81'
+  issue: '5'
+  URL: https://doi.org/10.1139%2Fz03-061
+  DOI: 10.1139/z03-061
+...

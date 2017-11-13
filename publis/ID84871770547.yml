@@ -1,0 +1,66 @@
+---
+references:
+- id: ID84871770547
+  type: article-journal
+  author:
+  - family: Wisz
+    given: M. S.
+  - family: Pottier
+    given: J.
+  - family: Kissling
+    given: W. D.
+  - family: Pellissier
+    given: L.
+  - family: Lenoir
+    given: J.
+  - family: Damgaard
+    given: C. F.
+  - family: Dormann
+    given: C. F.
+  - family: Forchhammer
+    given: M. C.
+  - family: Grytnes
+    given: J.-A.
+  - family: Guisan
+    given: A.
+  - family: Heikkinen
+    given: R. K.
+  - family: Høye
+    given: T. T.
+  - family: Kühn
+    given: I.
+  - family: Luoto
+    given: M.
+  - family: Maiorano
+    given: L.
+  - family: Nilsson
+    given: M.-C.
+  - family: Normand
+    given: S.
+  - family: Öckinger
+    given: E.
+  - family: Schmidt
+    given: N. M.
+  - family: Termansen
+    given: M.
+  - family: Timmermann
+    given: A.
+  - family: Wardle
+    given: D. A.
+  - family: Aastrup
+    given: P.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2012'
+    month: '6'
+  title: 'The role of biotic interactions in shaping distributions and realised
+    assemblages of species: Implications for species distribution modelling'
+  container-title: Biological Reviews
+  publisher: Wiley-Blackwell
+  page: '15-30'
+  volume: '88'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1469-185x.2012.00235.x
+  DOI: 10.1111/j.1469-185x.2012.00235.x
+...

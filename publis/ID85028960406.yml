@@ -1,0 +1,32 @@
+---
+references:
+- id: ID85028960406
+  type: article-journal
+  author:
+  - family: Barnagaud
+    given: J.-Y.
+  - family: Kissling
+    given: W. D.
+  - family: Tsirogiannis
+    given: C.
+  - family: Fisikopoulos
+    given: V.
+  - family: Villéger
+    given: S.
+  - family: Sekercioglu
+    given: C. H.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2017'
+    month: '9'
+  title: Biogeographical, environmental and anthropogenic determinants of global patterns
+    in bird taxonomic and trait turnover
+  container-title: Global Ecology and Biogeography
+  publisher: Wiley-Blackwell
+  page: '1190-1200'
+  volume: '26'
+  issue: '10'
+  URL: https://doi.org/10.1111%2Fgeb.12629
+  DOI: 10.1111/geb.12629
+...

@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0036188512
+  type: article-journal
+  author:
+  - family: Schmidt
+    given: N. M.
+  - family: Berg
+    given: T. B.
+  - family: Jensen
+    given: T. S.
+  issued:
+  - year: '2002'
+    month: '1'
+  title: The influence of body mass on daily movement patterns and home ranges of
+    the collared lemming (Dicrostonyx groenlandicus)
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '64-69'
+  volume: '80'
+  issue: '1'
+  URL: https://doi.org/10.1139%2Fz01-203
+  DOI: 10.1139/z01-203
+...

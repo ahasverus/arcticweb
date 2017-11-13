@@ -1,0 +1,22 @@
+---
+references:
+- id: ID84895737111
+  type: article-journal
+  author:
+  - family: Poisot
+    given: T.
+  - family: Gravel
+    given: D.
+  issued:
+  - year: '2014'
+    month: '2'
+  title: When is an ecological network complex? Connectance drives degree distribution
+    and emerging network properties
+  container-title: PeerJ
+  publisher: PeerJ
+  page: 'e251'
+  volume: '2'
+  issue: '1'
+  URL: https://doi.org/10.7717%2Fpeerj.251
+  DOI: 10.7717/peerj.251
+...

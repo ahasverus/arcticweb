@@ -1,0 +1,28 @@
+---
+references:
+- id: ID0036146530
+  type: article-journal
+  author:
+  - family: Boulinier
+    given: T.
+  - family: Yoccoz
+    given: N. G.
+  - family: McCoy
+    given: K. D.
+  - family: Erikstad
+    given: K. E.
+  - family: Tveraa
+    given: T.
+  issued:
+  - year: '2002'
+    month: '1'
+  title: 'Testing the effect of conspecific reproductive success on dispersal and
+    recruitment decisions in a colonial bird: Design issues'
+  container-title: Journal of Applied Statistics
+  publisher: Informa UK Limited
+  page: '509-520'
+  volume: '29'
+  issue: '1-4'
+  URL: https://doi.org/10.1080%2F02664760120108566
+  DOI: 10.1080/02664760120108566
+...

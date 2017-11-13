@@ -1,0 +1,29 @@
+---
+references:
+- id: ID41349102312
+  type: chapter
+  author:
+  - family: Schmidt
+    given: N. M.
+  - family: Berg
+    given: T. B.
+  - family: Forchhammer
+    given: M. C.
+  - family: Hendrichsen
+    given: D. K.
+  - family: Kyhn
+    given: L. A.
+  - family: Meltofte
+    given: H.
+  - family: Høye
+    given: T. T.
+  issued:
+  - year: '2008'
+  title: Vertebrate Predator-Prey Interactions in a Seasonal Environment
+  container-title: High-Arctic Ecosystem Dynamics in a Changing Climate
+  publisher: Elsevier
+  page: '345-370'
+  volume: '40'
+  URL: https://doi.org/10.1016%2Fs0065-2504%2807%2900015-3
+  DOI: 10.1016/s0065-2504(07)00015-3
+...

@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84890562234
+  type: article-journal
+  author:
+  - family: Majer
+    given: M.
+  - family: Agnarsson
+    given: I.
+  - family: Svenning
+    given: J.-C.
+  - family: Bilde
+    given: T.
+  issued:
+  - year: '2013'
+    month: '11'
+  title: Social spiders of the genus Anelosimus occur in wetter, more productive environments
+    than non-social species
+  container-title: Naturwissenschaften
+  publisher: Springer Nature
+  page: '1031-1040'
+  volume: '100'
+  issue: '11'
+  URL: https://doi.org/10.1007%2Fs00114-013-1106-6
+  DOI: 10.1007/s00114-013-1106-6
+...

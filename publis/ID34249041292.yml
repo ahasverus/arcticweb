@@ -1,0 +1,25 @@
+---
+references:
+- id: ID34249041292
+  type: article-journal
+  author:
+  - family: Doniol-Valcroze
+    given: T.
+  - family: Berteaux
+    given: D.
+  - family: Larouche
+    given: P.
+  - family: Sears
+    given: R.
+  issued:
+  - year: '2007'
+    month: '4'
+  title: Influence of thermal fronts on habitat selection by four rorqual whale species
+    in the Gulf of St. Lawrence
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '207-216'
+  volume: '335'
+  URL: https://doi.org/10.3354%2Fmeps335207
+  DOI: 10.3354/meps335207
+...

@@ -1,0 +1,34 @@
+---
+references:
+- id: ID85005925765
+  type: article-journal
+  author:
+  - family: Chala
+    given: D.
+  - family: Brochmann
+    given: C.
+  - family: Psomas
+    given: A.
+  - family: Ehrich
+    given: D.
+  - family: Gizaw
+    given: A.
+  - family: Masao
+    given: C. A.
+  - family: Bakkestuen
+    given: V.
+  - family: Zimmermann
+    given: N. E.
+  issued:
+  - year: '2016'
+    month: '11'
+  title: Good-bye to tropical alpine plant giants under warmer climates? Loss of range
+    and genetic diversity in Lobelia rhynchopetalum
+  container-title: Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '8931-8941'
+  volume: '6'
+  issue: '24'
+  URL: https://doi.org/10.1002%2Fece3.2603
+  DOI: 10.1002/ece3.2603
+...

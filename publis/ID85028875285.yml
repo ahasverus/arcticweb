@@ -1,0 +1,40 @@
+---
+references:
+- id: ID85028875285
+  type: article-journal
+  author:
+  - family: Bemmelen
+    given: R.
+    dropping-particle: van
+  - family: Moe
+    given: B.
+  - family: Hanssen
+    given: S.
+  - family: Schmidt
+    given: N.
+  - family: Hansen
+    given: J.
+  - family: Lang
+    given: J.
+  - family: Sittler
+    given: B.
+  - family: Bollache
+    given: L.
+  - family: Tulp
+    given: I.
+  - family: Klaassen
+    given: R.
+  - family: Gilg
+    given: O.
+  issued:
+  - year: '2017'
+    month: '8'
+  title: Flexibility in otherwise consistent non-breeding movements of a long-distance
+    migratory seabird, the long-Tailed skua
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '197-211'
+  volume: '578'
+  URL: https://doi.org/10.3354%2Fmeps12010
+  DOI: 10.3354/meps12010
+...

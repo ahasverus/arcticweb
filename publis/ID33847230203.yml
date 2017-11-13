@@ -1,0 +1,22 @@
+---
+references:
+- id: ID33847230203
+  type: article-journal
+  author:
+  - family: Svenning
+    given: J.-C.
+  - family: Skov
+    given: F.
+  issued:
+  - year: '2007'
+    month: '3'
+  title: Ice age legacies in the geographical distribution of tree species richness
+    in Europe
+  container-title: Global Ecology and Biogeography
+  publisher: Wiley-Blackwell
+  page: '234-245'
+  volume: '16'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1466-8238.2006.00280.x
+  DOI: 10.1111/j.1466-8238.2006.00280.x
+...

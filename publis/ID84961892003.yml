@@ -1,0 +1,33 @@
+---
+references:
+- id: ID84961892003
+  type: article-journal
+  author:
+  - family: Toupoint
+    given: N.
+  - family: Barbier
+    given: P.
+  - family: Tremblay
+    given: R.
+  - family: Archambault
+    given: P.
+  - family: McKindsey
+    given: C. W.
+  - family: Winkler
+    given: G.
+  - family: Meziane
+    given: T.
+  - family: Olivier
+    given: F.
+  issued:
+  - year: '2016'
+    month: '6'
+  title: Influence of intertidal recreational fisheries and ’bouchot’ mussel culture
+    on bivalve recruitment
+  container-title: Marine Environmental Research
+  publisher: Elsevier BV
+  page: '1-12'
+  volume: '117'
+  URL: https://doi.org/10.1016%2Fj.marenvres.2016.03.006
+  DOI: 10.1016/j.marenvres.2016.03.006
+...

@@ -1,0 +1,39 @@
+---
+references:
+- id: ID84961619662
+  type: article-journal
+  author:
+  - family: Hallanger
+    given: I. G.
+  - family: Sagerup
+    given: K.
+  - family: Evenset
+    given: A.
+  - family: Kovacs
+    given: K. M.
+  - family: Leonards
+    given: P.
+  - family: Fuglei
+    given: E.
+  - family: Routti
+    given: H.
+  - family: Aars
+    given: J.
+  - family: Strøm
+    given: H.
+  - family: Lydersen
+    given: C.
+  - family: Gabrielsen
+    given: G. W.
+  issued:
+  - year: '2015'
+    month: '12'
+  title: Organophosphorous flame retardants in biota from Svalbard, Norway
+  container-title: Marine Pollution Bulletin
+  publisher: Elsevier BV
+  page: '442-447'
+  volume: '101'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fj.marpolbul.2015.09.049
+  DOI: 10.1016/j.marpolbul.2015.09.049
+...

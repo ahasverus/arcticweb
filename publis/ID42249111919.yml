@@ -1,0 +1,26 @@
+---
+references:
+- id: ID42249111919
+  type: article-journal
+  author:
+  - family: Post
+    given: E. S.
+  - family: Pedersen
+    given: C.
+  - family: Wilmers
+    given: C. C.
+  - family: Forchhammer
+    given: M. C.
+  issued:
+  - year: '2008'
+    month: '2'
+  title: Phenological sequences reveal aggregate life history response to climatic
+    warming
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '363-370'
+  volume: '89'
+  issue: '2'
+  URL: https://doi.org/10.1890%2F06-2138.1
+  DOI: 10.1890/06-2138.1
+...

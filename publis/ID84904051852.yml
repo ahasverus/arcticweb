@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84904051852
+  type: article-journal
+  author:
+  - family: Lagrue
+    given: C.
+  - family: Podgorniak
+    given: T.
+  - family: Lecerf
+    given: A.
+  - family: Bollache
+    given: L.
+  issued:
+  - year: '2014'
+    month: '6'
+  title: 'An invasive species may be better than none: Invasive signal and native
+    noble crayfish have similar community effects'
+  container-title: Freshwater Biology
+  publisher: Wiley-Blackwell
+  page: '1982-1995'
+  volume: '59'
+  issue: '9'
+  URL: https://doi.org/10.1111%2Ffwb.12401
+  DOI: 10.1111/fwb.12401
+...

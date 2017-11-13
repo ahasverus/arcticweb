@@ -1,0 +1,30 @@
+---
+references:
+- id: ID80155133816
+  type: article-journal
+  author:
+  - family: Vindstad
+    given: O. P. L.
+  - family: Hagen
+    given: S. B.
+  - family: Jepsen
+    given: J. U.
+  - family: Kapari
+    given: L.
+  - family: Schott
+    given: T.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2011'
+    month: '6'
+  title: Phenological diversity in the interactions between winter moth (Operophtera
+    brumata) larvae and parasitoid wasps in sub-arctic mountain birch forest
+  container-title: Bulletin of Entomological Research
+  publisher: Cambridge University Press (CUP)
+  page: '705-714'
+  volume: '101'
+  issue: '06'
+  URL: https://doi.org/10.1017%2Fs0007485311000277
+  DOI: 10.1017/s0007485311000277
+...

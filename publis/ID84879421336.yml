@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84879421336
+  type: article-journal
+  author:
+  - family: McKinnon
+    given: L.
+  - family: Berteaux
+    given: D.
+  - family: Gauthier
+    given: G.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2012'
+    month: '12'
+  title: Predator-mediated interactions between preferred, alternative and incidental
+    prey in the arctic tundra
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '1042-1048'
+  volume: '122'
+  issue: '7'
+  URL: https://doi.org/10.1111%2Fj.1600-0706.2012.20708.x
+  DOI: 10.1111/j.1600-0706.2012.20708.x
+...

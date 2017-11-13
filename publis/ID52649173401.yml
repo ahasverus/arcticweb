@@ -1,0 +1,34 @@
+---
+references:
+- id: ID52649173401
+  type: article-journal
+  author:
+  - family: Urbach
+    given: D.
+  - family: Britschgi
+    given: A.
+  - family: Jacob
+    given: A.
+  - family: Bittner
+    given: D.
+  - family: Bernet
+    given: D.
+  - family: Wahli
+    given: T.
+  - family: Yoccoz
+    given: N.
+  - family: Wedekind
+    given: C.
+  issued:
+  - year: '2008'
+    month: '8'
+  title: 'Gonadal alterations in male whitefish Coregonus fatioi: No evidence for
+    genetic damage reducing viability in early life stages'
+  container-title: Diseases of Aquatic Organisms
+  publisher: Inter-Research Science Center
+  page: '119-125'
+  volume: '81'
+  issue: '2'
+  URL: https://doi.org/10.3354%2Fdao01952
+  DOI: 10.3354/dao01952
+...

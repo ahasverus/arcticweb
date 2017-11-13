@@ -1,0 +1,22 @@
+---
+references:
+- id: ID0344267723
+  type: article-journal
+  author:
+  - family: Svenning
+    given: J.-C.
+  - family: Magård
+    given: E.
+  issued:
+  - year: '1999'
+    month: '5'
+  title: Population ecology and conservation status of the last natural population
+    of English yew Taxus baccata in Denmark
+  container-title: Biological Conservation
+  publisher: Elsevier BV
+  page: '173-182'
+  volume: '88'
+  issue: '2'
+  URL: https://doi.org/10.1016%2Fs0006-3207%2898%2900106-2
+  DOI: 10.1016/s0006-3207(98)00106-2
+...

@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84927740947
+  type: article-journal
+  author:
+  - family: Royer-Boutin
+    given: P.
+  - family: Cortés
+    given: P. A.
+  - family: Milbergue
+    given: M.
+  - family: Petit
+    given: M.
+  - family: Vézina
+    given: F.
+  issued:
+  - year: '2015'
+    month: '5'
+  title: Estimation of muscle mass by ultrasonography differs between observers and
+    life states of models in small birds
+  container-title: Physiological and Biochemical Zoology
+  publisher: University of Chicago Press
+  page: '336-344'
+  volume: '88'
+  issue: '3'
+  URL: https://doi.org/10.1086%2F680016
+  DOI: 10.1086/680016
+...

@@ -1,0 +1,32 @@
+---
+references:
+- id: ID78650630366
+  type: article-journal
+  author:
+  - family: Johnson
+    given: M.
+  - family: Clarkson
+    given: P.
+  - family: Goldstein
+    given: M. I.
+  - family: Haig
+    given: S. M.
+  - family: Lanctot
+    given: R. B.
+  - family: Tessler
+    given: D. F.
+  - family: Zwiefelhofer
+    given: D.
+  issued:
+  - year: '2010'
+    month: '11'
+  title: Seasonal movements, winter range use, and migratory connectivity of the Black
+    Oystercatcher
+  container-title: The Condor
+  publisher: Cooper Ornithological Society
+  page: '731-743'
+  volume: '112'
+  issue: '4'
+  URL: https://doi.org/10.1525%2Fcond.2010.090215
+  DOI: 10.1525/cond.2010.090215
+...

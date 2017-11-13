@@ -1,0 +1,24 @@
+---
+references:
+- id: ID33751085682
+  type: article-journal
+  author:
+  - family: Heath
+    given: J. P.
+  - family: Gilchrist
+    given: H. G.
+  - family: Ydenberg
+    given: R. C.
+  issued:
+  - year: '2006'
+    month: '10'
+  title: 'Regulation of stroke pattern and swim speed across a range of current
+    velocities: Diving by common eiders wintering in polynyas in the Canadian Arctic'
+  container-title: Journal of Experimental Biology
+  publisher: The Company of Biologists
+  page: '3974-3983'
+  volume: '209'
+  issue: '20'
+  URL: https://doi.org/10.1242%2Fjeb.02482
+  DOI: 10.1242/jeb.02482
+...

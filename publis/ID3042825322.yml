@@ -1,0 +1,41 @@
+---
+references:
+- id: ID3042825322
+  type: article-journal
+  author:
+  - family: Leibold
+    given: M. A.
+  - family: Holyoak
+    given: M.
+  - family: Mouquet
+    given: N.
+  - family: Amarasekare
+    given: P.
+  - family: Chase
+    given: J. M.
+  - family: Hoopes
+    given: M. F.
+  - family: Holt
+    given: R. D.
+  - family: Shurin
+    given: J. B.
+  - family: Law
+    given: R.
+  - family: Tilman
+    given: D.
+  - family: Loreau
+    given: M.
+  - family: Gonzalez
+    given: A.
+  issued:
+  - year: '2004'
+    month: '6'
+  title: 'The metacommunity concept: A framework for multi-scale community ecology'
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '601-613'
+  volume: '7'
+  issue: '7'
+  URL: https://doi.org/10.1111%2Fj.1461-0248.2004.00608.x
+  DOI: 10.1111/j.1461-0248.2004.00608.x
+...

@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84871887429
+  type: article-journal
+  author:
+  - family: Chambers
+    given: D.
+  - family: Périé
+    given: C.
+  - family: Casajus
+    given: N.
+  - family: Blois
+    given: S.
+    dropping-particle: de
+  issued:
+  - year: '2013'
+    month: '3'
+  title: Challenges in modelling the abundance of 105 tree species in eastern North
+    America using climate, edaphic, and topographic variables
+  container-title: Forest Ecology and Management
+  publisher: Elsevier BV
+  page: '20-29'
+  volume: '291'
+  URL: https://doi.org/10.1016%2Fj.foreco.2012.10.046
+  DOI: 10.1016/j.foreco.2012.10.046
+...

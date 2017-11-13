@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84905970539
+  type: article-journal
+  author:
+  - family: Yannic
+    given: G.
+  - family: Pellissier
+    given: L.
+  - family: Corre
+    given: M. L.
+  - family: Dussault
+    given: C.
+  - family: Bernatchez
+    given: L.
+  - family: Cote
+    given: S. D.
+  issued:
+  - year: '2014'
+    month: '8'
+  title: Temporally dynamic habitat suitability predicts genetic relatedness among
+    caribou
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '20140502-20140502'
+  volume: '281'
+  issue: '1792'
+  URL: https://doi.org/10.1098%2Frspb.2014.0502
+  DOI: 10.1098/rspb.2014.0502
+...

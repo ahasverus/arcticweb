@@ -1,0 +1,23 @@
+---
+references:
+- id: ID77952553516
+  type: article-journal
+  author:
+  - family: Gruyer
+    given: N.
+  - family: Gauthier
+    given: G.
+  - family: Berteaux
+    given: D.
+  issued:
+  - year: '2009'
+    month: '12'
+  title: Demography of two lemming species on Bylot Island, Nunavut, Canada
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '725-736'
+  volume: '33'
+  issue: '6'
+  URL: https://doi.org/10.1007%2Fs00300-009-0746-7
+  DOI: 10.1007/s00300-009-0746-7
+...

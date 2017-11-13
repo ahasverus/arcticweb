@@ -1,0 +1,23 @@
+---
+references:
+- id: ID84994643792
+  type: article-journal
+  author:
+  - family: Fauteux
+    given: D.
+  - family: Gauthier
+    given: G.
+  - family: Berteaux
+    given: D.
+  issued:
+  - year: '2016'
+    month: '11'
+  title: Top-down limitation of lemmings revealed by experimental reduction of predators
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '3231-3241'
+  volume: '97'
+  issue: '11'
+  URL: https://doi.org/10.1002%2Fecy.1570
+  DOI: 10.1002/ecy.1570
+...

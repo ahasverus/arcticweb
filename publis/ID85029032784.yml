@@ -1,0 +1,51 @@
+---
+references:
+- id: ID85029032784
+  type: article-journal
+  author:
+  - family: Hanssen
+    given: S. A.
+  - family: Sonne
+    given: C.
+  - family: Bustnes
+    given: J. O.
+  - family: Schnug
+    given: L.
+  - family: Bourgeon
+    given: S.
+  - family: Ballesteros
+    given: M.
+  - family: Eulaers
+    given: I.
+  - family: Moum
+    given: T.
+  - family: Johnsen
+    given: T. V.
+  - family: Kjelgaard-Hansen
+    given: M.
+  - family: Herzke
+    given: D.
+  - family: Jaspers
+    given: V. L. B.
+  - family: Covaci
+    given: A.
+  - family: Eens
+    given: M.
+  - family: Halley
+    given: D. J.
+  - family: Erikstad
+    given: K. E.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2017'
+    month: '9'
+  title: Anti-parasite treatment and blood biochemistry in raptor nestlings
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '685-693'
+  volume: '95'
+  issue: '9'
+  URL: https://doi.org/10.1139%2Fcjz-2016-0040
+  DOI: 10.1139/cjz-2016-0040
+...

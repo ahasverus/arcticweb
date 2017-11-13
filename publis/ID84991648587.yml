@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84991648587
+  type: article-journal
+  author:
+  - family: Ranc
+    given: N.
+  - family: Santini
+    given: L.
+  - family: Rondinini
+    given: C.
+  - family: Boitani
+    given: L.
+  - family: Poitevin
+    given: F.
+  - family: Angerbjörn
+    given: A.
+  - family: Maiorano
+    given: L.
+  issued:
+  - year: '2016'
+    month: '10'
+  title: Performance tradeoffs in target-group bias correction for species distribution
+    models
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '1076-1087'
+  volume: '40'
+  issue: '9'
+  URL: https://doi.org/10.1111%2Fecog.02414
+  DOI: 10.1111/ecog.02414
+...

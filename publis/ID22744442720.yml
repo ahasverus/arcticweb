@@ -1,0 +1,25 @@
+---
+references:
+- id: ID22744442720
+  type: article-journal
+  author:
+  - family: Nyström
+    given: J.
+  - family: Ekenstedt
+    given: J.
+  - family: Engström
+    given: J.
+  - family: Angerbjörn
+    given: A.
+  issued:
+  - year: '2005'
+    month: '6'
+  title: Gyr Falcons, ptarmigan and microtine rodents in northern Sweden
+  container-title: Ibis
+  publisher: Wiley-Blackwell
+  page: '587-597'
+  volume: '147'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1474-919x.2005.00436.x
+  DOI: 10.1111/j.1474-919x.2005.00436.x
+...

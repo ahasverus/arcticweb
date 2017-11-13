@@ -1,0 +1,20 @@
+---
+references:
+- id: ID33645293169
+  type: article-journal
+  author:
+  - family: Enstipp
+    given: M. R.
+  issued:
+  - year: '2006'
+    month: '3'
+  title: The effects of depth, temperature and food ingestion on the foraging energetics
+    of a diving endotherm, the double-crested cormorant (Phalacrocorax auritus)
+  container-title: Journal of Experimental Biology
+  publisher: The Company of Biologists
+  page: '845-859'
+  volume: '209'
+  issue: '5'
+  URL: https://doi.org/10.1242%2Fjeb.02064
+  DOI: 10.1242/jeb.02064
+...

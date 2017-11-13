@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84924085640
+  type: article-journal
+  author:
+  - family: Wells
+    given: K.
+  - family: O'Hara
+    given: R. B.
+  - family: Morand
+    given: S.
+  - family: Lessard
+    given: J.-P.
+  - family: Ribas
+    given: A.
+  editor:
+  - family: Beggs
+    given: Jacqueline
+  issued:
+  - year: '2014'
+    month: '12'
+  title: The importance of parasite geography and spillover effects for global patterns
+    of host-parasite associations in two invasive species
+  container-title: Diversity and Distributions
+  publisher: Wiley-Blackwell
+  page: '477-486'
+  volume: '21'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fddi.12297
+  DOI: 10.1111/ddi.12297
+...

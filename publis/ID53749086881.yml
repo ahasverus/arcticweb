@@ -1,0 +1,21 @@
+---
+references:
+- id: ID53749086881
+  type: article-journal
+  author:
+  - family: Svenning
+    given: J.-C.
+  - family: Condit
+    given: R.
+  issued:
+  - year: '2008'
+    month: '10'
+  title: 'Ecology: Biodiversity in a warmer world'
+  container-title: Science
+  publisher: American Association for the Advancement of Science (AAAS)
+  page: '206-207'
+  volume: '322'
+  issue: '5899'
+  URL: https://doi.org/10.1126%2Fscience.1164542
+  DOI: 10.1126/science.1164542
+...

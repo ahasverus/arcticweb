@@ -1,0 +1,21 @@
+---
+references:
+- id: ID81255157499
+  type: article-journal
+  author:
+  - family: Greve
+    given: M.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2011'
+    month: '12'
+  title: A paper park-as seen from the air
+  container-title: Journal for Nature Conservation
+  publisher: Elsevier BV
+  page: '368-369'
+  volume: '19'
+  issue: '6'
+  URL: https://doi.org/10.1016%2Fj.jnc.2011.07.003
+  DOI: 10.1016/j.jnc.2011.07.003
+...

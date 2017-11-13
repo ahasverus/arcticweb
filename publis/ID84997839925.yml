@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84997839925
+  type: article-journal
+  author:
+  - family: Norén
+    given: K.
+  - family: Angerbjörn
+    given: A.
+  - family: Wallén
+    given: J.
+  - family: Meijer
+    given: T.
+  - family: Sacks
+    given: B. N.
+  issued:
+  - year: '2016'
+    month: '11'
+  title: 'Red foxes colonizing the tundra: genetic analysis as a tool for population
+    management'
+  container-title: Conservation Genetics
+  publisher: Springer Nature
+  page: '359-370'
+  volume: '18'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs10592-016-0910-x
+  DOI: 10.1007/s10592-016-0910-x
+...

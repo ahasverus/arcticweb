@@ -1,0 +1,24 @@
+---
+references:
+- id: ID1542648583
+  type: article-journal
+  author:
+  - family: Ims
+    given: R. A.
+  - family: Leinaas
+    given: H. P.
+  - family: Coulson
+    given: S.
+  issued:
+  - year: '2004'
+    month: '4'
+  title: Spatial and temporal variation in patch occupancy and population density
+    in a model system of an arctic Collembola species assemblage
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '89-100'
+  volume: '105'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.0030-1299.2004.12634.x
+  DOI: 10.1111/j.0030-1299.2004.12634.x
+...

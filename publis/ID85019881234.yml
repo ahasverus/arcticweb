@@ -1,0 +1,31 @@
+---
+references:
+- id: ID85019881234
+  type: article-journal
+  author:
+  - family: Daigle
+    given: R. M.
+  - family: Archambault
+    given: P.
+  - family: Halpern
+    given: B. S.
+  - family: Lowndes
+    given: J. S. S.
+  - family: Côté
+    given: I. M.
+  editor:
+  - family: Dias
+    given: João Miguel
+  issued:
+  - year: '2017'
+    month: '5'
+  title: 'Incorporating public priorities in the Ocean Health Index: Canada as a
+    case study'
+  container-title: PLOS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e0178044'
+  volume: '12'
+  issue: '5'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0178044
+  DOI: 10.1371/journal.pone.0178044
+...

@@ -1,0 +1,25 @@
+---
+references:
+- id: ID79251599909
+  type: article-journal
+  author:
+  - family: Fort
+    given: J.
+  - family: Porter
+    given: W. P.
+  - family: Grémillet
+    given: D.
+  issued:
+  - year: '2011'
+    month: '3'
+  title: 'Energetic modelling: A comparison of the different approaches used in
+    seabirds'
+  container-title: 'Comparative Biochemistry and Physiology Part A: Molecular &
+    Integrative Physiology'
+  publisher: Elsevier BV
+  page: '358-365'
+  volume: '158'
+  issue: '3'
+  URL: https://doi.org/10.1016%2Fj.cbpa.2010.05.004
+  DOI: 10.1016/j.cbpa.2010.05.004
+...

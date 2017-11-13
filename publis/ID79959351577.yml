@@ -1,0 +1,41 @@
+---
+references:
+- id: ID79959351577
+  type: article-journal
+  author:
+  - family: Etterson
+    given: M. A.
+  - family: Ellis-Felege
+    given: S. N.
+  - family: Evers
+    given: D.
+  - family: Gauthier
+    given: G.
+  - family: Grzybowski
+    given: J. A.
+  - family: Mattsson
+    given: B. J.
+  - family: Nagy
+    given: L. R.
+  - family: Olsen
+    given: B. J.
+  - family: Pease
+    given: C. M.
+  - family: Burg
+    given: M. P.
+    dropping-particle: van der
+  - family: Potvien
+    given: A.
+  issued:
+  - year: '2011'
+    month: '7'
+  title: 'Modeling fecundity in birds: Conceptual overview, current models, and
+    considerations for future developments'
+  container-title: Ecological Modelling
+  publisher: Elsevier BV
+  page: '2178-2190'
+  volume: '222'
+  issue: '14'
+  URL: https://doi.org/10.1016%2Fj.ecolmodel.2010.10.013
+  DOI: 10.1016/j.ecolmodel.2010.10.013
+...

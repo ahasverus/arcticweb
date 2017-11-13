@@ -1,0 +1,22 @@
+---
+references:
+- id: ID3042601152
+  type: article-journal
+  author:
+  - family: Skov
+    given: F.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2004'
+    month: '6'
+  title: Potential impact of climatic change on the distribution of forest herbs in
+    Europe
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '366-380'
+  volume: '27'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.0906-7590.2004.03823.x
+  DOI: 10.1111/j.0906-7590.2004.03823.x
+...

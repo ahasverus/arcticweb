@@ -1,0 +1,31 @@
+---
+references:
+- id: ID80455125918
+  type: article-journal
+  author:
+  - family: Eiserhardt
+    given: W. L.
+  - family: Bjorholm
+    given: S.
+  - family: Svenning
+    given: J.-C.
+  - family: Rangel
+    given: T. F.
+  - family: Balslev
+    given: H.
+  editor:
+  - family: Swenson
+    given: Nathan G.
+  issued:
+  - year: '2011'
+    month: '11'
+  title: Testing the water-energy theory on american palms (arecaceae) using geographically
+    weighted regression
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e27027'
+  volume: '6'
+  issue: '11'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0027027
+  DOI: 10.1371/journal.pone.0027027
+...

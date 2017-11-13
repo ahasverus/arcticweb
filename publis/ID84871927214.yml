@@ -1,0 +1,33 @@
+---
+references:
+- id: ID84871927214
+  type: article-journal
+  author:
+  - family: Grecian
+    given: W. J.
+  - family: Witt
+    given: M. J.
+  - family: Attrill
+    given: M. J.
+  - family: Bearhop
+    given: S.
+  - family: Godley
+    given: B. J.
+  - family: Grémillet
+    given: D.
+  - family: Hamer
+    given: K. C.
+  - family: Votier
+    given: S. C.
+  issued:
+  - year: '2012'
+    month: '11'
+  title: 'A novel projection technique to identify important at-sea areas for seabird
+    conservation: An example using Northern gannets breeding in the North East Atlantic'
+  container-title: Biological Conservation
+  publisher: Elsevier BV
+  page: '43-52'
+  volume: '156'
+  URL: https://doi.org/10.1016%2Fj.biocon.2011.12.010
+  DOI: 10.1016/j.biocon.2011.12.010
+...

@@ -1,0 +1,29 @@
+---
+references:
+- id: ID70349775014
+  type: article-journal
+  author:
+  - family: Grandgeorge
+    given: M.
+  - family: Wanless
+    given: S.
+  - family: Dunn
+    dropping-particle: te
+  - family: Maumy
+    given: M.
+  - family: Beaugrand
+    given: G.
+  - family: Grémillet
+    given: D.
+  issued:
+  - year: '2008'
+    month: '12'
+  title: Resilience of the British and Irish seabird community in the twentieth century
+  container-title: Aquatic Biology
+  publisher: Inter-Research Science Center
+  page: '187-199'
+  volume: '4'
+  issue: '2'
+  URL: https://doi.org/10.3354%2Fab00095
+  DOI: 10.3354/ab00095
+...

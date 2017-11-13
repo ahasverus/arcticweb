@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84909982690
+  type: article-journal
+  author:
+  - family: Barraquand
+    given: F.
+  - family: Pinot
+    given: A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Bretagnolle
+    given: V.
+  editor:
+  - family: Coulson
+    given: Tim
+  issued:
+  - year: '2014'
+    month: '7'
+  title: 'Overcompensation and phase effects in a cyclic common vole population:
+    Between first and second-order cycles'
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '1367-1378'
+  volume: '83'
+  issue: '6'
+  URL: https://doi.org/10.1111%2F1365-2656.12257
+  DOI: 10.1111/1365-2656.12257
+...

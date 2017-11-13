@@ -1,0 +1,42 @@
+---
+references:
+- id: ID84864234514
+  type: article-journal
+  author:
+  - family: Legagneux
+    given: P.
+  - family: Gauthier
+    given: G.
+  - family: Berteaux
+    given: D.
+  - family: Bêty
+    given: J.
+  - family: Cadieux
+    given: M.-C.
+  - family: Bilodeau
+    given: F.
+  - family: Bolduc
+    given: E.
+  - family: McKinnon
+    given: L.
+  - family: Tarroux
+    given: A.
+  - family: Therrien
+    given: J.-F.
+  - family: Morissette
+    given: L.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '2012'
+    month: '7'
+  title: Disentangling trophic relationships in a High Arctic tundra ecosystem through
+    food web modeling
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '1707-1716'
+  volume: '93'
+  issue: '7'
+  URL: https://doi.org/10.1890%2F11-1973.1
+  DOI: 10.1890/11-1973.1
+...

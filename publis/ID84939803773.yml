@@ -1,0 +1,83 @@
+---
+references:
+- id: ID84939803773
+  type: article-journal
+  author:
+  - family: Myers-Smith
+    given: I. H.
+  - family: Elmendorf
+    given: S. C.
+  - family: Beck
+    given: P. S. A.
+  - family: Wilmking
+    given: M.
+  - family: Hallinger
+    given: M.
+  - family: Blok
+    given: D.
+  - family: Tape
+    given: K. D.
+  - family: Rayback
+    given: S. A.
+  - family: Macias-Fauria
+    given: M.
+  - family: Forbes
+    given: B. C.
+  - family: Speed
+    given: J. D. M.
+  - family: Boulanger-Lapointe
+    given: N.
+  - family: Rixen
+    given: C.
+  - family: Lévesque
+    given: E.
+  - family: Schmidt
+    given: N. M.
+  - family: Baittinger
+    given: C.
+  - family: Trant
+    given: A. J.
+  - family: Hermanutz
+    given: L.
+  - family: Collier
+    given: L. S.
+  - family: Dawes
+    given: M. A.
+  - family: Lantz
+    given: T. C.
+  - family: Weijers
+    given: S.
+  - family: Jørgensen
+    given: R. H.
+  - family: Buchwal
+    given: A.
+  - family: Buras
+    given: A.
+  - family: Naito
+    given: A. T.
+  - family: Ravolainen
+    given: V.
+  - family: Schaepman-Strub
+    given: G.
+  - family: Wheeler
+    given: J. A.
+  - family: Wipf
+    given: S.
+  - family: Guay
+    given: K. C.
+  - family: Hik
+    given: D. S.
+  - family: Vellend
+    given: M.
+  issued:
+  - year: '2015'
+    month: '7'
+  title: Climate sensitivity of shrub growth across the tundra biome
+  container-title: Nature Climate Change
+  publisher: Springer Nature
+  page: '887-891'
+  volume: '5'
+  issue: '9'
+  URL: https://doi.org/10.1038%2Fnclimate2697
+  DOI: 10.1038/nclimate2697
+...

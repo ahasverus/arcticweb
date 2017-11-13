@@ -1,0 +1,26 @@
+---
+references:
+- id: ID79960913664
+  type: article-journal
+  author:
+  - family: Henden
+    given: J.-A.
+  - family: Ims
+    given: R. A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Killengreen
+    given: S. T.
+  issued:
+  - year: '2011'
+    month: '8'
+  title: 'Declining willow ptarmigan populations: The role of habitat structure
+    and community dynamics'
+  container-title: Basic and Applied Ecology
+  publisher: Elsevier BV
+  page: '413-422'
+  volume: '12'
+  issue: '5'
+  URL: https://doi.org/10.1016%2Fj.baae.2011.05.006
+  DOI: 10.1016/j.baae.2011.05.006
+...

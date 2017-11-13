@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84867672767
+  type: article-journal
+  author:
+  - family: Ehrich
+    given: D.
+  - family: Tarroux
+    given: A.
+  - family: Stien
+    given: J.
+  - family: Lecomte
+    given: N.
+  - family: Killengreen
+    given: S.
+  - family: Berteaux
+    given: D.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2010'
+    month: '6'
+  title: 'Stable isotope analysis: Modelling lipid normalization for muscle and
+    eggs from arctic mammals and birds'
+  container-title: Methods in Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '66-76'
+  volume: '2'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.2041-210x.2010.00047.x
+  DOI: 10.1111/j.2041-210x.2010.00047.x
+...

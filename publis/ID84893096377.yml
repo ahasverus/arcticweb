@@ -1,0 +1,40 @@
+---
+references:
+- id: ID84893096377
+  type: article-journal
+  author:
+  - family: Danielsen
+    given: F.
+  - family: Pirhofer-Walzl
+    given: K.
+  - family: Adrian
+    given: T. P.
+  - family: Kapijimpanga
+    given: D. R.
+  - family: Burgess
+    given: N. D.
+  - family: Jensen
+    given: P. M.
+  - family: Bonney
+    given: R.
+  - family: Funder
+    given: M.
+  - family: Landa
+    given: A.
+  - family: Levermann
+    given: N.
+  - family: Madsen
+    given: J.
+  issued:
+  - year: '2013'
+    month: '5'
+  title: Linking public participation in scientific research to the indicators and
+    needs of international environmental agreements
+  container-title: Conservation Letters
+  publisher: Wiley-Blackwell
+  page: '12-24'
+  volume: '7'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fconl.12024
+  DOI: 10.1111/conl.12024
+...

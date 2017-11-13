@@ -1,0 +1,25 @@
+---
+references:
+- id: ID19944432906
+  type: article-journal
+  author:
+  - family: Hanlon
+    given: R. T.
+  - family: Naud
+    given: M.-J.
+  - family: Shaw
+    given: P. W.
+  - family: Havenhand
+    given: J. N.
+  issued:
+  - year: '2005'
+    month: '1'
+  title: 'Behavioural ecology: Transient sexual mimicry leads to fertilization'
+  container-title: Nature
+  publisher: Springer Nature
+  page: '212-212'
+  volume: '433'
+  issue: '7023'
+  URL: https://doi.org/10.1038%2F433212a
+  DOI: 10.1038/433212a
+...

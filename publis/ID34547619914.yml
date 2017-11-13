@@ -1,0 +1,26 @@
+---
+references:
+- id: ID34547619914
+  type: article-journal
+  author:
+  - family: Gauthier
+    given: G.
+  - family: Besbeas
+    given: P.
+  - family: Lebreton
+    given: J.-D.
+  - family: Morgan
+    given: B. J. T.
+  issued:
+  - year: '2007'
+    month: '6'
+  title: 'Population growth in snow geese: A modeling approach integrating demographic
+    and survey information'
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '1420-1429'
+  volume: '88'
+  issue: '6'
+  URL: https://doi.org/10.1890%2F06-0953
+  DOI: 10.1890/06-0953
+...

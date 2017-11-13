@@ -1,0 +1,110 @@
+---
+references:
+- id: ID84855459967
+  type: article-journal
+  author:
+  - family: Elmendorf
+    given: S. C.
+  - family: Henry
+    given: G. H. R.
+  - family: Hollister
+    given: R. D.
+  - family: Björk
+    given: R. G.
+  - family: Bjorkman
+    given: A. D.
+  - family: Callaghan
+    given: T. V.
+  - family: Collier
+    given: L. S.
+  - family: Cooper
+    given: E. J.
+  - family: Cornelissen
+    given: J. H. C.
+  - family: Day
+    given: T. A.
+  - family: Fosaa
+    given: A. M.
+  - family: Gould
+    given: W. A.
+  - family: Grétarsdóttir
+    given: J.
+  - family: Harte
+    given: J.
+  - family: Hermanutz
+    given: L.
+  - family: Hik
+    given: D. S.
+  - family: Hofgaard
+    given: A.
+  - family: Jarrad
+    given: F.
+  - family: Jónsdóttir
+    given: I. S.
+  - family: Keuper
+    given: F.
+  - family: Klanderud
+    given: K.
+  - family: Klein
+    given: J. A.
+  - family: Koh
+    given: S.
+  - family: Kudo
+    given: G.
+  - family: Lang
+    given: S. I.
+  - family: Loewen
+    given: V.
+  - family: May
+    given: J. L.
+  - family: Mercado
+    given: J.
+  - family: Michelsen
+    given: A.
+  - family: Molau
+    given: U.
+  - family: Myers-Smith
+    given: I. H.
+  - family: Oberbauer
+    given: S. F.
+  - family: Pieper
+    given: S.
+  - family: Post
+    given: E.
+  - family: Rixen
+    given: C.
+  - family: Robinson
+    given: C. H.
+  - family: Schmidt
+    given: N. M.
+  - family: Shaver
+    given: G. R.
+  - family: Stenström
+    given: A.
+  - family: Tolvanen
+    given: A.
+  - family: Totland
+    given: R.
+  - family: Troxler
+    given: T.
+  - family: Wahren
+    given: C.-H.
+  - family: Webber
+    given: P. J.
+  - family: Welker
+    given: J. M.
+  - family: Wookey
+    given: P. A.
+  issued:
+  - year: '2011'
+    month: '12'
+  title: 'Global assessment of experimental climate warming on tundra vegetation:
+    Heterogeneity over space and time'
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '164-175'
+  volume: '15'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1461-0248.2011.01716.x
+  DOI: 10.1111/j.1461-0248.2011.01716.x
+...

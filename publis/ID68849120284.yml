@@ -1,0 +1,26 @@
+---
+references:
+- id: ID68849120284
+  type: article-journal
+  author:
+  - family: Wang
+    given: H.
+  - family: Nagy
+    given: J. D.
+  - family: Gilg
+    given: O.
+  - family: Kuang
+    given: Y.
+  issued:
+  - year: '2009'
+    month: '9'
+  title: The roles of predator maturation delay and functional response in determining
+    the periodicity of predator-prey cycles
+  container-title: Mathematical Biosciences
+  publisher: Elsevier BV
+  page: '1-10'
+  volume: '221'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fj.mbs.2009.06.004
+  DOI: 10.1016/j.mbs.2009.06.004
+...

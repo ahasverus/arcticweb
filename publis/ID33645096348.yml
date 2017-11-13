@@ -1,0 +1,21 @@
+---
+references:
+- id: ID33645096348
+  type: chapter
+  author:
+  - family: Ims
+    given: R. A.
+  editor:
+  - family: Wiens
+    given: John A.
+  - family: Moss
+    given: Michael R.
+  issued:
+  - year: '2005'
+  title: The role of experiments in landscape ecology
+  container-title: Issues and Perspectives in Landscape Ecology
+  publisher: Cambridge University Press
+  page: '70-78'
+  URL: https://doi.org/10.1017%2Fcbo9780511614415.009
+  DOI: 10.1017/cbo9780511614415.009
+...

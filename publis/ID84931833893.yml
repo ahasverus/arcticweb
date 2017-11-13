@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84931833893
+  type: article-journal
+  author:
+  - family: Fauteux
+    given: D.
+  - family: Cheveau
+    given: M.
+  - family: Imbeau
+    given: L.
+  - family: Drapeau
+    given: P.
+  issued:
+  - year: '2015'
+    month: '5'
+  title: Cyclic Dynamics of a Boreal Southern Red-Backed Vole Population in Northwestern
+    Quebec
+  container-title: Journal of Mammalogy
+  publisher: Oxford University Press (OUP)
+  page: '573-578'
+  volume: '96'
+  issue: '3'
+  URL: https://doi.org/10.1093%2Fjmammal%2Fgyv062
+  DOI: 10.1093/jmammal/gyv062
+...

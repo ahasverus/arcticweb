@@ -1,0 +1,45 @@
+---
+references:
+- id: ID85008419674
+  type: article-journal
+  author:
+  - family: Collins
+    given: C. D.
+  - family: Banks-Leite
+    given: C.
+  - family: Brudvig
+    given: L. A.
+  - family: Foster
+    given: B. L.
+  - family: Cook
+    given: W. M.
+  - family: Damschen
+    given: E. I.
+  - family: Andrade
+    given: A.
+  - family: Austin
+    given: M.
+  - family: Camargo
+    given: J. L.
+  - family: Driscoll
+    given: D. A.
+  - family: Holt
+    given: R. D.
+  - family: Laurance
+    given: W. F.
+  - family: Nicholls
+    given: A. O.
+  - family: Orrock
+    given: J. L.
+  issued:
+  - year: '2016'
+    month: '12'
+  title: Fragmentation affects plant community composition over time
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '119-130'
+  volume: '40'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fecog.02607
+  DOI: 10.1111/ecog.02607
+...

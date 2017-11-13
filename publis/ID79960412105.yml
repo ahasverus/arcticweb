@@ -1,0 +1,23 @@
+---
+references:
+- id: ID79960412105
+  type: article-journal
+  author:
+  - family: Gravel
+    given: D.
+  - family: Guichard
+    given: F.
+  - family: Hochberg
+    given: M. E.
+  issued:
+  - year: '2011'
+    month: '6'
+  title: Species coexistence in a variable world
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '828-839'
+  volume: '14'
+  issue: '8'
+  URL: https://doi.org/10.1111%2Fj.1461-0248.2011.01643.x
+  DOI: 10.1111/j.1461-0248.2011.01643.x
+...

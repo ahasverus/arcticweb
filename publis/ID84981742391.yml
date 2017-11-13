@@ -1,0 +1,38 @@
+---
+references:
+- id: ID84981742391
+  type: article-journal
+  author:
+  - family: Nguyen
+    given: N. H.
+  - family: Williams
+    given: L. J.
+  - family: Vincent
+    given: J. B.
+  - family: Stefanski
+    given: A.
+  - family: Cavender-Bares
+    given: J.
+  - family: Messier
+    given: C.
+  - family: Paquette
+    given: A.
+  - family: Gravel
+    given: D.
+  - family: Reich
+    given: P. B.
+  - family: Kennedy
+    given: P. G.
+  issued:
+  - year: '2016'
+    month: '7'
+  title: Ectomycorrhizal fungal diversity and saprotrophic fungal diversity are linked
+    to different tree community attributes in a field-based tree experiment
+  container-title: Molecular Ecology
+  publisher: Wiley-Blackwell
+  page: '4032-4046'
+  volume: '25'
+  issue: '16'
+  URL: https://doi.org/10.1111%2Fmec.13719
+  DOI: 10.1111/mec.13719
+...

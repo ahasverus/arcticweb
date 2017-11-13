@@ -1,0 +1,27 @@
+---
+references:
+- id: ID71149099891
+  type: article-journal
+  author:
+  - family: Zeyl
+    given: E.
+  - family: Aars
+    given: J.
+  - family: Ehrich
+    given: D.
+  - family: Bachmann
+    given: L.
+  - family: Wiig
+    given: Ø.
+  issued:
+  - year: '2009'
+    month: '12'
+  title: 'The mating system of polar bears: A genetic approach'
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '1195-1209'
+  volume: '87'
+  issue: '12'
+  URL: https://doi.org/10.1139%2Fz09-107
+  DOI: 10.1139/z09-107
+...

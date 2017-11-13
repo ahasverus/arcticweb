@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84857080128
+  type: article-journal
+  author:
+  - family: Descamps
+    given: S.
+  - family: Jenouvrier
+    given: S.
+  - family: Gilchrist
+    given: H. G.
+  - family: Forbes
+    given: M. R.
+  editor:
+  - family: Ropert-Coudert
+    given: Yan
+  issued:
+  - year: '2012'
+    month: '2'
+  title: Avian cholera, a threat to the viability of an arctic seabird colony?
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e29659'
+  volume: '7'
+  issue: '2'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0029659
+  DOI: 10.1371/journal.pone.0029659
+...

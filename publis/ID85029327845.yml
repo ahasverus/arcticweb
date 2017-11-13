@@ -1,0 +1,31 @@
+---
+references:
+- id: ID85029327845
+  type: article-journal
+  author:
+  - family: Moreau
+    given: J.
+  - family: Perroud
+    given: L.
+  - family: Bollache
+    given: L.
+  - family: Yannic
+    given: G.
+  - family: Teixeira
+    given: M.
+  - family: Schmidt
+    given: N. M.
+  - family: Reneerkens
+    given: J.
+  - family: Gilg
+    given: O.
+  issued:
+  - year: '2017'
+    month: '9'
+  title: Discriminating uniparental and biparental breeding strategies by monitoring
+    nest temperature
+  container-title: Ibis
+  publisher: Wiley-Blackwell
+  URL: https://doi.org/10.1111%2Fibi.12507
+  DOI: 10.1111/ibi.12507
+...

@@ -1,0 +1,22 @@
+---
+references:
+- id: ID3042710970
+  type: article-journal
+  author:
+  - family: Ostfeld
+    given: R. S.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2004'
+    month: '2'
+  title: Are predators good for your health? Evaluating evidence for top-down regulation
+    of zoonotic disease reservoirs
+  container-title: Frontiers in Ecology and the Environment
+  publisher: Wiley-Blackwell
+  page: '13-20'
+  volume: '2'
+  issue: '1'
+  URL: https://doi.org/10.1890%2F1540-9295%282004%29002%5B0013%3Aapgfyh%5D2.0.co%3B2
+  DOI: 10.1890/1540-9295(2004)002[0013:apgfyh]2.0.co;2
+...

@@ -1,0 +1,30 @@
+---
+references:
+- id: ID30344448587
+  type: article-journal
+  author:
+  - family: Lecomte
+    given: N.
+  - family: Simard
+    given: M.
+  - family: Bergeron
+    given: Y.
+  - family: Larouche
+    given: A.
+  - family: Asnong
+    given: H.
+  - family: Richard
+    given: P. J. H.
+  issued:
+  - year: '2005'
+  title: Effects of fire severity and initial tree composition on understorey vegetation
+    dynamics in a boreal landscape inferred from chronosequence and paleoecological
+    data
+  container-title: Journal of Vegetation Science
+  publisher: Wiley-Blackwell
+  page: '665'
+  volume: '16'
+  issue: '6'
+  URL: https://doi.org/10.1658%2F1100-9233%282005%29016%5B0665%3Aeofsai%5D2.0.co%3B2
+  DOI: 10.1658/1100-9233(2005)016[0665:eofsai]2.0.co;2
+...

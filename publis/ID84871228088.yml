@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84871228088
+  type: article-journal
+  author:
+  - family: Eiserhardt
+    given: W. L.
+  - family: Svenning
+    given: J.-C.
+  - family: Borchsenius
+    given: F.
+  - family: Kristiansen
+    given: T.
+  - family: Balslev
+    given: H.
+  issued:
+  - year: '2012'
+    month: '12'
+  title: Separating environmental and geographical determinants of phylogenetic community
+    structure in Amazonian palms (Arecaceae)
+  container-title: Botanical Journal of the Linnean Society
+  publisher: Oxford University Press (OUP)
+  page: '244-259'
+  volume: '171'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1095-8339.2012.01276.x
+  DOI: 10.1111/j.1095-8339.2012.01276.x
+...

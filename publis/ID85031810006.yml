@@ -1,0 +1,38 @@
+---
+references:
+- id: ID85031810006
+  type: article-journal
+  author:
+  - family: Routti
+    given: H.
+  - family: Aars
+    given: J.
+  - family: Fuglei
+    given: E.
+  - family: Hanssen
+    given: L.
+  - family: Lone
+    given: K.
+  - family: Polder
+    given: A.
+  - family: Pedersen
+    given: S. Ø.
+  - family: Tartu
+    given: S.
+  - family: Welker
+    given: J. M.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2017'
+    month: '9'
+  title: Emission Changes Dwarf the Influence of Feeding Habits on Temporal Trends
+    of Per- and Polyfluoroalkyl Substances in Two Arctic Top Predators
+  container-title: Environmental Science & Technology
+  publisher: American Chemical Society (ACS)
+  page: '11996-12006'
+  volume: '51'
+  issue: '20'
+  URL: https://doi.org/10.1021%2Facs.est.7b03585
+  DOI: 10.1021/acs.est.7b03585
+...

@@ -1,0 +1,37 @@
+---
+references:
+- id: ID85016315095
+  type: article-journal
+  author:
+  - family: Ovaskainen
+    given: O.
+  - family: Tikhonov
+    given: G.
+  - family: Norberg
+    given: A.
+  - family: Blanchet
+    given: F. G.
+  - family: Duan
+    given: L.
+  - family: Dunson
+    given: D.
+  - family: Roslin
+    given: T.
+  - family: Abrego
+    given: N.
+  editor:
+  - family: Chave
+    given: Jerome
+  issued:
+  - year: '2017'
+    month: '3'
+  title: How to make more out of community data? A conceptual framework and its implementation
+    as models and software
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '561-576'
+  volume: '20'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fele.12757
+  DOI: 10.1111/ele.12757
+...

@@ -1,0 +1,29 @@
+---
+references:
+- id: ID33947111194
+  type: article-journal
+  author:
+  - family: Hanlon
+    given: R. T.
+  - family: Naud
+    given: M.-J.
+  - family: Forsythe
+    given: J. W.
+  - family: Hall
+    given: K.
+  - family: Watson
+    given: A. C.
+  - family: McKechnie
+    given: J.
+  issued:
+  - year: '2007'
+    month: '4'
+  title: Adaptable night camouflage by cuttlefish
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '543-551'
+  volume: '169'
+  issue: '4'
+  URL: https://doi.org/10.1086%2F512106
+  DOI: 10.1086/512106
+...

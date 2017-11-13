@@ -1,0 +1,23 @@
+---
+references:
+- id: ID0035421152
+  type: article-journal
+  author:
+  - family: Yoccoz
+    given: N. G.
+  - family: Nichols
+    given: J. D.
+  - family: Boulinier
+    given: T.
+  issued:
+  - year: '2001'
+    month: '8'
+  title: Monitoring of biological diversity in space and time
+  container-title: Trends in Ecology & Evolution
+  publisher: Elsevier BV
+  page: '446-453'
+  volume: '16'
+  issue: '8'
+  URL: https://doi.org/10.1016%2Fs0169-5347%2801%2902205-4
+  DOI: 10.1016/s0169-5347(01)02205-4
+...

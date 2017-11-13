@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84864712090
+  type: article-journal
+  author:
+  - family: Dianne
+    given: L.
+  - family: Bollache
+    given: L.
+  - family: Lagrue
+    given: C.
+  - family: Franceschi
+    given: N.
+  - family: Rigaud
+    given: T.
+  issued:
+  - year: '2012'
+  title: 'Larval size in acanthocephalan parasites: Influence of intraspecific competition
+    and effects on intermediate host behavioural changes'
+  container-title: Parasites & Vectors
+  publisher: Springer Nature
+  page: '166'
+  volume: '5'
+  issue: '1'
+  URL: https://doi.org/10.1186%2F1756-3305-5-166
+  DOI: 10.1186/1756-3305-5-166
+...

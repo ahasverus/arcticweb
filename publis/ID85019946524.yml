@@ -1,0 +1,99 @@
+---
+references:
+- id: ID85019946524
+  type: article-journal
+  author:
+  - family: Roslin
+    given: T.
+  - family: Hardwick
+    given: B.
+  - family: Novotny
+    given: V.
+  - family: Petry
+    given: W. K.
+  - family: Andrew
+    given: N. R.
+  - family: Asmus
+    given: A.
+  - family: Barrio
+    given: I. C.
+  - family: Basset
+    given: Y.
+  - family: Boesing
+    given: A. L.
+  - family: Bonebrake
+    given: T. C.
+  - family: Cameron
+    given: E. K.
+  - family: Dáttilo
+    given: W.
+  - family: Donoso
+    given: D. A.
+  - family: Drozd
+    given: P.
+  - family: Gray
+    given: C. L.
+  - family: Hik
+    given: D. S.
+  - family: Hill
+    given: S. J.
+  - family: Hopkins
+    given: T.
+  - family: Huang
+    given: S.
+  - family: Koane
+    given: B.
+  - family: Laird-Hopkins
+    given: B.
+  - family: Laukkanen
+    given: L.
+  - family: Lewis
+    given: O. T.
+  - family: Milne
+    given: S.
+  - family: Mwesige
+    given: I.
+  - family: Nakamura
+    given: A.
+  - family: Nell
+    given: C. S.
+  - family: Nichols
+    given: E.
+  - family: Prokurat
+    given: A.
+  - family: Sam
+    given: K.
+  - family: Schmidt
+    given: N. M.
+  - family: Slade
+    given: A.
+  - family: Slade
+    given: V.
+  - family: Suchanková
+    given: A.
+  - family: Teder
+    given: T.
+  - family: Nouhuys
+    given: S.
+    dropping-particle: van
+  - family: Vandvik
+    given: V.
+  - family: Weissflog
+    given: A.
+  - family: Zhukovich
+    given: V.
+  - family: Slade
+    given: E. M.
+  issued:
+  - year: '2017'
+    month: '5'
+  title: 'Latitudinal gradients: Higher predation risk for insect prey at low latitudes
+    and elevations'
+  container-title: Science
+  publisher: American Association for the Advancement of Science (AAAS)
+  page: '742-744'
+  volume: '356'
+  issue: '6339'
+  URL: https://doi.org/10.1126%2Fscience.aaj1631
+  DOI: 10.1126/science.aaj1631
+...

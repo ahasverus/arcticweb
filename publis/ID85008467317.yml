@@ -1,0 +1,29 @@
+---
+references:
+- id: ID85008467317
+  type: article-journal
+  author:
+  - family: Clausen
+    given: K. K.
+  - family: Christensen
+    given: T. K.
+  - family: Gundersen
+    given: O. M.
+  - family: Madsen
+    given: J.
+  editor:
+  - family: Thompson
+    given: Des
+  issued:
+  - year: '2017'
+    month: '1'
+  title: Impact of hunting along the migration corridor of pink-footed geese Anser
+    brachyrhynchus – implications for sustainable harvest management
+  container-title: Journal of Applied Ecology
+  publisher: Wiley-Blackwell
+  page: '1563-1570'
+  volume: '54'
+  issue: '5'
+  URL: https://doi.org/10.1111%2F1365-2664.12850
+  DOI: 10.1111/1365-2664.12850
+...

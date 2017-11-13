@@ -1,0 +1,37 @@
+---
+references:
+- id: ID84935072888
+  type: article-journal
+  author:
+  - family: Poisot
+    given: T.
+  - family: Baiser
+    given: B.
+  - family: Dunne
+    given: J. A.
+  - family: Kéfi
+    given: S.
+  - family: Massol
+    given: F.
+  - family: Mouquet
+    given: N.
+  - family: Romanuk
+    given: T. N.
+  - family: Stouffer
+    given: D. B.
+  - family: Wood
+    given: S. A.
+  - family: Gravel
+    given: D.
+  issued:
+  - year: '2015'
+    month: '7'
+  title: Mangal - making ecological network analysis simple
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '384-390'
+  volume: '39'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fecog.00976
+  DOI: 10.1111/ecog.00976
+...

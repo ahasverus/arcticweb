@@ -1,0 +1,30 @@
+---
+references:
+- id: ID85017112492
+  type: article-journal
+  author:
+  - family: Fauteux
+    given: D.
+  - family: Gauthier
+    given: G.
+  - family: Berteaux
+    given: D.
+  - family: Bosson
+    given: C.
+  - family: Palme
+    given: R.
+  - family: Boonstra
+    given: R.
+  issued:
+  - year: '2017'
+    month: '5'
+  title: 'Assessing stress in arctic lemmings: Fecal metabolite levels reflect plasma
+    free corticosterone levels'
+  container-title: Physiological and Biochemical Zoology
+  publisher: University of Chicago Press
+  page: '370-382'
+  volume: '90'
+  issue: '3'
+  URL: https://doi.org/10.1086%2F691337
+  DOI: 10.1086/691337
+...

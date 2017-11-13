@@ -1,0 +1,55 @@
+---
+references:
+- id: ID85014488007
+  type: article-journal
+  author:
+  - family: Walker
+    given: D. A.
+  - family: Daniëls
+    given: F. J. A.
+  - family: Alsos
+    given: I.
+  - family: Bhatt
+    given: U. S.
+  - family: Breen
+    given: A. L.
+  - family: Buchhorn
+    given: M.
+  - family: Bültmann
+    given: H.
+  - family: Druckenmiller
+    given: L. A.
+  - family: Edwards
+    given: M. E.
+  - family: Ehrich
+    given: D.
+  - family: Epstein
+    given: H. E.
+  - family: Gould
+    given: W. A.
+  - family: Ims
+    given: R. A.
+  - family: Meltofte
+    given: H.
+  - family: Raynolds
+    given: M. K.
+  - family: Sibik
+    given: J.
+  - family: Talbot
+    given: S. S.
+  - family: Webber
+    given: P. J.
+  issued:
+  - year: '2016'
+    month: '5'
+  title: 'Circumpolar Arctic vegetation: A hierarchic review and roadmap toward
+    an internationally consistent approach to survey, archive and classify tundra
+    plot data'
+  container-title: Environmental Research Letters
+  publisher: IOP Publishing
+  page: '055005'
+  volume: '11'
+  issue: '5'
+  URL: https://doi.org/10.1088%2F1748-9326%2F11%2F5%2F055005
+  DOI: 10.1088/1748-9326/11/5/055005
+...

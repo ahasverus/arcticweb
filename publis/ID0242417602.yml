@@ -1,0 +1,23 @@
+---
+references:
+- id: ID0242417602
+  type: article-journal
+  author:
+  - family: Dominy
+    given: N. J.
+  - family: Svenning
+    given: J.-C.
+  - family: Li
+    given: W.-H.
+  issued:
+  - year: '2003'
+    month: '1'
+  title: Historical contingency in the evolution of primate color vision
+  container-title: Journal of Human Evolution
+  publisher: Elsevier BV
+  page: '25-45'
+  volume: '44'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fs0047-2484%2802%2900167-7
+  DOI: 10.1016/s0047-2484(02)00167-7
+...

@@ -1,0 +1,24 @@
+---
+references:
+- id: ID80051801293
+  type: article-journal
+  author:
+  - family: Hargreaves
+    given: A. L.
+  - family: Whiteside
+    given: D. P.
+  - family: Gilchrist
+    given: G.
+  issued:
+  - year: '2011'
+    month: '9'
+  title: Concentrations of 17 elements, including mercury, in the tissues, food and
+    abiotic environment of arctic shorebirds
+  container-title: Science of The Total Environment
+  publisher: Elsevier BV
+  page: '3757-3770'
+  volume: '409'
+  issue: '19'
+  URL: https://doi.org/10.1016%2Fj.scitotenv.2011.06.043
+  DOI: 10.1016/j.scitotenv.2011.06.043
+...

@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0034992811
+  type: article-journal
+  author:
+  - family: Challenger
+    given: W. O.
+  - family: Williams
+    given: T. D.
+  - family: Christians
+    given: J. K.
+  - family: Vézina
+    given: F.
+  issued:
+  - year: '2001'
+    month: '5'
+  title: Follicular development and plasma yolk precursor dynamics through the laying
+    cycle in the European starling (Sturnus vulgaris)
+  container-title: Physiological and Biochemical Zoology
+  publisher: University of Chicago Press
+  page: '356-365'
+  volume: '74'
+  issue: '3'
+  URL: https://doi.org/10.1086%2F320427
+  DOI: 10.1086/320427
+...

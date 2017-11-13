@@ -1,0 +1,21 @@
+---
+references:
+- id: ID0037069396
+  type: article-journal
+  author:
+  - family: Gonzalez
+    given: A.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2002'
+    month: '11'
+  title: The inflationary effects of environmental fluctuations in source-sink systems
+  container-title: Proceedings of the National Academy of Sciences
+  publisher: Proceedings of the National Academy of Sciences
+  page: '14872-14877'
+  volume: '99'
+  issue: '23'
+  URL: https://doi.org/10.1073%2Fpnas.232589299
+  DOI: 10.1073/pnas.232589299
+...

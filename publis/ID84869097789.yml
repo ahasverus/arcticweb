@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84869097789
+  type: article-journal
+  author:
+  - family: Brunbjerg
+    given: A. K.
+  - family: Borchsenius
+    given: F.
+  - family: Eiserhardt
+    given: W. L.
+  - family: Ejrnaes
+    given: R.
+  - family: Svenning
+    given: J.-C.
+  editor:
+  - family: Prinzing
+    given: Andreas
+  issued:
+  - year: '2012'
+    month: '5'
+  title: Disturbance drives phylogenetic community structure in coastal dune vegetation
+  container-title: Journal of Vegetation Science
+  publisher: Wiley-Blackwell
+  page: '1082-1094'
+  volume: '23'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1654-1103.2012.01433.x
+  DOI: 10.1111/j.1654-1103.2012.01433.x
+...

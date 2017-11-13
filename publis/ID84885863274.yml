@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84885863274
+  type: article-journal
+  author:
+  - family: Xu
+    given: X.
+  - family: Wang
+    given: Z.
+  - family: Rahbek
+    given: C.
+  - family: Lessard
+    given: J.-P.
+  - family: Fang
+    given: J.
+  editor:
+  - family: Burns
+    given: K. C.
+  issued:
+  - year: '2013'
+    month: '6'
+  title: Evolutionary history influences the effects of water-energy dynamics on oak
+    diversity in asia
+  container-title: Journal of Biogeography
+  publisher: Wiley-Blackwell
+  page: '2146-2155'
+  volume: '40'
+  issue: '11'
+  URL: https://doi.org/10.1111%2Fjbi.12149
+  DOI: 10.1111/jbi.12149
+...

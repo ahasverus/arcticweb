@@ -1,0 +1,29 @@
+---
+references:
+- id: ID85010540219
+  type: article-journal
+  author:
+  - family: Westergaard
+    given: K. B.
+  - family: Alsos
+    given: I. G.
+  - family: Ehrich
+    given: D.
+  - family: Eidesen
+    given: P. B.
+  - family: Hollingsworth
+    given: P. M.
+  - family: Brochmann
+    given: C.
+  issued:
+  - year: '2008'
+    month: '11'
+  title: Genetic diversity and distinctiveness in scottish alpine plants
+  container-title: Plant Ecology & Diversity
+  publisher: Informa UK Limited
+  page: '329-338'
+  volume: '1'
+  issue: '2'
+  URL: https://doi.org/10.1080%2F17550870802338610
+  DOI: 10.1080/17550870802338610
+...

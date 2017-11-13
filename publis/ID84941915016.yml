@@ -1,0 +1,23 @@
+---
+references:
+- id: ID84941915016
+  type: article-journal
+  author:
+  - family: Müller
+    given: A.
+  - family: Bøcher
+    given: P. K.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2015'
+    month: '12'
+  title: Where are the wilder parts of anthropogenic landscapes? A mapping case study
+    for Denmark
+  container-title: Landscape and Urban Planning
+  publisher: Elsevier BV
+  page: '90-102'
+  volume: '144'
+  URL: https://doi.org/10.1016%2Fj.landurbplan.2015.08.016
+  DOI: 10.1016/j.landurbplan.2015.08.016
+...

@@ -1,0 +1,28 @@
+---
+references:
+- id: ID38449123099
+  type: article-journal
+  author:
+  - family: Lagrue
+    given: C.
+  - family: Kaldonski
+    given: N.
+  - family: Perrot-Minnot
+    given: M. J.
+  - family: Motreuil
+    given: S.
+  - family: Bollache
+    given: L.
+  issued:
+  - year: '2007'
+    month: '11'
+  title: 'Modification of hosts’ behavior by a parasite: Field evidence for adaptive
+    manipulation'
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '2839-2847'
+  volume: '88'
+  issue: '11'
+  URL: https://doi.org/10.1890%2F06-2105.1
+  DOI: 10.1890/06-2105.1
+...

@@ -1,0 +1,35 @@
+---
+references:
+- id: ID84858003871
+  type: article-journal
+  author:
+  - family: Reid
+    given: D. G.
+  - family: Bilodeau
+    given: F.
+  - family: Krebs
+    given: C. J.
+  - family: Gauthier
+    given: G.
+  - family: Kenney
+    given: A. J.
+  - family: Gilbert
+    given: B. S.
+  - family: Leung
+    given: M. C.-Y.
+  - family: Duchesne
+    given: D.
+  - family: Hofer
+    given: E.
+  issued:
+  - year: '2011'
+    month: '10'
+  title: 'Lemming winter habitat choice: A snow-fencing experiment'
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '935-946'
+  volume: '168'
+  issue: '4'
+  URL: https://doi.org/10.1007%2Fs00442-011-2167-x
+  DOI: 10.1007/s00442-011-2167-x
+...

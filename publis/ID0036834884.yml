@@ -1,0 +1,21 @@
+---
+references:
+- id: ID0036834884
+  type: article-journal
+  author:
+  - family: Abrams
+    given: P. A.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2002'
+    month: '11'
+  title: The Impact of Consumer-Resource Cycles on the Coexistence of Competing Consumers
+  container-title: Theoretical Population Biology
+  publisher: Elsevier BV
+  page: '281-295'
+  volume: '62'
+  issue: '3'
+  URL: https://doi.org/10.1006%2Ftpbi.2002.1614
+  DOI: 10.1006/tpbi.2002.1614
+...

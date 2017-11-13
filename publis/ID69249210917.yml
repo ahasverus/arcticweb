@@ -1,0 +1,28 @@
+---
+references:
+- id: ID69249210917
+  type: article-journal
+  author:
+  - family: Henden
+    given: J.-A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Ims
+    given: R. A.
+  - family: Bårdsen
+    given: B.-J.
+  - family: Angerbjörn
+    given: A.
+  issued:
+  - year: '2009'
+    month: '11'
+  title: Phase-dependent effect of conservation efforts in cyclically fluctuating
+    populations of arctic fox (Vulpes lagopus)
+  container-title: Biological Conservation
+  publisher: Elsevier BV
+  page: '2586-2592'
+  volume: '142'
+  issue: '11'
+  URL: https://doi.org/10.1016%2Fj.biocon.2009.06.005
+  DOI: 10.1016/j.biocon.2009.06.005
+...

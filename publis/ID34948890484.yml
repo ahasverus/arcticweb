@@ -1,0 +1,26 @@
+---
+references:
+- id: ID34948890484
+  type: article-journal
+  author:
+  - family: Ryan
+    given: P.
+  - family: Petersen
+    given: S.
+  - family: Simeone
+    given: A.
+  - family: Grémillet
+    given: D.
+  issued:
+  - year: '2007'
+    month: '8'
+  title: 'Diving behaviour of African penguins: Do they differ from other Spheniscus
+    penguins?'
+  container-title: African Journal of Marine Science
+  publisher: Informa UK Limited
+  page: '153-160'
+  volume: '29'
+  issue: '2'
+  URL: https://doi.org/10.2989%2Fajms.2007.29.2.1.184
+  DOI: 10.2989/ajms.2007.29.2.1.184
+...

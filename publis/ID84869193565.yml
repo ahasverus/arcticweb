@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84869193565
+  type: article-journal
+  author:
+  - family: Sabarros
+    given: P.
+  - family: Durant
+    given: J.
+  - family: Grémillet
+    given: D.
+  - family: Crawford
+    given: R.
+  - family: Stenseth
+    given: N.
+  issued:
+  - year: '2012'
+    month: '11'
+  title: Differential responses of three sympatric seabirds to spatio-Temporal variability
+    in shared resources
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '291-301'
+  volume: '468'
+  URL: https://doi.org/10.3354%2Fmeps09972
+  DOI: 10.3354/meps09972
+...

@@ -1,0 +1,20 @@
+---
+references:
+- id: ID0001397977
+  type: article-journal
+  author:
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '1985'
+    month: '10'
+  title: Density-independent mortality, non-linear competitive interactions, and species
+    coexistence
+  container-title: Journal of Theoretical Biology
+  publisher: Elsevier BV
+  page: '479-493'
+  volume: '116'
+  issue: '4'
+  URL: https://doi.org/10.1016%2Fs0022-5193%2885%2980084-9
+  DOI: 10.1016/s0022-5193(85)80084-9
+...

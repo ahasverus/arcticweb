@@ -1,0 +1,101 @@
+---
+references:
+- id: ID84957426533
+  type: article-journal
+  author:
+  - family: Douda
+    given: J.
+  - family: Boublík
+    given: K.
+  - family: Slezák
+    given: M.
+  - family: Biurrun
+    given: I.
+  - family: Nociar
+    given: J.
+  - family: Havrdová
+    given: A.
+  - family: Doudová
+    given: J.
+  - family: Aćić
+    given: S.
+  - family: Brisse
+    given: H.
+  - family: Brunet
+    given: J.
+  - family: Chytrý
+    given: M.
+  - family: Claessens
+    given: H.
+  - family: Csiky
+    given: J.
+  - family: Didukh
+    given: Y.
+  - family: Dimopoulos
+    given: P.
+  - family: Dullinger
+    given: S.
+  - family: Fitzpatrick
+    given: N.
+  - family: Guisan
+    given: A.
+  - family: Horchler
+    given: P. J.
+  - family: Hrivnák
+    given: R.
+  - family: Jandt
+    given: U.
+  - family: Kacki
+    given: Z.
+  - family: Kevey
+    given: B.
+  - family: Landucci
+    given: F.
+  - family: Lecomte
+    given: H.
+  - family: Lenoir
+    given: J.
+  - family: Paal
+    given: J.
+  - family: Paternoster
+    given: D.
+  - family: Pauli
+    given: H.
+  - family: Pielech
+    given: R.
+  - family: Rodwell
+    given: J. S.
+  - family: Roelandt
+    given: B.
+  - family: Svenning
+    given: J.-C.
+  - family: Šibík
+    given: J.
+  - family: Šilc
+    given: U.
+  - family: Škvorc
+    given: E.
+  - family: Tsiripidis
+    given: I.
+  - family: Tzonev
+    given: R. T.
+  - family: Wohlgemuth
+    given: T.
+  - family: Zimmermann
+    given: N. E.
+  editor:
+  - family: Schwabe-Kratochwil
+    given: Angelika
+  issued:
+  - year: '2015'
+    month: '10'
+  title: Vegetation classification and biogeography of European floodplain forests
+    and alder carrs
+  container-title: Applied Vegetation Science
+  publisher: Wiley-Blackwell
+  page: '147-163'
+  volume: '19'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Favsc.12201
+  DOI: 10.1111/avsc.12201
+...

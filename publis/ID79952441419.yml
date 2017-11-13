@@ -1,0 +1,26 @@
+---
+references:
+- id: ID79952441419
+  type: article-journal
+  author:
+  - family: Juillet
+    given: C.
+  - family: Choquet
+    given: R.
+  - family: Gauthier
+    given: G.
+  - family: Pradel
+    given: R.
+  issued:
+  - year: '2010'
+    month: '6'
+  title: A Capture-Recapture Model with Double-Marking, Live and Dead Encounters,
+    and Heterogeneity of Reporting Due to Auxiliary Mark Loss
+  container-title: Journal of Agricultural, Biological, and Environmental Statistics
+  publisher: Springer Nature
+  page: '88-104'
+  volume: '16'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs13253-010-0035-5
+  DOI: 10.1007/s13253-010-0035-5
+...

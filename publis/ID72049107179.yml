@@ -1,0 +1,28 @@
+---
+references:
+- id: ID72049107179
+  type: article-journal
+  author:
+  - family: Roslin
+    given: T.
+  - family: Avomaa
+    given: T.
+  - family: Leonard
+    given: M.
+  - family: Luoto
+    given: M.
+  - family: Ovaskainen
+    given: O.
+  issued:
+  - year: '2009'
+    month: '8'
+  title: 'Some like it hot: Microclimatic variation affects the abundance and movements
+    of a critically endangered dung beetle'
+  container-title: Insect Conservation and Diversity
+  publisher: Wiley-Blackwell
+  page: '232-241'
+  volume: '2'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1752-4598.2009.00054.x
+  DOI: 10.1111/j.1752-4598.2009.00054.x
+...

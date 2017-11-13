@@ -1,0 +1,24 @@
+---
+references:
+- id: ID33750053854
+  type: article-journal
+  author:
+  - family: Roth
+    given: D.
+  - family: Roland
+    given: J.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2006'
+    month: '11'
+  title: Parasitoids on the loose - Experimental lack of support of the parasitoid
+    movement hypothesis
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '277-285'
+  volume: '115'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.2006.0030-1299.15252
+  DOI: 10.1111/j.2006.0030-1299.15252
+...

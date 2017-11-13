@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84938231882
+  type: article-journal
+  author:
+  - family: Blach-Overgaard
+    given: A.
+  - family: Balslev
+    given: H.
+  - family: Dransfield
+    given: J.
+  - family: Normand
+    given: S.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2015'
+    month: '7'
+  title: Global-change vulnerability of a key plant resource, the African palms
+  container-title: Scientific Reports
+  publisher: Springer Nature
+  volume: '5'
+  issue: '1'
+  URL: https://doi.org/10.1038%2Fsrep12611
+  DOI: 10.1038/srep12611
+...

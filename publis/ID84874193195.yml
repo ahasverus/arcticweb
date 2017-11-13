@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84874193195
+  type: article-journal
+  author:
+  - family: Beaune
+    given: D.
+  - family: Bretagnolle
+    given: F.
+  - family: Bollache
+    given: L.
+  - family: Hohmann
+    given: G.
+  - family: Surbeck
+    given: M.
+  - family: Bourson
+    given: C.
+  - family: Fruth
+    given: B.
+  issued:
+  - year: '2013'
+    month: '1'
+  title: 'The Bonobo-Dialium Positive Interactions: Seed Dispersal Mutualism'
+  container-title: American Journal of Primatology
+  publisher: Wiley-Blackwell
+  page: '394-403'
+  volume: '75'
+  issue: '4'
+  URL: https://doi.org/10.1002%2Fajp.22121
+  DOI: 10.1002/ajp.22121
+...

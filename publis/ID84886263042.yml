@@ -1,0 +1,43 @@
+---
+references:
+- id: ID84886263042
+  type: article-journal
+  author:
+  - family: Travis
+    given: J. M. J.
+  - family: Delgado
+    given: M.
+  - family: Bocedi
+    given: G.
+  - family: Baguette
+    given: M.
+  - family: Bartoń
+    given: K.
+  - family: Bonte
+    given: D.
+  - family: Boulangeat
+    given: I.
+  - family: Hodgson
+    given: J. A.
+  - family: Kubisch
+    given: A.
+  - family: Penteriani
+    given: V.
+  - family: Saastamoinen
+    given: M.
+  - family: Stevens
+    given: V. M.
+  - family: Bullock
+    given: J. M.
+  issued:
+  - year: '2013'
+    month: '7'
+  title: Dispersal and species’ responses to climate change
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '1532-1540'
+  volume: '122'
+  issue: '11'
+  URL: https://doi.org/10.1111%2Fj.1600-0706.2013.00399.x
+  DOI: 10.1111/j.1600-0706.2013.00399.x
+...

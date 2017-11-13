@@ -1,0 +1,35 @@
+---
+references:
+- id: ID34250800385
+  type: article-journal
+  author:
+  - family: Alsos
+    given: I. G.
+  - family: Eidesen
+    given: P. B.
+  - family: Ehrich
+    given: D.
+  - family: Skrede
+    given: I.
+  - family: Westergaard
+    given: K.
+  - family: Jacobsen
+    given: G. H.
+  - family: Landvik
+    given: J. Y.
+  - family: Taberlet
+    given: P.
+  - family: Brochmann
+    given: C.
+  issued:
+  - year: '2007'
+    month: '6'
+  title: Frequent long-distance plant colonization in the changing arctic
+  container-title: Science
+  publisher: American Association for the Advancement of Science (AAAS)
+  page: '1606-1609'
+  volume: '316'
+  issue: '5831'
+  URL: https://doi.org/10.1126%2Fscience.1139178
+  DOI: 10.1126/science.1139178
+...

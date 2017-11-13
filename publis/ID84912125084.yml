@@ -1,0 +1,54 @@
+---
+references:
+- id: ID84912125084
+  type: article-journal
+  author:
+  - family: Krebs
+    given: C. J.
+  - family: Bryant
+    given: J.
+  - family: Kielland
+    given: K.
+  - family: O’donoghue
+    given: M.
+  - family: Doyle
+    given: F.
+  - family: Carriere
+    given: S.
+  - family: Difolco
+    given: D.
+  - family: Berg
+    given: N.
+  - family: Boonstra
+    given: R.
+  - family: Boutin
+    given: S.
+  - family: Kenney
+    given: A. J.
+  - family: Reid
+    given: D. G.
+  - family: Bodony
+    given: K.
+  - family: Putera
+    given: J.
+  - family: Timm
+    given: H. K.
+  - family: Burke
+    given: T.
+  - family: Maier
+    given: J. A. K.
+  - family: Golden
+    given: H.
+  issued:
+  - year: '2014'
+    month: '12'
+  title: What factors determine cyclic amplitude in the snowshoe hare (Lepus americanus)
+    cycle?
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '1039-1048'
+  volume: '92'
+  issue: '12'
+  URL: https://doi.org/10.1139%2Fcjz-2014-0159
+  DOI: 10.1139/cjz-2014-0159
+...

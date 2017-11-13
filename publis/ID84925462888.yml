@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84925462888
+  type: article-journal
+  author:
+  - family: Bowden
+    given: J. J.
+  - family: Hansen
+    given: R. R.
+  - family: Olsen
+    given: K.
+  - family: Høye
+    given: T. T.
+  issued:
+  - year: '2014'
+    month: '12'
+  title: Habitat-specific effects of climate change on a low-mobility Arctic spider
+    species
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '559-568'
+  volume: '38'
+  issue: '4'
+  URL: https://doi.org/10.1007%2Fs00300-014-1622-7
+  DOI: 10.1007/s00300-014-1622-7
+...

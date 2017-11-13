@@ -1,0 +1,26 @@
+---
+references:
+- id: ID57049095870
+  type: article-journal
+  author:
+  - family: Yoccoz
+    given: N.
+  - family: Bustnes
+    given: J.
+  - family: Bangjord
+    given: G.
+  - family: Skaare
+    given: J.
+  issued:
+  - year: '2009'
+    month: '1'
+  title: Reproduction and survival of tawny owls in relation to persistent organic
+    pollutants
+  container-title: Environment International
+  publisher: Elsevier BV
+  page: '107-112'
+  volume: '35'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fj.envint.2008.08.014
+  DOI: 10.1016/j.envint.2008.08.014
+...

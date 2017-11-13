@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84908569891
+  type: article-journal
+  author:
+  - family: McKinnon
+    given: L.
+  - family: Berteaux
+    given: D.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2014'
+    month: '10'
+  title: 'Predator-mediated interactions between lemmings and shorebirds: A test
+    of the alternative prey hypothesis'
+  container-title: The Auk
+  publisher: American Ornithologists Union
+  page: '619-628'
+  volume: '131'
+  issue: '4'
+  URL: https://doi.org/10.1642%2Fauk-13-154.1
+  DOI: 10.1642/auk-13-154.1
+...

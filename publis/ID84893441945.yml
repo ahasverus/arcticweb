@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84893441945
+  type: article-journal
+  author:
+  - family: Wirta
+    given: H. K.
+  - family: Hebert
+    given: P. D. N.
+  - family: Kaartinen
+    given: R.
+  - family: Prosser
+    given: S. W.
+  - family: Várkonyi
+    given: G.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2014'
+    month: '1'
+  title: Complementary molecular information changes our perception of food web structure
+  container-title: Proceedings of the National Academy of Sciences
+  publisher: Proceedings of the National Academy of Sciences
+  page: '1885-1890'
+  volume: '111'
+  issue: '5'
+  URL: https://doi.org/10.1073%2Fpnas.1316990111
+  DOI: 10.1073/pnas.1316990111
+...

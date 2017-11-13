@@ -1,0 +1,35 @@
+---
+references:
+- id: ID84904254321
+  type: article-journal
+  author:
+  - family: Krebs
+    given: C. J.
+  - family: Boonstra
+    given: R.
+  - family: Boutin
+    given: S.
+  - family: Sinclair
+    given: A. R. E.
+  - family: Smith
+    given: J. N. M.
+  - family: Gilbert
+    given: B. S.
+  - family: Martin
+    given: K.
+  - family: O'Donoghue
+    given: M.
+  - family: Turkington
+    given: R.
+  issued:
+  - year: '2014'
+    month: '1'
+  title: Trophic dynamics of the boreal forests of the Kluane region
+  container-title: ARCTIC
+  publisher: The Arctic Institute of North America
+  page: '71'
+  volume: '67'
+  issue: '5'
+  URL: https://doi.org/10.14430%2Farctic4350
+  DOI: 10.14430/arctic4350
+...

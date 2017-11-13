@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84907258874
+  type: article-journal
+  author:
+  - family: Wagner
+    given: D. N.
+  - family: Green
+    given: D. J.
+  - family: Cooper
+    given: J. M.
+  - family: Love
+    given: O. P.
+  - family: Williams
+    given: T. D.
+  issued:
+  - year: '2014'
+    month: '9'
+  title: 'Variation in plasma corticosterone in migratory songbirds: A test of the
+    migration-modulation hypothesis'
+  container-title: Physiological and Biochemical Zoology
+  publisher: University of Chicago Press
+  page: '695-703'
+  volume: '87'
+  issue: '5'
+  URL: https://doi.org/10.1086%2F676937
+  DOI: 10.1086/676937
+...

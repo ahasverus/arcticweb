@@ -1,0 +1,33 @@
+---
+references:
+- id: ID84903545597
+  type: article-journal
+  author:
+  - family: Iversen
+    given: M.
+  - family: Fauchald
+    given: P.
+  - family: Langeland
+    given: K.
+  - family: Ims
+    given: R. A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Bråthen
+    given: K. A.
+  editor:
+  - family: Valentine
+    given: John F.
+  issued:
+  - year: '2014'
+    month: '6'
+  title: Phenology and cover of plant growth forms predict herbivore habitat selection
+    in a high latitude ecosystem
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e100780'
+  volume: '9'
+  issue: '6'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0100780
+  DOI: 10.1371/journal.pone.0100780
+...

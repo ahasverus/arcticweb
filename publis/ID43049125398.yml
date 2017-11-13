@@ -1,0 +1,31 @@
+---
+references:
+- id: ID43049125398
+  type: article-journal
+  author:
+  - family: Cazelles
+    given: B.
+  - family: Chavez
+    given: M.
+  - family: Berteaux
+    given: D.
+  - family: Ménard
+    given: F.
+  - family: Vik
+    given: J. O.
+  - family: Jenouvrier
+    given: S.
+  - family: Stenseth
+    given: N. C.
+  issued:
+  - year: '2008'
+    month: '3'
+  title: Wavelet analysis of ecological time series
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '287-304'
+  volume: '156'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs00442-008-0993-2
+  DOI: 10.1007/s00442-008-0993-2
+...

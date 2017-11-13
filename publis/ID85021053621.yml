@@ -1,0 +1,140 @@
+---
+references:
+- id: ID85021053621
+  type: article-journal
+  author:
+  - family: Barrio
+    given: I. C.
+  - family: Lindén
+    given: E.
+  - family: Beest
+    given: M.
+    dropping-particle: te
+  - family: Olofsson
+    given: J.
+  - family: Rocha
+    given: A.
+  - family: Soininen
+    given: E. M.
+  - family: Alatalo
+    given: J. M.
+  - family: Andersson
+    given: T.
+  - family: Asmus
+    given: A.
+  - family: Boike
+    given: J.
+  - family: Bråthen
+    given: K. A.
+  - family: Bryant
+    given: J. P.
+  - family: Buchwal
+    given: A.
+  - family: Bueno
+    given: C. G.
+  - family: Christie
+    given: K. S.
+  - family: Denisova
+    given: Y. V.
+  - family: Egelkraut
+    given: D.
+  - family: Ehrich
+    given: D.
+  - family: Fishback
+    given: L.
+  - family: Forbes
+    given: B. C.
+  - family: Gartzia
+    given: M.
+  - family: Grogan
+    given: P.
+  - family: Hallinger
+    given: M.
+  - family: Heijmans
+    given: M. M. P. D.
+  - family: Hik
+    given: D. S.
+  - family: Hofgaard
+    given: A.
+  - family: Holmgren
+    given: M.
+  - family: Høye
+    given: T. T.
+  - family: Huebner
+    given: D. C.
+  - family: Jónsdóttir
+    given: I. S.
+  - family: Kaarlejärvi
+    given: E.
+  - family: Kumpula
+    given: T.
+  - family: Lange
+    given: C. Y. M. J. G.
+  - family: Lange
+    given: J.
+  - family: Lévesque
+    given: E.
+  - family: Limpens
+    given: J.
+  - family: Macias-Fauria
+    given: M.
+  - family: Myers-Smith
+    given: I.
+  - family: Nieukerken
+    given: E. J.
+    dropping-particle: van
+  - family: Normand
+    given: S.
+  - family: Post
+    given: E. S.
+  - family: Schmidt
+    given: N. M.
+  - family: Sitters
+    given: J.
+  - family: Skoracka
+    given: A.
+  - family: Sokolov
+    given: A.
+  - family: Sokolova
+    given: N.
+  - family: Speed
+    given: J. D. M.
+  - family: Street
+    given: L. E.
+  - family: Sundqvist
+    given: M. K.
+  - family: Suominen
+    given: O.
+  - family: Tananaev
+    given: N.
+  - family: Tremblay
+    given: J.-P.
+  - family: Urbanowicz
+    given: C.
+  - family: Uvarov
+    given: S. A.
+  - family: Watts
+    given: D.
+  - family: Wilmking
+    given: M.
+  - family: Wookey
+    given: P. A.
+  - family: Zimmermann
+    given: H. H.
+  - family: Zverev
+    given: V.
+  - family: Kozlov
+    given: M. V.
+  issued:
+  - year: '2017'
+    month: '6'
+  title: Background invertebrate herbivory on dwarf birch (Betula glandulosa-nana
+    complex) increases with temperature and precipitation across the tundra biome
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '2265-2278'
+  volume: '40'
+  issue: '11'
+  URL: https://doi.org/10.1007%2Fs00300-017-2139-7
+  DOI: 10.1007/s00300-017-2139-7
+...

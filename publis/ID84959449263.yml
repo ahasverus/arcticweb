@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84959449263
+  type: article-journal
+  author:
+  - family: Chudzińska
+    given: M. E.
+  - family: Nabe-Nielsen
+    given: J.
+  - family: Nolet
+    given: B. A.
+  - family: Madsen
+    given: J.
+  issued:
+  - year: '2016'
+    month: '2'
+  title: Foraging behaviour and fuel accumulation of capital breeders during spring
+    migration as derived from a combination of satellite- and ground-based observations
+  container-title: Journal of Avian Biology
+  publisher: Wiley-Blackwell
+  page: '563-574'
+  volume: '47'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fjav.00899
+  DOI: 10.1111/jav.00899
+...

@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84942156363
+  type: article-journal
+  author:
+  - family: Madsen
+    given: J.
+  - family: Christensen
+    given: T. K.
+  - family: Balsby
+    given: T. J. S.
+  - family: Tombre
+    given: I. M.
+  editor:
+  - family: Mettke-Hofmann
+    given: Claudia
+  issued:
+  - year: '2015'
+    month: '8'
+  title: 'Could have gone wrong: Effects of abrupt changes in migratory behaviour
+    on harvest in a waterbird population'
+  container-title: PLOS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e0135100'
+  volume: '10'
+  issue: '8'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0135100
+  DOI: 10.1371/journal.pone.0135100
+...

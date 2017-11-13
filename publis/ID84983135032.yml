@@ -1,0 +1,23 @@
+---
+references:
+- id: ID84983135032
+  type: article-journal
+  author:
+  - family: Mohit
+    given: V.
+  - family: Archambault
+    given: P.
+  - family: Lovejoy
+    given: C.
+  issued:
+  - year: '2015'
+    month: '4'
+  title: Resilience and adjustments of surface sediment bacterial communities in an
+    enclosed shallow coastal lagoon, Magdalen Islands, Gulf of St. Lawrence, Canada
+  container-title: FEMS Microbiology Ecology
+  publisher: Oxford University Press (OUP)
+  volume: '91'
+  issue: '5'
+  URL: https://doi.org/10.1093%2Ffemsec%2Ffiv038
+  DOI: 10.1093/femsec/fiv038
+...

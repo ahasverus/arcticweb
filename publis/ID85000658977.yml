@@ -1,0 +1,32 @@
+---
+references:
+- id: ID85000658977
+  type: article-journal
+  author:
+  - family: Godsoe
+    given: W.
+  - family: Holland
+    given: N. J.
+  - family: Cosner
+    given: C.
+  - family: Kendall
+    given: B. E.
+  - family: Brett
+    given: A.
+  - family: Jankowski
+    given: J.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2016'
+    month: '11'
+  title: 'Interspecific interactions and range limits: contrasts among interaction
+    types'
+  container-title: Theoretical Ecology
+  publisher: Springer Nature
+  page: '167-179'
+  volume: '10'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs12080-016-0319-7
+  DOI: 10.1007/s12080-016-0319-7
+...

@@ -1,0 +1,39 @@
+---
+references:
+- id: ID85019428606
+  type: article-journal
+  author:
+  - family: Therrien
+    given: J.-F.
+  - family: Weidensaul
+    given: S.
+  - family: Brinker
+    given: D.
+  - family: Huy
+    given: S.
+  - family: Miller
+    given: T.
+  - family: Jacobs
+    given: E.
+  - family: Weber
+    given: D.
+  - family: McDonald
+    given: T.
+  - family: Lanzone
+    given: M.
+  - family: Smith
+    given: N.
+  - family: Lecomte
+    given: N.
+  issued:
+  - year: '2017'
+    month: '3'
+  title: Winter use of a highly diverse suite of habitats by irruptive snowy owls
+  container-title: Northeastern Naturalist
+  publisher: Humboldt Field Research Institute
+  page: B81-B89
+  volume: '24'
+  issue: sp7
+  URL: https://doi.org/10.1656%2F045.024.s712
+  DOI: 10.1656/045.024.s712
+...

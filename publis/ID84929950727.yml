@@ -1,0 +1,23 @@
+---
+references:
+- id: ID84929950727
+  type: article-journal
+  author:
+  - family: Åsbakk
+    given: K.
+  - family: Mørk
+    given: T.
+  - family: Fuglei
+    given: E.
+  issued:
+  - year: '2015'
+    month: '1'
+  title: A serosurvey for Trichinella in Arctic foxes (Vulpes lagopus) in Svalbard
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '755-762'
+  volume: '38'
+  issue: '6'
+  URL: https://doi.org/10.1007%2Fs00300-014-1637-0
+  DOI: 10.1007/s00300-014-1637-0
+...

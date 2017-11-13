@@ -1,0 +1,36 @@
+---
+references:
+- id: ID84922756988
+  type: article-journal
+  author:
+  - family: Engemann
+    given: K.
+  - family: Enquist
+    given: B. J.
+  - family: Sandel
+    given: B.
+  - family: Boyle
+    given: B.
+  - family: Jørgensen
+    given: P. M.
+  - family: Morueta-Holme
+    given: N.
+  - family: Peet
+    given: R. K.
+  - family: Violle
+    given: C.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2015'
+    month: '1'
+  title: Limited sampling hampers “big data” estimation of species richness in a tropical
+    biodiversity hotspot
+  container-title: Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '807-820'
+  volume: '5'
+  issue: '3'
+  URL: https://doi.org/10.1002%2Fece3.1405
+  DOI: 10.1002/ece3.1405
+...

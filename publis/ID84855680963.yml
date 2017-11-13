@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84855680963
+  type: article-journal
+  author:
+  - family: Barraquand
+    given: F.
+  - family: Murrell
+    given: D. J.
+  editor:
+  - family: Castiglione
+    given: Filippo
+  issued:
+  - year: '2012'
+    month: '1'
+  title: Intense or spatially heterogeneous predation can select against prey dispersal
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e28924'
+  volume: '7'
+  issue: '1'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0028924
+  DOI: 10.1371/journal.pone.0028924
+...

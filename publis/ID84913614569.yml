@@ -1,0 +1,45 @@
+---
+references:
+- id: ID84913614569
+  type: article-journal
+  author:
+  - family: Svenning
+    given: J.-C.
+  - family: Gravel
+    given: D.
+  - family: Holt
+    given: R. D.
+  - family: Schurr
+    given: F. M.
+  - family: Thuiller
+    given: W.
+  - family: Münkemüller
+    given: T.
+  - family: Schiffers
+    given: K. H.
+  - family: Dullinger
+    given: S.
+  - family: Edwards
+    given: T. C.
+  - family: Hickler
+    given: T.
+  - family: Higgins
+    given: S. I.
+  - family: Nabel
+    given: J. E. M. S.
+  - family: Pagel
+    given: J.
+  - family: Normand
+    given: S.
+  issued:
+  - year: '2014'
+    month: '1'
+  title: The influence of interspecific interactions on species range expansion rates
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '1198-1209'
+  volume: '37'
+  issue: '12'
+  URL: https://doi.org/10.1111%2Fj.1600-0587.2013.00574.x
+  DOI: 10.1111/j.1600-0587.2013.00574.x
+...

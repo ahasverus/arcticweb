@@ -1,0 +1,24 @@
+---
+references:
+- id: ID21844454728
+  type: article-journal
+  author:
+  - family: Hutin
+    given: E.
+  - family: Simard
+    given: Y.
+  - family: Archambault
+    given: P.
+  issued:
+  - year: '2005'
+    month: '8'
+  title: Acoustic detection of a scallop bed from a single-beam echosounder in the
+    St. Lawrence
+  container-title: ICES Journal of Marine Science
+  publisher: Oxford University Press (OUP)
+  page: '966-983'
+  volume: '62'
+  issue: '5'
+  URL: https://doi.org/10.1016%2Fj.icesjms.2005.03.007
+  DOI: 10.1016/j.icesjms.2005.03.007
+...

@@ -1,0 +1,35 @@
+---
+references:
+- id: ID73949148748
+  type: article-journal
+  author:
+  - family: Beaulieu
+    given: M.
+  - family: Dervaux
+    given: A.
+  - family: Thierry
+    given: A.-M.
+  - family: Lazin
+    given: D.
+  - family: Maho
+    given: Y. L.
+  - family: Ropert-Coudert
+    given: Y.
+  - family: Spée
+    given: M.
+  - family: Raclot
+    given: T.
+  - family: Ancel
+    given: A.
+  issued:
+  - year: '2010'
+    month: '2'
+  title: When sea-ice clock is ahead of Adélie penguins’ clock
+  container-title: Functional Ecology
+  publisher: Wiley-Blackwell
+  page: '93-102'
+  volume: '24'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1365-2435.2009.01638.x
+  DOI: 10.1111/j.1365-2435.2009.01638.x
+...

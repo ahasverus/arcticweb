@@ -1,0 +1,28 @@
+---
+references:
+- id: ID68149176524
+  type: article-journal
+  author:
+  - family: Mysterud
+    given: A.
+  - family: Røed
+    given: K. H.
+  - family: Holand
+    given: Y.
+  - family: Yoccoz
+    given: N. G.
+  - family: Nieminen
+    given: M.
+  issued:
+  - year: '2009'
+    month: '7'
+  title: Age-related gestation length adjustment in a large iteroparous mammal at
+    northern latitude
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '1002-1006'
+  volume: '78'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2009.01553.x
+  DOI: 10.1111/j.1365-2656.2009.01553.x
+...

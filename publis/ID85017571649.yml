@@ -1,0 +1,63 @@
+---
+references:
+- id: ID85017571649
+  type: article-journal
+  author:
+  - family: Brown
+    given: S.
+  - family: Gratto-Trevor
+    given: C.
+  - family: Porter
+    given: R.
+  - family: Weiser
+    given: E. L.
+  - family: Mizrahi
+    given: D.
+  - family: Bentzen
+    given: R.
+  - family: Boldenow
+    given: M.
+  - family: Clay
+    given: R.
+  - family: Freeman
+    given: S.
+  - family: Giroux
+    given: M.-A.
+  - family: Kwon
+    given: E.
+  - family: Lank
+    given: D. B.
+  - family: Lecomte
+    given: N.
+  - family: Liebezeit
+    given: J.
+  - family: Loverti
+    given: V.
+  - family: Rausch
+    given: J.
+  - family: Sandercock
+    given: B. K.
+  - family: Schulte
+    given: S.
+  - family: Smith
+    given: P.
+  - family: Taylor
+    given: A.
+  - family: Winn
+    given: B.
+  - family: Yezerinac
+    given: S.
+  - family: Lanctot
+    given: R. B.
+  issued:
+  - year: '2017'
+    month: '5'
+  title: Migratory connectivity of Semipalmated Sandpipers and implications for conservation
+  container-title: The Condor
+  publisher: Cooper Ornithological Society
+  page: '207-224'
+  volume: '119'
+  issue: '2'
+  URL: https://doi.org/10.1650%2Fcondor-16-55.1
+  DOI: 10.1650/condor-16-55.1
+...

@@ -1,0 +1,23 @@
+---
+references:
+- id: ID85011002369
+  type: article-journal
+  author:
+  - family: Bourgeois
+    given: S.
+  - family: Archambault
+    given: P.
+  - family: Witte
+    given: U.
+  issued:
+  - year: '2017'
+    month: '1'
+  title: 'Organic matter remineralization in marine sediments: A Pan-Arctic synthesis'
+  container-title: Global Biogeochemical Cycles
+  publisher: Wiley-Blackwell
+  page: '190-213'
+  volume: '31'
+  issue: '1'
+  URL: https://doi.org/10.1002%2F2016gb005378
+  DOI: 10.1002/2016gb005378
+...

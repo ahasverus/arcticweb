@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84963984703
+  type: article-journal
+  author:
+  - family: Blanchard
+    given: P.
+  - family: Lauzeral
+    given: C.
+  - family: Chamaillé-Jammes
+    given: S.
+  - family: Yoccoz
+    given: N. G.
+  - family: Pontier
+    given: D.
+  issued:
+  - year: '2016'
+    month: '3'
+  title: 'Analyzing the proximity to cover in a landscape of fear: A new approach
+    applied to fine-scale habitat use by rabbits facing feral cat predation on Kerguelen
+    archipelago'
+  container-title: PeerJ
+  publisher: PeerJ
+  page: 'e1769'
+  volume: '4'
+  issue: '3'
+  URL: https://doi.org/10.7717%2Fpeerj.1769
+  DOI: 10.7717/peerj.1769
+...

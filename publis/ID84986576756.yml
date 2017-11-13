@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84986576756
+  type: article-journal
+  author:
+  - family: Roslin
+    given: T.
+  - family: Majaneva
+    given: S.
+  editor:
+  - family: Clare
+    given: Elizabeth
+  issued:
+  - year: '2016'
+    month: '9'
+  title: The use of DNA barcodes in food web construction-terrestrial and aquatic
+    ecologists unite!
+  container-title: Genome
+  publisher: Canadian Science Publishing
+  page: '603-628'
+  volume: '59'
+  issue: '9'
+  URL: https://doi.org/10.1139%2Fgen-2015-0229
+  DOI: 10.1139/gen-2015-0229
+...

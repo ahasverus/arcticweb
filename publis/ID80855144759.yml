@@ -1,0 +1,31 @@
+---
+references:
+- id: ID80855144759
+  type: article-journal
+  author:
+  - family: Dessborn
+    given: L.
+  - family: Brochet
+    given: A. L.
+  - family: Elmberg
+    given: J.
+  - family: Legagneux
+    given: P.
+  - family: Gauthier-Clerc
+    given: M.
+  - family: Guillemain
+    given: M.
+  issued:
+  - year: '2011'
+    month: '10'
+  title: Geographical and temporal patterns in the diet of pintail Anas acuta, wigeon
+    Anas penelope, mallard Anas platyrhynchos and teal Anas crecca in the Western
+    Palearctic
+  container-title: European Journal of Wildlife Research
+  publisher: Springer Nature
+  page: '1119-1129'
+  volume: '57'
+  issue: '6'
+  URL: https://doi.org/10.1007%2Fs10344-011-0577-z
+  DOI: 10.1007/s10344-011-0577-z
+...

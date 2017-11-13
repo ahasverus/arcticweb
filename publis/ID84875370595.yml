@@ -1,0 +1,33 @@
+---
+references:
+- id: ID84875370595
+  type: article-journal
+  author:
+  - family: Bello
+    given: F.
+    dropping-particle: de
+  - family: Lavorel
+    given: S.
+  - family: Lavergne
+    given: S.
+  - family: Albert
+    given: C. H.
+  - family: Boulangeat
+    given: I.
+  - family: Mazel
+    given: F.
+  - family: Thuiller
+    given: W.
+  issued:
+  - year: '2012'
+    month: '7'
+  title: 'Hierarchical effects of environmental filters on the functional structure
+    of plant communities: A case study in the French Alps'
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '393-402'
+  volume: '36'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1600-0587.2012.07438.x
+  DOI: 10.1111/j.1600-0587.2012.07438.x
+...

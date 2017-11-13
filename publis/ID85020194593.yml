@@ -1,0 +1,27 @@
+---
+references:
+- id: ID85020194593
+  type: article-journal
+  author:
+  - family: Pohle
+    given: J.
+  - family: Langrock
+    given: R.
+  - family: Beest
+    given: F. M.
+    dropping-particle: van
+  - family: Schmidt
+    given: N. M.
+  issued:
+  - year: '2017'
+    month: '6'
+  title: 'Selecting the Number of States in Hidden Markov Models: Pragmatic Solutions
+    Illustrated Using Animal Movement'
+  container-title: Journal of Agricultural, Biological and Environmental Statistics
+  publisher: Springer Nature
+  page: '270-293'
+  volume: '22'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs13253-017-0283-8
+  DOI: 10.1007/s13253-017-0283-8
+...

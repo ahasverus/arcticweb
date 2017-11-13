@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84984919815
+  type: article-journal
+  author:
+  - family: Giroux
+    given: M.-A.
+  - family: Dussault
+    given: C.
+  - family: Tremblay
+    given: J.-P.
+  - family: Côté
+    given: S. D.
+  issued:
+  - year: '2016'
+    month: '8'
+  title: Winter severity modulates the benefits of using a habitat temporally uncoupled
+    from browsing
+  container-title: Ecosphere
+  publisher: Wiley-Blackwell
+  page: 'e01432'
+  volume: '7'
+  issue: '8'
+  URL: https://doi.org/10.1002%2Fecs2.1432
+  DOI: 10.1002/ecs2.1432
+...

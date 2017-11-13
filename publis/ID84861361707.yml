@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84861361707
+  type: article-journal
+  author:
+  - family: Provencher
+    given: J.
+  - family: Gaston
+    given: A.
+  - family: O’hara
+    given: P.
+  - family: Gilchrist
+    given: H.
+  issued:
+  - year: '2012'
+    month: '5'
+  title: Seabird diet indicates changing Arctic marine communities in eastern Canada
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '171-182'
+  volume: '454'
+  URL: https://doi.org/10.3354%2Fmeps09299
+  DOI: 10.3354/meps09299
+...

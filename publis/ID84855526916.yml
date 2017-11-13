@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84855526916
+  type: article-journal
+  author:
+  - family: Ohlemüller
+    given: R.
+  - family: Huntley
+    given: B.
+  - family: Normand
+    given: S.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2011'
+    month: '5'
+  title: Potential source and sink locations for climate-driven species range shifts
+    in Europe since the Last Glacial Maximum
+  container-title: Global Ecology and Biogeography
+  publisher: Wiley-Blackwell
+  page: '152-163'
+  volume: '21'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1466-8238.2011.00674.x
+  DOI: 10.1111/j.1466-8238.2011.00674.x
+...

@@ -1,0 +1,24 @@
+---
+references:
+- id: ID34548570134
+  type: article-journal
+  author:
+  - family: Bonin
+    given: A.
+  - family: Ehrich
+    given: D.
+  - family: Manel
+    given: S.
+  issued:
+  - year: '2007'
+    month: '9'
+  title: 'Statistical analysis of amplified fragment length polymorphism data: A
+    toolbox for molecular ecologists and evolutionists'
+  container-title: Molecular Ecology
+  publisher: Wiley-Blackwell
+  page: '3737-3758'
+  volume: '16'
+  issue: '18'
+  URL: https://doi.org/10.1111%2Fj.1365-294x.2007.03435.x
+  DOI: 10.1111/j.1365-294x.2007.03435.x
+...

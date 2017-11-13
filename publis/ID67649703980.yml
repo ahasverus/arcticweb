@@ -1,0 +1,29 @@
+---
+references:
+- id: ID67649703980
+  type: article-journal
+  author:
+  - family: Love
+    given: O. P.
+  - family: Gilchrist
+    given: H. G.
+  - family: Bêty
+    given: J.
+  - family: Wynne-Edwards
+    given: K. E.
+  - family: Berzins
+    given: L.
+  - family: Williams
+    given: T. D.
+  issued:
+  - year: '2009'
+    month: '9'
+  title: Using life-histories to predict and interpret variability in yolk hormones
+  container-title: General and Comparative Endocrinology
+  publisher: Elsevier BV
+  page: '169-174'
+  volume: '163'
+  issue: '1-2'
+  URL: https://doi.org/10.1016%2Fj.ygcen.2008.10.001
+  DOI: 10.1016/j.ygcen.2008.10.001
+...

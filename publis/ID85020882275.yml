@@ -1,0 +1,56 @@
+---
+references:
+- id: ID85020882275
+  type: article-journal
+  author:
+  - family: Taylor
+    given: P. D.
+  - family: Crewe
+    given: T. L.
+  - family: Mackenzie
+    given: S. A.
+  - family: Lepage
+    given: D.
+  - family: Aubry
+    given: Y.
+  - family: Crysler
+    given: Z.
+  - family: Finney
+    given: G.
+  - family: Francis
+    given: C. M.
+  - family: Guglielmo
+    given: C. G.
+  - family: Hamilton
+    given: D. J.
+  - family: Holberton
+    given: R. L.
+  - family: Loring
+    given: P. H.
+  - family: Mitchell
+    given: G. W.
+  - family: Norris
+    given: D. R.
+  - family: Paquet
+    given: J.
+  - family: Ronconi
+    given: R. A.
+  - family: Smetzer
+    given: J. R.
+  - family: Smith
+    given: P. A.
+  - family: Welch
+    given: L. J.
+  - family: Woodworth
+    given: B. K.
+  issued:
+  - year: '2017'
+  title: 'The motus wildlife tracking system: A collaborative research network to
+    enhance the understanding of wildlife movement'
+  container-title: Avian Conservation and Ecology
+  publisher: Resilience Alliance, Inc.
+  volume: '12'
+  issue: '1'
+  URL: https://doi.org/10.5751%2Face-00953-120108
+  DOI: 10.5751/ace-00953-120108
+...

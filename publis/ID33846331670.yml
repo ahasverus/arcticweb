@@ -1,0 +1,25 @@
+---
+references:
+- id: ID33846331670
+  type: article-journal
+  author:
+  - family: Careau
+    given: V.
+  - family: Lecomte
+    given: N.
+  - family: Giroux
+    given: J.-F.
+  - family: Berteaux
+    given: D.
+  issued:
+  - year: '2006'
+    month: '4'
+  title: Common ravens raid arctic fox food caches
+  container-title: Journal of Ethology
+  publisher: Springer Nature
+  page: '79-82'
+  volume: '25'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs10164-006-0193-7
+  DOI: 10.1007/s10164-006-0193-7
+...

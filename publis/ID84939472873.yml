@@ -1,0 +1,34 @@
+---
+references:
+- id: ID84939472873
+  type: article-journal
+  author:
+  - family: Lähteenmäki
+    given: S.
+  - family: Slade
+    given: E. M.
+  - family: Hardwick
+    given: B.
+  - family: Schiffler
+    given: G.
+  - family: Louzada
+    given: J.
+  - family: Barlow
+    given: J.
+  - family: Roslin
+    given: T.
+  editor:
+  - family: Lecomte
+    given: Nicolas
+  issued:
+  - year: '2015'
+    month: '6'
+  title: MESOCLOSURES - increasing realism in mesocosm studies of ecosystem functioning
+  container-title: Methods in Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '916-924'
+  volume: '6'
+  issue: '8'
+  URL: https://doi.org/10.1111%2F2041-210x.12367
+  DOI: 10.1111/2041-210x.12367
+...

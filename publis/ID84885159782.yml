@@ -1,0 +1,21 @@
+---
+references:
+- id: ID84885159782
+  type: article-journal
+  author:
+  - family: Barraquand
+    given: F.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2013'
+    month: '11'
+  title: When can environmental variability benefit population growth? Counterintuitive
+    effects of nonlinearities in vital rates
+  container-title: Theoretical Population Biology
+  publisher: Elsevier BV
+  page: '1-11'
+  volume: '89'
+  URL: https://doi.org/10.1016%2Fj.tpb.2013.07.002
+  DOI: 10.1016/j.tpb.2013.07.002
+...

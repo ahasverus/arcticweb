@@ -1,0 +1,25 @@
+---
+references:
+- id: ID42149106345
+  type: article-journal
+  author:
+  - family: Lecomte
+    given: N.
+  - family: Careau
+    given: V.
+  - family: Gauthier
+    given: G.
+  - family: Giroux
+    given: J.-F.
+  issued:
+  - year: '2008'
+    month: '5'
+  title: Predator behaviour and predation risk in the heterogeneous Arctic environment
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '439-447'
+  volume: '77'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2008.01354.x
+  DOI: 10.1111/j.1365-2656.2008.01354.x
+...

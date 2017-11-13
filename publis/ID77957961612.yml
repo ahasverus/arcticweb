@@ -1,0 +1,23 @@
+---
+references:
+- id: ID77957961612
+  type: article-journal
+  author:
+  - family: Radulovici
+    given: A. E.
+  - family: Archambault
+    given: P.
+  - family: Dufresne
+    given: F.
+  issued:
+  - year: '2010'
+    month: '3'
+  title: 'DNA barcodes for marine biodiversity: Moving fast forward?'
+  container-title: Diversity
+  publisher: MDPI AG
+  page: '450-472'
+  volume: '2'
+  issue: '4'
+  URL: https://doi.org/10.3390%2Fd2040450
+  DOI: 10.3390/d2040450
+...

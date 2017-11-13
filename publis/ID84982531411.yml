@@ -1,0 +1,19 @@
+---
+references:
+- id: ID84982531411
+  type: article-journal
+  author:
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '1986'
+    month: '9'
+  title: Are lagomorphs similar to other small mammals in their population ecology?
+  container-title: Mammal Review
+  publisher: Wiley-Blackwell
+  page: '187-194'
+  volume: '16'
+  issue: '3-4'
+  URL: https://doi.org/10.1111%2Fj.1365-2907.1986.tb00041.x
+  DOI: 10.1111/j.1365-2907.1986.tb00041.x
+...

@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84991294868
+  type: article-journal
+  author:
+  - family: Lourenço
+    given: P. M.
+  - family: Alves
+    given: J. A.
+  - family: Reneerkens
+    given: J.
+  - family: Loonstra
+    given: A. J.
+  - family: Potts
+    given: P. M.
+  - family: Granadeiro
+    given: J. P.
+  - family: Catry
+    given: T.
+  issued:
+  - year: '2016'
+    month: '9'
+  title: Influence of age and sex on winter site fidelity of sanderlings Calidris
+    alba
+  container-title: PeerJ
+  publisher: PeerJ
+  page: 'e2517'
+  volume: '4'
+  issue: '9'
+  URL: https://doi.org/10.7717%2Fpeerj.2517
+  DOI: 10.7717/peerj.2517
+...

@@ -1,0 +1,25 @@
+---
+references:
+- id: ID33748962342
+  type: article-journal
+  author:
+  - family: Grémillet
+    given: D.
+  - family: Pichegru
+    given: L.
+  - family: Siorat
+    given: F.
+  - family: Georges
+    given: J.
+  issued:
+  - year: '2006'
+    month: '8'
+  title: Conservation implications of the apparent mismatch between population dynamics
+    and foraging effort in French northern gannets from the English Channel
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '15-25'
+  volume: '319'
+  URL: https://doi.org/10.3354%2Fmeps319015
+  DOI: 10.3354/meps319015
+...

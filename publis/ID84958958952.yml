@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84958958952
+  type: article-journal
+  author:
+  - family: Barbier
+    given: E.
+  - family: Chantemesse
+    given: B.
+  - family: Rochelet
+    given: M.
+  - family: Fayolle
+    given: L.
+  - family: Bollache
+    given: L.
+  - family: Boschiroli
+    given: M. L.
+  - family: Hartmann
+    given: A.
+  issued:
+  - year: '2016'
+    month: '4'
+  title: Rapid dissemination of M. bovis from cattle dung to soil by the earthworm
+    Lumbricus terrestris
+  container-title: Veterinary Microbiology
+  publisher: Elsevier BV
+  page: '1-7'
+  volume: '186'
+  URL: https://doi.org/10.1016%2Fj.vetmic.2016.01.025
+  DOI: 10.1016/j.vetmic.2016.01.025
+...

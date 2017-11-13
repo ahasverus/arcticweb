@@ -1,0 +1,29 @@
+---
+references:
+- id: ID0242584990
+  type: article-journal
+  author:
+  - family: Love
+    given: O. P.
+  - family: Shutt
+    given: L. J.
+  - family: Silfies
+    given: J. S.
+  - family: Bortolotti
+    given: G. R.
+  - family: Smits
+    given: J. E. G.
+  - family: Bird
+    given: D. M.
+  issued:
+  - year: '2003'
+  title: Effects of dietary PCB exposure on adrenocortical function in captive American
+    Kestrels (Falco sparverius)
+  container-title: Ecotoxicology
+  publisher: Springer Nature
+  page: '199-208'
+  volume: '12'
+  issue: 1/4
+  URL: https://doi.org/10.1023%2Fa%3A1022502826800
+  DOI: 10.1023/a:1022502826800
+...

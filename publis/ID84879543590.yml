@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84879543590
+  type: article-journal
+  author:
+  - family: Soininen
+    given: E. M.
+  - family: Ravolainen
+    given: V. T.
+  - family: Bråthen
+    given: K. A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Gielly
+    given: L.
+  - family: Ims
+    given: R. A.
+  editor:
+  - family: Munn
+    given: Adam J.
+  issued:
+  - year: '2013'
+    month: '6'
+  title: Arctic Small Rodents Have Diverse Diets and Flexible Food Selection
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e68128'
+  volume: '8'
+  issue: '6'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0068128
+  DOI: 10.1371/journal.pone.0068128
+...

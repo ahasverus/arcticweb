@@ -1,0 +1,25 @@
+---
+references:
+- id: ID0035122553
+  type: article-journal
+  author:
+  - family: Gundersen
+    given: G.
+  - family: Johannesen
+    given: E.
+  - family: Andreassen
+    given: H. P.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2001'
+    month: '1'
+  title: 'Source-sink dynamics: How sinks affect demography of sources'
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '14-21'
+  volume: '4'
+  issue: '1'
+  URL: https://doi.org/10.1046%2Fj.1461-0248.2001.00182.x
+  DOI: 10.1046/j.1461-0248.2001.00182.x
+...

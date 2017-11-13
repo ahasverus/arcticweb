@@ -1,0 +1,21 @@
+---
+references:
+- id: ID0027079496
+  type: article-journal
+  author:
+  - family: McPeek
+    given: M. A.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '1992'
+    month: '12'
+  title: The evolution of dispersal in spatially and temporally varying environments
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '1010-1027'
+  volume: '140'
+  issue: '6'
+  URL: https://doi.org/10.1086%2F285453
+  DOI: 10.1086/285453
+...

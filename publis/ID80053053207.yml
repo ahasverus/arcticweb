@@ -1,0 +1,24 @@
+---
+references:
+- id: ID80053053207
+  type: article-journal
+  author:
+  - family: Therrien
+    given: J.-F.
+  - family: Gauthier
+    given: G.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2011'
+    month: '7'
+  title: An avian terrestrial predator of the Arctic relies on the marine ecosystem
+    during winter
+  container-title: Journal of Avian Biology
+  publisher: Wiley-Blackwell
+  page: '363-369'
+  volume: '42'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1600-048x.2011.05330.x
+  DOI: 10.1111/j.1600-048x.2011.05330.x
+...

@@ -1,0 +1,38 @@
+---
+references:
+- id: ID85019163830
+  type: article-journal
+  author:
+  - family: Lagerholm
+    given: V. K.
+  - family: Norén
+    given: K.
+  - family: Ehrich
+    given: D.
+  - family: Ims
+    given: R. A.
+  - family: Killengreen
+    given: S. T.
+  - family: Abramson
+    given: N. I.
+  - family: Niemimaa
+    given: J.
+  - family: Angerbjörn
+    given: A.
+  - family: Henttonen
+    given: H.
+  - family: Dalén
+    given: L.
+  issued:
+  - year: '2017'
+    month: '2'
+  title: 'Run to the hills: Gene flow among mountain areas leads to low genetic
+    differentiation in the Norwegian lemming'
+  container-title: Biological Journal of the Linnean Society
+  publisher: Oxford University Press (OUP)
+  page: '1-14'
+  volume: '121'
+  issue: '1'
+  URL: https://doi.org/10.1093%2Fbiolinnean%2Fblw020
+  DOI: 10.1093/biolinnean/blw020
+...

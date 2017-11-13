@@ -1,0 +1,44 @@
+---
+references:
+- id: ID35648936374
+  type: article-journal
+  author:
+  - family: Prestrud
+    given: K. W.
+  - family: Åsbakk
+    given: K.
+  - family: Fuglei
+    given: E.
+  - family: Mørk
+    given: T.
+  - family: Stien
+    given: A.
+  - family: Ropstad
+    given: E.
+  - family: Tryland
+    given: M.
+  - family: Gabrielsen
+    given: G. W.
+  - family: Lydersen
+    given: C.
+  - family: Kovacs
+    given: K. M.
+  - family: Loonen
+    given: M. J. J. E.
+  - family: Sagerup
+    given: K.
+  - family: Oksanen
+    given: A.
+  issued:
+  - year: '2007'
+    month: '11'
+  title: Serosurvey for Toxoplasma gondii in arctic foxes and possible sources of
+    infection in the high Arctic of Svalbard
+  container-title: Veterinary Parasitology
+  publisher: Elsevier BV
+  page: '6-12'
+  volume: '150'
+  issue: '1-2'
+  URL: https://doi.org/10.1016%2Fj.vetpar.2007.09.006
+  DOI: 10.1016/j.vetpar.2007.09.006
+...

@@ -1,0 +1,30 @@
+---
+references:
+- id: ID66949166015
+  type: article-journal
+  author:
+  - family: Normand
+    given: S.
+  - family: Treier
+    given: U. A.
+  - family: Randin
+    given: C.
+  - family: Vittoz
+    given: P.
+  - family: Guisan
+    given: A.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2009'
+    month: '7'
+  title: 'Importance of abiotic stress as a range-limit determinant for European
+    plants: Insights from species responses to climatic gradients'
+  container-title: Global Ecology and Biogeography
+  publisher: Wiley-Blackwell
+  page: '437-449'
+  volume: '18'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1466-8238.2009.00451.x
+  DOI: 10.1111/j.1466-8238.2009.00451.x
+...

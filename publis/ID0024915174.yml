@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0024915174
+  type: article-journal
+  author:
+  - family: Hersteinsson
+    given: P.
+  - family: Angerbjörn
+    given: A.
+  - family: Frafjord
+    given: K.
+  - family: Kaikusalo
+    given: A.
+  issued:
+  - year: '1989'
+  title: 'The arctic fox in fennoscandia and Iceland: Management problems'
+  container-title: Biological Conservation
+  publisher: Elsevier BV
+  page: '67-81'
+  volume: '49'
+  issue: '1'
+  URL: https://doi.org/10.1016%2F0006-3207%2889%2990113-4
+  DOI: 10.1016/0006-3207(89)90113-4
+...

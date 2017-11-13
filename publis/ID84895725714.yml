@@ -1,0 +1,34 @@
+---
+references:
+- id: ID84895725714
+  type: article-journal
+  author:
+  - family: Barraquand
+    given: F.
+  - family: Ezard
+    given: T. H. G.
+  - family: Jørgensen
+    given: P. S.
+  - family: Zimmerman
+    given: N.
+  - family: Chamberlain
+    given: S.
+  - family: Salguero-Gómez
+    given: R.
+  - family: Curran
+    given: T. J.
+  - family: Poisot
+    given: T.
+  issued:
+  - year: '2014'
+    month: '3'
+  title: 'Lack of quantitative training among early-career ecologists: A survey
+    of the problemand potential solutions'
+  container-title: PeerJ
+  publisher: PeerJ
+  page: 'e285'
+  volume: '2'
+  issue: '1'
+  URL: https://doi.org/10.7717%2Fpeerj.285
+  DOI: 10.7717/peerj.285
+...

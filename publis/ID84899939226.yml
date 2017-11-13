@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84899939226
+  type: article-journal
+  author:
+  - family: Roslin
+    given: T.
+  - family: Várkonyi
+    given: G.
+  - family: Koponen
+    given: M.
+  - family: Vikberg
+    given: V.
+  - family: Nieminen
+    given: M.
+  issued:
+  - year: '2013'
+    month: '11'
+  title: Species-area relationships across four trophic levels - decreasing island
+    size truncates food chains
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: no-no
+  volume: '37'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.1600-0587.2013.00218.x
+  DOI: 10.1111/j.1600-0587.2013.00218.x
+...

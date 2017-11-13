@@ -1,0 +1,23 @@
+---
+references:
+- id: ID0036936346
+  type: article-journal
+  author:
+  - family: Elmhagen
+    given: B.
+  - family: Tannerfeldt
+    given: M.
+  - family: Angerbjörn
+    given: A.
+  issued:
+  - year: '2002'
+    month: '7'
+  title: Food-niche overlap between arctic and red foxes
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '1274-1285'
+  volume: '80'
+  issue: '7'
+  URL: https://doi.org/10.1139%2Fz02-108
+  DOI: 10.1139/z02-108
+...

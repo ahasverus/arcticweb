@@ -1,0 +1,25 @@
+---
+references:
+- id: ID3042596473
+  type: article-journal
+  author:
+  - family: Love
+    given: O. P.
+  - family: Breuner
+    given: C. W.
+  - family: Vézina
+    given: F.
+  - family: Williams
+    given: T. D.
+  issued:
+  - year: '2004'
+    month: '6'
+  title: Mediation of a corticosterone-induced reproductive conflict
+  container-title: Hormones and Behavior
+  publisher: Elsevier BV
+  page: '59-65'
+  volume: '46'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fj.yhbeh.2004.02.001
+  DOI: 10.1016/j.yhbeh.2004.02.001
+...

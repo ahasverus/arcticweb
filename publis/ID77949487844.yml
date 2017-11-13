@@ -1,0 +1,26 @@
+---
+references:
+- id: ID77949487844
+  type: article-journal
+  author:
+  - family: Franceschi
+    given: N.
+  - family: Lemaître
+    given: J.-F.
+  - family: Cézilly
+    given: F.
+  - family: Bollache
+    given: L.
+  issued:
+  - year: '2010'
+    month: '4'
+  title: 'Size-assortative pairing in Gammarus pulex (Crustacea: Amphipoda): a test
+    of the prudent choice hypothesis'
+  container-title: Animal Behaviour
+  publisher: Elsevier BV
+  page: '911-916'
+  volume: '79'
+  issue: '4'
+  URL: https://doi.org/10.1016%2Fj.anbehav.2010.01.002
+  DOI: 10.1016/j.anbehav.2010.01.002
+...

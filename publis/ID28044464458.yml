@@ -1,0 +1,24 @@
+---
+references:
+- id: ID28044464458
+  type: article-journal
+  author:
+  - family: Matter
+    given: S. F.
+  - family: Roslin
+    given: T.
+  - family: Roland
+    given: J.
+  issued:
+  - year: '2005'
+    month: '11'
+  title: 'Predicting immigration of two species in contrasting landscapes: Effects
+    of scale, patch size and isolation'
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '359-367'
+  volume: '111'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.0030-1299.2005.14127.x
+  DOI: 10.1111/j.0030-1299.2005.14127.x
+...

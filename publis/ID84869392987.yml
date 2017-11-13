@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84869392987
+  type: article-journal
+  author:
+  - family: Gravel
+    given: D.
+  - family: Bell
+    given: T.
+  - family: Barbera
+    given: C.
+  - family: Combe
+    given: M.
+  - family: Pommier
+    given: T.
+  - family: Mouquet
+    given: N.
+  issued:
+  - year: '2012'
+    month: '10'
+  title: Phylogenetic constraints on ecosystem functioning
+  container-title: Nature Communications
+  publisher: Springer Nature
+  page: '1117'
+  volume: '3'
+  URL: https://doi.org/10.1038%2Fncomms2123
+  DOI: 10.1038/ncomms2123
+...

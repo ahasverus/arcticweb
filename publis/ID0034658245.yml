@@ -1,0 +1,27 @@
+---
+references:
+- id: ID0034658245
+  type: article-journal
+  author:
+  - family: Pomponi
+    given: M.
+  - family: Bertonati
+    given: C.
+  - family: Fuglei
+    given: E.
+  - family: Wiig
+    given: Y.
+  - family: Derocher
+    given: A. E.
+  issued:
+  - year: '2000'
+    month: '5'
+  title: '2,3-DPG-Hb complex: A hypothesis for an asymmetric binding'
+  container-title: Biophysical Chemistry
+  publisher: Elsevier BV
+  page: '253-260'
+  volume: '84'
+  issue: '3'
+  URL: https://doi.org/10.1016%2Fs0301-4622%2800%2900132-0
+  DOI: 10.1016/s0301-4622(00)00132-0
+...

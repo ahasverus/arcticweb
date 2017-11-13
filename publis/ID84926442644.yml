@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84926442644
+  type: article-journal
+  author:
+  - family: Mörsdorf
+    given: M. A.
+  - family: Ravolainen
+    given: V. T.
+  - family: Støvern
+    given: L. E.
+  - family: Yoccoz
+    given: N. G.
+  - family: Jónsdóttir
+    given: I. S.
+  - family: Bråthen
+    given: K. A.
+  issued:
+  - year: '2015'
+    month: '3'
+  title: 'Definition of sampling units begets conclusions in ecology: The case of
+    habitats for plant communities'
+  container-title: PeerJ
+  publisher: PeerJ
+  page: 'e815'
+  volume: '3'
+  issue: '3'
+  URL: https://doi.org/10.7717%2Fpeerj.815
+  DOI: 10.7717/peerj.815
+...

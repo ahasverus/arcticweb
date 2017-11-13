@@ -1,0 +1,1055 @@
+---
+references:
+- id: ID85006925546
+  type: article-journal
+  author:
+  - family: Hudson
+    given: L. N.
+  - family: Newbold
+    given: T.
+  - family: Contu
+    given: S.
+  - family: Hill
+    given: S. L. L.
+  - family: Lysenko
+    given: I.
+  - family: Palma
+    given: A.
+    dropping-particle: de
+  - family: Phillips
+    given: H. R. P.
+  - family: Alhusseini
+    given: T. I.
+  - family: Bedford
+    given: F. E.
+  - family: Bennett
+    given: D. J.
+  - family: Booth
+    given: H.
+  - family: Burton
+    given: V. J.
+  - family: Chng
+    given: C. W. T.
+  - family: Choimes
+    given: A.
+  - family: Correia
+    given: D. L. P.
+  - family: Day
+    given: J.
+  - family: Echeverría-Londoño
+    given: S.
+  - family: Emerson
+    given: S. R.
+  - family: Gao
+    given: D.
+  - family: Garon
+    given: M.
+  - family: Harrison
+    given: M. L. K.
+  - family: Ingram
+    given: D. J.
+  - family: Jung
+    given: M.
+  - family: Kemp
+    given: V.
+  - family: Kirkpatrick
+    given: L.
+  - family: Martin
+    given: C. D.
+  - family: Pan
+    given: Y.
+  - family: Pask-Hale
+    given: G. D.
+  - family: Pynegar
+    given: E. L.
+  - family: Robinson
+    given: A. N.
+  - family: Sanchez-Ortiz
+    given: K.
+  - family: Senior
+    given: R. A.
+  - family: Simmons
+    given: B. I.
+  - family: White
+    given: H. J.
+  - family: Zhang
+    given: H.
+  - family: Aben
+    given: J.
+  - family: Abrahamczyk
+    given: S.
+  - family: Adum
+    given: G. B.
+  - family: Aguilar-Barquero
+    given: V.
+  - family: Aizen
+    given: M. A.
+  - family: Albertos
+    given: B.
+  - family: Alcala
+    given: E. L.
+  - family: Alguacil
+    given: M. M.
+    dropping-particle: del
+  - family: Alignier
+    given: A.
+  - family: Ancrenaz
+    given: M.
+  - family: Andersen
+    given: A. N.
+  - family: Arbeláez-Cortés
+    given: E.
+  - family: Armbrecht
+    given: I.
+  - family: Arroyo-Rodríguez
+    given: V.
+  - family: Aumann
+    given: T.
+  - family: Axmacher
+    given: J. C.
+  - family: Azhar
+    given: B.
+  - family: Azpiroz
+    given: A. B.
+  - family: Baeten
+    given: L.
+  - family: Bakayoko
+    given: A.
+  - family: Báldi
+    given: A.
+  - family: Banks
+    given: J. E.
+  - family: Baral
+    given: S. K.
+  - family: Barlow
+    given: J.
+  - family: Barratt
+    given: B. I. P.
+  - family: Barrico
+    given: L.
+  - family: Bartolommei
+    given: P.
+  - family: Barton
+    given: D. M.
+  - family: Basset
+    given: Y.
+  - family: Batáry
+    given: P.
+  - family: Bates
+    given: A. J.
+  - family: Baur
+    given: B.
+  - family: Bayne
+    given: E. M.
+  - family: Beja
+    given: P.
+  - family: Benedick
+    given: S.
+  - family: Berg
+    given: K.
+  - family: Bernard
+    given: H.
+  - family: Berry
+    given: N. J.
+  - family: Bhatt
+    given: D.
+  - family: Bicknell
+    given: J. E.
+  - family: Bihn
+    given: J. H.
+  - family: Blake
+    given: R. J.
+  - family: Bobo
+    given: K. S.
+  - family: Bóçon
+    given: R.
+  - family: Boekhout
+    given: T.
+  - family: Böhning-Gaese
+    given: K.
+  - family: Bonham
+    given: K. J.
+  - family: Borges
+    given: P. A. V.
+  - family: Borges
+    given: S. H.
+  - family: Boutin
+    given: C.
+  - family: Bouyer
+    given: J.
+  - family: Bragagnolo
+    given: C.
+  - family: Brandt
+    given: J. S.
+  - family: Brearley
+    given: F. Q.
+  - family: Brito
+    given: I.
+  - family: Bros
+    given: V.
+  - family: Brunet
+    given: J.
+  - family: Buczkowski
+    given: G.
+  - family: Buddle
+    given: C. M.
+  - family: Bugter
+    given: R.
+  - family: Buscardo
+    given: E.
+  - family: Buse
+    given: J.
+  - family: Cabra-García
+    given: J.
+  - family: Cáceres
+    given: N. C.
+  - family: Cagle
+    given: N. L.
+  - family: Calviño-Cancela
+    given: M.
+  - family: Cameron
+    given: S. A.
+  - family: Cancello
+    given: E. M.
+  - family: Caparrós
+    given: R.
+  - family: Cardoso
+    given: P.
+  - family: Carpenter
+    given: D.
+  - family: Carrijo
+    given: T. F.
+  - family: Carvalho
+    given: A. L.
+  - family: Cassano
+    given: C. R.
+  - family: Castro
+    given: H.
+  - family: Castro-Luna
+    given: A. A.
+  - family: Rolando
+    given: C. B.
+  - family: Cerezo
+    given: A.
+  - family: Chapman
+    given: K. A.
+  - family: Chauvat
+    given: M.
+  - family: Christensen
+    given: M.
+  - family: Clarke
+    given: F. M.
+  - family: Cleary
+    given: D. F. R.
+  - family: Colombo
+    given: G.
+  - family: Connop
+    given: S. P.
+  - family: Craig
+    given: M. D.
+  - family: Cruz-López
+    given: L.
+  - family: Cunningham
+    given: S. A.
+  - family: D'Aniello
+    given: B.
+  - family: D'Cruze
+    given: N.
+  - family: Silva
+    given: P. G.
+    dropping-particle: da
+  - family: Dallimer
+    given: M.
+  - family: Danquah
+    given: E.
+  - family: Darvill
+    given: B.
+  - family: Dauber
+    given: J.
+  - family: Davis
+    given: A. L. V.
+  - family: Dawson
+    given: J.
+  - family: Sassi
+    given: C.
+    dropping-particle: de
+  - family: Thoisy
+    given: B.
+    dropping-particle: de
+  - family: Deheuvels
+    given: O.
+  - family: Dejean
+    given: A.
+  - family: Devineau
+    given: J.-L.
+  - family: Diekötter
+    given: T.
+  - family: Dolia
+    given: J. V.
+  - family: Domínguez
+    given: E.
+  - family: Dominguez-Haydar
+    given: Y.
+  - family: Dorn
+    given: S.
+  - family: Draper
+    given: I.
+  - family: Dreber
+    given: N.
+  - family: Dumont
+    given: B.
+  - family: Dures
+    given: S. G.
+  - family: Dynesius
+    given: M.
+  - family: Edenius
+    given: L.
+  - family: Eggleton
+    given: P.
+  - family: Eigenbrod
+    given: F.
+  - family: Elek
+    given: Z.
+  - family: Entling
+    given: M. H.
+  - family: Esler
+    given: K. J.
+  - family: Lima
+    given: R. F.
+    dropping-particle: de
+  - family: Faruk
+    given: A.
+  - family: Farwig
+    given: N.
+  - family: Fayle
+    given: T. M.
+  - family: Felicioli
+    given: A.
+  - family: Felton
+    given: A. M.
+  - family: Fensham
+    given: R. J.
+  - family: Fernandez
+    given: I. C.
+  - family: Ferreira
+    given: C. C.
+  - family: Ficetola
+    given: G. F.
+  - family: Fiera
+    given: C.
+  - family: Filgueiras
+    given: B. K. C.
+  - family: Firincioğlu
+    given: H. K.
+  - family: Flaspohler
+    given: D.
+  - family: Floren
+    given: A.
+  - family: Fonte
+    given: S. J.
+  - family: Fournier
+    given: A.
+  - family: Fowler
+    given: R. E.
+  - family: Franzén
+    given: M.
+  - family: Fraser
+    given: L. H.
+  - family: Fredriksson
+    given: G. M.
+  - family: Freire
+    given: G. B.
+  - family: Frizzo
+    given: T. L. M.
+  - family: Fukuda
+    given: D.
+  - family: Furlani
+    given: D.
+  - family: Gaigher
+    given: R.
+  - family: Ganzhorn
+    given: J. U.
+  - family: García
+    given: K. P.
+  - family: Garcia-R
+    given: J. C.
+  - family: Garden
+    given: J. G.
+  - family: Garilleti
+    given: R.
+  - family: Ge
+    given: B.-M.
+  - family: Gendreau-Berthiaume
+    given: B.
+  - family: Gerard
+    given: P. J.
+  - family: Gheler-Costa
+    given: C.
+  - family: Gilbert
+    given: B.
+  - family: Giordani
+    given: P.
+  - family: Giordano
+    given: S.
+  - family: Golodets
+    given: C.
+  - family: Gomes
+    given: L. G. L.
+  - family: Gould
+    given: R. K.
+  - family: Goulson
+    given: D.
+  - family: Gove
+    given: A. D.
+  - family: Granjon
+    given: L.
+  - family: Grass
+    given: I.
+  - family: Gray
+    given: C. L.
+  - family: Grogan
+    given: J.
+  - family: Gu
+    given: W.
+  - family: Guardiola
+    given: M.
+  - family: Gunawardene
+    given: N. R.
+  - family: Gutierrez
+    given: A. G.
+  - family: Gutiérrez-Lamus
+    given: D. L.
+  - family: Haarmeyer
+    given: D. H.
+  - family: Hanley
+    given: M. E.
+  - family: Hanson
+    given: T.
+  - family: Hashim
+    given: N. R.
+  - family: Hassan
+    given: S. N.
+  - family: Hatfield
+    given: R. G.
+  - family: Hawes
+    given: J. E.
+  - family: Hayward
+    given: M. W.
+  - family: Hébert
+    given: C.
+  - family: Helden
+    given: A. J.
+  - family: Henden
+    given: J.-A.
+  - family: Henschel
+    given: P.
+  - family: Hernández
+    given: L.
+  - family: Herrera
+    given: J. P.
+  - family: Herrmann
+    given: F.
+  - family: Herzog
+    given: F.
+  - family: Higuera-Diaz
+    given: D.
+  - family: Hilje
+    given: B.
+  - family: Höfer
+    given: H.
+  - family: Hoffmann
+    given: A.
+  - family: Horgan
+    given: F. G.
+  - family: Hornung
+    given: E.
+  - family: Horváth
+    given: R.
+  - family: Hylander
+    given: K.
+  - family: Isaacs-Cubides
+    given: P.
+  - family: Ishida
+    given: H.
+  - family: Ishitani
+    given: M.
+  - family: Jacobs
+    given: C. T.
+  - family: Jaramillo
+    given: V. J.
+  - family: Jauker
+    given: B.
+  - family: Hernández
+    given: F. J.
+  - family: Johnson
+    given: M. F.
+  - family: Jolli
+    given: V.
+  - family: Jonsell
+    given: M.
+  - family: Juliani
+    given: S. N.
+  - family: Jung
+    given: T. S.
+  - family: Kapoor
+    given: V.
+  - family: Kappes
+    given: H.
+  - family: Kati
+    given: V.
+  - family: Katovai
+    given: E.
+  - family: Kellner
+    given: K.
+  - family: Kessler
+    given: M.
+  - family: Kirby
+    given: K. R.
+  - family: Kittle
+    given: A. M.
+  - family: Knight
+    given: M. E.
+  - family: Knop
+    given: E.
+  - family: Kohler
+    given: F.
+  - family: Koivula
+    given: M.
+  - family: Kolb
+    given: A.
+  - family: Kone
+    given: M.
+  - family: Kőrösi
+    given: D.
+  - family: Krauss
+    given: J.
+  - family: Kumar
+    given: A.
+  - family: Kumar
+    given: R.
+  - family: Kurz
+    given: D. J.
+  - family: Kutt
+    given: A. S.
+  - family: Lachat
+    given: T.
+  - family: Lantschner
+    given: V.
+  - family: Lara
+    given: F.
+  - family: Lasky
+    given: J. R.
+  - family: Latta
+    given: S. C.
+  - family: Laurance
+    given: W. F.
+  - family: Lavelle
+    given: P.
+  - family: Féon
+    given: V. L.
+  - family: Lebuhn
+    given: G.
+  - family: Légaré
+    given: J.-P.
+  - family: Lehouck
+    given: V.
+  - family: Lencinas
+    given: M. V.
+  - family: Lentini
+    given: P. E.
+  - family: Letcher
+    given: S. G.
+  - family: Li
+    given: Q.
+  - family: Litchwark
+    given: S. A.
+  - family: Littlewood
+    given: N. A.
+  - family: Liu
+    given: Y.
+  - family: Lo-Man-Hung
+    given: N.
+  - family: López-Quintero
+    given: C. A.
+  - family: Louhaichi
+    given: M.
+  - family: Lövei
+    given: G. L.
+  - family: Lucas-Borja
+    given: M. E.
+  - family: Luja
+    given: V. H.
+  - family: Luskin
+    given: M. S.
+  - family: G
+    given: M. C. M.
+  - family: Maeto
+    given: K.
+  - family: Magura
+    given: T.
+  - family: Mallari
+    given: N. A.
+  - family: Malone
+    given: L. A.
+  - family: Malonza
+    given: P. K.
+  - family: Malumbres-Olarte
+    given: J.
+  - family: Mandujano
+    given: S.
+  - family: Måren
+    given: I. E.
+  - family: Marin-Spiotta
+    given: E.
+  - family: Marsh
+    given: C. J.
+  - family: Marshall
+    given: E. J. P.
+  - family: Martínez
+    given: E.
+  - family: Pastur
+    given: G. M.
+  - family: Mateos
+    given: D. M.
+  - family: Mayfield
+    given: M. M.
+  - family: Mazimpaka
+    given: V.
+  - family: McCarthy
+    given: J. L.
+  - family: McCarthy
+    given: K. P.
+  - family: McFrederick
+    given: Q. S.
+  - family: McNamara
+    given: S.
+  - family: Medina
+    given: N. G.
+  - family: Medina
+    given: R.
+  - family: Mena
+    given: J. L.
+  - family: Mico
+    given: E.
+  - family: Mikusinski
+    given: G.
+  - family: Milder
+    given: J. C.
+  - family: Miller
+    given: J. R.
+  - family: Miranda-Esquivel
+    given: D. R.
+  - family: Moir
+    given: M. L.
+  - family: Morales
+    given: C. L.
+  - family: Muchane
+    given: M. N.
+  - family: Muchane
+    given: M.
+  - family: Mudri-Stojnic
+    given: S.
+  - family: Munira
+    given: A. N.
+  - family: Muoñz-Alonso
+    given: A.
+  - family: Munyekenye
+    given: B. F.
+  - family: Naidoo
+    given: R.
+  - family: Naithani
+    given: A.
+  - family: Nakagawa
+    given: M.
+  - family: Nakamura
+    given: A.
+  - family: Nakashima
+    given: Y.
+  - family: Naoe
+    given: S.
+  - family: Nates-Parra
+    given: G.
+  - family: Gutierrez
+    given: D. A. N.
+  - family: Navarro-Iriarte
+    given: L.
+  - family: Ndang'Ang'A
+    given: P. K.
+  - family: Neuschulz
+    given: E. L.
+  - family: Ngai
+    given: J. T.
+  - family: Nicolas
+    given: V.
+  - family: Nilsson
+    given: S. G.
+  - family: Noreika
+    given: N.
+  - family: Norfolk
+    given: O.
+  - family: Noriega
+    given: J. A.
+  - family: Norton
+    given: D. A.
+  - family: Nöske
+    given: N. M.
+  - family: Nowakowski
+    given: A. J.
+  - family: Numa
+    given: C.
+  - family: O'Dea
+    given: N.
+  - family: O'Farrell
+    given: P. J.
+  - family: Oduro
+    given: W.
+  - family: Oertli
+    given: S.
+  - family: Ofori-Boateng
+    given: C.
+  - family: Oke
+    given: C. O.
+  - family: Oostra
+    given: V.
+  - family: Osgathorpe
+    given: L. M.
+  - family: Otavo
+    given: S. E.
+  - family: Page
+    given: N. V.
+  - family: Paritsis
+    given: J.
+  - family: Parra-H
+    given: A.
+  - family: Parry
+    given: L.
+  - family: Pe'Er
+    given: G.
+  - family: Pearman
+    given: P. B.
+  - family: Pelegrin
+    given: N.
+  - family: Pélissier
+    given: R.
+  - family: Peres
+    given: C. A.
+  - family: Peri
+    given: P. L.
+  - family: Persson
+    given: A. S.
+  - family: Petanidou
+    given: T.
+  - family: Peters
+    given: M. K.
+  - family: Pethiyagoda
+    given: R. S.
+  - family: Phalan
+    given: B.
+  - family: Philips
+    given: T. K.
+  - family: Pillsbury
+    given: F. C.
+  - family: Pincheira-Ulbrich
+    given: J.
+  - family: Pineda
+    given: E.
+  - family: Pino
+    given: J.
+  - family: Pizarro-Araya
+    given: J.
+  - family: Plumptre
+    given: A. J.
+  - family: Poggio
+    given: S. L.
+  - family: Politi
+    given: N.
+  - family: Pons
+    given: P.
+  - family: Poveda
+    given: K.
+  - family: Power
+    given: E. F.
+  - family: Presley
+    given: S. J.
+  - family: Proença
+    given: V.
+  - family: Quaranta
+    given: M.
+  - family: Quintero
+    given: C.
+  - family: Rader
+    given: R.
+  - family: Ramesh
+    given: B. R.
+  - family: Ramirez-Pinilla
+    given: M. P.
+  - family: Ranganathan
+    given: J.
+  - family: Rasmussen
+    given: C.
+  - family: Redpath-Downing
+    given: N. A.
+  - family: Reid
+    given: J. L.
+  - family: Reis
+    given: Y. T.
+  - family: Benayas
+    given: J. M. R.
+  - family: Rey-Velasco
+    given: J. C.
+  - family: Reynolds
+    given: C.
+  - family: Ribeiro
+    given: D. B.
+  - family: Richards
+    given: M. H.
+  - family: Richardson
+    given: B. A.
+  - family: Richardson
+    given: M. J.
+  - family: Ríos
+    given: R. M.
+  - family: Robinson
+    given: R.
+  - family: Robles
+    given: C. A.
+  - family: Römbke
+    given: J.
+  - family: Romero-Duque
+    given: L. P.
+  - family: Rös
+    given: M.
+  - family: Rosselli
+    given: L.
+  - family: Rossiter
+    given: S. J.
+  - family: Roth
+    given: D. S.
+  - family: Roulston
+    given: T. H.
+  - family: Rousseau
+    given: L.
+  - family: Rubio
+    given: A. V.
+  - family: Ruel
+    given: J.-C.
+  - family: Sadler
+    given: J. P.
+  - family: Sáfián
+    given: S.
+  - family: Saldaña-Vázquez
+    given: R. A.
+  - family: Sam
+    given: K.
+  - family: Samnegård
+    given: U.
+  - family: Santana
+    given: J.
+  - family: Santos
+    given: X.
+  - family: Savage
+    given: J.
+  - family: Schellhorn
+    given: N. A.
+  - family: Schilthuizen
+    given: M.
+  - family: Schmiedel
+    given: U.
+  - family: Schmitt
+    given: C. B.
+  - family: Schon
+    given: N. L.
+  - family: Schüepp
+    given: C.
+  - family: Schumann
+    given: K.
+  - family: Schweiger
+    given: O.
+  - family: Scott
+    given: D. M.
+  - family: Scott
+    given: K. A.
+  - family: Sedlock
+    given: J. L.
+  - family: Seefeldt
+    given: S. S.
+  - family: Shahabuddin
+    given: G.
+  - family: Shannon
+    given: G.
+  - family: Sheil
+    given: D.
+  - family: Sheldon
+    given: F. H.
+  - family: Shochat
+    given: E.
+  - family: Siebert
+    given: S. J.
+  - family: Silva
+    given: F. A. B.
+  - family: Simonetti
+    given: J. A.
+  - family: Slade
+    given: E. M.
+  - family: Smith
+    given: J.
+  - family: Smith-Pardo
+    given: A. H.
+  - family: Sodhi
+    given: N. S.
+  - family: Somarriba
+    given: E. J.
+  - family: Sosa
+    given: R. A.
+  - family: Quiroga
+    given: G. S.
+  - family: St-Laurent
+    given: M.-H.
+  - family: Starzomski
+    given: B. M.
+  - family: Stefanescu
+    given: C.
+  - family: Steffan-Dewenter
+    given: I.
+  - family: Stouffer
+    given: P. C.
+  - family: Stout
+    given: J. C.
+  - family: Strauch
+    given: A. M.
+  - family: Struebig
+    given: M. J.
+  - family: Su
+    given: Z.
+  - family: Suarez-Rubio
+    given: M.
+  - family: Sugiura
+    given: S.
+  - family: Summerville
+    given: K. S.
+  - family: Sung
+    given: Y.-H.
+  - family: Sutrisno
+    given: H.
+  - family: Svenning
+    given: J.-C.
+  - family: Teder
+    given: T.
+  - family: Threlfall
+    given: C. G.
+  - family: Tiitsaar
+    given: A.
+  - family: Todd
+    given: J. H.
+  - family: Tonietto
+    given: R. K.
+  - family: Torre
+    given: I.
+  - family: Tóthmérész
+    given: B.
+  - family: Tscharntke
+    given: T.
+  - family: Turner
+    given: E. C.
+  - family: Tylianakis
+    given: J. M.
+  - family: Uehara-Prado
+    given: M.
+  - family: Urbina-Cardona
+    given: N.
+  - family: Vallan
+    given: D.
+  - family: Vanbergen
+    given: A. J.
+  - family: Vasconcelos
+    given: H. L.
+  - family: Vassilev
+    given: K.
+  - family: Verboven
+    given: H. A. F.
+  - family: Verdasca
+    given: M. J.
+  - family: Verdú
+    given: J. R.
+  - family: Vergara
+    given: C. H.
+  - family: Vergara
+    given: P. M.
+  - family: Verhulst
+    given: J.
+  - family: Virgilio
+    given: M.
+  - family: Vu
+    given: L.
+    dropping-particle: van
+  - family: Waite
+    given: E. M.
+  - family: Walker
+    given: T. R.
+  - family: Wang
+    given: H.-F.
+  - family: Wang
+    given: Y.
+  - family: Watling
+    given: J. I.
+  - family: Weller
+    given: B.
+  - family: Wells
+    given: K.
+  - family: Westphal
+    given: C.
+  - family: Wiafe
+    given: E. D.
+  - family: Williams
+    given: C. D.
+  - family: Willig
+    given: M. R.
+  - family: Woinarski
+    given: J. C. Z.
+  - family: Wolf
+    given: J. H. D.
+  - family: Wolters
+    given: V.
+  - family: Woodcock
+    given: B. A.
+  - family: Wu
+    given: J.
+  - family: Wunderle
+    given: J. M.
+  - family: Yamaura
+    given: Y.
+  - family: Yoshikura
+    given: S.
+  - family: Yu
+    given: D. W.
+  - family: Zaitsev
+    given: A. S.
+  - family: Zeidler
+    given: J.
+  - family: Zou
+    given: F.
+  - family: Collen
+    given: B.
+  - family: Ewers
+    given: R. M.
+  - family: Mace
+    given: G. M.
+  - family: Purves
+    given: D. W.
+  - family: Scharlemann
+    given: J. P. W.
+  - family: Purvis
+    given: A.
+  issued:
+  - year: '2016'
+    month: '12'
+  title: The database of the PREDICTS (Projecting Responses of Ecological Diversity
+    In Changing Terrestrial Systems) project
+  container-title: Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '145-188'
+  volume: '7'
+  issue: '1'
+  URL: https://doi.org/10.1002%2Fece3.2579
+  DOI: 10.1002/ece3.2579
+...

@@ -1,0 +1,46 @@
+---
+references:
+- id: ID84857691480
+  type: article-journal
+  author:
+  - family: Horn
+    given: A.
+  - family: Basset
+    given: P.
+  - family: Yannic
+    given: G.
+  - family: Banaszek
+    given: A.
+  - family: Borodin
+    given: P. M.
+  - family: Bulatova
+    given: N. S.
+  - family: Jadwiszczak
+    given: K.
+  - family: Jones
+    given: R. M.
+  - family: Polyakov
+    given: A. V.
+  - family: Ratkiewicz
+    given: M.
+  - family: Searle
+    given: J. B.
+  - family: Shchipanov
+    given: N. A.
+  - family: Zima
+    given: J.
+  - family: Hausser
+    given: J.
+  issued:
+  - year: '2011'
+    month: '10'
+  title: Chromosomal rearrangements do not seem to affect the gene flow in hybrid
+    zones between karyotypic races of the common shrew (sorex araneus)
+  container-title: Evolution
+  publisher: Wiley-Blackwell
+  page: '882-889'
+  volume: '66'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1558-5646.2011.01478.x
+  DOI: 10.1111/j.1558-5646.2011.01478.x
+...

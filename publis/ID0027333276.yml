@@ -1,0 +1,22 @@
+---
+references:
+- id: ID0027333276
+  type: article-journal
+  author:
+  - family: Forchhammer
+    given: M.
+  - family: Boertmann
+    given: D.
+  issued:
+  - year: '1993'
+    month: '10'
+  title: 'The muskoxen Ovibos moschatus in north and northeast Greenland: population
+    trends and the influence of abiotic parameters on population dynamics'
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '299-308'
+  volume: '16'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1600-0587.1993.tb00219.x
+  DOI: 10.1111/j.1600-0587.1993.tb00219.x
+...

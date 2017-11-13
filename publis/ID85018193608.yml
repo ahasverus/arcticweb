@@ -1,0 +1,242 @@
+---
+references:
+- id: ID85018193608
+  type: article-journal
+  author:
+  - family: Telfer
+    given: A.
+  - family: Dewaard
+    given: J.
+  - family: Young
+    given: M.
+  - family: Quinn
+    given: J.
+  - family: Perez
+    given: K.
+  - family: Sobel
+    given: C.
+  - family: Sones
+    given: J.
+  - family: Levesque-Beaudin
+    given: V.
+  - family: Derbyshire
+    given: R.
+  - family: Fernandez-Triana
+    given: J.
+  - family: Rougerie
+    given: R.
+  - family: Thevanayagam
+    given: A.
+  - family: Boskovic
+    given: A.
+  - family: Borisenko
+    given: A.
+  - family: Cadel
+    given: A.
+  - family: Brown
+    given: A.
+  - family: Pages
+    given: A.
+  - family: Castillo
+    given: A.
+  - family: Nicolai
+    given: A.
+  - family: Mockford
+    given: B. M. G.
+  - family: Bukowski
+    given: B.
+  - family: Wilson
+    given: B.
+  - family: Trojahn
+    given: B.
+  - family: Lacroix
+    given: C. A.
+  - family: Brimblecombe
+    given: C.
+  - family: Hay
+    given: C.
+  - family: Ho
+    given: C.
+  - family: Steinke
+    given: C.
+  - family: Warne
+    given: C.
+  - family: Cortes
+    given: C. G.
+  - family: Engelking
+    given: D.
+  - family: Wright
+    given: D.
+  - family: Lijtmaer
+    given: D.
+  - family: Gascoigne
+    given: D.
+  - family: Martich
+    given: D. H.
+  - family: Morningstar
+    given: D.
+  - family: Neumann
+    given: D.
+  - family: Steinke
+    given: D.
+  - family: Debruin
+    given: D. D. M.
+  - family: Dobias
+    given: D.
+  - family: Sears
+    given: E.
+  - family: Richard
+    given: E.
+  - family: Damstra
+    given: E.
+  - family: Zakharov
+    given: E.
+  - family: Laberge
+    given: F.
+  - family: Collins
+    given: G.
+  - family: Blagoev
+    given: G.
+  - family: Grainge
+    given: G.
+  - family: Ansell
+    given: G.
+  - family: Meredith
+    given: G.
+  - family: Hogg
+    given: I.
+  - family: McKeown
+    given: J.
+  - family: Topan
+    given: J.
+  - family: Bracey
+    given: J.
+  - family: Guenther
+    given: J.
+  - family: Sills-Gilligan
+    given: J.
+  - family: Addesi
+    given: J.
+  - family: Persi
+    given: J.
+  - family: Layton
+    given: K.
+  - family: D'Souza
+    given: K.
+  - family: Dorji
+    given: K.
+  - family: Grundy
+    given: K.
+  - family: Nghidinwa
+    given: K.
+  - family: Ronnenberg
+    given: K.
+  - family: Lee
+    given: K. M.
+  - family: Xie
+    given: L.
+  - family: Lu
+    given: L.
+  - family: Penev
+    given: L.
+  - family: Gonzalez
+    given: M.
+  - family: Rosati
+    given: M.
+  - family: Kekkonen
+    given: M.
+  - family: Kuzmina
+    given: M.
+  - family: Iskandar
+    given: M.
+  - family: Mutanen
+    given: M.
+  - family: Fatahi
+    given: M.
+  - family: Pentinsaari
+    given: M.
+  - family: Bauman
+    given: M.
+  - family: Nikolova
+    given: N.
+  - family: Ivanova
+    given: N.
+  - family: Jones
+    given: N.
+  - family: Weerasuriya
+    given: N.
+  - family: Monkhouse
+    given: N.
+  - family: Lavinia
+    given: P.
+  - family: Jannetta
+    given: P.
+  - family: Hanisch
+    given: P.
+  - family: McMullin
+    given: R. T.
+  - family: Flores
+    given: R. O.
+  - family: Mouttet
+    given: R.
+  - family: Vender
+    given: R.
+  - family: Labbee
+    given: R.
+  - family: Forsyth
+    given: R.
+  - family: Lauder
+    given: R.
+  - family: Dickson
+    given: R.
+  - family: Kroft
+    given: R.
+  - family: Miller
+    given: S.
+  - family: Macdonald
+    given: S.
+  - family: Panthi
+    given: S.
+  - family: Pedersen
+    given: S.
+  - family: Sobek-Swant
+    given: S.
+  - family: Naik
+    given: S.
+  - family: Lipinskaya
+    given: T.
+  - family: Eagalle
+    given: T.
+  - family: Decaëns
+    given: T.
+  - family: Kosuth
+    given: T.
+  - family: Braukmann
+    given: T.
+  - family: Woodcock
+    given: T.
+  - family: Roslin
+    given: T.
+  - family: Zammit
+    given: T.
+  - family: Campbell
+    given: V.
+  - family: Dinca
+    given: V.
+  - family: Peneva
+    given: V.
+  - family: Hebert
+    given: P.
+  issued:
+  - year: '2015'
+    month: '8'
+  title: 'Biodiversity inventories in high gear: DNA barcoding facilitates a rapid
+    biotic survey of a temperate nature reserve'
+  container-title: Biodiversity Data Journal
+  publisher: Pensoft Publishers
+  page: 'e6313'
+  volume: '3'
+  issue: '1'
+  URL: https://doi.org/10.3897%2Fbdj.3.e6313
+  DOI: 10.3897/bdj.3.e6313
+...

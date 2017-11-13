@@ -1,0 +1,39 @@
+---
+references:
+- id: ID84869751725
+  type: article-journal
+  author:
+  - family: Stien
+    given: A.
+  - family: Ims
+    given: R. A.
+  - family: Albon
+    given: S. D.
+  - family: Fuglei
+    given: E.
+  - family: Irvine
+    given: R. J.
+  - family: Ropstad
+    given: E.
+  - family: Halvorsen
+    given: O.
+  - family: Langvatn
+    given: R.
+  - family: Loe
+    given: L. E.
+  - family: Veiberg
+    given: V.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2012'
+    month: '9'
+  title: Congruent responses to weather variability in high Arctic herbivores
+  container-title: Biology Letters
+  publisher: The Royal Society
+  page: '1002-1005'
+  volume: '8'
+  issue: '6'
+  URL: https://doi.org/10.1098%2Frsbl.2012.0764
+  DOI: 10.1098/rsbl.2012.0764
+...

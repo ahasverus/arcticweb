@@ -1,0 +1,29 @@
+---
+references:
+- id: ID0035119865
+  type: article-journal
+  author:
+  - family: Krebs
+    given: C. J.
+  - family: Boonstra
+    given: R.
+  - family: Nams
+    given: V.
+  - family: O'Donoghue
+    given: M.
+  - family: Hodges
+    given: K. E.
+  - family: Boutin
+    given: S.
+  issued:
+  - year: '2001'
+  title: 'Estimating snowshoe hare population density from pellet plots: A further
+    evaluation'
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '1-4'
+  volume: '79'
+  issue: '1'
+  URL: https://doi.org/10.1139%2Fcjz-79-1-1
+  DOI: 10.1139/cjz-79-1-1
+...

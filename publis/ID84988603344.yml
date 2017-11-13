@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84988603344
+  type: article-journal
+  author:
+  - family: Hennin
+    given: H. L.
+  - family: Bêty
+    given: J.
+  - family: Legagneux
+    given: P.
+  - family: Gilchrist
+    given: H. G.
+  - family: Williams
+    given: T. D.
+  - family: Love
+    given: O. P.
+  issued:
+  - year: '2016'
+    month: '10'
+  title: Energetic physiology mediates individual optimization of breeding phenology
+    in a migratory Arctic Seabird
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '434-445'
+  volume: '188'
+  issue: '4'
+  URL: https://doi.org/10.1086%2F688044
+  DOI: 10.1086/688044
+...

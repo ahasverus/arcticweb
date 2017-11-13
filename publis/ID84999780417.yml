@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84999780417
+  type: article-journal
+  author:
+  - family: Grémillet
+    given: D.
+  - family: Péron
+    given: C.
+  - family: Kato
+    given: A.
+  - family: Amélineau
+    given: F.
+  - family: Ropert-Coudert
+    given: Y.
+  - family: Ryan
+    given: P. G.
+  - family: Pichegru
+    given: L.
+  issued:
+  - year: '2016'
+    month: '11'
+  title: 'Erratum to: Starving seabirds: unprofitable foraging and its fitness consequences
+    in Cape gannets competing with fisheries in the Benguela upwelling ecosystem (Marine
+    Biology, (2016), 163, 2, (35), 10.1007/s00227-015-2798-2)'
+  container-title: Marine Biology
+  publisher: Springer Nature
+  volume: '164'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs00227-016-3003-y
+  DOI: 10.1007/s00227-016-3003-y
+...

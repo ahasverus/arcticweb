@@ -1,0 +1,38 @@
+---
+references:
+- id: ID84937734375
+  type: article-journal
+  author:
+  - family: Alsos
+    given: I. G.
+  - family: Ehrich
+    given: D.
+  - family: Eidesen
+    given: P. B.
+  - family: Solstad
+    given: H.
+  - family: Westergaard
+    given: K. B.
+  - family: Schonswetter
+    given: P.
+  - family: Tribsch
+    given: A.
+  - family: Birkeland
+    given: S.
+  - family: Elven
+    given: R.
+  - family: Brochmann
+    given: C.
+  issued:
+  - year: '2015'
+    month: '4'
+  title: 'Long-distance plant dispersal to North Atlantic islands: Colonization
+    routes and founder effect'
+  container-title: AoB PLANTS
+  publisher: Oxford University Press (OUP)
+  page: plv036-plv036
+  volume: '7'
+  issue: '0'
+  URL: https://doi.org/10.1093%2Faobpla%2Fplv036
+  DOI: 10.1093/aobpla/plv036
+...

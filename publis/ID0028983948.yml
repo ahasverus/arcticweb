@@ -1,0 +1,24 @@
+---
+references:
+- id: ID0028983948
+  type: article-journal
+  author:
+  - family: Santos
+    given: E. M.
+  - family: Andreassen
+    given: H. F.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '1995'
+    month: '9'
+  title: Differential inbreeding tolerance in two geographically distinct strains
+    of root voles Microtus oeconomus
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '238-247'
+  volume: '18'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1600-0587.1995.tb00127.x
+  DOI: 10.1111/j.1600-0587.1995.tb00127.x
+...

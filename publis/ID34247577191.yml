@@ -1,0 +1,26 @@
+---
+references:
+- id: ID34247577191
+  type: article-journal
+  author:
+  - family: Fox
+    given: A. D.
+  - family: Bergersen
+    given: E.
+  - family: Tombre
+    given: I. M.
+  - family: Madsen
+    given: J.
+  issued:
+  - year: '2006'
+    month: '11'
+  title: Minimal intra-seasonal dietary overlap of barnacle and pink-footed geese
+    on their breeding grounds in Svalbard
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '759-768'
+  volume: '30'
+  issue: '6'
+  URL: https://doi.org/10.1007%2Fs00300-006-0235-1
+  DOI: 10.1007/s00300-006-0235-1
+...

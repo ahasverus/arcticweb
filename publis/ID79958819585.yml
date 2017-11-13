@@ -1,0 +1,24 @@
+---
+references:
+- id: ID79958819585
+  type: article-journal
+  author:
+  - family: Duchesne
+    given: D.
+  - family: Gauthier
+    given: G.
+  - family: Berteaux
+    given: D.
+  issued:
+  - year: '2011'
+    month: '6'
+  title: Evaluation of a method to determine the breeding activity of lemmings in
+    their winter nests
+  container-title: Journal of Mammalogy
+  publisher: Oxford University Press (OUP)
+  page: '511-516'
+  volume: '92'
+  issue: '3'
+  URL: https://doi.org/10.1644%2F10-mamm-a-279.1
+  DOI: 10.1644/10-mamm-a-279.1
+...

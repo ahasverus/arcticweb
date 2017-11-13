@@ -1,0 +1,33 @@
+---
+references:
+- id: ID84939270818
+  type: article-journal
+  author:
+  - family: Ellingsen
+    given: K. E.
+  - family: Anderson
+    given: M. J.
+  - family: Shackell
+    given: N. L.
+  - family: Tveraa
+    given: T.
+  - family: Yoccoz
+    given: N. G.
+  - family: Frank
+    given: K. T.
+  editor:
+  - family: Kuparinen
+    given: Anna
+  issued:
+  - year: '2015'
+    month: '6'
+  title: The role of a dominant predator in shaping biodiversity over space and time
+    in a marine ecosystem
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '1242-1252'
+  volume: '84'
+  issue: '5'
+  URL: https://doi.org/10.1111%2F1365-2656.12396
+  DOI: 10.1111/1365-2656.12396
+...

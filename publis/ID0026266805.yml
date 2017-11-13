@@ -1,0 +1,21 @@
+---
+references:
+- id: ID0026266805
+  type: article-journal
+  author:
+  - family: Jaenike
+    given: J.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '1991'
+    month: '6'
+  title: 'Genetic variation for habitat preference: evidence and explanations'
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: S67-S90
+  volume: '137'
+  issue: Suppl.
+  URL: https://doi.org/10.1086%2F285140
+  DOI: 10.1086/285140
+...

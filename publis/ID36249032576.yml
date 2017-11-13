@@ -1,0 +1,24 @@
+---
+references:
+- id: ID36249032576
+  type: article-journal
+  author:
+  - family: Roslin
+    given: T.
+  - family: Laine
+    given: A.-L.
+  - family: Gripenberg
+    given: S.
+  issued:
+  - year: '2007'
+    month: '12'
+  title: Spatial population structure in an obligate plant pathogen colonizing oak
+    Quercus robur
+  container-title: Functional Ecology
+  publisher: Wiley-Blackwell
+  page: '1168-1177'
+  volume: '21'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1365-2435.2007.01315.x
+  DOI: 10.1111/j.1365-2435.2007.01315.x
+...

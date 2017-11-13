@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0042763690
+  type: article-journal
+  author:
+  - family: Naud
+    given: M.-J.
+  - family: Long
+    given: B.
+  - family: Brthes
+    given: J.-C.
+  - family: Sears
+    given: R.
+  issued:
+  - year: '2003'
+    month: '8'
+  title: Influences of underwater bottom topography and geomorphology on minke whale
+    (Balaenoptera acutorostrata) distribution in the Mingan Islands (Canada)
+  container-title: Journal of the Marine Biological Association of the UK
+  publisher: Cambridge University Press (CUP)
+  page: '889-896'
+  volume: '83'
+  issue: '4'
+  URL: https://doi.org/10.1017%2Fs0025315403008002h
+  DOI: 10.1017/s0025315403008002h
+...

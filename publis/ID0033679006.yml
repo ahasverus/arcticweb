@@ -1,0 +1,28 @@
+---
+references:
+- id: ID0033679006
+  type: article-journal
+  author:
+  - family: Bauer
+    given: A.
+  - family: Trouvé
+    given: S.
+  - family: Grégoire
+    given: A.
+  - family: Bollache
+    given: L.
+  - family: Cézilly
+    given: F.
+  issued:
+  - year: '2000'
+    month: '12'
+  title: Differential influence of Pomphorhynchus laevis (Acanthocephala) on the behaviour
+    of native and invader gammarid species
+  container-title: International Journal for Parasitology
+  publisher: Elsevier BV
+  page: '1453-1457'
+  volume: '30'
+  issue: '14'
+  URL: https://doi.org/10.1016%2Fs0020-7519%2800%2900138-7
+  DOI: 10.1016/s0020-7519(00)00138-7
+...

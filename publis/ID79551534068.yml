@@ -1,0 +1,30 @@
+---
+references:
+- id: ID79551534068
+  type: article-journal
+  author:
+  - family: Holdo
+    given: R. M.
+  - family: Fryxell
+    given: J. M.
+  - family: Sinclair
+    given: A. R. E.
+  - family: Dobson
+    given: A.
+  - family: Holt
+    given: R. D.
+  editor:
+  - family: Hector
+    given: Andrew
+  issued:
+  - year: '2011'
+    month: '1'
+  title: Predicted impact of barriers to migration on the Serengeti wildebeest population
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e16370'
+  volume: '6'
+  issue: '1'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0016370
+  DOI: 10.1371/journal.pone.0016370
+...

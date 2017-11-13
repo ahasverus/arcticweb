@@ -1,0 +1,32 @@
+---
+references:
+- id: ID0035823712
+  type: article-journal
+  author:
+  - family: Johnson
+    given: C. N.
+  - family: Clinchy
+    given: M.
+  - family: Taylor
+    given: A. C.
+  - family: Krebs
+    given: C. J.
+  - family: Jarman
+    given: P. J.
+  - family: Payne
+    given: A.
+  - family: Ritchie
+    given: E. G.
+  issued:
+  - year: '2001'
+    month: '10'
+  title: Adjustment of offspring sex ratios in relation to the availability of resources
+    for philopatric offspring in the common brushtail possum
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '2001-2005'
+  volume: '268'
+  issue: '1480'
+  URL: https://doi.org/10.1098%2Frspb.2001.1723
+  DOI: 10.1098/rspb.2001.1723
+...

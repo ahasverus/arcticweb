@@ -1,0 +1,30 @@
+---
+references:
+- id: ID15944378208
+  type: article-journal
+  author:
+  - family: Singleton
+    given: G. R.
+  - family: Brown
+    given: P. R.
+  - family: Pech
+    given: R. P.
+  - family: Jacob
+    given: J.
+  - family: Mutze
+    given: G. J.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '2005'
+    month: '3'
+  title: One hundred years of eruptions of house mice in Australia - A natural biological
+    curio
+  container-title: Biological Journal of the Linnean Society
+  publisher: Oxford University Press (OUP)
+  page: '617-627'
+  volume: '84'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1095-8312.2005.00458.x
+  DOI: 10.1111/j.1095-8312.2005.00458.x
+...

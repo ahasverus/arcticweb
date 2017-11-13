@@ -1,0 +1,27 @@
+---
+references:
+- id: ID0242584987
+  type: article-journal
+  author:
+  - family: Wayland
+    given: M.
+  - family: Smits
+    given: J. J. E. G.
+  - family: Gilchrist
+    given: H. G.
+  - family: Marchant
+    given: T.
+  - family: Keating
+    given: J.
+  issued:
+  - year: '2003'
+  title: Biomarker responses in nesting, common eiders in the Canadian arctic in relation
+    to tissue cadmium, mercury and selenium concentrations
+  container-title: Ecotoxicology
+  publisher: Springer Nature
+  page: '225-237'
+  volume: '12'
+  issue: 1/4
+  URL: https://doi.org/10.1023%2Fa%3A1022506927708
+  DOI: 10.1023/a:1022506927708
+...

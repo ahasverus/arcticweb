@@ -1,0 +1,25 @@
+---
+references:
+- id: ID0032885989
+  type: article-journal
+  author:
+  - family: Post
+    given: E.
+  - family: Forchhammer
+    given: M. C.
+  - family: Stenseth
+    given: N. C.
+  - family: Langvatn
+    given: R.
+  issued:
+  - year: '1999'
+    month: '8'
+  title: Extrinsic modification of vertebrate sex ratios by climatic variation
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '194-204'
+  volume: '154'
+  issue: '2'
+  URL: https://doi.org/10.1086%2F303224
+  DOI: 10.1086/303224
+...

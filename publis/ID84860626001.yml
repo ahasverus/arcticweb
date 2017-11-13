@@ -1,0 +1,80 @@
+---
+references:
+- id: ID84860626001
+  type: article-journal
+  author:
+  - family: Frederiksen
+    given: M.
+  - family: Moe
+    given: B.
+  - family: Daunt
+    given: F.
+  - family: Phillips
+    given: R. A.
+  - family: Barrett
+    given: R. T.
+  - family: Bogdanova
+    given: M. I.
+  - family: Boulinier
+    given: T.
+  - family: Chardine
+    given: J. W.
+  - family: Chastel
+    given: O.
+  - family: Chivers
+    given: L. S.
+  - family: Christensen-Dalsgaard
+    given: S.
+  - family: Clément-Chastel
+    given: C.
+  - family: Colhoun
+    given: K.
+  - family: Freeman
+    given: R.
+  - family: Gaston
+    given: A. J.
+  - family: González-Solís
+    given: J.
+  - family: Goutte
+    given: A.
+  - family: Grémillet
+    given: D.
+  - family: Guilford
+    given: T.
+  - family: Jensen
+    given: G. H.
+  - family: Krasnov
+    given: Y.
+  - family: Lorentsen
+    given: S.-H.
+  - family: Mallory
+    given: M. L.
+  - family: Newell
+    given: M.
+  - family: Olsen
+    given: B.
+  - family: Shaw
+    given: D.
+  - family: Steen
+    given: H.
+  - family: Strøm
+    given: H.
+  - family: Systad
+    given: G. H.
+  - family: Thórarinsson
+    given: T. L.
+  - family: Anker-Nilssen
+    given: T.
+  issued:
+  - year: '2011'
+    month: '11'
+  title: Multicolony tracking reveals the winter distribution of a pelagic seabird
+    on an ocean basin scale
+  container-title: Diversity and Distributions
+  publisher: Wiley-Blackwell
+  page: '530-542'
+  volume: '18'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1472-4642.2011.00864.x
+  DOI: 10.1111/j.1472-4642.2011.00864.x
+...

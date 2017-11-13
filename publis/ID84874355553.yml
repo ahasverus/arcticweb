@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84874355553
+  type: article-journal
+  author:
+  - family: Beaune
+    given: D.
+  - family: Fruth
+    given: B.
+  - family: Bollache
+    given: L.
+  - family: Hohmann
+    given: G.
+  - family: Bretagnolle
+    given: F.
+  issued:
+  - year: '2013'
+    month: '5'
+  title: Doom of the elephant-dependent trees in a Congo tropical forest
+  container-title: Forest Ecology and Management
+  publisher: Elsevier BV
+  page: '109-117'
+  volume: '295'
+  URL: https://doi.org/10.1016%2Fj.foreco.2012.12.041
+  DOI: 10.1016/j.foreco.2012.12.041
+...

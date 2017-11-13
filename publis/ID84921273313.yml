@@ -1,0 +1,69 @@
+---
+references:
+- id: ID84921273313
+  type: article-journal
+  author:
+  - family: Warren
+    given: B. H.
+  - family: Simberloff
+    given: D.
+  - family: Ricklefs
+    given: R. E.
+  - family: Aguilée
+    given: R.
+  - family: Condamine
+    given: F. L.
+  - family: Gravel
+    given: D.
+  - family: Morlon
+    given: H.
+  - family: Mouquet
+    given: N.
+  - family: Rosindell
+    given: J.
+  - family: Casquet
+    given: J.
+  - family: Conti
+    given: E.
+  - family: Cornuault
+    given: J.
+  - family: Fernández-Palacios
+    given: J. M.
+  - family: Hengl
+    given: T.
+  - family: Norder
+    given: S. J.
+  - family: Rijsdijk
+    given: K. F.
+  - family: Sanmartín
+    given: I.
+  - family: Strasberg
+    given: D.
+  - family: Triantis
+    given: K. A.
+  - family: Valente
+    given: L. M.
+  - family: Whittaker
+    given: R. J.
+  - family: Gillespie
+    given: R. G.
+  - family: Emerson
+    given: B. C.
+  - family: Thébaud
+    given: C.
+  editor:
+  - family: Courchamp
+    given: Franck
+  issued:
+  - year: '2015'
+    month: '1'
+  title: 'Islands as model systems in ecology and evolution: Prospects fifty years
+    after MacArthur-Wilson'
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '200-217'
+  volume: '18'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fele.12398
+  DOI: 10.1111/ele.12398
+...

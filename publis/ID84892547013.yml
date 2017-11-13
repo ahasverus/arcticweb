@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84892547013
+  type: article-journal
+  author:
+  - family: Ravolainen
+    given: V. T.
+  - family: Bråthen
+    given: K. A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Nguyen
+    given: J. K.
+  - family: Ims
+    given: R. A.
+  editor:
+  - family: Pärt
+    given: Tomas
+  issued:
+  - year: '2013'
+    month: '11'
+  title: Complementary impacts of small rodents and semi-domesticated ungulates limit
+    tall shrub expansion in the tundra
+  container-title: Journal of Applied Ecology
+  publisher: Wiley-Blackwell
+  page: '234-241'
+  volume: '51'
+  issue: '1'
+  URL: https://doi.org/10.1111%2F1365-2664.12180
+  DOI: 10.1111/1365-2664.12180
+...

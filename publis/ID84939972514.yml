@@ -1,0 +1,50 @@
+---
+references:
+- id: ID84939972514
+  type: article-journal
+  author:
+  - family: Ehrich
+    given: D.
+  - family: Ims
+    given: R. A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Lecomte
+    given: N.
+  - family: Killengreen
+    given: S. T.
+  - family: Fuglei
+    given: E.
+  - family: Rodnikova
+    given: A. Y.
+  - family: Ebbinge
+    given: B. S.
+  - family: Menyushina
+    given: I. E.
+  - family: Nolet
+    given: B. A.
+  - family: Pokrovsky
+    given: I. G.
+  - family: Popov
+    given: I. Y.
+  - family: Schmidt
+    given: N. M.
+  - family: Sokolov
+    given: A. A.
+  - family: Sokolova
+    given: N. A.
+  - family: Sokolov
+    given: V. A.
+  issued:
+  - year: '2015'
+    month: '1'
+  title: What Can Stable Isotope Analysis of Top Predator Tissues Contribute to Monitoring
+    of Tundra Ecosystems?
+  container-title: Ecosystems
+  publisher: Springer Nature
+  page: '404-416'
+  volume: '18'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs10021-014-9834-9
+  DOI: 10.1007/s10021-014-9834-9
+...

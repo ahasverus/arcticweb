@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84941179915
+  type: article-journal
+  author:
+  - family: Visakorpi
+    given: K.
+  - family: Wirta
+    given: H. K.
+  - family: Ek
+    given: M.
+  - family: Schmidt
+    given: N. M.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2015'
+    month: '11'
+  title: No detectable trophic cascade in a high-Arctic arthropod food web
+  container-title: Basic and Applied Ecology
+  publisher: Elsevier BV
+  page: '652-660'
+  volume: '16'
+  issue: '7'
+  URL: https://doi.org/10.1016%2Fj.baae.2015.06.003
+  DOI: 10.1016/j.baae.2015.06.003
+...

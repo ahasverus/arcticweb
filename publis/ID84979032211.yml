@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84979032211
+  type: article-journal
+  author:
+  - family: Meineri
+    given: E.
+  - family: Deville
+    given: A.-S.
+  - family: Grémillet
+    given: D.
+  - family: Gauthier-Clerc
+    given: M.
+  - family: Béchet
+    given: A.
+  issued:
+  - year: '2014'
+    month: '5'
+  title: Combining correlative and mechanistic habitat suitability models to improve
+    ecological compensation
+  container-title: Biological Reviews
+  publisher: Wiley-Blackwell
+  page: '314-329'
+  volume: '90'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fbrv.12111
+  DOI: 10.1111/brv.12111
+...

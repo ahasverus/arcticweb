@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84992092823
+  type: article-journal
+  author:
+  - family: Werner
+    given: J. R.
+  - family: Gillis
+    given: E. A.
+  - family: Boonstra
+    given: R.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '2016'
+    month: '8'
+  title: 'You can hide but you can’t run: Apparent competition, predator responses
+    and the decline of Arctic ground squirrels in boreal forests of the southwest
+    Yukon'
+  container-title: PeerJ
+  publisher: PeerJ
+  page: 'e2303'
+  volume: '4'
+  issue: '8'
+  URL: https://doi.org/10.7717%2Fpeerj.2303
+  DOI: 10.7717/peerj.2303
+...

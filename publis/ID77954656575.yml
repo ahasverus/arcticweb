@@ -1,0 +1,25 @@
+---
+references:
+- id: ID77954656575
+  type: article-journal
+  author:
+  - family: Smith
+    given: P. A.
+  - family: Elliott
+    given: K. H.
+  - family: Gaston
+    given: A. J.
+  - family: Gilchrist
+    given: H. G.
+  issued:
+  - year: '2010'
+    month: '3'
+  title: Has early ice clearance increased predation on breeding birds by polar bears?
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '1149-1153'
+  volume: '33'
+  issue: '8'
+  URL: https://doi.org/10.1007%2Fs00300-010-0791-2
+  DOI: 10.1007/s00300-010-0791-2
+...

@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84875236285
+  type: article-journal
+  author:
+  - family: Moritz
+    given: C.
+  - family: Lévesque
+    given: M.
+  - family: Gravel
+    given: D.
+  - family: Vaz
+    given: S.
+  - family: Archambault
+    given: D.
+  - family: Archambault
+    given: P.
+  issued:
+  - year: '2013'
+    month: '4'
+  title: Modelling spatial distribution of epibenthic communities in the Gulf of St.
+    Lawrence (Canada)
+  container-title: Journal of Sea Research
+  publisher: Elsevier BV
+  page: '75-84'
+  volume: '78'
+  URL: https://doi.org/10.1016%2Fj.seares.2012.10.009
+  DOI: 10.1016/j.seares.2012.10.009
+...

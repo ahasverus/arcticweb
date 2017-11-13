@@ -1,0 +1,39 @@
+---
+references:
+- id: ID84923273496
+  type: article-journal
+  author:
+  - family: Pokrovsky
+    given: I.
+  - family: Ehrich
+    given: D.
+  - family: Ims
+    given: R. A.
+  - family: Kondratyev
+    given: A. V.
+  - family: Kruckenberg
+    given: H.
+  - family: Kulikova
+    given: O.
+  - family: Mihnevich
+    given: J.
+  - family: Pokrovskaya
+    given: L.
+  - family: Shienok
+    given: A.
+  editor:
+  - family: Eklöv
+    given: Peter
+  issued:
+  - year: '2015'
+    month: '2'
+  title: Rough-legged buzzards, arctic foxes and red foxes in a tundra ecosystem without
+    rodents
+  container-title: PLOS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e0118740'
+  volume: '10'
+  issue: '2'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0118740
+  DOI: 10.1371/journal.pone.0118740
+...

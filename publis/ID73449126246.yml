@@ -1,0 +1,28 @@
+---
+references:
+- id: ID73449126246
+  type: article-journal
+  author:
+  - family: Sonsthagen
+    given: S. A.
+  - family: Talbot
+    given: S. L.
+  - family: Lanctot
+    given: R. B.
+  - family: Scribner
+    given: K. T.
+  - family: McCracken
+    given: K. G.
+  issued:
+  - year: '2009'
+    month: '10'
+  title: Hierarchical spatial genetic structure of Common Eiders (Somateria Mollissima)
+    breeding along a migratory corridor
+  container-title: The Auk
+  publisher: University of California Press
+  page: '744-754'
+  volume: '126'
+  issue: '4'
+  URL: https://doi.org/10.1525%2Fauk.2009.08224
+  DOI: 10.1525/auk.2009.08224
+...

@@ -1,0 +1,27 @@
+---
+references:
+- id: ID0037829294
+  type: article-journal
+  author:
+  - family: Kelly
+    given: J. K.
+  - family: Williamson
+    given: S.
+  - family: Orive
+    given: M. E.
+  - family: Smith
+    given: M. S.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2003'
+    month: '7'
+  title: Linking dynamical and population genetic models of persistent viral infection
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '14-28'
+  volume: '162'
+  issue: '1'
+  URL: https://doi.org/10.1086%2F375543
+  DOI: 10.1086/375543
+...

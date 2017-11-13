@@ -1,0 +1,35 @@
+---
+references:
+- id: ID34250807252
+  type: article-journal
+  author:
+  - family: Hamer
+    given: K.
+  - family: Humphreys
+    given: E.
+  - family: Garthe
+    given: S.
+  - family: Hennicke
+    given: J.
+  - family: Peters
+    given: G.
+  - family: Grémillet
+    given: D.
+  - family: Phillips
+    given: R.
+  - family: Harris
+    given: M.
+  - family: Wanless
+    given: S.
+  issued:
+  - year: '2007'
+    month: '5'
+  title: 'Annual variation in diets, feeding locations and foraging behaviour of
+    gannets in the North Sea: Flexibility, consistency and constraint'
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '295-305'
+  volume: '338'
+  URL: https://doi.org/10.3354%2Fmeps338295
+  DOI: 10.3354/meps338295
+...

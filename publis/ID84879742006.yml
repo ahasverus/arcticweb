@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84879742006
+  type: article-journal
+  author:
+  - family: Merkel
+    given: B.
+  - family: Lydersen
+    given: C.
+  - family: Yoccoz
+    given: N. G.
+  - family: Kovacs
+    given: K. M.
+  editor:
+  - family: Roberts
+    given: David L.
+  issued:
+  - year: '2013'
+    month: '7'
+  title: The World’s Northernmost Harbour Seal Population-How Many Are There?
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e67576'
+  volume: '8'
+  issue: '7'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0067576
+  DOI: 10.1371/journal.pone.0067576
+...

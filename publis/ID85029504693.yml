@@ -1,0 +1,27 @@
+---
+references:
+- id: ID85029504693
+  type: article-journal
+  author:
+  - family: Vindstad
+    given: O. P. L.
+  - family: Jepsen
+    given: J. U.
+  - family: Klinghardt
+    given: M.
+  - family: Ek
+    given: M.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2017'
+    month: '12'
+  title: 'Salvage logging of mountain birch after geometrid outbreaks: Ecological
+    context determines management outcomes'
+  container-title: Forest Ecology and Management
+  publisher: Elsevier BV
+  page: '81-91'
+  volume: '405'
+  URL: https://doi.org/10.1016%2Fj.foreco.2017.09.027
+  DOI: 10.1016/j.foreco.2017.09.027
+...

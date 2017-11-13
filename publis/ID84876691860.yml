@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84876691860
+  type: article-journal
+  author:
+  - family: Özkan
+    given: K.
+  - family: Jeppesen
+    given: E.
+  - family: Søndergaard
+    given: M.
+  - family: Lauridsen
+    given: T. L.
+  - family: Liboriussen
+    given: L.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2012'
+    month: '1'
+  title: Contrasting roles of water chemistry, lake morphology, land-use, climate
+    and spatial processes in driving phytoplankton richness in the Danish landscape
+  container-title: Hydrobiologia
+  publisher: Springer Nature
+  page: '173-187'
+  volume: '710'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs10750-011-0996-6
+  DOI: 10.1007/s10750-011-0996-6
+...

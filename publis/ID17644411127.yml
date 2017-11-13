@@ -1,0 +1,25 @@
+---
+references:
+- id: ID17644411127
+  type: article-journal
+  author:
+  - family: Prugh
+    given: L. R.
+  - family: Ritland
+    given: C. E.
+  - family: Arthur
+    given: S. M.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '2005'
+    month: '4'
+  title: Monitoring coyote population dynamics by genotyping faeces
+  container-title: Molecular Ecology
+  publisher: Wiley-Blackwell
+  page: '1585-1596'
+  volume: '14'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.1365-294x.2005.02533.x
+  DOI: 10.1111/j.1365-294x.2005.02533.x
+...

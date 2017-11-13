@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84937838109
+  type: article-journal
+  author:
+  - family: Anjos
+    given: L.
+    dropping-particle: dos
+  - family: Collins
+    given: C. D.
+  - family: Holt
+    given: R. D.
+  - family: Volpato
+    given: G. H.
+  - family: Lopes
+    given: E. V.
+  - family: Bochio
+    given: G. M.
+  issued:
+  - year: '2015'
+    month: '8'
+  title: Can habitat specialization patterns of Neotropical birds highlight vulnerable
+    areas for conservation in the Atlantic rainforest, southern Brazil?
+  container-title: Biological Conservation
+  publisher: Elsevier BV
+  page: '32-40'
+  volume: '188'
+  URL: https://doi.org/10.1016%2Fj.biocon.2015.01.016
+  DOI: 10.1016/j.biocon.2015.01.016
+...

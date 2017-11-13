@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84969832903
+  type: article-journal
+  author:
+  - family: Dalerum
+    given: F.
+  - family: Hellström
+    given: P.
+  - family: Miranda
+    given: M.
+  - family: Nyström
+    given: J.
+  - family: Ekenstedt
+    given: J.
+  - family: Angerbjörn
+    given: A.
+  issued:
+  - year: '2016'
+    month: '5'
+  title: Network topology of stable isotope interactions in a sub-arctic raptor guild
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '511-518'
+  volume: '182'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs00442-016-3658-6
+  DOI: 10.1007/s00442-016-3658-6
+...

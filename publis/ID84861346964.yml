@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84861346964
+  type: article-journal
+  author:
+  - family: Takimoto
+    given: G.
+  - family: Post
+    given: D. M.
+  - family: Spiller
+    given: D. A.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2012'
+    month: '2'
+  title: 'Effects of productivity, disturbance, and ecosystem size on food-chain
+    length: Insights from a metacommunity model of intraguild predation'
+  container-title: Ecological Research
+  publisher: Springer Nature
+  page: '481-493'
+  volume: '27'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs11284-012-0929-5
+  DOI: 10.1007/s11284-012-0929-5
+...

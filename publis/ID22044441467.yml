@@ -1,0 +1,21 @@
+---
+references:
+- id: ID22044441467
+  type: article-journal
+  author:
+  - family: Ims
+    given: R. A.
+  - family: Andreassen
+    given: H. P.
+  issued:
+  - year: '2005'
+    month: '5'
+  title: Density-dependent dispersal and spatial population dynamics
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '913-918'
+  volume: '272'
+  issue: '1566'
+  URL: https://doi.org/10.1098%2Frspb.2004.3025
+  DOI: 10.1098/rspb.2004.3025
+...

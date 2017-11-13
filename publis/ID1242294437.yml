@@ -1,0 +1,28 @@
+---
+references:
+- id: ID1242294437
+  type: article-journal
+  author:
+  - family: Franson
+    given: J. C.
+  - family: Hollmén
+    given: T. E.
+  - family: Flint
+    given: P. L.
+  - family: Grand
+    given: J. B.
+  - family: Lanctot
+    given: R. B.
+  issued:
+  - year: '2004'
+    month: '3'
+  title: Contaminants in molting long-tailed ducks and nesting common eiders in the
+    Beaufort Sea
+  container-title: Marine Pollution Bulletin
+  publisher: Elsevier BV
+  page: '504-513'
+  volume: '48'
+  issue: '5-6'
+  URL: https://doi.org/10.1016%2Fj.marpolbul.2003.08.027
+  DOI: 10.1016/j.marpolbul.2003.08.027
+...

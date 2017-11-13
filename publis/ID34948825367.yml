@@ -1,0 +1,28 @@
+---
+references:
+- id: ID34948825367
+  type: article-journal
+  author:
+  - family: Franceschi
+    given: N.
+  - family: Rigaud
+    given: T.
+  - family: Moret
+    given: Y.
+  - family: Hervant
+    given: F.
+  - family: Bollache
+    given: L.
+  issued:
+  - year: '2007'
+    month: '7'
+  title: Behavioural and physiological effects of the trophically transmitted cestode
+    parasite, Cyathocephalus truncatus, on its intermediate host, Gammarus pulex
+  container-title: Parasitology
+  publisher: Cambridge University Press (CUP)
+  page: '1839-1847'
+  volume: '134'
+  issue: '12'
+  URL: https://doi.org/10.1017%2Fs0031182007003228
+  DOI: 10.1017/s0031182007003228
+...

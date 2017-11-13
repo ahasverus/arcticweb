@@ -1,0 +1,29 @@
+---
+references:
+- id: ID85021810963
+  type: article-journal
+  author:
+  - family: Iltis
+    given: C.
+  - family: Dechaume-Moncharmont
+    given: F.-X.
+  - family: Galipaud
+    given: M.
+  - family: Moreau
+    given: J.
+  - family: Bollache
+    given: L.
+  - family: Louâpre
+    given: P.
+  issued:
+  - year: '2017'
+    month: '8'
+  title: 'The curse of being single: both male and female Gammarus pulex benefit
+    energetically from precopulatory mate guarding'
+  container-title: Animal Behaviour
+  publisher: Elsevier BV
+  page: '67-72'
+  volume: '130'
+  URL: https://doi.org/10.1016%2Fj.anbehav.2017.06.013
+  DOI: 10.1016/j.anbehav.2017.06.013
+...

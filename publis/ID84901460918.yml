@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84901460918
+  type: article-journal
+  author:
+  - family: Pernot
+    given: C.
+  - family: Paillet
+    given: Y.
+  - family: Boulanger
+    given: V.
+  - family: Debaive
+    given: N.
+  - family: Fuhr
+    given: M.
+  - family: Gilg
+    given: O.
+  - family: Gosselin
+    given: F.
+  issued:
+  - year: '2013'
+  title: Impact of discontinuing logging activity on the dendrometric structure of
+    mixed beech forests in france
+  container-title: Revue Forestière Française
+  publisher: INIST-CNRS
+  page: '445'
+  volume: '65'
+  issue: '5'
+  URL: https://doi.org/10.4267%2F2042%2F53707
+  DOI: 10.4267/2042/53707
+...

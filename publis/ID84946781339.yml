@@ -1,0 +1,34 @@
+---
+references:
+- id: ID84946781339
+  type: article-journal
+  author:
+  - family: Davidson
+    given: T. A.
+  - family: Audet
+    given: J.
+  - family: Svenning
+    given: J.-C.
+  - family: Lauridsen
+    given: T. L.
+  - family: Søndergaard
+    given: M.
+  - family: Landkildehus
+    given: F.
+  - family: Larsen
+    given: S. E.
+  - family: Jeppesen
+    given: E.
+  issued:
+  - year: '2015'
+    month: '11'
+  title: Eutrophication effects on greenhouse gas fluxes from shallow-lake mesocosms
+    override those of climate warming
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '4449-4463'
+  volume: '21'
+  issue: '12'
+  URL: https://doi.org/10.1111%2Fgcb.13062
+  DOI: 10.1111/gcb.13062
+...

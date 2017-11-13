@@ -1,0 +1,40 @@
+---
+references:
+- id: ID84855577330
+  type: article-journal
+  author:
+  - family: Ehrich
+    given: D.
+  - family: Henden
+    given: J.-A.
+  - family: Ims
+    given: R. A.
+  - family: Doronina
+    given: L. O.
+  - family: Killengren
+    given: S. T.
+  - family: Lecomte
+    given: N.
+  - family: Pokrovsky
+    given: I. G.
+  - family: Skogstad
+    given: G.
+  - family: Sokolov
+    given: A. A.
+  - family: Sokolov
+    given: V. A.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2011'
+    month: '7'
+  title: 'The importance of willow thickets for ptarmigan and hares in shrub tundra:
+    The more the better?'
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '141-151'
+  volume: '168'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs00442-011-2059-0
+  DOI: 10.1007/s00442-011-2059-0
+...

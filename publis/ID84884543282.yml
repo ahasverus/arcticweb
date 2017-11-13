@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84884543282
+  type: article-journal
+  author:
+  - family: Beaune
+    given: D.
+  - family: Bretagnolle
+    given: F.
+  - family: Bollache
+    given: L.
+  - family: Bourson
+    given: C.
+  - family: Hohmann
+    given: G.
+  - family: Fruth
+    given: B.
+  issued:
+  - year: '2013'
+    month: '9'
+  title: 'Ecological services performed by the bonobo (Pan paniscus): Seed dispersal
+    effectiveness in tropical forest'
+  container-title: Journal of Tropical Ecology
+  publisher: Cambridge University Press (CUP)
+  page: '367-380'
+  volume: '29'
+  issue: '05'
+  URL: https://doi.org/10.1017%2Fs0266467413000515
+  DOI: 10.1017/s0266467413000515
+...

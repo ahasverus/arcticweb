@@ -1,0 +1,25 @@
+---
+references:
+- id: ID33746866683
+  type: article-journal
+  author:
+  - family: Allard
+    given: K. A.
+  - family: Breton
+    given: A. R.
+  - family: Gilchrist
+    given: H. G.
+  - family: Diamond
+    given: A. W.
+  issued:
+  - year: '2006'
+    month: '6'
+  title: Adult survival of herring gulls breeding in the Canadian Arctic
+  container-title: Waterbirds
+  publisher: Waterbird Society
+  page: '163-168'
+  volume: '29'
+  issue: '2'
+  URL: https://doi.org/10.1675%2F1524-4695%282006%2929%5B163%3Aasohgb%5D2.0.co%3B2
+  DOI: 10.1675/1524-4695(2006)29[163:asohgb]2.0.co;2
+...

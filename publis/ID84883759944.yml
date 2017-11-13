@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84883759944
+  type: article-journal
+  author:
+  - family: Link
+    given: H.
+  - family: Piepenburg
+    given: D.
+  - family: Archambault
+    given: P.
+  editor:
+  - family: Lin
+    given: Senjie
+  issued:
+  - year: '2013'
+    month: '9'
+  title: Are Hotspots Always Hotspots? The Relationship between Diversity, Resource
+    and Ecosystem Functions in the Arctic
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e74077'
+  volume: '8'
+  issue: '9'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0074077
+  DOI: 10.1371/journal.pone.0074077
+...

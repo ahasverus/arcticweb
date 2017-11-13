@@ -1,0 +1,24 @@
+---
+references:
+- id: ID34548397721
+  type: article-journal
+  author:
+  - family: Hone
+    given: J.
+  - family: Krebs
+    given: C.
+  - family: O'Donoghue
+    given: M.
+  - family: Boutin
+    given: S.
+  issued:
+  - year: '2007'
+  title: Evaluation of predator numerical responses
+  container-title: Wildlife Research
+  publisher: CSIRO Publishing
+  page: '335'
+  volume: '34'
+  issue: '5'
+  URL: https://doi.org/10.1071%2Fwr06171
+  DOI: 10.1071/wr06171
+...

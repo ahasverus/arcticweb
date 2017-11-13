@@ -1,0 +1,26 @@
+---
+references:
+- id: ID34247197257
+  type: article-journal
+  author:
+  - family: Hagen
+    given: S. B.
+  - family: Jepsen
+    given: J. U.
+  - family: Ims
+    given: R. A.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2007'
+    month: '4'
+  title: 'Shifting altitudinal distribution of outbreak zones of winter moth Operophtera
+    brumata in sub-arctic birch forest: A response to recent climate warming?'
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '299-307'
+  volume: '30'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.2007.0906-7590.04981.x
+  DOI: 10.1111/j.2007.0906-7590.04981.x
+...

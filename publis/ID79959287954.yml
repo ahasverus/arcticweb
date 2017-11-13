@@ -1,0 +1,27 @@
+---
+references:
+- id: ID79959287954
+  type: article-journal
+  author:
+  - family: Collin
+    given: A.
+  - family: Archambault
+    given: P.
+  - family: Long
+    given: B.
+  editor:
+  - family: Browman
+    given: Howard
+  issued:
+  - year: '2011'
+    month: '6'
+  title: Predicting species diversity of benthic communities within turbid nearshore
+    using full-waveform bathymetric LiDAR and machine learners
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e21265'
+  volume: '6'
+  issue: '6'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0021265
+  DOI: 10.1371/journal.pone.0021265
+...

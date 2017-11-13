@@ -1,0 +1,50 @@
+---
+references:
+- id: ID79952624202
+  type: article-journal
+  author:
+  - family: Piepenburg
+    given: D.
+  - family: Archambault
+    given: P.
+  - family: Ambrose
+    given: W. G.
+  - family: Blanchard
+    given: A. L.
+  - family: Bluhm
+    given: B. A.
+  - family: Carroll
+    given: M. L.
+  - family: Conlan
+    given: K. E.
+  - family: Cusson
+    given: M.
+  - family: Feder
+    given: H. M.
+  - family: Grebmeier
+    given: J. M.
+  - family: Jewett
+    given: S. C.
+  - family: Lévesque
+    given: M.
+  - family: Petryashev
+    given: V. V.
+  - family: Sejr
+    given: M. K.
+  - family: Sirenko
+    given: B. I.
+  - family: Włodarska-Kowalczuk
+    given: M.
+  issued:
+  - year: '2010'
+    month: '11'
+  title: Towards a pan-Arctic inventory of the species diversity of the macro- and
+    megabenthic fauna of the Arctic shelf seas
+  container-title: Marine Biodiversity
+  publisher: Springer Nature
+  page: '51-70'
+  volume: '41'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs12526-010-0059-7
+  DOI: 10.1007/s12526-010-0059-7
+...

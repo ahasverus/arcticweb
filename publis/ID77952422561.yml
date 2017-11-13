@@ -1,0 +1,28 @@
+---
+references:
+- id: ID77952422561
+  type: article-journal
+  author:
+  - family: Christensen-Dalsgaard
+    given: S. N.
+  - family: Aars
+    given: J.
+  - family: Andersen
+    given: M.
+  - family: Lockyer
+    given: C.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2009'
+    month: '10'
+  title: Accuracy and precision in estimation of age of Norwegian Arctic polar bears
+    (Ursus maritimus) using dental cementum layers from known-age individuals
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '589-597'
+  volume: '33'
+  issue: '5'
+  URL: https://doi.org/10.1007%2Fs00300-009-0734-y
+  DOI: 10.1007/s00300-009-0734-y
+...

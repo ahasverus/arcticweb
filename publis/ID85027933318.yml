@@ -1,0 +1,26 @@
+---
+references:
+- id: ID85027933318
+  type: article-journal
+  author:
+  - family: Descamps
+    given: S.
+  - family: Gaillard
+    given: J.-M.
+  - family: Hamel
+    given: S.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2016'
+    month: '6'
+  title: 'When relative allocation depends on total resource acquisition: implication
+    for the analysis of trade-offs'
+  container-title: Journal of Evolutionary Biology
+  publisher: Wiley-Blackwell
+  page: '1860-1866'
+  volume: '29'
+  issue: '9'
+  URL: https://doi.org/10.1111%2Fjeb.12901
+  DOI: 10.1111/jeb.12901
+...

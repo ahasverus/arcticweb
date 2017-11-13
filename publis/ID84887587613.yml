@@ -1,0 +1,33 @@
+---
+references:
+- id: ID84887587613
+  type: article-journal
+  author:
+  - family: Péron
+    given: C.
+  - family: Grémillet
+    given: D.
+  - family: Prudor
+    given: A.
+  - family: Pettex
+    given: E.
+  - family: Saraux
+    given: C.
+  - family: Soriano-Redondo
+    given: A.
+  - family: Authier
+    given: M.
+  - family: Fort
+    given: J.
+  issued:
+  - year: '2013'
+    month: '12'
+  title: 'Importance of coastal Marine Protected Areas for the conservation of pelagic
+    seabirds: The case of Vulnerable yelkouan shearwaters in the Mediterranean Sea'
+  container-title: Biological Conservation
+  publisher: Elsevier BV
+  page: '210-221'
+  volume: '168'
+  URL: https://doi.org/10.1016%2Fj.biocon.2013.09.006
+  DOI: 10.1016/j.biocon.2013.09.006
+...

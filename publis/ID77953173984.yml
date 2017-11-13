@@ -1,0 +1,32 @@
+---
+references:
+- id: ID77953173984
+  type: article-journal
+  author:
+  - family: Thuiller
+    given: W.
+  - family: Gallien
+    given: L.
+  - family: Boulangeat
+    given: I.
+  - family: Bello
+    given: F.
+    dropping-particle: de
+  - family: Münkemüller
+    given: T.
+  - family: Roquet
+    given: C.
+  - family: Lavergne
+    given: S.
+  issued:
+  - year: '2010'
+    month: '4'
+  title: 'Resolving Darwin’s naturalization conundrum: A quest for evidence'
+  container-title: Diversity and Distributions
+  publisher: Wiley-Blackwell
+  page: '461-475'
+  volume: '16'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1472-4642.2010.00645.x
+  DOI: 10.1111/j.1472-4642.2010.00645.x
+...

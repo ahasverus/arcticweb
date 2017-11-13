@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84910011964
+  type: article-journal
+  author:
+  - family: Therrien
+    given: J.-F.
+  - family: Gauthier
+    given: G.
+  - family: Pinaud
+    given: D.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2014'
+    month: '6'
+  title: 'Irruptive movements and breeding dispersal of snowy owls: A specialized
+    predator exploiting a pulsed resource'
+  container-title: Journal of Avian Biology
+  publisher: Wiley-Blackwell
+  page: '536-544'
+  volume: '45'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fjav.00426
+  DOI: 10.1111/jav.00426
+...

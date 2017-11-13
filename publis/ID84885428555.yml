@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84885428555
+  type: article-journal
+  author:
+  - family: Eidesen
+    given: P. B.
+  - family: Ehrich
+    given: D.
+  - family: Bakkestuen
+    given: V.
+  - family: Alsos
+    given: I. G.
+  - family: Gilg
+    given: O.
+  - family: Taberlet
+    given: P.
+  - family: Brochmann
+    given: C.
+  issued:
+  - year: '2013'
+    month: '7'
+  title: 'Genetic roadmap of the Arctic: Plant dispersal highways, traffic barriers
+    and capitals of diversity'
+  container-title: New Phytologist
+  publisher: Wiley-Blackwell
+  page: '898-910'
+  volume: '200'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fnph.12412
+  DOI: 10.1111/nph.12412
+...

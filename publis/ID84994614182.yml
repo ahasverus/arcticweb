@@ -1,0 +1,45 @@
+---
+references:
+- id: ID84994614182
+  type: article-journal
+  author:
+  - family: Hamel
+    given: S.
+  - family: Gaillard
+    given: J.-M.
+  - family: Yoccoz
+    given: N. G.
+  - family: Albon
+    given: S.
+  - family: Côté
+    given: S. D.
+  - family: Craine
+    given: J. M.
+  - family: Festa-Bianchet
+    given: M.
+  - family: Garel
+    given: M.
+  - family: Lee
+    given: P.
+  - family: Moss
+    given: C.
+  - family: Nussey
+    given: D. H.
+  - family: Pelletier
+    given: F.
+  - family: Stien
+    given: A.
+  - family: Tveraa
+    given: T.
+  issued:
+  - year: '2016'
+    month: '11'
+  title: Cohort variation in individual body mass dissipates with age in large herbivores
+  container-title: Ecological Monographs
+  publisher: Wiley-Blackwell
+  page: '517-543'
+  volume: '86'
+  issue: '4'
+  URL: https://doi.org/10.1002%2Fecm.1232
+  DOI: 10.1002/ecm.1232
+...

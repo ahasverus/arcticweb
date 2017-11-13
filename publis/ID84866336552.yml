@@ -1,0 +1,79 @@
+---
+references:
+- id: ID84866336552
+  type: article-journal
+  author:
+  - family: Callaghan
+    given: T. V.
+  - family: Johansson
+    given: M.
+  - family: Brown
+    given: R. D.
+  - family: Groisman
+    given: P. Y.
+  - family: Labba
+    given: N.
+  - family: Radionov
+    given: V.
+  - family: Bradley
+    given: R. S.
+  - family: Blangy
+    given: S.
+  - family: Bulygina
+    given: O. N.
+  - family: Christensen
+    given: T. R.
+  - family: Colman
+    given: J. E.
+  - family: Essery
+    given: R. L. H.
+  - family: Forbes
+    given: B. C.
+  - family: Forchhammer
+    given: M. C.
+  - family: Golubev
+    given: V. N.
+  - family: Honrath
+    given: R. E.
+  - family: Juday
+    given: G. P.
+  - family: Meshcherskaya
+    given: A. V.
+  - family: Phoenix
+    given: G. K.
+  - family: Pomeroy
+    given: J.
+  - family: Rautio
+    given: A.
+  - family: Robinson
+    given: D. A.
+  - family: Schmidt
+    given: N. M.
+  - family: Serreze
+    given: M. C.
+  - family: Shevchenko
+    given: V. P.
+  - family: Shiklomanov
+    given: A. I.
+  - family: Shmakin
+    given: A. B.
+  - family: Sköld
+    given: P.
+  - family: Sturm
+    given: M.
+  - family: Woo
+    given: M.-K.
+  - family: Wood
+    given: E. F.
+  issued:
+  - year: '2011'
+    month: '12'
+  title: Multiple effects of changes in arctic snow cover
+  container-title: AMBIO
+  publisher: Springer Nature
+  page: '32-45'
+  volume: '40'
+  issue: S1
+  URL: https://doi.org/10.1007%2Fs13280-011-0213-x
+  DOI: 10.1007/s13280-011-0213-x
+...

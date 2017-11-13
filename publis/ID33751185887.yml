@@ -1,0 +1,26 @@
+---
+references:
+- id: ID33751185887
+  type: article-journal
+  author:
+  - family: Lecomte
+    given: N.
+  - family: Simard
+    given: M.
+  - family: Fenton
+    given: N.
+  - family: Bergeron
+    given: Y.
+  issued:
+  - year: '2006'
+    month: '12'
+  title: Fire severity and long-term ecosystem biomass dynamics in coniferous boreal
+    forests of eastern Canada
+  container-title: Ecosystems
+  publisher: Springer Nature
+  page: '1215-1230'
+  volume: '9'
+  issue: '8'
+  URL: https://doi.org/10.1007%2Fs10021-004-0168-x
+  DOI: 10.1007/s10021-004-0168-x
+...

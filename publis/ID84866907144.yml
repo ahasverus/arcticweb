@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84866907144
+  type: article-journal
+  author:
+  - family: Grémillet
+    given: D.
+  - family: Meslin
+    given: L.
+  - family: Lescroël
+    given: A.
+  editor:
+  - family: Fox
+    given: Charles
+  issued:
+  - year: '2012'
+    month: '9'
+  title: Heat dissipation limit theory and the evolution of avian functional traits
+    in a warming world
+  container-title: Functional Ecology
+  publisher: Wiley-Blackwell
+  page: '1001-1006'
+  volume: '26'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.1365-2435.2012.02048.x
+  DOI: 10.1111/j.1365-2435.2012.02048.x
+...

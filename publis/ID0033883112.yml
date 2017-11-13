@@ -1,0 +1,25 @@
+---
+references:
+- id: ID0033883112
+  type: article-journal
+  author:
+  - family: Fuglei
+    given: E.
+  - family: Aanestad
+    given: M.
+  - family: Berg
+    given: J. P.
+  issued:
+  - year: '2000'
+    month: '6'
+  title: Hormones and metabolites of arctic foxes (Alopex lagopus) in response to
+    season, starvation and re-feeding
+  container-title: 'Comparative Biochemistry and Physiology Part A: Molecular &
+    Integrative Physiology'
+  publisher: Elsevier BV
+  page: '287-294'
+  volume: '126'
+  issue: '2'
+  URL: https://doi.org/10.1016%2Fs1095-6433%2800%2900211-7
+  DOI: 10.1016/s1095-6433(00)00211-7
+...

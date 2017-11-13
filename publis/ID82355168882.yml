@@ -1,0 +1,31 @@
+---
+references:
+- id: ID82355168882
+  type: paper-conference
+  author:
+  - family: Collin
+    given: A.
+  - family: Cottin
+    given: A.
+  - family: Long
+    given: B.
+  - family: Kuus
+    given: P.
+  - family: Clarke
+    given: J. H.
+  - family: Archambault
+    given: P.
+  - family: Sohn
+    given: G.
+  - family: Miller
+    given: J.
+  issued:
+  - year: '2007'
+  title: Statistical classification methodology of SHOALS 3000 backscatter to mapping
+    coastal benthic habitats
+  container-title: 2007 IEEE International Geoscience and Remote Sensing Symposium
+  publisher: IEEE
+  page: '3178-3181'
+  URL: https://doi.org/10.1109%2Figarss.2007.4423520
+  DOI: 10.1109/igarss.2007.4423520
+...

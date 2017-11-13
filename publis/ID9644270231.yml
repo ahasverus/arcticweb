@@ -1,0 +1,30 @@
+---
+references:
+- id: ID9644270231
+  type: article-journal
+  author:
+  - family: Orive
+    given: M. E.
+  - family: Stearns
+    given: M. N.
+  - family: Kelly
+    given: J. K.
+  - family: Barfield
+    given: M.
+  - family: Smith
+    given: M. S.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2005'
+    month: '2'
+  title: Viral infection in internally structured hosts. I. Conditions for persistent
+    infection
+  container-title: Journal of Theoretical Biology
+  publisher: Elsevier BV
+  page: '453-466'
+  volume: '232'
+  issue: '4'
+  URL: https://doi.org/10.1016%2Fj.jtbi.2004.08.023
+  DOI: 10.1016/j.jtbi.2004.08.023
+...

@@ -1,0 +1,25 @@
+---
+references:
+- id: ID0033551144
+  type: article-journal
+  author:
+  - family: Post
+    given: E.
+  - family: Langvatn
+    given: R.
+  - family: Forchhammer
+    given: M. C.
+  - family: Stenseth
+    given: N. C.
+  issued:
+  - year: '1999'
+    month: '4'
+  title: Environmental variation shapes sexual dimorphism in red deer
+  container-title: Proceedings of the National Academy of Sciences
+  publisher: Proceedings of the National Academy of Sciences
+  page: '4467-4471'
+  volume: '96'
+  issue: '8'
+  URL: https://doi.org/10.1073%2Fpnas.96.8.4467
+  DOI: 10.1073/pnas.96.8.4467
+...

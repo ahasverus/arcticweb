@@ -1,0 +1,37 @@
+---
+references:
+- id: ID78149415804
+  type: article-journal
+  author:
+  - family: Albert
+    given: K. R.
+  - family: Mikkelsen
+    given: T. N.
+  - family: Ro-Poulsen
+    given: H.
+  - family: Michelsen
+    given: A.
+  - family: Arndal
+    given: M. F.
+  - family: Bredahl
+    given: L.
+  - family: Håkansson
+    given: K. B.
+  - family: Boesgaard
+    given: K.
+  - family: Schmidt
+    given: N. M.
+  issued:
+  - year: '2010'
+    month: '12'
+  title: Improved UV-B screening capacity does not prevent negative effects of ambient
+    UV irradiance on PSII performance in High Arctic plants. Results from a six year
+    UV exclusion study
+  container-title: Journal of Plant Physiology
+  publisher: Elsevier BV
+  page: '1542-1549'
+  volume: '167'
+  issue: '18'
+  URL: https://doi.org/10.1016%2Fj.jplph.2010.05.023
+  DOI: 10.1016/j.jplph.2010.05.023
+...

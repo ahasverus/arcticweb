@@ -1,0 +1,24 @@
+---
+references:
+- id: ID63449107252
+  type: article-journal
+  author:
+  - family: Holdo
+    given: R. M.
+  - family: Holt
+    given: R. D.
+  - family: Fryxell
+    given: J. M.
+  issued:
+  - year: '2009'
+    month: '1'
+  title: Grazers, browsers, and fire influence the extent and spatial pattern of tree
+    cover in the Serengeti
+  container-title: Ecological Applications
+  publisher: Wiley-Blackwell
+  page: '95-109'
+  volume: '19'
+  issue: '1'
+  URL: https://doi.org/10.1890%2F07-1954.1
+  DOI: 10.1890/07-1954.1
+...

@@ -1,0 +1,23 @@
+---
+references:
+- id: ID85021910002
+  type: article-journal
+  author:
+  - family: Boonstra
+    given: R.
+  - family: Krebs
+    given: C. J.
+  - family: Cowcill
+    given: K.
+  issued:
+  - year: '2017'
+    month: '10'
+  title: Responses of key understory plants in the boreal forests of western North
+    America to natural versus anthropogenic nitrogen levels
+  container-title: Forest Ecology and Management
+  publisher: Elsevier BV
+  page: '45-54'
+  volume: '401'
+  URL: https://doi.org/10.1016%2Fj.foreco.2017.06.065
+  DOI: 10.1016/j.foreco.2017.06.065
+...

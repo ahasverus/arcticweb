@@ -1,0 +1,44 @@
+---
+references:
+- id: ID84906718672
+  type: article-journal
+  author:
+  - family: Legagneux
+    given: P.
+  - family: Berzins
+    given: L. L.
+  - family: Forbes
+    given: M.
+  - family: Harms
+    given: N. J.
+  - family: Hennin
+    given: H. L.
+  - family: Bourgeon
+    given: S.
+  - family: Gilchrist
+    given: H. G.
+  - family: Bêty
+    given: J.
+  - family: Soos
+    given: C.
+  - family: Love
+    given: O. P.
+  - family: Foster
+    given: J. T.
+  - family: Descamps
+    given: S.
+  - family: Burness
+    given: G.
+  issued:
+  - year: '2014'
+    month: '6'
+  title: No selection on immunological markers in response to a highly virulent pathogen
+    in an Arctic breeding bird
+  container-title: Evolutionary Applications
+  publisher: Wiley-Blackwell
+  page: '765-773'
+  volume: '7'
+  issue: '7'
+  URL: https://doi.org/10.1111%2Feva.12180
+  DOI: 10.1111/eva.12180
+...

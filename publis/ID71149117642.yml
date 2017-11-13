@@ -1,0 +1,28 @@
+---
+references:
+- id: ID71149117642
+  type: article-journal
+  author:
+  - family: Shirley
+    given: M. D. F.
+  - family: Elmhagen
+    given: B.
+  - family: Lurz
+    given: P. W. W.
+  - family: Rushton
+    given: S. P.
+  - family: Angerbjörn
+    given: A.
+  issued:
+  - year: '2009'
+    month: '12'
+  title: 'Modelling the spatial population dynamics of arctic foxes: The effects
+    of red foxes and microtine cycles'
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '1170-1183'
+  volume: '87'
+  issue: '12'
+  URL: https://doi.org/10.1139%2Fz09-104
+  DOI: 10.1139/z09-104
+...

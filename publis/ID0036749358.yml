@@ -1,0 +1,28 @@
+---
+references:
+- id: ID0036749358
+  type: article-journal
+  author:
+  - family: Wayland
+    given: M.
+  - family: Gilchrist
+    given: H. G.
+  - family: Marchant
+    given: T.
+  - family: Keating
+    given: J.
+  - family: Smits
+    given: J. E.
+  issued:
+  - year: '2002'
+    month: '9'
+  title: Immune function, stress response, and body condition in arctic-breeding common
+    eiders in relation to cadmium, mercury, and selenium concentrations
+  container-title: Environmental Research
+  publisher: Elsevier BV
+  page: '47-60'
+  volume: '90'
+  issue: '1'
+  URL: https://doi.org/10.1006%2Fenrs.2002.4384
+  DOI: 10.1006/enrs.2002.4384
+...

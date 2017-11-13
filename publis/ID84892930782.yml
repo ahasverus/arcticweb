@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84892930782
+  type: article-journal
+  author:
+  - family: Mallory
+    given: M. L.
+  - family: Braune
+    given: B. M.
+  - family: Robertson
+    given: G. J.
+  - family: Gilchrist
+    given: H. G.
+  - family: Mallory
+    given: C. D.
+  - family: Forbes
+    given: M. R.
+  - family: Wells
+    given: R.
+  issued:
+  - year: '2014'
+    month: '4'
+  title: Increasing cadmium and zinc levels in wild common eiders breeding along canada’s
+    remote northern coastline
+  container-title: Science of The Total Environment
+  publisher: Elsevier BV
+  page: '73-78'
+  volume: '476-477'
+  URL: https://doi.org/10.1016%2Fj.scitotenv.2013.12.102
+  DOI: 10.1016/j.scitotenv.2013.12.102
+...

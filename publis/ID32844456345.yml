@@ -1,0 +1,28 @@
+---
+references:
+- id: ID32844456345
+  type: article-journal
+  author:
+  - family: Fuglesteg
+    given: B. N.
+  - family: Haga
+    given: Y. E.
+  - family: Folkow
+    given: L. P.
+  - family: Fuglei
+    given: E.
+  - family: Blix
+    given: A. S.
+  issued:
+  - year: '2005'
+    month: '9'
+  title: Seasonal variations in basal metabolic rate, lower critical temperature and
+    responses to temporary starvation in the arctic fox (Alopex lagopus) from Svalbard
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '308-319'
+  volume: '29'
+  issue: '4'
+  URL: https://doi.org/10.1007%2Fs00300-005-0054-9
+  DOI: 10.1007/s00300-005-0054-9
+...

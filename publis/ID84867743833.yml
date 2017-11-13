@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84867743833
+  type: article-journal
+  author:
+  - family: Sarasa
+    given: M.
+  - family: Soriguer
+    given: R. C.
+  - family: Granados
+    given: J. '.-E. '.
+  - family: Casajus
+    given: N.
+  - family: Pérez
+    given: J. M.
+  editor:
+  - family: Kitchener
+    given: Andrew
+  issued:
+  - year: '2012'
+    month: '6'
+  title: 'Mismeasure of secondary sexual traits: An example with horn growth in
+    the Iberian ibex'
+  container-title: Journal of Zoology
+  publisher: Wiley-Blackwell
+  page: '170-176'
+  volume: '288'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1469-7998.2012.00937.x
+  DOI: 10.1111/j.1469-7998.2012.00937.x
+...

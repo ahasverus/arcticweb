@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84951864802
+  type: article-journal
+  author:
+  - family: Glaz
+    given: P.
+  - family: Gagné
+    given: J.-P.
+  - family: Archambault
+    given: P.
+  - family: Sirois
+    given: P.
+  - family: Nozais
+    given: C.
+  issued:
+  - year: '2015'
+    month: '12'
+  title: Impact of forest harvesting on water quality and fluorescence characteristics
+    of dissolved organic matter in eastern Canadian Boreal Shield lakes in summer
+  container-title: Biogeosciences
+  publisher: Copernicus GmbH
+  page: '6999-7011'
+  volume: '12'
+  issue: '23'
+  URL: https://doi.org/10.5194%2Fbg-12-6999-2015
+  DOI: 10.5194/bg-12-6999-2015
+...

@@ -1,0 +1,34 @@
+---
+references:
+- id: ID83155165228
+  type: article-journal
+  author:
+  - family: Vincent
+    given: W. F.
+  - family: Fortier
+    given: D.
+  - family: Lévesque
+    given: E.
+  - family: Boulanger-Lapointe
+    given: N.
+  - family: Tremblay
+    given: B.
+  - family: Sarrazin
+    given: D.
+  - family: Antoniades
+    given: D.
+  - family: Mueller
+    given: D. R.
+  issued:
+  - year: '2011'
+    month: '9'
+  title: 'Extreme ecosystems and geosystems in the Canadian High Arctic: Ward Hunt
+    Island and vicinity'
+  container-title: Écoscience
+  publisher: Informa UK Limited
+  page: '236-261'
+  volume: '18'
+  issue: '3'
+  URL: https://doi.org/10.2980%2F18-3-3448
+  DOI: 10.2980/18-3-3448
+...

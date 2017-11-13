@@ -1,0 +1,47 @@
+---
+references:
+- id: ID84877052875
+  type: article-journal
+  author:
+  - family: Eulaers
+    given: I.
+  - family: Jaspers
+    given: V. L. B.
+  - family: Bustnes
+    given: J. O.
+  - family: Covaci
+    given: A.
+  - family: Johnsen
+    given: T. V.
+  - family: Halley
+    given: D. J.
+  - family: Moum
+    given: T.
+  - family: Ims
+    given: R. A.
+  - family: Hanssen
+    given: S. A.
+  - family: Erikstad
+    given: K. E.
+  - family: Herzke
+    given: D.
+  - family: Sonne
+    given: C.
+  - family: Ballesteros
+    given: M.
+  - family: Pinxten
+    given: R.
+  - family: Eens
+    given: M.
+  issued:
+  - year: '2013'
+    month: '7'
+  title: Ecological and spatial factors drive intra- and interspecific variation in
+    exposure of subarctic predatory bird nestlings to persistent organic pollutants
+  container-title: Environment International
+  publisher: Elsevier BV
+  page: '25-33'
+  volume: '57-58'
+  URL: https://doi.org/10.1016%2Fj.envint.2013.03.009
+  DOI: 10.1016/j.envint.2013.03.009
+...

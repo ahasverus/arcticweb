@@ -1,0 +1,19 @@
+---
+references:
+- id: ID84859588806
+  type: article-journal
+  author:
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2012'
+    month: '4'
+  title: The future of environmental DNA in ecology
+  container-title: Molecular Ecology
+  publisher: Wiley-Blackwell
+  page: '2031-2038'
+  volume: '21'
+  issue: '8'
+  URL: https://doi.org/10.1111%2Fj.1365-294x.2012.05505.x
+  DOI: 10.1111/j.1365-294x.2012.05505.x
+...

@@ -1,0 +1,35 @@
+---
+references:
+- id: ID84880511578
+  type: article-journal
+  author:
+  - family: Meynard
+    given: C. N.
+  - family: Lavergne
+    given: S.
+  - family: Boulangeat
+    given: I.
+  - family: Garraud
+    given: L.
+  - family: Es
+    given: J.
+    dropping-particle: van
+  - family: Mouquet
+    given: N.
+  - family: Thuiller
+    given: W.
+  editor:
+  - family: Gillman
+    given: Len N.
+  issued:
+  - year: '2013'
+    month: '4'
+  title: Disentangling the drivers of metacommunity structure across spatial scales
+  container-title: Journal of Biogeography
+  publisher: Wiley-Blackwell
+  page: '1560-1571'
+  volume: '40'
+  issue: '8'
+  URL: https://doi.org/10.1111%2Fjbi.12116
+  DOI: 10.1111/jbi.12116
+...

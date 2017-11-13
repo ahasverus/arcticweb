@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0038608607
+  type: article-journal
+  author:
+  - family: Søvik
+    given: G.
+  - family: Leinaas
+    given: H. P.
+  - family: Ims
+    given: R. A.
+  - family: Solhøy
+    given: T.
+  issued:
+  - year: '2003'
+    month: '1'
+  title: Population dynamics and life history of the oribatid mite Ameronothrus lineatus
+    (Acari, Oribatida) on the high arctic archipelago of Svalbard
+  container-title: Pedobiologia
+  publisher: Elsevier BV
+  page: '257-271'
+  volume: '47'
+  issue: '3'
+  URL: https://doi.org/10.1078%2F0031-4056-00189
+  DOI: 10.1078/0031-4056-00189
+...

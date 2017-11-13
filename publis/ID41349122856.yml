@@ -1,0 +1,37 @@
+---
+references:
+- id: ID41349122856
+  type: chapter
+  author:
+  - family: Forchhammer
+    given: M. C.
+  - family: Christensen
+    given: T. R.
+  - family: Hansen
+    given: B. U.
+  - family: Tamstorf
+    given: M. P.
+  - family: Schmidt
+    given: N. M.
+  - family: Høye
+    given: T. T.
+  - family: Nabe-Nielsen
+    given: J.
+  - family: Rasch
+    given: M.
+  - family: Meltofte
+    given: H.
+  - family: Elberling
+    given: B.
+  - family: Post
+    given: E.
+  issued:
+  - year: '2008'
+  title: Zackenberg in a Circumpolar Context
+  container-title: High-Arctic Ecosystem Dynamics in a Changing Climate
+  publisher: Elsevier
+  page: '499-544'
+  volume: '40'
+  URL: https://doi.org/10.1016%2Fs0065-2504%2807%2900021-9
+  DOI: 10.1016/s0065-2504(07)00021-9
+...

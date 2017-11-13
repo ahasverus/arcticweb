@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84960915965
+  type: article-journal
+  author:
+  - family: Levi
+    given: T.
+  - family: Massey
+    given: A. L.
+  - family: Holt
+    given: R. D.
+  - family: Keesing
+    given: F.
+  - family: Ostfeld
+    given: R. S.
+  - family: Peres
+    given: C. A.
+  issued:
+  - year: '2016'
+    month: '2'
+  title: Does biodiversity protect humans against infectious disease? Comment
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '536-542'
+  volume: '97'
+  issue: '2'
+  URL: https://doi.org/10.1890%2F15-354.1
+  DOI: 10.1890/15-354.1
+...

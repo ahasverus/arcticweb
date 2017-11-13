@@ -1,0 +1,26 @@
+---
+references:
+- id: ID85028834925
+  type: article-journal
+  author:
+  - family: Teng
+    given: S. N.
+  - family: Xu
+    given: C.
+  - family: Sandel
+    given: B.
+  - family: Svenning
+    given: J.-C.
+  editor:
+  - family: Freckleton
+    given: Robert
+  issued:
+  - year: '2017'
+    month: '9'
+  title: Effects of intrinsic sources of spatial autocorrelation on spatial regression
+    modelling
+  container-title: Methods in Ecology and Evolution
+  publisher: Wiley-Blackwell
+  URL: https://doi.org/10.1111%2F2041-210x.12866
+  DOI: 10.1111/2041-210x.12866
+...

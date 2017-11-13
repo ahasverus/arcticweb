@@ -1,0 +1,30 @@
+---
+references:
+- id: ID34648824463
+  type: article-journal
+  author:
+  - family: Bråthen
+    given: K. A.
+  - family: Ims
+    given: R. A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Fauchald
+    given: P.
+  - family: Tveraa
+    given: T.
+  - family: Hausner
+    given: V. H.
+  issued:
+  - year: '2007'
+    month: '9'
+  title: Induced shift in ecosystem productivity? Extensive scale effects of abundant
+    large herbivores
+  container-title: Ecosystems
+  publisher: Springer Nature
+  page: '773-789'
+  volume: '10'
+  issue: '5'
+  URL: https://doi.org/10.1007%2Fs10021-007-9058-3
+  DOI: 10.1007/s10021-007-9058-3
+...

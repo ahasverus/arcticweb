@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84958279135
+  type: article-journal
+  author:
+  - family: Provencher
+    given: J. F.
+  - family: Gilchrist
+    given: H. G.
+  - family: Mallory
+    given: M. L.
+  - family: Mitchell
+    given: G. W.
+  - family: Forbes
+    given: M. R.
+  issued:
+  - year: '2016'
+    month: '5'
+  title: Direct and indirect causes of sex differences in mercury concentrations and
+    parasitic infections in a marine bird
+  container-title: Science of The Total Environment
+  publisher: Elsevier BV
+  page: '506-512'
+  volume: '551-552'
+  URL: https://doi.org/10.1016%2Fj.scitotenv.2016.02.055
+  DOI: 10.1016/j.scitotenv.2016.02.055
+...

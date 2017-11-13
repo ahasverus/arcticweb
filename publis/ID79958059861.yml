@@ -1,0 +1,34 @@
+---
+references:
+- id: ID79958059861
+  type: article-journal
+  author:
+  - family: Maho
+    given: Y. L.
+  - family: Saraux
+    given: C.
+  - family: Durant
+    given: J. M.
+  - family: Viblanc
+    given: V. A.
+  - family: Gauthier-Clerc
+    given: M.
+  - family: Yoccoz
+    given: N. G.
+  - family: Stenseth
+    given: N. C.
+  - family: Bohec
+    given: C. L.
+  issued:
+  - year: '2011'
+    month: '5'
+  title: 'An ethical issue in biodiversity science: The monitoring of penguins with
+    flipper bands'
+  container-title: Comptes Rendus Biologies
+  publisher: Elsevier BV
+  page: '378-384'
+  volume: '334'
+  issue: '5-6'
+  URL: https://doi.org/10.1016%2Fj.crvi.2011.04.004
+  DOI: 10.1016/j.crvi.2011.04.004
+...

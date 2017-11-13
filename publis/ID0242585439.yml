@@ -1,0 +1,25 @@
+---
+references:
+- id: ID0242585439
+  type: article-journal
+  author:
+  - family: Reale
+    given: D.
+  - family: McAdam
+    given: A. G.
+  - family: Boutin
+    given: S.
+  - family: Berteaux
+    given: D.
+  issued:
+  - year: '2003'
+    month: '3'
+  title: Genetic and plastic responses of a northern mammal to climate change
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '591-596'
+  volume: '270'
+  issue: '1515'
+  URL: https://doi.org/10.1098%2Frspb.2002.2224
+  DOI: 10.1098/rspb.2002.2224
+...

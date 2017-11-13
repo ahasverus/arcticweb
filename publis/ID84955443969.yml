@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84955443969
+  type: article-journal
+  author:
+  - family: Malhi
+    given: Y.
+  - family: Doughty
+    given: C. E.
+  - family: Galetti
+    given: M.
+  - family: Smith
+    given: F. A.
+  - family: Svenning
+    given: J.-C.
+  - family: Terborgh
+    given: J. W.
+  issued:
+  - year: '2016'
+    month: '1'
+  title: Megafauna and ecosystem function from the Pleistocene to the Anthropocene
+  container-title: Proceedings of the National Academy of Sciences
+  publisher: Proceedings of the National Academy of Sciences
+  page: '838-846'
+  volume: '113'
+  issue: '4'
+  URL: https://doi.org/10.1073%2Fpnas.1502540113
+  DOI: 10.1073/pnas.1502540113
+...

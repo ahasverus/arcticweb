@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84962910716
+  type: article-journal
+  author:
+  - family: Schmidt
+    given: N. M.
+  - family: Mosbacher
+    given: J. B.
+  - family: Nielsen
+    given: P. S.
+  - family: Rasmussen
+    given: C.
+  - family: Høye
+    given: T. T.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2016'
+    month: '4'
+  title: An ecological function in crisis? The temporal overlap between plant flowering
+    and pollinator function shrinks as the Arctic warms
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '1250-1252'
+  volume: '39'
+  issue: '12'
+  URL: https://doi.org/10.1111%2Fecog.02261
+  DOI: 10.1111/ecog.02261
+...

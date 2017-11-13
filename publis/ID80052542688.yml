@@ -1,0 +1,126 @@
+---
+references:
+- id: ID80052542688
+  type: article-journal
+  author:
+  - family: Callaghan
+    given: T. V.
+  - family: Tweedie
+    given: C. E.
+  - family: Åkerman
+    given: J.
+  - family: Andrews
+    given: C.
+  - family: Bergstedt
+    given: J.
+  - family: Butler
+    given: M. G.
+  - family: Christensen
+    given: T. R.
+  - family: Cooley
+    given: D.
+  - family: Dahlberg
+    given: U.
+  - family: Danby
+    given: R. K.
+  - family: Daniëls
+    given: F. J. A.
+  - family: Molenaar
+    given: J. G.
+    dropping-particle: de
+  - family: Dick
+    given: J.
+  - family: Mortensen
+    given: C. E.
+  - family: Ebert-May
+    given: D.
+  - family: Emanuelsson
+    given: U.
+  - family: Eriksson
+    given: H.
+  - family: Hedenås
+    given: H.
+  - family: Henry
+    given: G. H. R.
+  - family: Hik
+    given: D. S.
+  - family: Hobbie
+    given: J. E.
+  - family: Jantze
+    given: E. J.
+  - family: Jaspers
+    given: C.
+  - family: Johansson
+    given: C.
+  - family: Johansson
+    given: M.
+  - family: Johnson
+    given: D. R.
+  - family: Johnstone
+    given: J. F.
+  - family: Jonasson
+    given: C.
+  - family: Kennedy
+    given: C.
+  - family: Kenney
+    given: A. J.
+  - family: Keuper
+    given: F.
+  - family: Koh
+    given: S.
+  - family: Krebs
+    given: C. J.
+  - family: Lantuit
+    given: H.
+  - family: Lara
+    given: M. J.
+  - family: Lin
+    given: D.
+  - family: Lougheed
+    given: V. L.
+  - family: Madsen
+    given: J.
+  - family: Matveyeva
+    given: N.
+  - family: McEwen
+    given: D. C.
+  - family: Myers-Smith
+    given: I. H.
+  - family: Narozhniy
+    given: Y. K.
+  - family: Olsson
+    given: H.
+  - family: Pohjola
+    given: V. A.
+  - family: Price
+    given: L. W.
+  - family: Rigét
+    given: F.
+  - family: Rundqvist
+    given: S.
+  - family: Sandström
+    given: A.
+  - family: Tamstorf
+    given: M.
+  - family: Bogaert
+    given: R.
+    dropping-particle: van
+  - family: Villarreal
+    given: S.
+  - family: Webber
+    given: P. J.
+  - family: Zemtsov
+    given: V. A.
+  issued:
+  - year: '2011'
+    month: '8'
+  title: 'Multi-decadal changes in tundra environments and ecosystems: Synthesis
+    of the international Polar year-back to the future project (IPY-BTF)'
+  container-title: AMBIO
+  publisher: Springer Nature
+  page: '705-716'
+  volume: '40'
+  issue: '6'
+  URL: https://doi.org/10.1007%2Fs13280-011-0179-8
+  DOI: 10.1007/s13280-011-0179-8
+...

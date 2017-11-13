@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84896043524
+  type: article-journal
+  author:
+  - family: Mohit
+    given: V.
+  - family: Archambault
+    given: P.
+  - family: Toupoint
+    given: N.
+  - family: Lovejoy
+    given: C.
+  issued:
+  - year: '2014'
+    month: '1'
+  title: Phylogenetic differences in attached and free-living bacterial communities
+    in a temperate coastal lagoon during summer, revealed via high-throughput 16S
+    rRNA gene sequencing
+  container-title: Applied and Environmental Microbiology
+  publisher: American Society for Microbiology
+  page: '2071-2083'
+  volume: '80'
+  issue: '7'
+  URL: https://doi.org/10.1128%2Faem.02916-13
+  DOI: 10.1128/aem.02916-13
+...

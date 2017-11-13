@@ -1,0 +1,32 @@
+---
+references:
+- id: ID33646876612
+  type: article-journal
+  author:
+  - family: Gilg
+    given: O.
+  - family: Sittler
+    given: B.
+  - family: Sabard
+    given: B.
+  - family: Hurstel
+    given: A.
+  - family: Sané
+    given: R.
+  - family: Delattre
+    given: P.
+  - family: Hanski
+    given: I.
+  issued:
+  - year: '2006'
+    month: '5'
+  title: Functional and numerical responses of four lemming predators in high arctic
+    Greenland
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '193-216'
+  volume: '113'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.2006.0030-1299.14125.x
+  DOI: 10.1111/j.2006.0030-1299.14125.x
+...

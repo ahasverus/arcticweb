@@ -1,0 +1,70 @@
+---
+references:
+- id: ID84861670005
+  type: article-journal
+  author:
+  - family: Tscharntke
+    given: T.
+  - family: Tylianakis
+    given: J. M.
+  - family: Rand
+    given: T. A.
+  - family: Didham
+    given: R. K.
+  - family: Fahrig
+    given: L.
+  - family: Batáry
+    given: P.
+  - family: Bengtsson
+    given: J.
+  - family: Clough
+    given: Y.
+  - family: Crist
+    given: T. O.
+  - family: Dormann
+    given: C. F.
+  - family: Ewers
+    given: R. M.
+  - family: Fründ
+    given: J.
+  - family: Holt
+    given: R. D.
+  - family: Holzschuh
+    given: A.
+  - family: Klein
+    given: A. M.
+  - family: Kleijn
+    given: D.
+  - family: Kremen
+    given: C.
+  - family: Landis
+    given: D. A.
+  - family: Laurance
+    given: W.
+  - family: Lindenmayer
+    given: D.
+  - family: Scherber
+    given: C.
+  - family: Sodhi
+    given: N.
+  - family: Steffan-Dewenter
+    given: I.
+  - family: Thies
+    given: C.
+  - family: Putten
+    given: W. H.
+    dropping-particle: van der
+  - family: Westphal
+    given: C.
+  issued:
+  - year: '2012'
+    month: '1'
+  title: Landscape moderation of biodiversity patterns and processes - eight hypotheses
+  container-title: Biological Reviews
+  publisher: Wiley-Blackwell
+  page: '661-685'
+  volume: '87'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1469-185x.2011.00216.x
+  DOI: 10.1111/j.1469-185x.2011.00216.x
+...

@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84939123527
+  type: article-journal
+  author:
+  - family: Fauteux
+    given: D.
+  - family: Gauthier
+    given: G.
+  - family: Berteaux
+    given: D.
+  editor:
+  - family: Ims
+    given: Rolf
+  issued:
+  - year: '2015'
+    month: '7'
+  title: Seasonal demography of a cyclic lemming population in the Canadian Arctic
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '1412-1422'
+  volume: '84'
+  issue: '5'
+  URL: https://doi.org/10.1111%2F1365-2656.12385
+  DOI: 10.1111/1365-2656.12385
+...

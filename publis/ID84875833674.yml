@@ -1,0 +1,88 @@
+---
+references:
+- id: ID84875833674
+  type: article-journal
+  author:
+  - family: Lenoir
+    given: J.
+  - family: Graae
+    given: B. J.
+  - family: Aarrestad
+    given: P. A.
+  - family: Alsos
+    given: I. G.
+  - family: Armbruster
+    given: W. S.
+  - family: Austrheim
+    given: G.
+  - family: Bergendorff
+    given: C.
+  - family: Birks
+    given: H. J. B.
+  - family: Bråthen
+    given: K. A.
+  - family: Brunet
+    given: J.
+  - family: Bruun
+    given: H. H.
+  - family: Dahlberg
+    given: C. J.
+  - family: Decocq
+    given: G.
+  - family: Diekmann
+    given: M.
+  - family: Dynesius
+    given: M.
+  - family: Ejrnaes
+    given: R.
+  - family: Grytnes
+    given: J.-A.
+  - family: Hylander
+    given: K.
+  - family: Klanderud
+    given: K.
+  - family: Luoto
+    given: M.
+  - family: Milbau
+    given: A.
+  - family: Moora
+    given: M.
+  - family: Nygaard
+    given: B.
+  - family: Odland
+    given: A.
+  - family: Ravolainen
+    given: V. T.
+  - family: Reinhardt
+    given: S.
+  - family: Sandvik
+    given: S. M.
+  - family: Schei
+    given: F. H.
+  - family: Speed
+    given: J. D. M.
+  - family: Tveraabak
+    given: L. U.
+  - family: Vandvik
+    given: V.
+  - family: Velle
+    given: L. G.
+  - family: Virtanen
+    given: R.
+  - family: Zobel
+    given: M.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2013'
+    month: '2'
+  title: Local temperatures inferred from plant communities suggest strong spatial
+    buffering of climate warming across Northern Europe
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '1470-1481'
+  volume: '19'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fgcb.12129
+  DOI: 10.1111/gcb.12129
+...

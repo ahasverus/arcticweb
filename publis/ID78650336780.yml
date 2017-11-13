@@ -1,0 +1,38 @@
+---
+references:
+- id: ID78650336780
+  type: article-journal
+  author:
+  - family: Pellissier
+    given: L.
+  - family: Bråthen
+    given: K. A.
+  - family: Pottier
+    given: J.
+  - family: Randin
+    given: C. F.
+  - family: Vittoz
+    given: P.
+  - family: Dubuis
+    given: A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Alm
+    given: T.
+  - family: Zimmermann
+    given: N. E.
+  - family: Guisan
+    given: A.
+  issued:
+  - year: '2010'
+    month: '11'
+  title: Species distribution models reveal apparent competitive and facilitative
+    effects of a dominant species on the distribution of tundra plants
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '1004-1014'
+  volume: '33'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1600-0587.2010.06386.x
+  DOI: 10.1111/j.1600-0587.2010.06386.x
+...

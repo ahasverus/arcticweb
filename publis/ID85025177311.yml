@@ -1,0 +1,26 @@
+---
+references:
+- id: ID85025177311
+  type: article-journal
+  author:
+  - family: Fauteux
+    given: D.
+  - family: Slevan-Tremblay
+    given: G.
+  - family: Gauthier
+    given: G.
+  - family: Berteaux
+    given: D.
+  issued:
+  - year: '2017'
+    month: '7'
+  title: Feeding preference of brown lemmings (Lemmus trimucronatus) for plant parts
+    of Arctic willow (Salix arctica)
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '2329-2334'
+  volume: '40'
+  issue: '11'
+  URL: https://doi.org/10.1007%2Fs00300-017-2147-7
+  DOI: 10.1007/s00300-017-2147-7
+...

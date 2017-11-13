@@ -1,0 +1,28 @@
+---
+references:
+- id: ID77649339973
+  type: article-journal
+  author:
+  - family: Legagneux
+    given: P.
+  - family: Théry
+    given: M.
+  - family: Guillemain
+    given: M.
+  - family: Gomez
+    given: D.
+  - family: Bretagnolle
+    given: V.
+  issued:
+  - year: '2010'
+    month: '3'
+  title: Condition dependence of iridescent wing flash-marks in two species of dabbling
+    ducks
+  container-title: Behavioural Processes
+  publisher: Elsevier BV
+  page: '324-330'
+  volume: '83'
+  issue: '3'
+  URL: https://doi.org/10.1016%2Fj.beproc.2010.01.017
+  DOI: 10.1016/j.beproc.2010.01.017
+...

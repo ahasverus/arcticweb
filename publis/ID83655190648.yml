@@ -1,0 +1,21 @@
+---
+references:
+- id: ID83655190648
+  type: article-journal
+  author:
+  - family: Desjardins-Proulx
+    given: P.
+  - family: Gravel
+    given: D.
+  issued:
+  - year: '2012'
+    month: '1'
+  title: How likely is speciation in neutral ecology?
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '137-144'
+  volume: '179'
+  issue: '1'
+  URL: https://doi.org/10.1086%2F663196
+  DOI: 10.1086/663196
+...

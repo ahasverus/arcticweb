@@ -1,0 +1,27 @@
+---
+references:
+- id: ID57549103744
+  type: article-journal
+  author:
+  - family: Krebs
+    given: C. J.
+  - family: Carrier
+    given: P.
+  - family: Boutin
+    given: S.
+  - family: Boonstra
+    given: R.
+  - family: Hofer
+    given: E.
+  issued:
+  - year: '2008'
+    month: '12'
+  title: Mushroom crops in relation to weather in the southwestern Yukon
+  container-title: Botany
+  publisher: Canadian Science Publishing
+  page: '1497-1502'
+  volume: '86'
+  issue: '12'
+  URL: https://doi.org/10.1139%2Fb08-094
+  DOI: 10.1139/b08-094
+...

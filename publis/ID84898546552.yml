@@ -1,0 +1,52 @@
+---
+references:
+- id: ID84898546552
+  type: article-journal
+  author:
+  - family: Münkemüller
+    given: T.
+  - family: Gallien
+    given: L.
+  - family: Lavergne
+    given: S.
+  - family: Renaud
+    given: J.
+  - family: Roquet
+    given: C.
+  - family: Abdulhak
+    given: S.
+  - family: Dullinger
+    given: S.
+  - family: Garraud
+    given: L.
+  - family: Guisan
+    given: A.
+  - family: Lenoir
+    given: J.
+  - family: Svenning
+    given: J.-C.
+  - family: Es
+    given: J.
+    dropping-particle: van
+  - family: Vittoz
+    given: P.
+  - family: Willner
+    given: W.
+  - family: Wohlgemuth
+    given: T.
+  - family: Zimmermann
+    given: N. E.
+  - family: Thuiller
+    given: W.
+  issued:
+  - year: '2013'
+    month: '12'
+  title: Scale decisions can reverse conclusions on community assembly processes
+  container-title: Global Ecology and Biogeography
+  publisher: Wiley-Blackwell
+  page: '620-632'
+  volume: '23'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fgeb.12137
+  DOI: 10.1111/geb.12137
+...

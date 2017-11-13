@@ -1,0 +1,35 @@
+---
+references:
+- id: ID84903973512
+  type: article-journal
+  author:
+  - family: Stapleton
+    given: S.
+  - family: Larue
+    given: M.
+  - family: Lecomte
+    given: N.
+  - family: Atkinson
+    given: S.
+  - family: Garshelis
+    given: D.
+  - family: Porter
+    given: C.
+  - family: Atwood
+    given: T.
+  editor:
+  - family: Ropert-Coudert
+    given: Yan
+  issued:
+  - year: '2014'
+    month: '7'
+  title: 'Polar bears from space: Assessing satellite imagery as a tool to track
+    arctic wildlife'
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e101513'
+  volume: '9'
+  issue: '7'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0101513
+  DOI: 10.1371/journal.pone.0101513
+...

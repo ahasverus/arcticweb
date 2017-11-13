@@ -1,0 +1,28 @@
+---
+references:
+- id: ID78650276316
+  type: article-journal
+  author:
+  - family: Zeyl
+    given: E.
+  - family: Ehrich
+    given: D.
+  - family: Aars
+    given: J.
+  - family: Bachmann
+    given: L.
+  - family: Wiig
+    given: Ø.
+  issued:
+  - year: '2010'
+    month: '12'
+  title: Denning-area fidelity and mitochondrial DNA diversity of female polar bears
+    (Ursus maritimus) in the Barents sea
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '1139-1148'
+  volume: '88'
+  issue: '12'
+  URL: https://doi.org/10.1139%2Fz10-078
+  DOI: 10.1139/z10-078
+...

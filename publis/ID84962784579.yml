@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84962784579
+  type: article-journal
+  author:
+  - family: Faurby
+    given: S.
+  - family: Eiserhardt
+    given: W. L.
+  - family: Baker
+    given: W. J.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2016'
+    month: '7'
+  title: An all-evidence species-level supertree for the palms (Arecaceae)
+  container-title: Molecular Phylogenetics and Evolution
+  publisher: Elsevier BV
+  page: '57-69'
+  volume: '100'
+  URL: https://doi.org/10.1016%2Fj.ympev.2016.03.002
+  DOI: 10.1016/j.ympev.2016.03.002
+...

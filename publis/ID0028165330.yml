@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0028165330
+  type: article-journal
+  author:
+  - family: Angerbjörn
+    given: A.
+  - family: Hersteinsson
+    given: P.
+  - family: Lidén
+    given: K.
+  - family: Nelson
+    given: E.
+  issued:
+  - year: '1994'
+    month: '9'
+  title: Dietary variation in arctic foxes (Alopex lagopus)-an analysis of stable
+    carbon isotopes
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '226-232'
+  volume: '99'
+  issue: '3-4'
+  URL: https://doi.org/10.1007%2Fbf00627734
+  DOI: 10.1007/bf00627734
+...

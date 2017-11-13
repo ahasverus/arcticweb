@@ -1,0 +1,27 @@
+---
+references:
+- id: ID62849124709
+  type: article-journal
+  author:
+  - family: Arrigo
+    given: N.
+  - family: Tuszynski
+    given: J. W.
+  - family: Ehrich
+    given: D.
+  - family: Gerdes
+    given: T.
+  - family: Alvarez
+    given: N.
+  issued:
+  - year: '2009'
+  title: Evaluating the impact of scoring parameters on the structure of intra-specific
+    genetic variation using RawGeno, an R package for automating AFLP scoring
+  container-title: BMC Bioinformatics
+  publisher: Springer Nature
+  page: '33'
+  volume: '10'
+  issue: '1'
+  URL: https://doi.org/10.1186%2F1471-2105-10-33
+  DOI: 10.1186/1471-2105-10-33
+...

@@ -1,0 +1,26 @@
+---
+references:
+- id: ID33645096284
+  type: article-journal
+  author:
+  - family: Klaassen
+    given: M.
+  - family: Bauer
+    given: S.
+  - family: Madsen
+    given: J.
+  - family: Tombre
+    given: I.
+  issued:
+  - year: '2005'
+    month: '11'
+  title: Modelling behavioural and fitness consequences of disturbance for geese along
+    their spring flyway
+  container-title: Journal of Applied Ecology
+  publisher: Wiley-Blackwell
+  page: '92-100'
+  volume: '43'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1365-2664.2005.01109.x
+  DOI: 10.1111/j.1365-2664.2005.01109.x
+...

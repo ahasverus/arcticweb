@@ -1,0 +1,26 @@
+---
+references:
+- id: ID2342477368
+  type: article-journal
+  author:
+  - family: Langvatn
+    given: R.
+  - family: Mysterud
+    given: A.
+  - family: Stenseth
+    given: N. C.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2004'
+    month: '5'
+  title: Timing and synchrony of ovulation in red deer constrained by short northern
+    summers
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '763-772'
+  volume: '163'
+  issue: '5'
+  URL: https://doi.org/10.1086%2F383594
+  DOI: 10.1086/383594
+...

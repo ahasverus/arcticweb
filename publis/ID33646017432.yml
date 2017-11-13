@@ -1,0 +1,36 @@
+---
+references:
+- id: ID33646017432
+  type: article-journal
+  author:
+  - family: Basset
+    given: P.
+  - family: Yannic
+    given: G.
+  - family: Yang
+    given: F.
+  - family: O'Brien
+    given: P. C. M.
+  - family: Graphodatsky
+    given: A. S.
+  - family: Ferguson-Smith
+    given: M. A.
+  - family: Balmus
+    given: G.
+  - family: Volobouev
+    given: V. T.
+  - family: Hausser
+    given: J.
+  issued:
+  - year: '2006'
+    month: '4'
+  title: Chromosome localization of microsatellite markers in the shrews of the Sorex
+    araneus group
+  container-title: Chromosome Research
+  publisher: Springer Nature
+  page: '253-262'
+  volume: '14'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs10577-006-1041-x
+  DOI: 10.1007/s10577-006-1041-x
+...

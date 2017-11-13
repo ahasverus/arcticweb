@@ -1,0 +1,19 @@
+---
+references:
+- id: ID0021082793
+  type: article-journal
+  author:
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '1983'
+    month: '10'
+  title: Optimal foraging and the form of the predator isocline.
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '521-541'
+  volume: '122'
+  issue: '4'
+  URL: https://doi.org/10.1086%2F284153
+  DOI: 10.1086/284153
+...

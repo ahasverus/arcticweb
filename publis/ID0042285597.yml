@@ -1,0 +1,28 @@
+---
+references:
+- id: ID0042285597
+  type: article-journal
+  author:
+  - family: Packer
+    given: C.
+  - family: Holt
+    given: R. D.
+  - family: Hudson
+    given: P. J.
+  - family: Lafferty
+    given: K. D.
+  - family: Dobson
+    given: A. P.
+  issued:
+  - year: '2003'
+    month: '9'
+  title: 'Keeping the herds healthy and alert: Implications of predator control
+    for infectious disease'
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '797-802'
+  volume: '6'
+  issue: '9'
+  URL: https://doi.org/10.1046%2Fj.1461-0248.2003.00500.x
+  DOI: 10.1046/j.1461-0248.2003.00500.x
+...

@@ -1,0 +1,26 @@
+---
+references:
+- id: ID62949228455
+  type: article-journal
+  author:
+  - family: Sheriff
+    given: M. J.
+  - family: Bosson
+    given: C. O.
+  - family: Krebs
+    given: C. J.
+  - family: Boonstra
+    given: R.
+  issued:
+  - year: '2008'
+    month: '11'
+  title: A non-invasive technique for analyzing fecal cortisol metabolites in snowshoe
+    hares (Lepus americanus)
+  container-title: Journal of Comparative Physiology B
+  publisher: Springer Nature
+  page: '305-313'
+  volume: '179'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs00360-008-0314-4
+  DOI: 10.1007/s00360-008-0314-4
+...

@@ -1,0 +1,32 @@
+---
+references:
+- id: ID45449087041
+  type: article-journal
+  author:
+  - family: Mallory
+    given: M. L.
+  - family: Gaston
+    given: A. J.
+  - family: Forbes
+    given: M. R.
+  - family: Gilchrist
+    given: H. G.
+  - family: Cheney
+    given: B.
+  - family: Lewis
+    given: S.
+  - family: Thompson
+    given: P. M.
+  issued:
+  - year: '2008'
+    month: '5'
+  title: 'Flexible incubation rhythm in northern fulmars: A comparison between oceanographic
+    zones'
+  container-title: Marine Biology
+  publisher: Springer Nature
+  page: '1031-1040'
+  volume: '154'
+  issue: '6'
+  URL: https://doi.org/10.1007%2Fs00227-008-0994-z
+  DOI: 10.1007/s00227-008-0994-z
+...

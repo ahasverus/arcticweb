@@ -1,0 +1,28 @@
+---
+references:
+- id: ID33847673285
+  type: article-journal
+  author:
+  - family: Glahder
+    given: C. M.
+  - family: Fox
+    given: A. D.
+  - family: O’connell
+    given: M.
+  - family: Jespersen
+    given: M.
+  - family: Madsen
+    given: J.
+  issued:
+  - year: '2007'
+    month: '1'
+  title: Eastward moult migration of non-breeding pink-footed geese (Anser brachyrhynchus)
+    in Svalbard
+  container-title: Polar Research
+  publisher: Informa UK Limited
+  page: '31-36'
+  volume: '26'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1751-8369.2007.00006.x
+  DOI: 10.1111/j.1751-8369.2007.00006.x
+...

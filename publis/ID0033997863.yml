@@ -1,0 +1,22 @@
+---
+references:
+- id: ID0033997863
+  type: article-journal
+  author:
+  - family: Hochberg
+  - family: Gomulkiewicz
+  - family: Holt
+  - family: Thompson
+  issued:
+  - year: '2000'
+    month: '3'
+  title: Weak sinks could cradle mutualistic symbioses - Strong sources should harbour
+    parasitic symbioses
+  container-title: Journal of Evolutionary Biology
+  publisher: Wiley-Blackwell
+  page: '213-222'
+  volume: '13'
+  issue: '2'
+  URL: https://doi.org/10.1046%2Fj.1420-9101.2000.00157.x
+  DOI: 10.1046/j.1420-9101.2000.00157.x
+...

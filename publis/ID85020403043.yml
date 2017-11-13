@@ -1,0 +1,33 @@
+---
+references:
+- id: ID85020403043
+  type: article-journal
+  author:
+  - family: Gaillard
+    given: B.
+  - family: Meziane
+    given: T.
+  - family: Tremblay
+    given: R.
+  - family: Archambault
+    given: P.
+  - family: Blicher
+    given: M.
+  - family: Chauvaud
+    given: L.
+  - family: Rysgaard
+    given: S.
+  - family: Olivier
+    given: F.
+  issued:
+  - year: '2017'
+    month: '3'
+  title: 'Food resources of the bivalve Astarte elliptica in a sub-Arctic fjord:
+    A multi-biomarker approach'
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '139-156'
+  volume: '567'
+  URL: https://doi.org/10.3354%2Fmeps12036
+  DOI: 10.3354/meps12036
+...

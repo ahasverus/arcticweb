@@ -1,0 +1,31 @@
+---
+references:
+- id: ID31844435299
+  type: article-journal
+  author:
+  - family: Lecomte
+    given: N.
+  - family: Kuntz
+    given: G.
+  - family: Lambert
+    given: N.
+  - family: Gendner
+    given: J.-P.
+  - family: Handrich
+    given: Y.
+  - family: Maho
+    given: Y. L.
+  - family: Bost
+    given: C.-A.
+  issued:
+  - year: '2006'
+    month: '2'
+  title: Alloparental feeding in the king penguin
+  container-title: Animal Behaviour
+  publisher: Elsevier BV
+  page: '457-462'
+  volume: '71'
+  issue: '2'
+  URL: https://doi.org/10.1016%2Fj.anbehav.2005.07.007
+  DOI: 10.1016/j.anbehav.2005.07.007
+...

@@ -1,0 +1,29 @@
+---
+references:
+- id: ID85026789358
+  type: article-journal
+  author:
+  - family: Landvik
+    given: M.
+  - family: Miraldo
+    given: A.
+  - family: Niemelä
+    given: P.
+  - family: Valainis
+    given: U.
+  - family: Cibulskis
+    given: R.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2017'
+    month: '7'
+  title: Evidence for geographic substructuring of mtDNA variation in the East European
+    Hermit beetle (Osmoderma barnabita)
+  container-title: Nature Conservation
+  publisher: Pensoft Publishers
+  page: '171-189'
+  volume: '19'
+  URL: https://doi.org/10.3897%2Fnatureconservation.19.12877
+  DOI: 10.3897/natureconservation.19.12877
+...

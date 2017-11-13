@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84866467326
+  type: article-journal
+  author:
+  - family: Mandin
+    given: C.
+  - family: Vézina
+    given: F.
+  editor:
+  - family: Alistair
+    given: Dawson
+  issued:
+  - year: '2012'
+    month: '9'
+  title: Daily variation in markers of nutritional condition in wintering Black-capped
+    Chickadees Poecile atricapillus
+  container-title: Ibis
+  publisher: Wiley-Blackwell
+  page: '791-802'
+  volume: '154'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1474-919x.2012.01262.x
+  DOI: 10.1111/j.1474-919x.2012.01262.x
+...

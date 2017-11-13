@@ -1,0 +1,27 @@
+---
+references:
+- id: ID85015270120
+  type: article-journal
+  author:
+  - family: Balsby
+    given: T. J. S.
+  - family: Clausen
+    given: P.
+  - family: Krause-Jensen
+    given: D.
+  - family: Carstensen
+    given: J.
+  - family: Madsen
+    given: J.
+  issued:
+  - year: '2017'
+    month: '1'
+  title: Long-term patterns of eelgrass (Zostera marina) occurrence and associated
+    herbivorous waterbirds in a danish coastal inlet
+  container-title: Frontiers in Marine Science
+  publisher: Frontiers Media SA
+  volume: '3'
+  issue: JAN
+  URL: https://doi.org/10.3389%2Ffmars.2016.00285
+  DOI: 10.3389/fmars.2016.00285
+...

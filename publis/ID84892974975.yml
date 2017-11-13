@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84892974975
+  type: article-journal
+  author:
+  - family: Odden
+    given: M.
+  - family: Ims
+    given: R. A.
+  - family: Støen
+    given: O. G.
+  - family: Swenson
+    given: J. E.
+  - family: Andreassen
+    given: H. P.
+  issued:
+  - year: '2014'
+    month: '1'
+  title: 'Bears are simply voles writ large: Social structure determines the mechanisms
+    of intrinsic population regulation in mammals'
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '1-10'
+  volume: '175'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs00442-014-2892-z
+  DOI: 10.1007/s00442-014-2892-z
+...

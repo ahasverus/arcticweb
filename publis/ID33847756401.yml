@@ -1,0 +1,26 @@
+---
+references:
+- id: ID33847756401
+  type: article-journal
+  author:
+  - family: Meltofte
+    given: H.
+  - family: Høye
+    given: T. T.
+  - family: Schmidt
+    given: N. M.
+  - family: Forchhammer
+    given: M. C.
+  issued:
+  - year: '2006'
+    month: '11'
+  title: Differences in food abundance cause inter-annual variation in the breeding
+    phenology of High Arctic waders
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '601-606'
+  volume: '30'
+  issue: '5'
+  URL: https://doi.org/10.1007%2Fs00300-006-0219-1
+  DOI: 10.1007/s00300-006-0219-1
+...

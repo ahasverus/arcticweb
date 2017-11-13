@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84900393272
+  type: article-journal
+  author:
+  - family: Saalfeld
+    given: S. T.
+  - family: Lanctot
+    given: R. B.
+  - family: Brown
+    given: S. C.
+  - family: Saalfeld
+    given: D. T.
+  - family: Johnson
+    given: J. A.
+  - family: Andres
+    given: B. A.
+  - family: Bart
+    given: J. R.
+  issued:
+  - year: '2013'
+    month: '1'
+  title: Predicting breeding shorebird distributions on the arctic coastal plain of
+    alaska
+  container-title: Ecosphere
+  publisher: Wiley-Blackwell
+  page: art16
+  volume: '4'
+  issue: '1'
+  URL: https://doi.org/10.1890%2Fes12-00292.1
+  DOI: 10.1890/es12-00292.1
+...

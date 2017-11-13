@@ -1,0 +1,21 @@
+---
+references:
+- id: ID84985379466
+  type: article-journal
+  author:
+  - family: Boonstra
+    given: R.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '2009'
+    month: '8'
+  title: The effect of odour on trap response in Microtus townsendii
+  container-title: Journal of Zoology
+  publisher: Wiley-Blackwell
+  page: '467-476'
+  volume: '180'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1469-7998.1976.tb04692.x
+  DOI: 10.1111/j.1469-7998.1976.tb04692.x
+...

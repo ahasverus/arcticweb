@@ -1,0 +1,19 @@
+---
+references:
+- id: ID0038834600
+  type: article-journal
+  author:
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '1993'
+    month: '12'
+  title: Infectious diseases of wildlife, in theory and in practice
+  container-title: Trends in Ecology & Evolution
+  publisher: Elsevier BV
+  page: '423-425'
+  volume: '8'
+  issue: '12'
+  URL: https://doi.org/10.1016%2F0169-5347%2893%2990001-6
+  DOI: 10.1016/0169-5347(93)90001-6
+...

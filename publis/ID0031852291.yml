@@ -1,0 +1,27 @@
+---
+references:
+- id: ID0031852291
+  type: article-journal
+  author:
+  - family: Portier
+    given: C.
+  - family: Festa-Bianchet
+    given: M.
+  - family: Gaillard
+    given: J.-M.
+  - family: Jorgenson
+    given: J. T.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '1998'
+    month: '7'
+  title: Effects of density and weather on survival of bighorn sheep lambs (Ovis canadensis)
+  container-title: Journal of Zoology
+  publisher: Wiley-Blackwell
+  page: '271-278'
+  volume: '245'
+  issue: '3'
+  URL: https://doi.org/10.1017%2Fs0952836998007043
+  DOI: 10.1017/s0952836998007043
+...

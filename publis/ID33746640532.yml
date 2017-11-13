@@ -1,0 +1,31 @@
+---
+references:
+- id: ID33746640532
+  type: article-journal
+  author:
+  - family: Svenning
+    given: J.-C.
+  - family: Engelbrecht
+    given: B. M. J.
+  - family: Kinner
+    given: D. A.
+  - family: Kursar
+    given: T. A.
+  - family: Stallard
+    given: R. F.
+  - family: Wright
+    given: S. J.
+  issued:
+  - year: '2006'
+    month: '7'
+  title: The relative roles of environment, history and local dispersal in controlling
+    the distributions of common tree and shrub species in a tropical forest landscape,
+    Panama
+  container-title: Journal of Tropical Ecology
+  publisher: Cambridge University Press (CUP)
+  page: '575-586'
+  volume: '22'
+  issue: '05'
+  URL: https://doi.org/10.1017%2Fs0266467406003348
+  DOI: 10.1017/s0266467406003348
+...

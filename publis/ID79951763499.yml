@@ -1,0 +1,29 @@
+---
+references:
+- id: ID79951763499
+  type: article-journal
+  author:
+  - family: Massol
+    given: F.
+  - family: Gravel
+    given: D.
+  - family: Mouquet
+    given: N.
+  - family: Cadotte
+    given: M. W.
+  - family: Fukami
+    given: T.
+  - family: Leibold
+    given: M. A.
+  issued:
+  - year: '2011'
+    month: '1'
+  title: Linking community and ecosystem dynamics through spatial ecology
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '313-323'
+  volume: '14'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1461-0248.2011.01588.x
+  DOI: 10.1111/j.1461-0248.2011.01588.x
+...

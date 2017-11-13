@@ -1,0 +1,21 @@
+---
+references:
+- id: ID0020918556
+  type: article-journal
+  author:
+  - family: Caughley
+    given: G.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '1983'
+    month: '8'
+  title: Are big mammals simply little mammals writ large?
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '7-17'
+  volume: '59'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fbf00388066
+  DOI: 10.1007/bf00388066
+...

@@ -1,0 +1,23 @@
+---
+references:
+- id: ID84956658969
+  type: article-journal
+  author:
+  - family: Doughty
+    given: C. E.
+  - family: Faurby
+    given: S.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2015'
+    month: '9'
+  title: The impact of the megafauna extinctions on savanna woody cover in South America
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '213-222'
+  volume: '39'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fecog.01593
+  DOI: 10.1111/ecog.01593
+...

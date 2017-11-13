@@ -1,0 +1,28 @@
+---
+references:
+- id: ID77954154132
+  type: article-journal
+  author:
+  - family: Smith
+    given: P. A.
+  - family: Gilchrist
+    given: H. G.
+  - family: Forbes
+    given: M. R.
+  - family: Martin
+    given: J.-L.
+  - family: Allard
+    given: K.
+  issued:
+  - year: '2010'
+    month: '6'
+  title: 'Inter-annual variation in the breeding chronology of arctic shorebirds:
+    Effects of weather, snow melt and predators'
+  container-title: Journal of Avian Biology
+  publisher: Wiley-Blackwell
+  page: '292-304'
+  volume: '41'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1600-048x.2009.04815.x
+  DOI: 10.1111/j.1600-048x.2009.04815.x
+...

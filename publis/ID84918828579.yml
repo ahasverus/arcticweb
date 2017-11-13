@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84918828579
+  type: article-journal
+  author:
+  - family: Ponchon
+    given: A.
+  - family: Garnier
+    given: R.
+  - family: Grémillet
+    given: D.
+  - family: Boulinier
+    given: T.
+  editor:
+  - family: Heikkinen
+    given: Risto
+  issued:
+  - year: '2014'
+    month: '10'
+  title: 'Predicting population responses to environmental change: The importance
+    of considering informed dispersal strategies in spatially structured population
+    models'
+  container-title: Diversity and Distributions
+  publisher: Wiley-Blackwell
+  page: '88-100'
+  volume: '21'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fddi.12273
+  DOI: 10.1111/ddi.12273
+...

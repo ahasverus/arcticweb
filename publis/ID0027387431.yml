@@ -1,0 +1,22 @@
+---
+references:
+- id: ID0027387431
+  type: article-journal
+  author:
+  - family: Yoccoz
+    given: N. G.
+  - family: Engen
+    given: S.
+  issued:
+  - year: '1993'
+    month: '1'
+  title: 'Optimal foraging: the importance of environmental stochasticity and accuracy
+    in parameter estimation'
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '139-157'
+  volume: '141'
+  issue: '1'
+  URL: https://doi.org/10.1086%2F285465
+  DOI: 10.1086/285465
+...

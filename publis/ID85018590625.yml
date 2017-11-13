@@ -1,0 +1,30 @@
+---
+references:
+- id: ID85018590625
+  type: article-journal
+  author:
+  - family: Delmas
+    given: E.
+  - family: Brose
+    given: U.
+  - family: Gravel
+    given: D.
+  - family: Stouffer
+    given: D. B.
+  - family: Poisot
+    given: T.
+  editor:
+  - family: Fitzjohn
+    given: Richard
+  issued:
+  - year: '2017'
+    month: '4'
+  title: Simulations of biomass dynamics in community food webs
+  container-title: Methods in Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '881-886'
+  volume: '8'
+  issue: '7'
+  URL: https://doi.org/10.1111%2F2041-210x.12713
+  DOI: 10.1111/2041-210x.12713
+...

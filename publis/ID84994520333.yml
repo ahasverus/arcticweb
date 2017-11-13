@@ -1,0 +1,42 @@
+---
+references:
+- id: ID84994520333
+  type: article-journal
+  author:
+  - family: Gilg
+    given: O.
+  - family: Istomina
+    given: L.
+  - family: Heygster
+    given: G.
+  - family: Strøm
+    given: H.
+  - family: Gavrilo
+    given: M. V.
+  - family: Mallory
+    given: M. L.
+  - family: Gilchrist
+    given: G.
+  - family: Aebischer
+    given: A.
+  - family: Sabard
+    given: B.
+  - family: Huntemann
+    given: M.
+  - family: Mosbech
+    given: A.
+  - family: Yannic
+    given: G.
+  issued:
+  - year: '2016'
+    month: '11'
+  title: 'Living on the edge of a shrinking habitat: The ivory gull, Pagophila eburnea,
+    an endangered sea-ice specialist'
+  container-title: Biology Letters
+  publisher: The Royal Society
+  page: '20160277'
+  volume: '12'
+  issue: '11'
+  URL: https://doi.org/10.1098%2Frsbl.2016.0277
+  DOI: 10.1098/rsbl.2016.0277
+...

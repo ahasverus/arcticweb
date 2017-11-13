@@ -1,0 +1,26 @@
+---
+references:
+- id: ID79955500564
+  type: article-journal
+  author:
+  - family: Descamps
+    given: S.
+  - family: Bêty
+    given: J.
+  - family: Love
+    given: O. P.
+  - family: Gilchrist
+    given: H. G.
+  issued:
+  - year: '2010'
+    month: '12'
+  title: 'Individual optimization of reproduction in a long-lived migratory bird:
+    A test of the condition-dependent model of laying date and clutch size'
+  container-title: Functional Ecology
+  publisher: Wiley-Blackwell
+  page: '671-681'
+  volume: '25'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1365-2435.2010.01824.x
+  DOI: 10.1111/j.1365-2435.2010.01824.x
+...

@@ -1,0 +1,24 @@
+---
+references:
+- id: ID34249789897
+  type: article-journal
+  author:
+  - family: Long
+    given: Z. T.
+  - family: Petchey
+    given: O. L.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2007'
+    month: '7'
+  title: The effects of immigration and environmental variability on the persistence
+    of an inferior competitor
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '574-585'
+  volume: '10'
+  issue: '7'
+  URL: https://doi.org/10.1111%2Fj.1461-0248.2007.01049.x
+  DOI: 10.1111/j.1461-0248.2007.01049.x
+...

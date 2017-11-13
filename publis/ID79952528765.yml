@@ -1,0 +1,24 @@
+---
+references:
+- id: ID79952528765
+  type: article-journal
+  author:
+  - family: Sénéchal
+    given: D.
+  - family: Bêty
+    given: J.
+  - family: Gilchrist
+    given: H. G.
+  issued:
+  - year: '2010'
+    month: '12'
+  title: Interactions between lay date, clutch size, and postlaying energetic needs
+    in a capital breeder
+  container-title: Behavioral Ecology
+  publisher: Oxford University Press (OUP)
+  page: '162-168'
+  volume: '22'
+  issue: '1'
+  URL: https://doi.org/10.1093%2Fbeheco%2Farq189
+  DOI: 10.1093/beheco/arq189
+...

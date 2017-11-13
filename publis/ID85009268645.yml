@@ -1,0 +1,36 @@
+---
+references:
+- id: ID85009268645
+  type: article-journal
+  author:
+  - family: Descamps
+    given: S.
+  - family: Aars
+    given: J.
+  - family: Fuglei
+    given: E.
+  - family: Kovacs
+    given: K. M.
+  - family: Lydersen
+    given: C.
+  - family: Pavlova
+    given: O.
+  - family: Pedersen
+    given: S. Ø.
+  - family: Ravolainen
+    given: V.
+  - family: Strøm
+    given: H.
+  issued:
+  - year: '2016'
+    month: '6'
+  title: Climate change impacts on wildlife in a High Arctic archipelago – Svalbard,
+    Norway
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '490-502'
+  volume: '23'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fgcb.13381
+  DOI: 10.1111/gcb.13381
+...

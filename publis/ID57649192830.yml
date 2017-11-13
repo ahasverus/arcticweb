@@ -1,0 +1,27 @@
+---
+references:
+- id: ID57649192830
+  type: article-journal
+  author:
+  - family: Legagneux
+    given: P.
+  - family: Blaize
+    given: C.
+  - family: Latraube
+    given: F.
+  - family: Gautier
+    given: J.
+  - family: Bretagnolle
+    given: V.
+  issued:
+  - year: '2008'
+    month: '7'
+  title: Variation in home-range size and movements of wintering dabbling ducks
+  container-title: Journal of Ornithology
+  publisher: Springer Nature
+  page: '183-193'
+  volume: '150'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs10336-008-0333-7
+  DOI: 10.1007/s10336-008-0333-7
+...

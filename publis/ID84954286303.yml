@@ -1,0 +1,43 @@
+---
+references:
+- id: ID84954286303
+  type: article-journal
+  author:
+  - family: Karger
+    given: D. N.
+  - family: Cord
+    given: A. F.
+  - family: Kessler
+    given: M.
+  - family: Kreft
+    given: H.
+  - family: Kühn
+    given: I.
+  - family: Pompe
+    given: S.
+  - family: Sandel
+    given: B.
+  - family: Cabral
+    given: J. S.
+  - family: Smith
+    given: A. B.
+  - family: Svenning
+    given: J.-C.
+  - family: Tuomisto
+    given: H.
+  - family: Weigelt
+    given: P.
+  - family: Wesche
+    given: K.
+  issued:
+  - year: '2016'
+    month: '1'
+  title: Delineating probabilistic species pools in ecology and biogeography
+  container-title: Global Ecology and Biogeography
+  publisher: Wiley-Blackwell
+  page: '489-501'
+  volume: '25'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fgeb.12422
+  DOI: 10.1111/geb.12422
+...

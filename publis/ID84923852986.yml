@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84923852986
+  type: article-journal
+  author:
+  - family: Beaune
+    given: D.
+  - family: Bollache
+    given: L.
+  - family: Fruth
+    given: B.
+  - family: Bretagnolle
+    given: F.
+  - family: Hohmann
+    given: G.
+  issued:
+  - year: '2015'
+    month: '2'
+  title: Can fruiting plants control animal behaviour and seed dispersal distance?
+  container-title: Behaviour
+  publisher: Brill Academic Publishers
+  page: '359-374'
+  volume: '152'
+  issue: '3-4'
+  URL: https://doi.org/10.1163%2F1568539x-00003205
+  DOI: 10.1163/1568539x-00003205
+...

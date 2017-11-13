@@ -1,0 +1,30 @@
+---
+references:
+- id: ID80052951590
+  type: article-journal
+  author:
+  - family: Normand
+    given: S.
+  - family: Ricklefs
+    given: R. E.
+  - family: Skov
+    given: F.
+  - family: Bladt
+    given: J.
+  - family: Tackenberg
+    given: O.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2011'
+    month: '5'
+  title: Postglacial migration supplements climate in determining plant species ranges
+    in Europe
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '3644-3653'
+  volume: '278'
+  issue: '1725'
+  URL: https://doi.org/10.1098%2Frspb.2010.2769
+  DOI: 10.1098/rspb.2010.2769
+...

@@ -1,0 +1,80 @@
+---
+references:
+- id: ID84956653582
+  type: article-journal
+  author:
+  - family: Stewart
+    given: L.
+  - family: Alsos
+    given: I. G.
+  - family: Bay
+    given: C.
+  - family: Breen
+    given: A. L.
+  - family: Brochmann
+    given: C.
+  - family: Boulanger-Lapointe
+    given: N.
+  - family: Broennimann
+    given: O.
+  - family: Bültmann
+    given: H.
+  - family: Bøcher
+    given: P. K.
+  - family: Damgaard
+    given: C.
+  - family: Daniëls
+    given: F. J. A.
+  - family: Ehrich
+    given: D.
+  - family: Eidesen
+    given: P. B.
+  - family: Guisan
+    given: A.
+  - family: Jónsdóttir
+    given: I. S.
+  - family: Lenoir
+    given: J.
+  - family: Roux
+    given: P. C. L.
+  - family: Lévesque
+    given: E.
+  - family: Luoto
+    given: M.
+  - family: Nabe-Nielsen
+    given: J.
+  - family: Schönswetter
+    given: P.
+  - family: Tribsch
+    given: A.
+  - family: Tveraabak
+    given: L. U.
+  - family: Virtanen
+    given: R.
+  - family: Walker
+    given: D. A.
+  - family: Westergaard
+    given: K. B.
+  - family: Yoccoz
+    given: N. G.
+  - family: Svenning
+    given: J.-C.
+  - family: Wisz
+    given: M.
+  - family: Schmidt
+    given: N. M.
+  - family: Pellissier
+    given: L.
+  issued:
+  - year: '2016'
+    month: '1'
+  title: The regional species richness and genetic diversity of Arctic vegetation
+    reflect both past glaciations and current climate
+  container-title: Global Ecology and Biogeography
+  publisher: Wiley-Blackwell
+  page: '430-442'
+  volume: '25'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fgeb.12424
+  DOI: 10.1111/geb.12424
+...

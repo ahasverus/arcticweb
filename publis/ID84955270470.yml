@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84955270470
+  type: article-journal
+  author:
+  - family: Bouvet
+    given: A.
+  - family: Paillet
+    given: Y.
+  - family: Archaux
+    given: F.
+  - family: Tillon
+    given: L.
+  - family: Denis
+    given: P.
+  - family: Gilg
+    given: O.
+  - family: Gosselin
+    given: F.
+  issued:
+  - year: '2016'
+    month: '1'
+  title: Effects of forest structure, management and landscape on bird and bat communities
+  container-title: Environmental Conservation
+  publisher: Cambridge University Press (CUP)
+  page: '148-160'
+  volume: '43'
+  issue: '02'
+  URL: https://doi.org/10.1017%2Fs0376892915000363
+  DOI: 10.1017/s0376892915000363
+...

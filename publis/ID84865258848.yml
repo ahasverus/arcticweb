@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84865258848
+  type: article-journal
+  author:
+  - family: Hamann
+    given: M.
+  - family: Grémillet
+    given: D.
+  - family: Ryan
+    given: P.
+  - family: Bonadonna
+    given: F.
+  - family: Lingen
+    given: C.
+    dropping-particle: van der
+  - family: Pichegru
+    given: L.
+  issued:
+  - year: '2012'
+    month: '8'
+  title: 'A hard-knock life: The foraging ecology of Cape cormorants amidst shifting
+    prey resources and industrial fishing pressure'
+  container-title: African Journal of Marine Science
+  publisher: Informa UK Limited
+  page: '233-240'
+  volume: '34'
+  issue: '2'
+  URL: https://doi.org/10.2989%2F1814232x.2012.709960
+  DOI: 10.2989/1814232x.2012.709960
+...

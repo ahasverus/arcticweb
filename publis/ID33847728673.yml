@@ -1,0 +1,25 @@
+---
+references:
+- id: ID33847728673
+  type: article-journal
+  author:
+  - family: Vezina
+    given: F.
+  - family: Jalvingh
+    given: K. M.
+  - family: Dekinga
+    given: A.
+  - family: Piersma
+    given: T.
+  issued:
+  - year: '2006'
+    month: '11'
+  title: Thermogenic side effects to migratory predisposition in shorebirds
+  container-title: 'AJP: Regulatory, Integrative and Comparative Physiology'
+  publisher: American Physiological Society
+  page: R1287-R1297
+  volume: '292'
+  issue: '3'
+  URL: https://doi.org/10.1152%2Fajpregu.00683.2006
+  DOI: 10.1152/ajpregu.00683.2006
+...

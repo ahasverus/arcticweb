@@ -1,0 +1,22 @@
+---
+references:
+- id: ID84867741185
+  type: article-journal
+  author:
+  - family: Barraquand
+    given: F.
+  - family: Murrell
+    given: D. J.
+  issued:
+  - year: '2011'
+    month: '12'
+  title: Evolutionarily stable consumer home range size in relation to resource demography
+    and consumer spatial organization
+  container-title: Theoretical Ecology
+  publisher: Springer Nature
+  page: '567-589'
+  volume: '5'
+  issue: '4'
+  URL: https://doi.org/10.1007%2Fs12080-011-0148-7
+  DOI: 10.1007/s12080-011-0148-7
+...

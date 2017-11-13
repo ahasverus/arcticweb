@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84899894026
+  type: article-journal
+  author:
+  - family: Hamilton
+    given: C. D.
+  - family: Lydersen
+    given: C.
+  - family: Ims
+    given: R. A.
+  - family: Kovacs
+    given: K. M.
+  editor:
+  - family: Russo
+    given: Danilo
+  issued:
+  - year: '2014'
+    month: '1'
+  title: Haul-out behaviour of the world’s northernmost population of harbour seals
+    (Phoca vitulina) throughout the year
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e86055'
+  volume: '9'
+  issue: '1'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0086055
+  DOI: 10.1371/journal.pone.0086055
+...

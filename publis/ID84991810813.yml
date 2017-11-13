@@ -1,0 +1,47 @@
+---
+references:
+- id: ID84991810813
+  type: article-journal
+  author:
+  - family: Lagerholm
+    given: V. K.
+  - family: Sandoval-Castellanos
+    given: E.
+  - family: Vaniscotte
+    given: A.
+  - family: Potapova
+    given: O. R.
+  - family: Tomek
+    given: T.
+  - family: Bochenski
+    given: Z. M.
+  - family: Shepherd
+    given: P.
+  - family: Barton
+    given: N.
+  - family: Dyck
+    given: M.-C.
+    dropping-particle: van
+  - family: Miller
+    given: R.
+  - family: Höglund
+    given: J.
+  - family: Yoccoz
+    given: N. G.
+  - family: Dalén
+    given: L.
+  - family: Stewart
+    given: J. R.
+  issued:
+  - year: '2016'
+    month: '10'
+  title: Range shifts or extinction? Ancient DNA and distribution modelling reveal
+    past and future responses to climate warming in cold-adapted birds
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '1425-1435'
+  volume: '23'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fgcb.13522
+  DOI: 10.1111/gcb.13522
+...

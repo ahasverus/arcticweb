@@ -1,0 +1,58 @@
+---
+references:
+- id: ID84927910011
+  type: article-journal
+  author:
+  - family: Lindenmayer
+    given: D. B.
+  - family: Burns
+    given: E. L.
+  - family: Tennant
+    given: P.
+  - family: Dickman
+    given: C. R.
+  - family: Green
+    given: P. T.
+  - family: Keith
+    given: D. A.
+  - family: Metcalfe
+    given: D. J.
+  - family: Russell-Smith
+    given: J.
+  - family: Wardle
+    given: G. M.
+  - family: Williams
+    given: D.
+  - family: Bossard
+    given: K.
+  - family: Delacey
+    given: C.
+  - family: Hanigan
+    given: I.
+  - family: Bull
+    given: C. M.
+  - family: Gillespie
+    given: G.
+  - family: Hobbs
+    given: R. J.
+  - family: Krebs
+    given: C. J.
+  - family: Likens
+    given: G. E.
+  - family: Porter
+    given: J.
+  - family: Vardon
+    given: M.
+  issued:
+  - year: '2015'
+    month: '1'
+  title: 'Contemplating the future: Acting now on long-term monitoring to answer
+    2050’s questions'
+  container-title: Austral Ecology
+  publisher: Wiley-Blackwell
+  page: '213-224'
+  volume: '40'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Faec.12207
+  DOI: 10.1111/aec.12207
+...

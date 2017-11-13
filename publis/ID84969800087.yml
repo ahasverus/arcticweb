@@ -1,0 +1,34 @@
+---
+references:
+- id: ID84969800087
+  type: article-journal
+  author:
+  - family: Hammer
+    given: T. J.
+  - family: Fierer
+    given: N.
+  - family: Hardwick
+    given: B.
+  - family: Simojoki
+    given: A.
+  - family: Slade
+    given: E.
+  - family: Taponen
+    given: J.
+  - family: Viljanen
+    given: H.
+  - family: Roslin
+    given: T.
+  issued:
+  - year: '2016'
+    month: '5'
+  title: Treating cattle with antibiotics affects greenhouse gas emissions, and microbiota
+    in dung and dung beetles
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '20160150'
+  volume: '283'
+  issue: '1831'
+  URL: https://doi.org/10.1098%2Frspb.2016.0150
+  DOI: 10.1098/rspb.2016.0150
+...

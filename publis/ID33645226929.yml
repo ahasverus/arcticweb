@@ -1,0 +1,22 @@
+---
+references:
+- id: ID33645226929
+  type: article-journal
+  author:
+  - family: Lagrue
+    given: C.
+  - family: Bollache
+    given: L.
+  issued:
+  - year: '2006'
+    month: '1'
+  title: Effects of temperature on persistence times of native and invasive gammarid
+    species in the stomachs of Cottus gobio
+  container-title: Journal of Fish Biology
+  publisher: Wiley-Blackwell
+  page: '318-322'
+  volume: '68'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.0022-1112.2006.00901.x
+  DOI: 10.1111/j.0022-1112.2006.00901.x
+...

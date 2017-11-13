@@ -1,0 +1,37 @@
+---
+references:
+- id: ID84971207189
+  type: article-journal
+  author:
+  - family: Tartu
+    given: S.
+  - family: Bourgeon
+    given: S.
+  - family: Aars
+    given: J.
+  - family: Andersen
+    given: M.
+  - family: Ehrich
+    given: D.
+  - family: Thiemann
+    given: G. W.
+  - family: Welker
+    given: J. M.
+  - family: Routti
+    given: H.
+  editor:
+  - family: Archambault
+    given: Philippe
+  issued:
+  - year: '2016'
+    month: '5'
+  title: Geographical area and life history traits influence diet in an Arctic marine
+    predator
+  container-title: PLOS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e0155980'
+  volume: '11'
+  issue: '5'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0155980
+  DOI: 10.1371/journal.pone.0155980
+...

@@ -1,0 +1,30 @@
+---
+references:
+- id: ID82255162629
+  type: article-journal
+  author:
+  - family: Ravolainen
+    given: V. T.
+  - family: Bråthen
+    given: K. A.
+  - family: Ims
+    given: R. A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Henden
+    given: J.-A.
+  - family: Killengreen
+    given: S. T.
+  issued:
+  - year: '2011'
+    month: '12'
+  title: Rapid, landscape scale responses in riparian tundra vegetation to exclusion
+    of small and large mammalian herbivores
+  container-title: Basic and Applied Ecology
+  publisher: Elsevier BV
+  page: '643-653'
+  volume: '12'
+  issue: '8'
+  URL: https://doi.org/10.1016%2Fj.baae.2011.09.009
+  DOI: 10.1016/j.baae.2011.09.009
+...

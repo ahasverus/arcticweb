@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84755161354
+  type: article-journal
+  author:
+  - family: Mabille
+    given: G.
+  - family: Descamps
+    given: S.
+  - family: Berteaux
+    given: D.
+  issued:
+  - year: '2010'
+    month: '3'
+  title: Predation as a probable mechanism relating winter weather to population dynamics
+    in a North American porcupine population
+  container-title: Population Ecology
+  publisher: Springer Nature
+  page: '537-546'
+  volume: '52'
+  issue: '4'
+  URL: https://doi.org/10.1007%2Fs10144-010-0198-5
+  DOI: 10.1007/s10144-010-0198-5
+...

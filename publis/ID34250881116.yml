@@ -1,0 +1,37 @@
+---
+references:
+- id: ID34250881116
+  type: article-journal
+  author:
+  - family: Georges
+    given: J.
+  - family: Fossette
+    given: S.
+  - family: Billes
+    given: A.
+  - family: Ferraroli
+    given: S.
+  - family: Fretey
+    given: J.
+  - family: Grémillet
+    given: D.
+  - family: Maho
+    given: Y. L.
+  - family: Myers
+    given: A.
+  - family: Tanaka
+    given: H.
+  - family: Hays
+    given: G.
+  issued:
+  - year: '2007'
+    month: '5'
+  title: 'Meta-analysis of movements in Atlantic leatherback turtles during the
+    nesting season: Conservation implications'
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '225-232'
+  volume: '338'
+  URL: https://doi.org/10.3354%2Fmeps338225
+  DOI: 10.3354/meps338225
+...

@@ -1,0 +1,41 @@
+---
+references:
+- id: ID84860468126
+  type: article-journal
+  author:
+  - family: Smith
+    given: P. A.
+  - family: Gratto-Trevor
+    given: C. L.
+  - family: Collins
+    given: B. T.
+  - family: Fellows
+    given: S. D.
+  - family: Lanctot
+    given: R. B.
+  - family: Liebezeit
+    given: J.
+  - family: McCaffery
+    given: B. J.
+  - family: Tracy
+    given: D.
+  - family: Rausch
+    given: J.
+  - family: Kendall
+    given: S.
+  - family: Zack
+    given: S.
+  - family: Gates
+    given: H. R.
+  issued:
+  - year: '2012'
+    month: '3'
+  title: 'Trends in abundance of Semipalmated Sandpipers: Evidence from the arctic'
+  container-title: Waterbirds
+  publisher: Waterbird Society
+  page: '106-119'
+  volume: '35'
+  issue: '1'
+  URL: https://doi.org/10.1675%2F063.035.0111
+  DOI: 10.1675/063.035.0111
+...

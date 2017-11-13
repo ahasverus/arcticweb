@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84921616253
+  type: article-journal
+  author:
+  - family: Timmermann
+    given: A.
+  - family: Damgaard
+    given: C.
+  - family: Strandberg
+    given: M. T.
+  - family: Svenning
+    given: J.-C.
+  editor:
+  - family: Bennett
+    given: Joseph
+  issued:
+  - year: '2014'
+    month: '12'
+  title: 'Pervasive early 21st-century vegetation changes across Danish semi-natural
+    ecosystems: More losers than winners and a shift towards competitive, tall-growing
+    species'
+  container-title: Journal of Applied Ecology
+  publisher: Wiley-Blackwell
+  page: '21-30'
+  volume: '52'
+  issue: '1'
+  URL: https://doi.org/10.1111%2F1365-2664.12374
+  DOI: 10.1111/1365-2664.12374
+...

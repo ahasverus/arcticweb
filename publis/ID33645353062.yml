@@ -1,0 +1,25 @@
+---
+references:
+- id: ID33645353062
+  type: article-journal
+  author:
+  - family: Gravel
+    given: D.
+  - family: Canham
+    given: C. D.
+  - family: Beaudet
+    given: M.
+  - family: Messier
+    given: C.
+  issued:
+  - year: '2006'
+    month: '3'
+  title: 'Reconciling niche and neutrality: The continuum hypothesis'
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '399-409'
+  volume: '9'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1461-0248.2006.00884.x
+  DOI: 10.1111/j.1461-0248.2006.00884.x
+...

@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84945308855
+  type: article-journal
+  author:
+  - family: Cazelles
+    given: K.
+  - family: Araújo
+    given: M. B.
+  - family: Mouquet
+    given: N.
+  - family: Gravel
+    given: D.
+  issued:
+  - year: '2015'
+    month: '10'
+  title: A theory for species co-occurrence in interaction networks
+  container-title: Theoretical Ecology
+  publisher: Springer Nature
+  page: '39-48'
+  volume: '9'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs12080-015-0281-9
+  DOI: 10.1007/s12080-015-0281-9
+...

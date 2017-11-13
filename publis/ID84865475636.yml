@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84865475636
+  type: article-journal
+  author:
+  - family: Gaston
+    given: A. J.
+  - family: Smith
+    given: P. A.
+  - family: Provencher
+    given: J. F.
+  issued:
+  - year: '2012'
+    month: '3'
+  title: Discontinuous change in ice cover in Hudson Bay in the 1990s and some consequences
+    for marine birds and their prey
+  container-title: ICES Journal of Marine Science
+  publisher: Oxford University Press (OUP)
+  page: '1218-1225'
+  volume: '69'
+  issue: '7'
+  URL: https://doi.org/10.1093%2Ficesjms%2Ffss040
+  DOI: 10.1093/icesjms/fss040
+...

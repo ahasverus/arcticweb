@@ -1,0 +1,29 @@
+---
+references:
+- id: ID79952190508
+  type: article-journal
+  author:
+  - family: Thuiller
+    given: W.
+  - family: Lavergne
+    given: S.
+  - family: Roquet
+    given: C.
+  - family: Boulangeat
+    given: I.
+  - family: Lafourcade
+    given: B.
+  - family: Araujo
+    given: M. B.
+  issued:
+  - year: '2011'
+    month: '2'
+  title: Consequences of climate change on the tree of life in Europe
+  container-title: Nature
+  publisher: Springer Nature
+  page: '531-534'
+  volume: '470'
+  issue: '7335'
+  URL: https://doi.org/10.1038%2Fnature09705
+  DOI: 10.1038/nature09705
+...

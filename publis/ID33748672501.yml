@@ -1,0 +1,28 @@
+---
+references:
+- id: ID33748672501
+  type: article-journal
+  author:
+  - family: Normand
+    given: S.
+  - family: Vormisto
+    given: J.
+  - family: Svenning
+    given: J.-C.
+  - family: Grández
+    given: C.
+  - family: Balslev
+    given: H.
+  issued:
+  - year: '2006'
+    month: '3'
+  title: Geographical and environmental controls of palm beta diversity in paleo-riverine
+    terrace forests in Amazonian Peru
+  container-title: Plant Ecology
+  publisher: Springer Nature
+  page: '161-176'
+  volume: '186'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs11258-006-9120-9
+  DOI: 10.1007/s11258-006-9120-9
+...

@@ -1,0 +1,29 @@
+---
+references:
+- id: ID48249111023
+  type: article-journal
+  author:
+  - family: Mysterud
+    given: A.
+  - family: Bonenfant
+    given: C.
+  - family: Loe
+    given: L. E.
+  - family: Langvatn
+    given: R.
+  - family: Yoccoz
+    given: N. G.
+  - family: Stenseth
+    given: N. C.
+  issued:
+  - year: '2008'
+    month: '8'
+  title: Age-specific feeding cessation in male red deer during rut
+  container-title: Journal of Zoology
+  publisher: Wiley-Blackwell
+  page: '407-412'
+  volume: '275'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1469-7998.2008.00453.x
+  DOI: 10.1111/j.1469-7998.2008.00453.x
+...

@@ -1,0 +1,44 @@
+---
+references:
+- id: ID84861813740
+  type: article-journal
+  author:
+  - family: Fort
+    given: J.
+  - family: Pettex
+    given: E.
+  - family: Tremblay
+    given: Y.
+  - family: Lorentsen
+    given: S.-H.
+  - family: Garthe
+    given: S.
+  - family: Votier
+    given: S.
+  - family: Pons
+    given: J. B.
+  - family: Siorat
+    given: F.
+  - family: Furness
+    given: R. W.
+  - family: Grecian
+    given: W. J.
+  - family: Bearhop
+    given: S.
+  - family: Montevecchi
+    given: W. A.
+  - family: Grémillet
+    given: D.
+  issued:
+  - year: '2012'
+    month: '6'
+  title: Meta-population evidence of oriented chain migration in northern gannets
+    (Morus bassanus)
+  container-title: Frontiers in Ecology and the Environment
+  publisher: Wiley-Blackwell
+  page: '237-242'
+  volume: '10'
+  issue: '5'
+  URL: https://doi.org/10.1890%2F110194
+  DOI: 10.1890/110194
+...

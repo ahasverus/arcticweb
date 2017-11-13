@@ -1,0 +1,32 @@
+---
+references:
+- id: ID35148850067
+  type: article-journal
+  author:
+  - family: Bohec
+    given: C. L.
+  - family: Gauthier-Clerc
+    given: M.
+  - family: Grémillet
+    given: D.
+  - family: Pradel
+    given: R.
+  - family: Béchet
+    given: A.
+  - family: Gendner
+    given: J.-P.
+  - family: Maho
+    given: Y. L.
+  issued:
+  - year: '2007'
+    month: '11'
+  title: 'Population dynamics in a long-lived seabird: I. Impact of breeding activity
+    on survival and breeding probability in unbanded king penguins'
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '1149-1160'
+  volume: '76'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2007.01268.x
+  DOI: 10.1111/j.1365-2656.2007.01268.x
+...

@@ -1,0 +1,26 @@
+---
+references:
+- id: ID85011064758
+  type: article-journal
+  author:
+  - family: Rivet
+    given: A.
+  - family: Payette
+    given: S.
+  - family: Berteaux
+    given: D.
+  - family: Girard
+    given: F.
+  issued:
+  - year: '2017'
+    month: '2'
+  title: 'Pines and porcupines: A tree-ring analysis of browsing and dynamics of
+    an overmature pine forest'
+  container-title: Canadian Journal of Forest Research
+  publisher: Canadian Science Publishing
+  page: '257-268'
+  volume: '47'
+  issue: '2'
+  URL: https://doi.org/10.1139%2Fcjfr-2016-0214
+  DOI: 10.1139/cjfr-2016-0214
+...

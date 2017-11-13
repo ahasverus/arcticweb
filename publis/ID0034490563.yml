@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0034490563
+  type: article-journal
+  author:
+  - family: Mysterud
+    given: A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Stenseth
+    given: N. C.
+  - family: Langvatn
+    given: R.
+  issued:
+  - year: '2000'
+    month: '12'
+  title: 'Relationships between sex ratio, climate and density in red deer: The
+    importance of spatial scale'
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '959-974'
+  volume: '69'
+  issue: '6'
+  URL: https://doi.org/10.1046%2Fj.1365-2656.2000.00454.x
+  DOI: 10.1046/j.1365-2656.2000.00454.x
+...

@@ -1,0 +1,22 @@
+---
+references:
+- id: ID84877729691
+  type: article-journal
+  author:
+  - family: McKinnon
+    given: L.
+  - family: Nol
+    given: E.
+  - family: Juillet
+    given: C.
+  issued:
+  - year: '2013'
+    month: '5'
+  title: Arctic-nesting birds find physiological relief in the face of trophic constraints
+  container-title: Scientific Reports
+  publisher: Springer Nature
+  volume: '3'
+  issue: '1'
+  URL: https://doi.org/10.1038%2Fsrep01816
+  DOI: 10.1038/srep01816
+...

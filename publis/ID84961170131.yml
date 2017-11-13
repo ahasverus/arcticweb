@@ -1,0 +1,34 @@
+---
+references:
+- id: ID84961170131
+  type: article-journal
+  author:
+  - family: Yannic
+    given: G.
+  - family: St-Laurent
+    given: M.-H.
+  - family: Ortego
+    given: J.
+  - family: Taillon
+    given: J.
+  - family: Beauchemin
+    given: A.
+  - family: Bernatchez
+    given: L.
+  - family: Dussault
+    given: C.
+  - family: Côté
+    given: S. D.
+  issued:
+  - year: '2015'
+    month: '11'
+  title: Integrating ecological and genetic structure to define management units for
+    caribou in Eastern Canada
+  container-title: Conservation Genetics
+  publisher: Springer Nature
+  page: '437-453'
+  volume: '17'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs10592-015-0795-0
+  DOI: 10.1007/s10592-015-0795-0
+...

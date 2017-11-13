@@ -1,0 +1,23 @@
+---
+references:
+- id: ID84949536137
+  type: article-journal
+  author:
+  - family: Barfield
+    given: M.
+  - family: Orive
+    given: M. E.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2015'
+    month: '12'
+  title: The role of pathogen shedding in linking within- and between-host pathogen
+    dynamics
+  container-title: Mathematical Biosciences
+  publisher: Elsevier BV
+  page: '249-262'
+  volume: '270'
+  URL: https://doi.org/10.1016%2Fj.mbs.2015.04.010
+  DOI: 10.1016/j.mbs.2015.04.010
+...

@@ -1,0 +1,60 @@
+---
+references:
+- id: ID84864479329
+  type: article-journal
+  author:
+  - family: Dullinger
+    given: S.
+  - family: Gattringer
+    given: A.
+  - family: Thuiller
+    given: W.
+  - family: Moser
+    given: D.
+  - family: Zimmermann
+    given: N. E.
+  - family: Guisan
+    given: A.
+  - family: Willner
+    given: W.
+  - family: Plutzar
+    given: C.
+  - family: Leitner
+    given: M.
+  - family: Mang
+    given: T.
+  - family: Caccianiga
+    given: M.
+  - family: Dirnböck
+    given: T.
+  - family: Ertl
+    given: S.
+  - family: Fischer
+    given: A.
+  - family: Lenoir
+    given: J.
+  - family: Svenning
+    given: J.-C.
+  - family: Psomas
+    given: A.
+  - family: Schmatz
+    given: D. R.
+  - family: Silc
+    given: U.
+  - family: Vittoz
+    given: P.
+  - family: Hülber
+    given: K.
+  issued:
+  - year: '2012'
+    month: '5'
+  title: Extinction debt of high-mountain plants under twenty-first-century climate
+    change
+  container-title: Nature Climate Change
+  publisher: Springer Nature
+  page: '619-622'
+  volume: '2'
+  issue: '8'
+  URL: https://doi.org/10.1038%2Fnclimate1514
+  DOI: 10.1038/nclimate1514
+...

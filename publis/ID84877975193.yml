@@ -1,0 +1,53 @@
+---
+references:
+- id: ID84877975193
+  type: article-journal
+  author:
+  - family: Gilg
+    given: O.
+  - family: Moe
+    given: B.
+  - family: Hanssen
+    given: S. A.
+  - family: Schmidt
+    given: N. M.
+  - family: Sittler
+    given: B.
+  - family: Hansen
+    given: J.
+  - family: Reneerkens
+    given: J.
+  - family: Sabard
+    given: B.
+  - family: Chastel
+    given: O.
+  - family: Moreau
+    given: J.
+  - family: Phillips
+    given: R. A.
+  - family: Oudman
+    given: T.
+  - family: Biersma
+    given: E. M.
+  - family: Fenstad
+    given: A. A.
+  - family: Lang
+    given: J.
+  - family: Bollache
+    given: L.
+  editor:
+  - family: Ropert-Coudert
+    given: Yan
+  issued:
+  - year: '2013'
+    month: '5'
+  title: 'Trans-Equatorial Migration Routes, Staging Sites and Wintering Areas of
+    a High-Arctic Avian Predator: The Long-tailed Skua (Stercorarius longicaudus)'
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e64614'
+  volume: '8'
+  issue: '5'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0064614
+  DOI: 10.1371/journal.pone.0064614
+...

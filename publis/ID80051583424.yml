@@ -1,0 +1,26 @@
+---
+references:
+- id: ID80051583424
+  type: article-journal
+  author:
+  - family: Odgaard
+    given: M. V.
+  - family: Bøcher
+    given: P. K.
+  - family: Dalgaard
+    given: T.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2011'
+    month: '8'
+  title: Climatic and non-climatic drivers of spatiotemporal maize-area dynamics across
+    the northern limit for maize production-A case study from Denmark
+  container-title: Agriculture, Ecosystems & Environment
+  publisher: Elsevier BV
+  page: '291-302'
+  volume: '142'
+  issue: '3-4'
+  URL: https://doi.org/10.1016%2Fj.agee.2011.05.026
+  DOI: 10.1016/j.agee.2011.05.026
+...

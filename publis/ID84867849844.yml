@@ -1,0 +1,78 @@
+---
+references:
+- id: ID84867849844
+  type: article-journal
+  author:
+  - family: Schleuning
+    given: M.
+  - family: Fründ
+    given: J.
+  - family: Klein
+    given: A.-M.
+  - family: Abrahamczyk
+    given: S.
+  - family: Alarcón
+    given: R.
+  - family: Albrecht
+    given: M.
+  - family: Andersson
+    given: G. K. S.
+  - family: Bazarian
+    given: S.
+  - family: Böhning-Gaese
+    given: K.
+  - family: Bommarco
+    given: R.
+  - family: Dalsgaard
+    given: B.
+  - family: Dehling
+    given: D. M.
+  - family: Gotlieb
+    given: A.
+  - family: Hagen
+    given: M.
+  - family: Hickler
+    given: T.
+  - family: Holzschuh
+    given: A.
+  - family: Kaiser-Bunbury
+    given: C. N.
+  - family: Kreft
+    given: H.
+  - family: Morris
+    given: R. J.
+  - family: Sandel
+    given: B.
+  - family: Sutherland
+    given: W. J.
+  - family: Svenning
+    given: J.-C.
+  - family: Tscharntke
+    given: T.
+  - family: Watts
+    given: S.
+  - family: Weiner
+    given: C. N.
+  - family: Werner
+    given: M.
+  - family: Williams
+    given: N. M.
+  - family: Winqvist
+    given: C.
+  - family: Dormann
+    given: C. F.
+  - family: Blüthgen
+    given: N.
+  issued:
+  - year: '2012'
+    month: '10'
+  title: Specialization of mutualistic interaction networks decreases toward tropical
+    latitudes
+  container-title: Current Biology
+  publisher: Elsevier BV
+  page: '1925-1931'
+  volume: '22'
+  issue: '20'
+  URL: https://doi.org/10.1016%2Fj.cub.2012.08.015
+  DOI: 10.1016/j.cub.2012.08.015
+...

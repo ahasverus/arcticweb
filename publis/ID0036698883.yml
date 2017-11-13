@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0036698883
+  type: article-journal
+  author:
+  - family: Forchhammer
+    given: M. C.
+  - family: Post
+    given: E.
+  - family: Stenseth
+    given: N. C.
+  - family: Boertmann
+    given: D. M.
+  issued:
+  - year: '2002'
+    month: '8'
+  title: Long-term responses in arctic ungulate dynamics to changes in climatic and
+    trophic processes
+  container-title: Population Ecology
+  publisher: Springer Nature
+  page: '113-120'
+  volume: '44'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs101440200013
+  DOI: 10.1007/s101440200013
+...

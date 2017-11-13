@@ -1,0 +1,24 @@
+---
+references:
+- id: ID85018247019
+  type: article-journal
+  author:
+  - family: Nenzén
+    given: H. K.
+  - family: Filotas
+    given: E.
+  - family: Peres-Neto
+    given: P.
+  - family: Gravel
+    given: D.
+  issued:
+  - year: '2017'
+    month: '9'
+  title: Epidemiological landscape models reproduce cyclic insect outbreaks
+  container-title: Ecological Complexity
+  publisher: Elsevier BV
+  page: '78-87'
+  volume: '31'
+  URL: https://doi.org/10.1016%2Fj.ecocom.2017.04.004
+  DOI: 10.1016/j.ecocom.2017.04.004
+...

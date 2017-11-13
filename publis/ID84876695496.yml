@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84876695496
+  type: article-journal
+  author:
+  - family: Menezes
+    given: R. F.
+  - family: Borchsenius
+    given: F.
+  - family: Svenning
+    given: J.-C.
+  - family: Søndergaard
+    given: M.
+  - family: Lauridsen
+    given: T. L.
+  - family: Landkildehus
+    given: F.
+  - family: Jeppesen
+    given: E.
+  issued:
+  - year: '2012'
+    month: '2'
+  title: 'Variation in fish community structure, richness, and diversity in 56 Danish
+    lakes with contrasting depth, size, and trophic state: Does the method matter?'
+  container-title: Hydrobiologia
+  publisher: Springer Nature
+  page: '47-59'
+  volume: '710'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs10750-012-1025-0
+  DOI: 10.1007/s10750-012-1025-0
+...

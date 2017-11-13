@@ -1,0 +1,21 @@
+---
+references:
+- id: ID0030619988
+  type: article-journal
+  author:
+  - family: Holt
+    given: R. D.
+  - family: Polis
+    given: G. A.
+  issued:
+  - year: '1997'
+    month: '4'
+  title: A theoretical framework for intraguild predation
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '745-764'
+  volume: '149'
+  issue: '4'
+  URL: https://doi.org/10.1086%2F286018
+  DOI: 10.1086/286018
+...

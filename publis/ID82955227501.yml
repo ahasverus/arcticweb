@@ -1,0 +1,47 @@
+---
+references:
+- id: ID82955227501
+  type: article-journal
+  author:
+  - family: Geffen
+    given: E.
+  - family: Kam
+    given: M.
+  - family: Hefner
+    given: R.
+  - family: Hersteinsson
+    given: P.
+  - family: Angerbjörn
+    given: A.
+  - family: Dalèn
+    given: L.
+  - family: Fuglei
+    given: E.
+  - family: Norèn
+    given: K.
+  - family: Adams
+    given: J. R.
+  - family: Vucetich
+    given: J.
+  - family: Meier
+    given: T. J.
+  - family: Mech
+    given: L. D.
+  - family: Vonholdt
+    given: B. M.
+  - family: Stahler
+    given: D. R.
+  - family: Wayne
+    given: R. K.
+  issued:
+  - year: '2011'
+    month: '11'
+  title: Kin encounter rate and inbreeding avoidance in canids
+  container-title: Molecular Ecology
+  publisher: Wiley-Blackwell
+  page: '5348-5358'
+  volume: '20'
+  issue: '24'
+  URL: https://doi.org/10.1111%2Fj.1365-294x.2011.05358.x
+  DOI: 10.1111/j.1365-294x.2011.05358.x
+...

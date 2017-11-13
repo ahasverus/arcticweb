@@ -1,0 +1,38 @@
+---
+references:
+- id: ID84953807167
+  type: article-journal
+  author:
+  - family: Champagnon
+    given: J.
+  - family: Legagneux
+    given: P.
+  - family: Souchay
+    given: G.
+  - family: Inchausti
+    given: P.
+  - family: Bretagnolle
+    given: V.
+  - family: Bourguemestre
+    given: F.
+  - family: Ingen
+    given: L.
+    dropping-particle: van
+  - family: Guillemain
+    given: M.
+  editor:
+  - family: Fox
+    given: Tony
+  issued:
+  - year: '2016'
+    month: '1'
+  title: Robust estimation of survival and contribution of captive-bred Mallards Anas
+    platyrhynchos to a wild population in a large-scale release programme
+  container-title: Ibis
+  publisher: Wiley-Blackwell
+  page: '343-352'
+  volume: '158'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fibi.12341
+  DOI: 10.1111/ibi.12341
+...

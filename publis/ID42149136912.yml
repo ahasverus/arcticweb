@@ -1,0 +1,30 @@
+---
+references:
+- id: ID42149136912
+  type: article-journal
+  author:
+  - family: Mysterud
+    given: A.
+  - family: Bonenfant
+    given: C.
+  - family: Loe
+    given: L. E.
+  - family: Langvatn
+    given: R.
+  - family: Yoccoz
+    given: N. G.
+  - family: Stenseth
+    given: N. C.
+  issued:
+  - year: '2008'
+    month: '5'
+  title: The timing of male reproductive effort relative to female ovulation in a
+    capital breeder
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '469-477'
+  volume: '77'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2008.01365.x
+  DOI: 10.1111/j.1365-2656.2008.01365.x
+...

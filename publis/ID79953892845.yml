@@ -1,0 +1,25 @@
+---
+references:
+- id: ID79953892845
+  type: article-journal
+  author:
+  - family: Krebs
+    given: C. J.
+  - family: Reid
+    given: D.
+  - family: Kenney
+    given: A. J.
+  - family: Gilbert
+    given: S.
+  issued:
+  - year: '2011'
+    month: '4'
+  title: Fluctuations in lemming populations in North Yukon, Canada, 2007-2010
+  container-title: Canadian Journal of Zoology
+  publisher: Canadian Science Publishing
+  page: '297-306'
+  volume: '89'
+  issue: '4'
+  URL: https://doi.org/10.1139%2Fz11-004
+  DOI: 10.1139/z11-004
+...

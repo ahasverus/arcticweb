@@ -1,0 +1,21 @@
+---
+references:
+- id: ID0027331063
+  type: article-journal
+  author:
+  - family: Holt
+    given: R. D.
+  - family: Lawton
+    given: J. H.
+  issued:
+  - year: '1993'
+    month: '10'
+  title: Apparent competition and enemy-free space in insect host-parasitoid communities
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '623-645'
+  volume: '142'
+  issue: '4'
+  URL: https://doi.org/10.1086%2F285561
+  DOI: 10.1086/285561
+...

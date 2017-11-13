@@ -1,0 +1,22 @@
+---
+references:
+- id: ID85001038030
+  type: article-journal
+  author:
+  - family: Madliger
+    given: C. L.
+  - family: Love
+    given: O. P.
+  issued:
+  - year: '2016'
+    month: '10'
+  title: Conservation implications of a lack of relationship between baseline glucocorticoids
+    and fitness in a wild passerine
+  container-title: Ecological Applications
+  publisher: Wiley-Blackwell
+  page: '2732-2745'
+  volume: '26'
+  issue: '8'
+  URL: https://doi.org/10.1002%2Feap.1401
+  DOI: 10.1002/eap.1401
+...

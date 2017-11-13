@@ -1,0 +1,26 @@
+---
+references:
+- id: ID58349088272
+  type: article-journal
+  author:
+  - family: Svenning
+    given: J.-C.
+  - family: Harlev
+    given: D.
+  - family: Sørensen
+    given: M. M.
+  - family: Balslev
+    given: H.
+  issued:
+  - year: '2008'
+    month: '9'
+  title: Topographic and spatial controls of palm species distributions in a montane
+    rain forest, southern Ecuador
+  container-title: Biodiversity and Conservation
+  publisher: Springer Nature
+  page: '219-228'
+  volume: '18'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs10531-008-9468-3
+  DOI: 10.1007/s10531-008-9468-3
+...

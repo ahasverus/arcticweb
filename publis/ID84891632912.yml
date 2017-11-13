@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84891632912
+  type: article-journal
+  author:
+  - family: Guillemain
+    given: M.
+  - family: Wilgenburg
+    given: S. L.
+    dropping-particle: van
+  - family: Legagneux
+    given: P.
+  - family: Hobson
+    given: K. A.
+  issued:
+  - year: '2013'
+    month: '8'
+  title: Assessing geographic origins of Teal (Anas crecca) through stable-hydrogen
+    (δ&lt;sup&gt;2&lt;/sup&gt;H) isotope analyses of feathers and ring-recoveries
+  container-title: Journal of Ornithology
+  publisher: Springer Nature
+  page: '165-172'
+  volume: '155'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs10336-013-0998-4
+  DOI: 10.1007/s10336-013-0998-4
+...

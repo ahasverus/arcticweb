@@ -1,0 +1,44 @@
+---
+references:
+- id: ID84966507712
+  type: article-journal
+  author:
+  - family: Portugal
+    given: S. J.
+  - family: Green
+    given: J. A.
+  - family: Halsey
+    given: L. G.
+  - family: Arnold
+    given: W.
+  - family: Careau
+    given: V.
+  - family: Dann
+    given: P.
+  - family: Frappell
+    given: P. B.
+  - family: Grémillet
+    given: D.
+  - family: Handrich
+    given: Y.
+  - family: Martin
+    given: G. R.
+  - family: Ruf
+    given: T.
+  - family: Guillemette
+    given: M. M.
+  - family: Butler
+    given: P. J.
+  issued:
+  - year: '2016'
+    month: '5'
+  title: 'Associations between resting, activity, and daily metabolic rate in free-living
+    endotherms: No universal rule in birds and mammals'
+  container-title: Physiological and Biochemical Zoology
+  publisher: University of Chicago Press
+  page: '251-261'
+  volume: '89'
+  issue: '3'
+  URL: https://doi.org/10.1086%2F686322
+  DOI: 10.1086/686322
+...

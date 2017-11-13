@@ -1,0 +1,24 @@
+---
+references:
+- id: ID85003968587
+  type: article-journal
+  author:
+  - family: Villette
+    given: P.
+  - family: Krebs
+    given: C. J.
+  - family: Jung
+    given: T. S.
+  issued:
+  - year: '2016'
+    month: '12'
+  title: Evaluating camera traps as an alternative to live trapping for estimating
+    the density of snowshoe hares (Lepus americanus) and red squirrels (Tamiasciurus
+    hudsonicus)
+  container-title: European Journal of Wildlife Research
+  publisher: Springer Nature
+  volume: '63'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs10344-016-1064-3
+  DOI: 10.1007/s10344-016-1064-3
+...

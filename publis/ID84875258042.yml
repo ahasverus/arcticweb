@@ -1,0 +1,24 @@
+---
+references:
+- id: ID84875258042
+  type: article-journal
+  author:
+  - family: Barraquand
+    given: F.
+  - family: Murrell
+    given: D. J.
+  editor:
+  - family: Spencer
+    given: Matthew
+  issued:
+  - year: '2013'
+    month: '1'
+  title: Scaling up predator-prey dynamics using spatial moment equations
+  container-title: Methods in Ecology and Evolution
+  publisher: Wiley-Blackwell
+  page: '276-289'
+  volume: '4'
+  issue: '3'
+  URL: https://doi.org/10.1111%2F2041-210x.12014
+  DOI: 10.1111/2041-210x.12014
+...

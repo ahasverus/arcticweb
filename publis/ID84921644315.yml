@@ -1,0 +1,44 @@
+---
+references:
+- id: ID84921644315
+  type: article-journal
+  author:
+  - family: Miller
+    given: M. P.
+  - family: Haig
+    given: S. M.
+  - family: Mullins
+    given: T. D.
+  - family: Ruan
+    given: L.
+  - family: Casler
+    given: B.
+  - family: Dondua
+    given: A.
+  - family: Gates
+    given: H. R.
+  - family: Johnson
+    given: J. M.
+  - family: Kendall
+    given: S.
+  - family: Tomkovich
+    given: P. S.
+  - family: Tracy
+    given: D.
+  - family: Valchuk
+    given: O. P.
+  - family: Lanctot
+    given: R. B.
+  issued:
+  - year: '2015'
+    month: '1'
+  title: Intercontinental genetic structure and gene flow in Dunlin (Calidris alpina),
+    a potential vector of avian influenza
+  container-title: Evolutionary Applications
+  publisher: Wiley-Blackwell
+  page: '149-171'
+  volume: '8'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Feva.12239
+  DOI: 10.1111/eva.12239
+...

@@ -1,0 +1,35 @@
+---
+references:
+- id: ID84900002840
+  type: article-journal
+  author:
+  - family: Ponchon
+    given: A.
+  - family: Grémillet
+    given: D.
+  - family: Christensen-Dalsgaard
+    given: S.
+  - family: Erikstad
+    given: K. E.
+  - family: Barrett
+    given: R. T.
+  - family: Reiertsen
+    given: T. K.
+  - family: McCoy
+    given: K. D.
+  - family: Tveraa
+    given: T.
+  - family: Boulinier
+    given: T.
+  issued:
+  - year: '2014'
+    month: '1'
+  title: 'When things go wrong: Intra-season dynamics of breeding failure in a seabird'
+  container-title: Ecosphere
+  publisher: Wiley-Blackwell
+  page: art4
+  volume: '5'
+  issue: '1'
+  URL: https://doi.org/10.1890%2Fes13-00233.1
+  DOI: 10.1890/es13-00233.1
+...

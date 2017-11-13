@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84863995416
+  type: article-journal
+  author:
+  - family: Legagneux
+    given: P.
+  - family: Clark
+    given: R. G.
+  - family: Guillemain
+    given: M.
+  - family: Eraud
+    given: C.
+  - family: Théry
+    given: M.
+  - family: Bretagnolle
+    given: V.
+  issued:
+  - year: '2012'
+    month: '6'
+  title: Large-scale geographic variation in iridescent structural ornaments of a
+    long-distance migratory bird
+  container-title: Journal of Avian Biology
+  publisher: Wiley-Blackwell
+  page: '355-361'
+  volume: '43'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1600-048x.2012.05666.x
+  DOI: 10.1111/j.1600-048x.2012.05666.x
+...

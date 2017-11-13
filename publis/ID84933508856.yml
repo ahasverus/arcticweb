@@ -1,0 +1,54 @@
+---
+references:
+- id: ID84933508856
+  type: article-journal
+  author:
+  - family: Šímová
+    given: I.
+  - family: Violle
+    given: C.
+  - family: Kraft
+    given: N. J. B.
+  - family: Storch
+    given: D.
+  - family: Svenning
+    given: J.-C.
+  - family: Boyle
+    given: B.
+  - family: Donoghue
+    given: J. C.
+  - family: Jørgensen
+    given: P.
+  - family: McGill
+    given: B. J.
+  - family: Morueta-Holme
+    given: N.
+  - family: Piel
+    given: W. H.
+  - family: Peet
+    given: R. K.
+  - family: Regetz
+    given: J.
+  - family: Schildhauer
+    given: M.
+  - family: Spencer
+    given: N.
+  - family: Thiers
+    given: B.
+  - family: Wiser
+    given: S.
+  - family: Enquist
+    given: B. J.
+  issued:
+  - year: '2014'
+    month: '11'
+  title: 'Shifts in trait means and variances in North American tree assemblages:
+    Species richness patterns are loosely related to the functional space'
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: '649-658'
+  volume: '38'
+  issue: '7'
+  URL: https://doi.org/10.1111%2Fecog.00867
+  DOI: 10.1111/ecog.00867
+...

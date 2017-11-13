@@ -1,0 +1,26 @@
+---
+references:
+- id: ID77956569329
+  type: article-journal
+  author:
+  - family: Hagen
+    given: S. B.
+  - family: Jepsen
+    given: J. U.
+  - family: Schott
+    given: T.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2010'
+    month: '1'
+  title: 'Spatially mismatched trophic dynamics: Cyclically outbreaking geometrids
+    and their larval parasitoids'
+  container-title: Biology Letters
+  publisher: The Royal Society
+  page: '566-569'
+  volume: '6'
+  issue: '4'
+  URL: https://doi.org/10.1098%2Frsbl.2009.1002
+  DOI: 10.1098/rsbl.2009.1002
+...

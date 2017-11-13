@@ -1,0 +1,26 @@
+---
+references:
+- id: ID79958120414
+  type: article-journal
+  author:
+  - family: Samson
+    given: J.
+  - family: Berteaux
+    given: D.
+  - family: McGill
+    given: B. J.
+  - family: Humphries
+    given: M. M.
+  issued:
+  - year: '2011'
+    month: '2'
+  title: Geographic disparities and moral hazards in the predicted impacts of climate
+    change on human populations
+  container-title: Global Ecology and Biogeography
+  publisher: Wiley-Blackwell
+  page: '532-544'
+  volume: '20'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1466-8238.2010.00632.x
+  DOI: 10.1111/j.1466-8238.2010.00632.x
+...

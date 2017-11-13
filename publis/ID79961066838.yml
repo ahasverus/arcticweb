@@ -1,0 +1,30 @@
+---
+references:
+- id: ID79961066838
+  type: article-journal
+  author:
+  - family: González-Solís
+    given: J.
+  - family: Smyrli
+    given: M.
+  - family: Militão
+    given: T.
+  - family: Gremillet
+    given: D.
+  - family: Tveraa
+    given: T.
+  - family: Phillips
+    given: R.
+  - family: Boulinier
+    given: T.
+  issued:
+  - year: '2011'
+    month: '8'
+  title: Combining stable isotope analyses and geolocation to reveal kittiwake migration
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '251-261'
+  volume: '435'
+  URL: https://doi.org/10.3354%2Fmeps09233
+  DOI: 10.3354/meps09233
+...

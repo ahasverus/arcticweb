@@ -1,0 +1,37 @@
+---
+references:
+- id: ID85015228063
+  type: article-journal
+  author:
+  - family: Guéry
+    given: L.
+  - family: Descamps
+    given: S.
+  - family: Pradel
+    given: R.
+  - family: Hanssen
+    given: S. A.
+  - family: Erikstad
+    given: K. E.
+  - family: Gabrielsen
+    given: G. W.
+  - family: Gilchrist
+    given: H. G.
+  - family: Bêty
+    given: J.
+  editor:
+  - family: Gaillard
+    given: Jean-Michel
+  issued:
+  - year: '2017'
+    month: '3'
+  title: Hidden survival heterogeneity of three Common eider populations in response
+    to climate fluctuations
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '683-693'
+  volume: '86'
+  issue: '3'
+  URL: https://doi.org/10.1111%2F1365-2656.12643
+  DOI: 10.1111/1365-2656.12643
+...

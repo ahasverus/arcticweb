@@ -1,0 +1,39 @@
+---
+references:
+- id: ID84867217832
+  type: article-journal
+  author:
+  - family: Boulangeat
+    given: I.
+  - family: Philippe
+    given: P.
+  - family: Abdulhak
+    given: S.
+  - family: Douzet
+    given: R.
+  - family: Garraud
+    given: L.
+  - family: Lavergne
+    given: S.
+  - family: Lavorel
+    given: S.
+  - family: Es
+    given: J.
+    dropping-particle: van
+  - family: Vittoz
+    given: P.
+  - family: Thuiller
+    given: W.
+  issued:
+  - year: '2012'
+    month: '8'
+  title: 'Improving plant functional groups for dynamic models of biodiversity:
+    At the crossroads between functional and community ecology'
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '3464-3475'
+  volume: '18'
+  issue: '11'
+  URL: https://doi.org/10.1111%2Fj.1365-2486.2012.02783.x
+  DOI: 10.1111/j.1365-2486.2012.02783.x
+...

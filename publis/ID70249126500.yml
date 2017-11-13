@@ -1,0 +1,68 @@
+---
+references:
+- id: ID70249126500
+  type: article-journal
+  author:
+  - family: Post
+    given: E.
+  - family: Forchhammer
+    given: M. C.
+  - family: Bret-Harte
+    given: M. S.
+  - family: Callaghan
+    given: T. V.
+  - family: Christensen
+    given: T. R.
+  - family: Elberling
+    given: B.
+  - family: Fox
+    given: A. D.
+  - family: Gilg
+    given: O.
+  - family: Hik
+    given: D. S.
+  - family: Hoye
+    given: T. T.
+  - family: Ims
+    given: R. A.
+  - family: Jeppesen
+    given: E.
+  - family: Klein
+    given: D. R.
+  - family: Madsen
+    given: J.
+  - family: McGuire
+    given: A. D.
+  - family: Rysgaard
+    given: S.
+  - family: Schindler
+    given: D. E.
+  - family: Stirling
+    given: I.
+  - family: Tamstorf
+    given: M. P.
+  - family: Tyler
+    given: N. J. C.
+  - family: Wal
+    given: R.
+    dropping-particle: van der
+  - family: Welker
+    given: J.
+  - family: Wookey
+    given: P. A.
+  - family: Schmidt
+    given: N. M.
+  - family: Aastrup
+    given: P.
+  issued:
+  - year: '2009'
+    month: '9'
+  title: Ecological dynamics across the arctic associated with recent climate change
+  container-title: Science
+  publisher: American Association for the Advancement of Science (AAAS)
+  page: '1355-1358'
+  volume: '325'
+  issue: '5946'
+  URL: https://doi.org/10.1126%2Fscience.1173113
+  DOI: 10.1126/science.1173113
+...

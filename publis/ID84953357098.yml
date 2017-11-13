@@ -1,0 +1,50 @@
+---
+references:
+- id: ID84953357098
+  type: article-journal
+  author:
+  - family: Talluto
+    given: M. V.
+  - family: Boulangeat
+    given: I.
+  - family: Ameztegui
+    given: A.
+  - family: Aubin
+    given: I.
+  - family: Berteaux
+    given: D.
+  - family: Butler
+    given: A.
+  - family: Doyon
+    given: F.
+  - family: Drever
+    given: C. R.
+  - family: Fortin
+    given: M.-J.
+  - family: Franceschini
+    given: T.
+  - family: Liénard
+    given: J.
+  - family: McKenney
+    given: D.
+  - family: Solarik
+    given: K. A.
+  - family: Strigul
+    given: N.
+  - family: Thuiller
+    given: W.
+  - family: Gravel
+    given: D.
+  issued:
+  - year: '2015'
+    month: '10'
+  title: 'Cross-scale integration of knowledge for predicting species ranges: A
+    metamodelling framework'
+  container-title: Global Ecology and Biogeography
+  publisher: Wiley-Blackwell
+  page: '238-249'
+  volume: '25'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fgeb.12395
+  DOI: 10.1111/geb.12395
+...

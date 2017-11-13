@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84888599108
+  type: article-journal
+  author:
+  - family: Silliman
+    given: B. R.
+  - family: McCoy
+    given: M. W.
+  - family: Angelini
+    given: C.
+  - family: Holt
+    given: R. D.
+  - family: Griffin
+    given: J. N.
+  - family: Koppel
+    given: J.
+    dropping-particle: van de
+  issued:
+  - year: '2013'
+    month: '11'
+  title: Consumer fronts, global change, and runaway collapse in ecosystems
+  container-title: Annual Review of Ecology, Evolution, and Systematics
+  publisher: Annual Reviews
+  page: '503-538'
+  volume: '44'
+  issue: '1'
+  URL: https://doi.org/10.1146%2Fannurev-ecolsys-110512-135753
+  DOI: 10.1146/annurev-ecolsys-110512-135753
+...

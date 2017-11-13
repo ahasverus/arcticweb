@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84954349459
+  type: article-journal
+  author:
+  - family: Nielsen
+    given: T. K.
+  - family: Benito
+    given: B. M.
+  - family: Svenning
+    given: J.-C.
+  - family: Sandel
+    given: B.
+  - family: McKerracher
+    given: L.
+  - family: Riede
+    given: F.
+  - family: Kjærgaard
+    given: P. C.
+  issued:
+  - year: '2017'
+    month: '2'
+  title: Investigating Neanderthal dispersal above 55°N in Europe during the Last
+    Interglacial Complex
+  container-title: Quaternary International
+  publisher: Elsevier BV
+  page: '88-103'
+  volume: '431'
+  URL: https://doi.org/10.1016%2Fj.quaint.2015.10.039
+  DOI: 10.1016/j.quaint.2015.10.039
+...

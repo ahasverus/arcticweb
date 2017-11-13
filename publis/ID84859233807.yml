@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84859233807
+  type: article-journal
+  author:
+  - family: Shaw
+    given: P.
+  - family: Hendrickson
+    given: L.
+  - family: McKeown
+    given: N.
+  - family: Stonier
+    given: T.
+  - family: Naud
+    given: M.
+  - family: Sauer
+    given: W.
+  issued:
+  - year: '2012'
+    month: '3'
+  title: 'Population structure of the squid Doryteuthis (Loligo) pealeii on the
+    eastern coast of the USA: Reply to Gerlach et al. (2012)'
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '285-287'
+  volume: '450'
+  URL: https://doi.org/10.3354%2Fmeps09652
+  DOI: 10.3354/meps09652
+...

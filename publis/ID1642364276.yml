@@ -1,0 +1,25 @@
+---
+references:
+- id: ID1642364276
+  type: article-journal
+  author:
+  - family: Mustonen
+    given: A.-M.
+  - family: Nieminen
+    given: P.
+  - family: Fuglei
+    given: E.
+  issued:
+  - year: '2004'
+    month: '3'
+  title: Effects of season, food deprivation and re-feeding on leptin, ghrelin and
+    growth hormone in arctic foxes (Alopex lagopus) on Svalbard, Norway
+  container-title: 'Journal of Comparative Physiology B: Biochemical, Systemic,
+    and Environmental Physiology'
+  publisher: Springer Nature
+  page: '157-162'
+  volume: '174'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs00360-003-0400-6
+  DOI: 10.1007/s00360-003-0400-6
+...

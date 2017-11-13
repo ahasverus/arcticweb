@@ -1,0 +1,30 @@
+---
+references:
+- id: ID85017397461
+  type: article-journal
+  author:
+  - family: Ropars
+    given: P.
+  - family: Angers-Blondin
+    given: S.
+  - family: Gagnon
+    given: M.
+  - family: Myers-Smith
+    given: I. H.
+  - family: Lévesque
+    given: E.
+  - family: Boudreau
+    given: S.
+  issued:
+  - year: '2017'
+    month: '4'
+  title: 'Different parts, different stories: climate sensitivity of growth is stronger
+    in root collars vs. stems in tundra shrubs'
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '3281-3291'
+  volume: '23'
+  issue: '8'
+  URL: https://doi.org/10.1111%2Fgcb.13631
+  DOI: 10.1111/gcb.13631
+...

@@ -1,0 +1,81 @@
+---
+references:
+- id: ID84555202706
+  type: article-journal
+  author:
+  - family: Myers-Smith
+    given: I. H.
+  - family: Forbes
+    given: B. C.
+  - family: Wilmking
+    given: M.
+  - family: Hallinger
+    given: M.
+  - family: Lantz
+    given: T.
+  - family: Blok
+    given: D.
+  - family: Tape
+    given: K. D.
+  - family: Macias-Fauria
+    given: M.
+  - family: Sass-Klaassen
+    given: U.
+  - family: Lévesque
+    given: E.
+  - family: Boudreau
+    given: S.
+  - family: Ropars
+    given: P.
+  - family: Hermanutz
+    given: L.
+  - family: Trant
+    given: A.
+  - family: Collier
+    given: L. S.
+  - family: Weijers
+    given: S.
+  - family: Rozema
+    given: J.
+  - family: Rayback
+    given: S. A.
+  - family: Schmidt
+    given: N. M.
+  - family: Schaepman-Strub
+    given: G.
+  - family: Wipf
+    given: S.
+  - family: Rixen
+    given: C.
+  - family: Ménard
+    given: C. B.
+  - family: Venn
+    given: S.
+  - family: Goetz
+    given: S.
+  - family: Andreu-Hayles
+    given: L.
+  - family: Elmendorf
+    given: S.
+  - family: Ravolainen
+    given: V.
+  - family: Welker
+    given: J.
+  - family: Grogan
+    given: P.
+  - family: Epstein
+    given: H. E.
+  - family: Hik
+    given: D. S.
+  issued:
+  - year: '2011'
+    month: '12'
+  title: 'Shrub expansion in tundra ecosystems: Dynamics, impacts and research priorities'
+  container-title: Environmental Research Letters
+  publisher: IOP Publishing
+  page: '045509'
+  volume: '6'
+  issue: '4'
+  URL: https://doi.org/10.1088%2F1748-9326%2F6%2F4%2F045509
+  DOI: 10.1088/1748-9326/6/4/045509
+...

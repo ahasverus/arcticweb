@@ -1,0 +1,27 @@
+---
+references:
+- id: ID85027282794
+  type: article-journal
+  author:
+  - family: Daru
+    given: B. H.
+  - family: Holt
+    given: B. G.
+  - family: Lessard
+    given: J.-P.
+  - family: Yessoufou
+    given: K.
+  - family: Davies
+    given: T. J.
+  issued:
+  - year: '2017'
+    month: '9'
+  title: Phylogenetic regionalization of marine plants reveals close evolutionary
+    affinities among disjunct temperate assemblages
+  container-title: Biological Conservation
+  publisher: Elsevier BV
+  page: '351-356'
+  volume: '213'
+  URL: https://doi.org/10.1016%2Fj.biocon.2016.08.022
+  DOI: 10.1016/j.biocon.2016.08.022
+...

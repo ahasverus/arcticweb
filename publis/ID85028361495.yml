@@ -1,0 +1,37 @@
+---
+references:
+- id: ID85028361495
+  type: article-journal
+  author:
+  - family: Nielsen
+    given: S. S.
+  - family: Arx
+    given: G.
+    dropping-particle: von
+  - family: Damgaard
+    given: C. F.
+  - family: Abermann
+    given: J.
+  - family: Buchwal
+    given: A.
+  - family: Büntgen
+    given: U.
+  - family: Treier
+    given: U. A.
+  - family: Barfod
+    given: A. S.
+  - family: Normand
+    given: S.
+  issued:
+  - year: '2017'
+    month: '8'
+  title: Xylem Anatomical Trait Variability Provides Insight on the Climate-Growth
+    Relationship of Betula nana in Western Greenland
+  container-title: Arctic, Antarctic, and Alpine Research
+  publisher: Institute of Arctic; Alpine Research (INSTAAR)
+  page: '359-371'
+  volume: '49'
+  issue: '3'
+  URL: https://doi.org/10.1657%2Faaar0016-041
+  DOI: 10.1657/aaar0016-041
+...

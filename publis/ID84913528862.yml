@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84913528862
+  type: article-journal
+  author:
+  - family: Petit
+    given: M.
+  - family: Vézina
+    given: F.
+  editor:
+  - family: Moreno-Rueda
+    given: Gregorio
+  issued:
+  - year: '2014'
+    month: '11'
+  title: 'Reaction norms in natural conditions: How does metabolic performance respond
+    to weather variations in a small endotherm facing cold environments?'
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e113617'
+  volume: '9'
+  issue: '11'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0113617
+  DOI: 10.1371/journal.pone.0113617
+...

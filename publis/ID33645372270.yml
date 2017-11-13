@@ -1,0 +1,23 @@
+---
+references:
+- id: ID33645372270
+  type: article-journal
+  author:
+  - family: Keesing
+    given: F.
+  - family: Holt
+    given: R. D.
+  - family: Ostfeld
+    given: R. S.
+  issued:
+  - year: '2006'
+    month: '3'
+  title: Effects of species diversity on disease risk
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '485-498'
+  volume: '9'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1461-0248.2006.00885.x
+  DOI: 10.1111/j.1461-0248.2006.00885.x
+...

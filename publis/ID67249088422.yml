@@ -1,0 +1,32 @@
+---
+references:
+- id: ID67249088422
+  type: article-journal
+  author:
+  - family: Gilliland
+    given: S. G.
+  - family: Gilchrist
+    given: H. G.
+  - family: Rockwell
+    given: R. F.
+  - family: Robertson
+    given: G. J.
+  - family: Savard
+    given: J.-P. L.
+  - family: Merkel
+    given: F.
+  - family: Mosbech
+    given: A.
+  issued:
+  - year: '2009'
+    month: '3'
+  title: Evaluating the sustainability of harvest among northern common eiders Somateria
+    mollissima bovealis in Greenland and Canada
+  container-title: Wildlife Biology
+  publisher: Wildlife Biology
+  page: '24-36'
+  volume: '15'
+  issue: '1'
+  URL: https://doi.org/10.2981%2F07-005
+  DOI: 10.2981/07-005
+...

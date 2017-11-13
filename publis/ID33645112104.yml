@@ -1,0 +1,31 @@
+---
+references:
+- id: ID33645112104
+  type: article-journal
+  author:
+  - family: Roslin
+    given: T.
+  - family: Gripenberg
+    given: S.
+  - family: Salminen
+    given: J.-P.
+  - family: Karonen
+    given: M.
+  - family: O'Hara
+    given: R. B.
+  - family: Pihlaja
+    given: K.
+  - family: Pulkkinen
+    given: P.
+  issued:
+  - year: '2006'
+    month: '4'
+  title: Seeing the trees for the leaves - Oaks as mosaics for a host-specific moth
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '106-120'
+  volume: '113'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.0030-1299.2006.14460.x
+  DOI: 10.1111/j.0030-1299.2006.14460.x
+...

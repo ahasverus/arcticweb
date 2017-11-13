@@ -1,0 +1,36 @@
+---
+references:
+- id: ID84925863058
+  type: article-journal
+  author:
+  - family: Deville
+    given: A.-S.
+  - family: Labaude
+    given: S.
+  - family: Robin
+    given: J.-P.
+  - family: Bechet
+    given: A.
+  - family: Gauthier-Clerc
+    given: M.
+  - family: Porter
+    given: W.
+  - family: Fitzpatrick
+    given: M.
+  - family: Mathewson
+    given: P.
+  - family: Gremillet
+    given: D.
+  issued:
+  - year: '2014'
+    month: '10'
+  title: 'Impacts of extreme climatic events on the energetics of long-lived vertebrates:
+    The case of the greater flamingo facing cold spells in the camargue'
+  container-title: Journal of Experimental Biology
+  publisher: The Company of Biologists
+  page: '3700-3707'
+  volume: '217'
+  issue: '20'
+  URL: https://doi.org/10.1242%2Fjeb.106344
+  DOI: 10.1242/jeb.106344
+...

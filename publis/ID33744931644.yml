@@ -1,0 +1,35 @@
+---
+references:
+- id: ID33744931644
+  type: article-journal
+  author:
+  - family: Breuner
+    given: C.
+  - family: Lynn
+    given: S.
+  - family: Julian
+    given: G.
+  - family: Cornelius
+    given: J.
+  - family: Heidinger
+    given: B.
+  - family: Love
+    given: O.
+  - family: Sprague
+    given: R.
+  - family: Wada
+    given: H.
+  - family: Whitman
+    given: B.
+  issued:
+  - year: '2006'
+    month: '4'
+  title: Plasma-binding globulins and acute stress response
+  container-title: Hormone and Metabolic Research
+  publisher: Georg Thieme Verlag KG
+  page: '260-268'
+  volume: '38'
+  issue: '4'
+  URL: https://doi.org/10.1055%2Fs-2006-925347
+  DOI: 10.1055/s-2006-925347
+...

@@ -1,0 +1,34 @@
+---
+references:
+- id: ID20044362181
+  type: article-journal
+  author:
+  - family: Gaillard
+    given: J.-M.
+  - family: Yoccoz
+    given: N. G.
+  - family: Lebreton
+    given: J.-D.
+  - family: Bonenfant
+    given: C.
+  - family: Devillard
+    given: S.
+  - family: Loison
+    given: A.
+  - family: Pontier
+    given: D.
+  - family: Allaine
+    given: D.
+  issued:
+  - year: '2005'
+    month: '7'
+  title: 'Generation time: A reliable metric to measure life-history variation among
+    mammalian populations'
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '119-123'
+  volume: '166'
+  issue: '1'
+  URL: https://doi.org/10.1086%2F430330
+  DOI: 10.1086/430330
+...

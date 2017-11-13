@@ -1,0 +1,28 @@
+---
+references:
+- id: ID58949093111
+  type: article-journal
+  author:
+  - family: Witman
+    given: J. D.
+  - family: Cusson
+    given: M.
+  - family: Archambault
+    given: P.
+  - family: Pershing
+    given: A. J.
+  - family: Mieszkowska
+    given: N.
+  issued:
+  - year: '2008'
+    month: '11'
+  title: The relation between productivity and species diversity in temperate-arctic
+    marine ecosystems
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: S66-S80
+  volume: '89'
+  issue: sp11
+  URL: https://doi.org/10.1890%2F07-1201.1
+  DOI: 10.1890/07-1201.1
+...

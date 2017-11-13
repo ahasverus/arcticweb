@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84925314862
+  type: article-journal
+  author:
+  - family: Spencer
+    given: N. C.
+  - family: Gilchrist
+    given: H. G.
+  - family: Mallory
+    given: M. L.
+  editor:
+  - family: Peter
+    given: Hans-Ulrich
+  issued:
+  - year: '2014'
+    month: '12'
+  title: 'Annual movement patterns of endangered ivory gulls: The importance of
+    sea ice'
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e115231'
+  volume: '9'
+  issue: '12'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0115231
+  DOI: 10.1371/journal.pone.0115231
+...

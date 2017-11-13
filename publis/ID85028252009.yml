@@ -1,0 +1,29 @@
+---
+references:
+- id: ID85028252009
+  type: article-journal
+  author:
+  - family: Capelle
+    given: P. M.
+  - family: Semeniuk
+    given: C. A. D.
+  - family: Sopinka
+    given: N. M.
+  - family: Heath
+    given: J. W.
+  - family: Love
+    given: O. P.
+  issued:
+  - year: '2016'
+    month: '12'
+  title: Prenatal Stress Exposure Generates Higher Early Survival and Smaller Size
+    without Impacting Developmental Rate in a Pacific Salmon
+  container-title: 'Journal of Experimental Zoology Part A: Ecological Genetics
+    and Physiology'
+  publisher: Wiley-Blackwell
+  page: '641-650'
+  volume: '325'
+  issue: '10'
+  URL: https://doi.org/10.1002%2Fjez.2058
+  DOI: 10.1002/jez.2058
+...

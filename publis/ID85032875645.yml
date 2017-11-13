@@ -1,0 +1,28 @@
+---
+references:
+- id: ID85032875645
+  type: article-journal
+  author:
+  - family: Sullivan
+    given: T. P.
+  - family: Sullivan
+    given: D. S.
+  - family: Boonstra
+    given: R.
+  - family: Krebs
+    given: C. J.
+  - family: Vyse
+    given: A.
+  issued:
+  - year: '2017'
+    month: '7'
+  title: 'Mechanisms of population limitation in the southern red-backed vole in
+    conifer forests of western North America: Insights from a long-term study'
+  container-title: Journal of Mammalogy
+  publisher: Oxford University Press (OUP)
+  page: '1367-1378'
+  volume: '98'
+  issue: '5'
+  URL: https://doi.org/10.1093%2Fjmammal%2Fgyx082
+  DOI: 10.1093/jmammal/gyx082
+...

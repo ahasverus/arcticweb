@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84902381766
+  type: article-journal
+  author:
+  - family: Nystuen
+    given: K. O.
+  - family: Evju
+    given: M.
+  - family: Rusch
+    given: G. M.
+  - family: Graae
+    given: B. J.
+  - family: Eide
+    given: N. E.
+  editor:
+  - family: Collins
+    given: Beverly
+  issued:
+  - year: '2014'
+    month: '3'
+  title: Rodent population dynamics affect seedling recruitment in alpine habitats
+  container-title: Journal of Vegetation Science
+  publisher: Wiley-Blackwell
+  page: '1004-1014'
+  volume: '25'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fjvs.12163
+  DOI: 10.1111/jvs.12163
+...

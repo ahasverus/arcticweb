@@ -1,0 +1,79 @@
+---
+references:
+- id: ID84978719359
+  type: article-journal
+  author:
+  - family: Thackeray
+    given: S. J.
+  - family: Henrys
+    given: P. A.
+  - family: Hemming
+    given: D.
+  - family: Bell
+    given: J. R.
+  - family: Botham
+    given: M. S.
+  - family: Burthe
+    given: S.
+  - family: Helaouet
+    given: P.
+  - family: Johns
+    given: D. G.
+  - family: Jones
+    given: I. D.
+  - family: Leech
+    given: D. I.
+  - family: Mackay
+    given: E. B.
+  - family: Massimino
+    given: D.
+  - family: Atkinson
+    given: S.
+  - family: Bacon
+    given: P. J.
+  - family: Brereton
+    given: T. M.
+  - family: Carvalho
+    given: L.
+  - family: Clutton-Brock
+    given: T. H.
+  - family: Duck
+    given: C.
+  - family: Edwards
+    given: M.
+  - family: Elliott
+    given: J. M.
+  - family: Hall
+    given: S. J. G.
+  - family: Harrington
+    given: R.
+  - family: Pearce-Higgins
+    given: J. W.
+  - family: Høye
+    given: T. T.
+  - family: Kruuk
+    given: L. E. B.
+  - family: Pemberton
+    given: J. M.
+  - family: Sparks
+    given: T. H.
+  - family: Thompson
+    given: P. M.
+  - family: White
+    given: I.
+  - family: Winfield
+    given: I. J.
+  - family: Wanless
+    given: S.
+  issued:
+  - year: '2016'
+    month: '6'
+  title: Phenological sensitivity to climate across taxa and trophic levels
+  container-title: Nature
+  publisher: Springer Nature
+  page: '241-245'
+  volume: '535'
+  issue: '7611'
+  URL: https://doi.org/10.1038%2Fnature18608
+  DOI: 10.1038/nature18608
+...

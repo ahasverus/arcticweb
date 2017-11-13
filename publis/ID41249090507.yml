@@ -1,0 +1,38 @@
+---
+references:
+- id: ID41249090507
+  type: article-journal
+  author:
+  - family: Sonne
+    given: C.
+  - family: Wolkers
+    given: H.
+  - family: Leifsson
+    given: P. S.
+  - family: Jenssen
+    given: B. M.
+  - family: Fuglei
+    given: E.
+  - family: Ahlstrøm
+    given: Y.
+  - family: Dietz
+    given: R.
+  - family: Kirkegaard
+    given: M.
+  - family: Muir
+    given: D. C. G.
+  - family: Jørgensen
+    given: E.
+  issued:
+  - year: '2008'
+    month: '4'
+  title: Organochlorine-induced histopathology in kidney and liver tissue from Arctic
+    fox (Vulpes lagopus)
+  container-title: Chemosphere
+  publisher: Elsevier BV
+  page: '1214-1224'
+  volume: '71'
+  issue: '7'
+  URL: https://doi.org/10.1016%2Fj.chemosphere.2007.12.028
+  DOI: 10.1016/j.chemosphere.2007.12.028
+...

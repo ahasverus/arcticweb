@@ -1,0 +1,41 @@
+---
+references:
+- id: ID84925452458
+  type: article-journal
+  author:
+  - family: Feng
+    given: G.
+  - family: Mi
+    given: X.
+  - family: Eiserhardt
+    given: W. L.
+  - family: Jin
+    given: G.
+  - family: Sang
+    given: W.
+  - family: Lu
+    given: Z.
+  - family: Wang
+    given: X.
+  - family: Li
+    given: X.
+  - family: Li
+    given: B.
+  - family: Sun
+    given: I.
+  - family: Ma
+    given: K.
+  - family: Svenning
+    given: J.-C.
+  issued:
+  - year: '2015'
+    month: '3'
+  title: Assembly of forest communities across East Asia - Insights from phylogenetic
+    community structure and species pool scaling
+  container-title: Scientific Reports
+  publisher: Springer Nature
+  volume: '5'
+  issue: '1'
+  URL: https://doi.org/10.1038%2Fsrep09337
+  DOI: 10.1038/srep09337
+...

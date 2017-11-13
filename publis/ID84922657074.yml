@@ -1,0 +1,23 @@
+---
+references:
+- id: ID84922657074
+  type: article-journal
+  author:
+  - family: Xiao
+    given: Z.
+  - family: Zhang
+    given: Z.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '2015'
+    month: '5'
+  title: 'Seed size and number make contrasting predictions on seed survival and
+    dispersal dynamics: A case study from oil tea Camellia oleifera'
+  container-title: Forest Ecology and Management
+  publisher: Elsevier BV
+  page: '1-8'
+  volume: '343'
+  URL: https://doi.org/10.1016%2Fj.foreco.2015.01.019
+  DOI: 10.1016/j.foreco.2015.01.019
+...

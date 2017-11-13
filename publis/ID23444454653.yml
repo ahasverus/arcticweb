@@ -1,0 +1,24 @@
+---
+references:
+- id: ID23444454653
+  type: article-journal
+  author:
+  - family: Grindeland
+    given: J. M.
+  - family: Sletvold
+    given: N.
+  - family: Ims
+    given: R. A.
+  issued:
+  - year: '2005'
+    month: '6'
+  title: Effects of floral display size and plant density on pollinator visitation
+    rate in a natural population of Digitalis purpurea
+  container-title: Functional Ecology
+  publisher: Wiley-Blackwell
+  page: '383-390'
+  volume: '19'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1365-2435.2005.00988.x
+  DOI: 10.1111/j.1365-2435.2005.00988.x
+...

@@ -1,0 +1,35 @@
+---
+references:
+- id: ID79551619570
+  type: article-journal
+  author:
+  - family: Álvarez-Loayza
+    given: P.
+  - family: White
+    given: J. F.
+  - family: Torres
+    given: M. S.
+  - family: Balslev
+    given: H.
+  - family: Kristiansen
+    given: T.
+  - family: Svenning
+    given: J.-C.
+  - family: Gil
+    given: N.
+  editor:
+  - family: Yu
+    given: Jae-Hyuk
+  issued:
+  - year: '2011'
+    month: '1'
+  title: Light converts endosymbiotic fungus to pathogen, influencing seedling survival
+    and niche-space filling of a common tropical tree, Iriartea deltoidea
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e16386'
+  volume: '6'
+  issue: '1'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0016386
+  DOI: 10.1371/journal.pone.0016386
+...

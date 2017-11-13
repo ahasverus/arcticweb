@@ -1,0 +1,32 @@
+---
+references:
+- id: ID77956719523
+  type: article-journal
+  author:
+  - family: Gilg
+    given: O.
+  - family: Strøm
+    given: H.
+  - family: Aebischer
+    given: A.
+  - family: Gavrilo
+    given: M. V.
+  - family: Volkov
+    given: A. E.
+  - family: Miljeteig
+    given: C.
+  - family: Sabard
+    given: B.
+  issued:
+  - year: '2010'
+    month: '8'
+  title: Post-breeding movements of northeast Atlantic ivory gull Pagophila eburnea
+    populations
+  container-title: Journal of Avian Biology
+  publisher: Wiley-Blackwell
+  page: '532-542'
+  volume: '41'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.1600-048x.2010.05125.x
+  DOI: 10.1111/j.1600-048x.2010.05125.x
+...

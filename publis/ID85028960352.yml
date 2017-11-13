@@ -1,0 +1,32 @@
+---
+references:
+- id: ID85028960352
+  type: article-journal
+  author:
+  - family: Goldsmit
+    given: J.
+  - family: Archambault
+    given: P.
+  - family: Chust
+    given: G.
+  - family: Villarino
+    given: E.
+  - family: Liu
+    given: G.
+  - family: Lukovich
+    given: J. V.
+  - family: Barber
+    given: D. G.
+  - family: Howland
+    given: K. L.
+  issued:
+  - year: '2017'
+    month: '9'
+  title: Projecting present and future habitat suitability of ship-mediated aquatic
+    invasive species in the Canadian Arctic
+  container-title: Biological Invasions
+  publisher: Springer Nature
+  page: '1-17'
+  URL: https://doi.org/10.1007%2Fs10530-017-1553-7
+  DOI: 10.1007/s10530-017-1553-7
+...

@@ -1,0 +1,22 @@
+---
+references:
+- id: ID33645102030
+  type: article-journal
+  author:
+  - family: Madsen
+    given: J.
+  - family: Klaassen
+    given: M.
+  issued:
+  - year: '2006'
+    month: '5'
+  title: Assessing body condition and energy budget components by scoring abdominal
+    profiles in free-ranging pink-footed geese Anser brachyrhynchus
+  container-title: Journal of Avian Biology
+  publisher: Wiley-Blackwell
+  page: '283-287'
+  volume: '37'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.2006.0908-8857.03555.x
+  DOI: 10.1111/j.2006.0908-8857.03555.x
+...

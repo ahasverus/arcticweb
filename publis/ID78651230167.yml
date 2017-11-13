@@ -1,0 +1,30 @@
+---
+references:
+- id: ID78651230167
+  type: article-journal
+  author:
+  - family: Vega
+    given: R.
+  - family: Fløjgaard
+    given: C.
+  - family: Lira-Noriega
+    given: A.
+  - family: Nakazawa
+    given: Y.
+  - family: Svenning
+    given: J.-C.
+  - family: Searle
+    given: J. B.
+  issued:
+  - year: '2010'
+    month: '5'
+  title: Northern glacial refugia for the pygmy shrew sorex minutus in europe revealed
+    by phylogeographic analyses and species distribution modelling
+  container-title: Ecography
+  publisher: Wiley-Blackwell
+  page: no-no
+  volume: '33'
+  issue: '2'
+  URL: https://doi.org/10.1111%2Fj.1600-0587.2010.06287.x
+  DOI: 10.1111/j.1600-0587.2010.06287.x
+...

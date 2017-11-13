@@ -1,0 +1,25 @@
+---
+references:
+- id: ID33644774693
+  type: article-journal
+  author:
+  - family: Dennehy
+    given: J. J.
+  - family: Friedenberg
+    given: N. A.
+  - family: Holt
+    given: R. D.
+  - family: Turner
+    given: P. E.
+  issued:
+  - year: '2006'
+    month: '3'
+  title: Viral ecology and the maintenance of novel host use
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: '429-439'
+  volume: '167'
+  issue: '3'
+  URL: https://doi.org/10.1086%2F499381
+  DOI: 10.1086/499381
+...

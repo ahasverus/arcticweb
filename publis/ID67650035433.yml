@@ -1,0 +1,26 @@
+---
+references:
+- id: ID67650035433
+  type: article-journal
+  author:
+  - family: White
+    given: P. C. L.
+  - family: Taylor
+    given: A. C.
+  - family: Boutin
+    given: S.
+  - family: Myers
+    given: C.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '2009'
+  title: Wildlife Research in a changing world
+  container-title: Wildlife Research
+  publisher: CSIRO Publishing
+  page: '275'
+  volume: '36'
+  issue: '4'
+  URL: https://doi.org/10.1071%2Fwrv36n4_ed
+  DOI: 10.1071/wrv36n4_ed
+...

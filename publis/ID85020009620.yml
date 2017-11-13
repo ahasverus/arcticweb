@@ -1,0 +1,35 @@
+---
+references:
+- id: ID85020009620
+  type: article-journal
+  author:
+  - family: Sonne
+    given: C.
+  - family: Torjesen
+    given: P. A.
+  - family: Fuglei
+    given: E.
+  - family: Muir
+    given: D. C. G.
+  - family: Jenssen
+    given: B. M.
+  - family: Jørgensen
+    given: E. H.
+  - family: Dietz
+    given: R.
+  - family: Ahlstrøm
+    given: Y.
+  issued:
+  - year: '2017'
+    month: '3'
+  title: Exposure to Persistent Organic Pollutants Reduces Testosterone Concentrations
+    and Affects Sperm Viability and Morphology during the Mating Peak Period in a
+    Controlled Experiment on Farmed Arctic Foxes (Vulpes lagopus)
+  container-title: Environmental Science & Technology
+  publisher: American Chemical Society (ACS)
+  page: '4673-4680'
+  volume: '51'
+  issue: '8'
+  URL: https://doi.org/10.1021%2Facs.est.7b00289
+  DOI: 10.1021/acs.est.7b00289
+...

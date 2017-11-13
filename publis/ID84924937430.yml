@@ -1,0 +1,32 @@
+---
+references:
+- id: ID84924937430
+  type: article-journal
+  author:
+  - family: Hansen
+    given: J.
+  - family: Ek
+    given: M.
+  - family: Roslin
+    given: T.
+  - family: Moreau
+    given: J.
+  - family: Teixeira
+    given: M.
+  - family: Gilg
+    given: O.
+  - family: Schmidt
+    given: N. M.
+  issued:
+  - year: '2015'
+    month: '3'
+  title: First observation of a four-egg clutch of long-tailed jaeger (stercorarius
+    longicaudus)
+  container-title: The Wilson Journal of Ornithology
+  publisher: Wilson Ornithological Society
+  page: '149-153'
+  volume: '127'
+  issue: '1'
+  URL: https://doi.org/10.1676%2F14-072.1
+  DOI: 10.1676/14-072.1
+...

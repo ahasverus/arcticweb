@@ -1,0 +1,33 @@
+---
+references:
+- id: ID73949090388
+  type: article-journal
+  author:
+  - family: Zimmermann
+    given: N. E.
+  - family: Yoccoz
+    given: N. G.
+  - family: Edwards
+    given: T. C.
+  - family: Meier
+    given: E. S.
+  - family: Thuiller
+    given: W.
+  - family: Guisan
+    given: A.
+  - family: Schmatz
+    given: D. R.
+  - family: Pearman
+    given: P. B.
+  issued:
+  - year: '2009'
+    month: '11'
+  title: Climatic extremes improve predictions of spatial patterns of tree species
+  container-title: Proceedings of the National Academy of Sciences
+  publisher: Proceedings of the National Academy of Sciences
+  page: '19723-19728'
+  volume: '106'
+  issue: Supplement\_2
+  URL: https://doi.org/10.1073%2Fpnas.0901643106
+  DOI: 10.1073/pnas.0901643106
+...

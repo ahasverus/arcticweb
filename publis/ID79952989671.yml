@@ -1,0 +1,25 @@
+---
+references:
+- id: ID79952989671
+  type: article-journal
+  author:
+  - family: Anjos
+    given: L.
+    dropping-particle: dos
+  - family: Holt
+    given: R. D.
+  - family: Robinson
+    given: S.
+  issued:
+  - year: '2009'
+    month: '12'
+  title: 'Position in the distributional range and sensitivity to forest fragmentation
+    in birds: A case history from the Atlantic forest, Brazil'
+  container-title: Bird Conservation International
+  publisher: Cambridge University Press (CUP)
+  page: '392-399'
+  volume: '20'
+  issue: '04'
+  URL: https://doi.org/10.1017%2Fs0959270909990256
+  DOI: 10.1017/s0959270909990256
+...

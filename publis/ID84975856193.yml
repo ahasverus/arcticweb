@@ -1,0 +1,29 @@
+---
+references:
+- id: ID84975856193
+  type: article-journal
+  author:
+  - family: Bilodeau
+    given: F.
+  - family: Schetagne
+    given: R.
+  - family: Therrien
+    given: J.
+  - family: Verdon
+    given: R.
+  editor:
+  - family: MacLatchey
+    given: Deborah
+  issued:
+  - year: '2016'
+    month: '7'
+  title: Absence of noticeable mercury effects on fish populations in boreal reservoirs
+    despite threefold to sevenfold increases in mercury concentrations
+  container-title: Canadian Journal of Fisheries and Aquatic Sciences
+  publisher: Canadian Science Publishing
+  page: '1104-1125'
+  volume: '73'
+  issue: '7'
+  URL: https://doi.org/10.1139%2Fcjfas-2015-0035
+  DOI: 10.1139/cjfas-2015-0035
+...

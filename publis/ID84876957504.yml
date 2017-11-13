@@ -1,0 +1,30 @@
+---
+references:
+- id: ID84876957504
+  type: article-journal
+  author:
+  - family: Palm
+    given: E. C.
+  - family: Esler
+    given: D.
+  - family: Anderson
+    given: E. M.
+  - family: Williams
+    given: T. D.
+  - family: Love
+    given: O. P.
+  - family: Wilson
+    given: M. T.
+  issued:
+  - year: '2013'
+    month: '5'
+  title: 'Baseline corticosterone in wintering marine birds: Methodological considerations
+    and ecological patterns'
+  container-title: Physiological and Biochemical Zoology
+  publisher: University of Chicago Press
+  page: '346-353'
+  volume: '86'
+  issue: '3'
+  URL: https://doi.org/10.1086%2F670156
+  DOI: 10.1086/670156
+...

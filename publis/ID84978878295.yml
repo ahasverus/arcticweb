@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84978878295
+  type: article-journal
+  author:
+  - family: Norén
+    given: K.
+  - family: Godoy
+    given: E.
+  - family: Dalén
+    given: L.
+  - family: Meijer
+    given: T.
+  - family: Angerbjörn
+    given: A.
+  issued:
+  - year: '2016'
+    month: '7'
+  title: Inbreeding depression in a critically endangered carnivore
+  container-title: Molecular Ecology
+  publisher: Wiley-Blackwell
+  page: '3309-3318'
+  volume: '25'
+  issue: '14'
+  URL: https://doi.org/10.1111%2Fmec.13674
+  DOI: 10.1111/mec.13674
+...

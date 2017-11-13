@@ -1,0 +1,24 @@
+---
+references:
+- id: ID77958129806
+  type: article-journal
+  author:
+  - family: Orrock
+    given: J. L.
+  - family: Baskett
+    given: M. L.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2010'
+    month: '6'
+  title: Spatial interplay of plant competition and consumer foraging mediate plant
+    coexistence and drive the invasion ratchet
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '3307-3315'
+  volume: '277'
+  issue: '1698'
+  URL: https://doi.org/10.1098%2Frspb.2010.0738
+  DOI: 10.1098/rspb.2010.0738
+...

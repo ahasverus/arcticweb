@@ -1,0 +1,24 @@
+---
+references:
+- id: ID66149153472
+  type: article-journal
+  author:
+  - family: Araujo
+    given: M. B.
+  - family: Thuiller
+    given: W.
+  - family: Yoccoz
+    given: N. G.
+  issued:
+  - year: '2009'
+    month: '4'
+  title: Reopening the climate envelope reveals macroscale associations with climate
+    in European birds
+  container-title: Proceedings of the National Academy of Sciences
+  publisher: Proceedings of the National Academy of Sciences
+  page: 'E45-E46'
+  volume: '106'
+  issue: '16'
+  URL: https://doi.org/10.1073%2Fpnas.0813294106
+  DOI: 10.1073/pnas.0813294106
+...

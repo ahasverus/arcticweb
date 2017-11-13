@@ -1,0 +1,42 @@
+---
+references:
+- id: ID84858073352
+  type: article-journal
+  author:
+  - family: Broennimann
+    given: O.
+  - family: Fitzpatrick
+    given: M. C.
+  - family: Pearman
+    given: P. B.
+  - family: Petitpierre
+    given: B.
+  - family: Pellissier
+    given: L.
+  - family: Yoccoz
+    given: N. G.
+  - family: Thuiller
+    given: W.
+  - family: Fortin
+    given: M.-J.
+  - family: Randin
+    given: C.
+  - family: Zimmermann
+    given: N. E.
+  - family: Graham
+    given: C. H.
+  - family: Guisan
+    given: A.
+  issued:
+  - year: '2011'
+    month: '7'
+  title: Measuring ecological niche overlap from occurrence and spatial environmental
+    data
+  container-title: Global Ecology and Biogeography
+  publisher: Wiley-Blackwell
+  page: '481-497'
+  volume: '21'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1466-8238.2011.00698.x
+  DOI: 10.1111/j.1466-8238.2011.00698.x
+...

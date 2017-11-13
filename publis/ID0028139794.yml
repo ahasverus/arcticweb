@@ -1,0 +1,30 @@
+---
+references:
+- id: ID0028139794
+  type: article-journal
+  author:
+  - family: Stacy
+    given: J. E.
+  - family: Refseth
+    given: U. H.
+  - family: Thoresen
+    given: M.
+  - family: Ims
+    given: R. A.
+  - family: Stenseth
+    given: N. C.
+  - family: Jakobsen
+    given: K. S.
+  issued:
+  - year: '1994'
+    month: '7'
+  title: 'Genetic variability among root voles (Microtus oeconomus) from different
+    geographic regions: populations can be distinguished by DNA fingerprinting'
+  container-title: Biological Journal of the Linnean Society
+  publisher: Oxford University Press (OUP)
+  page: '273-286'
+  volume: '52'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1095-8312.1994.tb00990.x
+  DOI: 10.1111/j.1095-8312.1994.tb00990.x
+...

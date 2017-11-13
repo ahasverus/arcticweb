@@ -1,0 +1,59 @@
+---
+references:
+- id: ID68149090573
+  type: article-journal
+  author:
+  - family: Robinson
+    given: R.
+  - family: Crick
+    given: H.
+  - family: Learmonth
+    given: J.
+  - family: Maclean
+    given: I.
+  - family: Thomas
+    given: C.
+  - family: Bairlein
+    given: F.
+  - family: Forchhammer
+    given: M.
+  - family: Francis
+    given: C.
+  - family: Gill
+    given: J.
+  - family: Godley
+    given: B.
+  - family: Harwood
+    given: J.
+  - family: Hays
+    given: G.
+  - family: Huntley
+    given: B.
+  - family: Hutson
+    dropping-particle: am
+  - family: Pierce
+    given: G.
+  - family: Rehfisch
+    given: M.
+  - family: Sims
+    given: D.
+  - family: Santos
+    given: B.
+  - family: Sparks
+    given: T.
+  - family: Stroud
+    dropping-particle: da
+  - family: Visser
+    given: M.
+  issued:
+  - year: '2009'
+    month: '6'
+  title: 'Travelling through a warming world: Climate change and migratory species'
+  container-title: Endangered Species Research
+  publisher: Inter-Research Science Center
+  page: '87-99'
+  volume: '7'
+  issue: '2'
+  URL: https://doi.org/10.3354%2Fesr00095
+  DOI: 10.3354/esr00095
+...

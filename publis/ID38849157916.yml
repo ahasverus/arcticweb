@@ -1,0 +1,23 @@
+---
+references:
+- id: ID38849157916
+  type: article-journal
+  author:
+  - family: Ims
+    given: R.
+  - family: Henden
+    given: J.
+  - family: Killengreen
+    given: S.
+  issued:
+  - year: '2008'
+    month: '2'
+  title: Collapsing population cycles
+  container-title: Trends in Ecology & Evolution
+  publisher: Elsevier BV
+  page: '79-86'
+  volume: '23'
+  issue: '2'
+  URL: https://doi.org/10.1016%2Fj.tree.2007.10.010
+  DOI: 10.1016/j.tree.2007.10.010
+...

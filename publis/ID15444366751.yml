@@ -1,0 +1,30 @@
+---
+references:
+- id: ID15444366751
+  type: article-journal
+  author:
+  - family: Smith
+    given: V. H.
+  - family: Foster
+    given: B. L.
+  - family: Grover
+    given: J. P.
+  - family: Holt
+    given: R. D.
+  - family: Leibold
+    given: M. A.
+  - family: Denoyelles
+    given: F.
+  issued:
+  - year: '2005'
+    month: '3'
+  title: Phytoplankton species richness scales consistently from laboratory microcosms
+    to the world’s oceans
+  container-title: Proceedings of the National Academy of Sciences
+  publisher: Proceedings of the National Academy of Sciences
+  page: '4393-4396'
+  volume: '102'
+  issue: '12'
+  URL: https://doi.org/10.1073%2Fpnas.0500094102
+  DOI: 10.1073/pnas.0500094102
+...

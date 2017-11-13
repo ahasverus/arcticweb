@@ -1,0 +1,26 @@
+---
+references:
+- id: ID85008943058
+  type: article-journal
+  author:
+  - family: Sopinka
+    given: N. M.
+  - family: Capelle
+    given: P. M.
+  - family: Semeniuk
+    given: C. A. D.
+  - family: Love
+    given: O. P.
+  issued:
+  - year: '2017'
+    month: '1'
+  title: 'Glucocorticoids in fish eggs: Variation, interactions with the environment,
+    and the potential to shape offspring fitness'
+  container-title: Physiological and Biochemical Zoology
+  publisher: University of Chicago Press
+  page: '15-33'
+  volume: '90'
+  issue: '1'
+  URL: https://doi.org/10.1086%2F689994
+  DOI: 10.1086/689994
+...

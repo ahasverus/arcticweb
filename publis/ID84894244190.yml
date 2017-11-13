@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84894244190
+  type: paper-conference
+  author:
+  - family: Pouteau
+    given: R.
+  - family: Collin
+    given: A.
+  - family: Archambault
+    given: P.
+  - family: Stoll
+    given: B.
+  issued:
+  - year: '2013'
+    month: '7'
+  title: Modeling reef health from upstream socio-ecological components using GIS
+    and RS
+  container-title: 2013 IEEE International Geoscience and Remote Sensing Symposium
+    - IGARSS
+  publisher: IEEE
+  page: '306-309'
+  URL: https://doi.org/10.1109%2Figarss.2013.6721153
+  DOI: 10.1109/igarss.2013.6721153
+...

@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84883777668
+  type: article-journal
+  author:
+  - family: Olivier
+    given: F.
+  - family: Martín
+    given: G.
+    dropping-particle: san
+  - family: Archambault
+    given: P.
+  issued:
+  - year: '2013'
+    month: '7'
+  title: A new species of Streptospinigera Kudenov, 1983 (Polychaeta, Syllidae, Anoplosyllinae)
+    from the Arctic and north-western Atlantic with a key to all species of the genus
+  container-title: Polar Biology
+  publisher: Springer Nature
+  page: '1499-1507'
+  volume: '36'
+  issue: '10'
+  URL: https://doi.org/10.1007%2Fs00300-013-1369-6
+  DOI: 10.1007/s00300-013-1369-6
+...

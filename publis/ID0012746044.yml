@@ -1,0 +1,21 @@
+---
+references:
+- id: ID0012746044
+  type: article-journal
+  author:
+  - family: Burton
+    given: C.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '2003'
+    month: '8'
+  title: Influence of relatedness on snowshoe hare spacing behavior
+  container-title: Journal of Mammalogy
+  publisher: Oxford University Press (OUP)
+  page: '1100-1111'
+  volume: '84'
+  issue: '3'
+  URL: https://doi.org/10.1644%2Fbrg-029
+  DOI: 10.1644/brg-029
+...

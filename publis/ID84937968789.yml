@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84937968789
+  type: article-journal
+  author:
+  - family: Pedersen
+    given: S. H.
+  - family: Liston
+    given: G. E.
+  - family: Tamstorf
+    given: M. P.
+  - family: Westergaard-Nielsen
+    given: A.
+  - family: Schmidt
+    given: N. M.
+  issued:
+  - year: '2015'
+    month: '3'
+  title: Quantifying episodic snowmelt events in arctic ecosystems
+  container-title: Ecosystems
+  publisher: Springer Nature
+  page: '839-856'
+  volume: '18'
+  issue: '5'
+  URL: https://doi.org/10.1007%2Fs10021-015-9867-8
+  DOI: 10.1007/s10021-015-9867-8
+...

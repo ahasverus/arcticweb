@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84938365635
+  type: article-journal
+  author:
+  - family: Johnson
+    given: F.
+  - family: Eaton
+    given: M.
+  - family: Williams
+    given: J.
+  - family: Jensen
+    given: G.
+  - family: Madsen
+    given: J.
+  issued:
+  - year: '2015'
+    month: '6'
+  title: Training conservation practitioners to be better decision makers
+  container-title: Sustainability
+  publisher: MDPI AG
+  page: '8354-8373'
+  volume: '7'
+  issue: '7'
+  URL: https://doi.org/10.3390%2Fsu7078354
+  DOI: 10.3390/su7078354
+...

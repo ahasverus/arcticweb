@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84948718012
+  type: article-journal
+  author:
+  - family: García-Valdés
+    given: R.
+  - family: Svenning
+    given: J.-C.
+  - family: Zavala
+    given: M. A.
+  - family: Purves
+    given: D. W.
+  - family: Araújo
+    given: M. B.
+  editor:
+  - family: Saura
+    given: Santiago
+  issued:
+  - year: '2015'
+    month: '6'
+  title: Evaluating the combined effects of climate and land-use change on tree species
+    distributions
+  container-title: Journal of Applied Ecology
+  publisher: Wiley-Blackwell
+  page: '902-912'
+  volume: '52'
+  issue: '4'
+  URL: https://doi.org/10.1111%2F1365-2664.12453
+  DOI: 10.1111/1365-2664.12453
+...

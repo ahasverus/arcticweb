@@ -1,0 +1,26 @@
+---
+references:
+- id: ID0033976217
+  type: article-journal
+  author:
+  - family: Aastrup
+    given: P.
+  - family: Riget
+    given: F.
+  - family: Dietz
+    given: R.
+  - family: Asmund
+    given: G.
+  issued:
+  - year: '2000'
+    month: '1'
+  title: Lead, zinc, cadmium, mercury, selenium and copper in Greenland caribou and
+    reindeer (Rangifer tarandus)
+  container-title: The Science of The Total Environment
+  publisher: Elsevier BV
+  page: '149-159'
+  volume: '245'
+  issue: '1-3'
+  URL: https://doi.org/10.1016%2Fs0048-9697%2899%2900440-4
+  DOI: 10.1016/s0048-9697(99)00440-4
+...

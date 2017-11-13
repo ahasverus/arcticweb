@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84883268256
+  type: article-journal
+  author:
+  - family: Xiao
+    given: Z.
+  - family: Zhang
+    given: Z.
+  - family: Krebs
+    given: C. J.
+  editor:
+  - family: Whitney
+    given: Kenneth
+  issued:
+  - year: '2013'
+    month: '6'
+  title: 'Long-term seed survival and dispersal dynamics in a rodent-dispersed tree:
+    Testing the predator satiation hypothesis and the predator dispersal hypothesis'
+  container-title: Journal of Ecology
+  publisher: Wiley-Blackwell
+  page: '1256-1264'
+  volume: '101'
+  issue: '5'
+  URL: https://doi.org/10.1111%2F1365-2745.12113
+  DOI: 10.1111/1365-2745.12113
+...

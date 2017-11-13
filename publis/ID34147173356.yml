@@ -1,0 +1,24 @@
+---
+references:
+- id: ID34147173356
+  type: article-journal
+  author:
+  - family: Martcheva
+    given: M.
+  - family: Pilyugin
+    given: S. S.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2007'
+    month: '5'
+  title: 'Subthreshold and superthreshold coexistence of pathogen variants: The
+    impact of host age-structure'
+  container-title: Mathematical Biosciences
+  publisher: Elsevier BV
+  page: '58-77'
+  volume: '207'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fj.mbs.2006.09.010
+  DOI: 10.1016/j.mbs.2006.09.010
+...

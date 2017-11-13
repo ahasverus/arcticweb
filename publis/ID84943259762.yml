@@ -1,0 +1,144 @@
+---
+references:
+- id: ID84943259762
+  type: article-journal
+  author:
+  - family: Mills
+    given: J. A.
+  - family: Teplitsky
+    given: C.
+  - family: Arroyo
+    given: B.
+  - family: Charmantier
+    given: A.
+  - family: Becker
+    given: P. H.
+  - family: Birkhead
+    given: T. R.
+  - family: Bize
+    given: P.
+  - family: Blumstein
+    given: D. T.
+  - family: Bonenfant
+    given: C.
+  - family: Boutin
+    given: S.
+  - family: Bushuev
+    given: A.
+  - family: Cam
+    given: E.
+  - family: Cockburn
+    given: A.
+  - family: Côté
+    given: S. D.
+  - family: Coulson
+    given: J. C.
+  - family: Daunt
+    given: F.
+  - family: Dingemanse
+    given: N. J.
+  - family: Doligez
+    given: B.
+  - family: Drummond
+    given: H.
+  - family: Espie
+    given: R. H. M.
+  - family: Festa-Bianchet
+    given: M.
+  - family: Frentiu
+    given: F.
+  - family: Fitzpatrick
+    given: J. W.
+  - family: Furness
+    given: R. W.
+  - family: Garant
+    given: D.
+  - family: Gauthier
+    given: G.
+  - family: Grant
+    given: P. R.
+  - family: Griesser
+    given: M.
+  - family: Gustafsson
+    given: L.
+  - family: Hansson
+    given: B.
+  - family: Harris
+    given: M. P.
+  - family: Jiguet
+    given: F.
+  - family: Kjellander
+    given: P.
+  - family: Korpimäki
+    given: E.
+  - family: Krebs
+    given: C. J.
+  - family: Lens
+    given: L.
+  - family: Linnell
+    given: J. D. C.
+  - family: Low
+    given: M.
+  - family: McAdam
+    given: A.
+  - family: Margalida
+    given: A.
+  - family: Merilä
+    given: J.
+  - family: Møller
+    given: A. P.
+  - family: Nakagawa
+    given: S.
+  - family: Nilsson
+    given: J.-K.
+  - family: Nisbet
+    given: I. C. T.
+  - family: Noordwijk
+    given: A. J.
+    dropping-particle: van
+  - family: Oro
+    given: D.
+  - family: Pärt
+    given: T.
+  - family: Pelletier
+    given: F.
+  - family: Potti
+    given: J.
+  - family: Pujol
+    given: B.
+  - family: Réale
+    given: D.
+  - family: Rockwell
+    given: R. F.
+  - family: Ropert-Coudert
+    given: Y.
+  - family: Roulin
+    given: A.
+  - family: Sedinger
+    given: J. S.
+  - family: Swenson
+    given: J. E.
+  - family: Thébaud
+    given: C.
+  - family: Visser
+    given: M. E.
+  - family: Wanless
+    given: S.
+  - family: Westneat
+    given: D. F.
+  - family: Wilson
+    given: A. J.
+  - family: Zedrosser
+    given: A.
+  issued:
+  - year: '2015'
+    month: '10'
+  title: 'Archiving Primary Data: Solutions for Long-Term Studies'
+  container-title: Trends in Ecology & Evolution
+  publisher: Elsevier BV
+  page: '581-589'
+  volume: '30'
+  issue: '10'
+  URL: https://doi.org/10.1016%2Fj.tree.2015.07.006
+  DOI: 10.1016/j.tree.2015.07.006
+...

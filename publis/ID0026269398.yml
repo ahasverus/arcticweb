@@ -1,0 +1,21 @@
+---
+references:
+- id: ID0026269398
+  type: article-journal
+  author:
+  - family: Lambin
+    given: X.
+  - family: Krebs
+    given: C. J.
+  issued:
+  - year: '1991'
+    month: '6'
+  title: Spatial organization and mating system of Microtus townsendii
+  container-title: Behavioral Ecology and Sociobiology
+  publisher: Springer Nature
+  page: '353-363'
+  volume: '28'
+  issue: '5'
+  URL: https://doi.org/10.1007%2Fbf00164385
+  DOI: 10.1007/bf00164385
+...

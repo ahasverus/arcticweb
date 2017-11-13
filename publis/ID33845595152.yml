@@ -1,0 +1,36 @@
+---
+references:
+- id: ID33845595152
+  type: article-journal
+  author:
+  - family: Valdiosera
+    given: C.
+  - family: Garcia
+    given: N.
+  - family: Dalen
+    given: L.
+  - family: Smith
+    given: C.
+  - family: Kahlke
+    given: R.-D.
+  - family: Liden
+    given: K.
+  - family: Angerbjorn
+    given: A.
+  - family: Arsuaga
+    given: J. L.
+  - family: Gotherstrom
+    given: A.
+  issued:
+  - year: '2006'
+    month: '12'
+  title: Typing single polymorphic nucleotides in mitochondrial DNA as a way to access
+    Middle Pleistocene DNA
+  container-title: Biology Letters
+  publisher: The Royal Society
+  page: '601-603'
+  volume: '2'
+  issue: '4'
+  URL: https://doi.org/10.1098%2Frsbl.2006.0515
+  DOI: 10.1098/rsbl.2006.0515
+...

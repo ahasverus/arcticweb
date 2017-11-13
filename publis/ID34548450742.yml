@@ -1,0 +1,29 @@
+---
+references:
+- id: ID34548450742
+  type: article-journal
+  author:
+  - family: Zambrana
+    given: N. Y. P.
+  - family: Byg
+    given: A.
+  - family: Svenning
+    given: J.-C.
+  - family: Moraes
+    given: M.
+  - family: Grandez
+    given: C.
+  - family: Balslev
+    given: H.
+  issued:
+  - year: '2007'
+    month: '7'
+  title: Diversity of palm uses in the western Amazon
+  container-title: Biodiversity and Conservation
+  publisher: Springer Nature
+  page: '2771-2787'
+  volume: '16'
+  issue: '10'
+  URL: https://doi.org/10.1007%2Fs10531-007-9218-y
+  DOI: 10.1007/s10531-007-9218-y
+...

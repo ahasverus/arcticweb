@@ -1,0 +1,28 @@
+---
+references:
+- id: ID84873084849
+  type: article-journal
+  author:
+  - family: Love
+    given: O. P.
+  - family: McGowan
+    given: P. O.
+  - family: Sheriff
+    given: M. J.
+  editor:
+  - family: Boonstra
+    given: Rudy
+  issued:
+  - year: '2012'
+    month: '8'
+  title: 'Maternal adversity and ecological stressors in natural populations: The
+    role of stress axis programming in individuals, with implications for populations
+    and communities'
+  container-title: Functional Ecology
+  publisher: Wiley-Blackwell
+  page: '81-92'
+  volume: '27'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1365-2435.2012.02040.x
+  DOI: 10.1111/j.1365-2435.2012.02040.x
+...

@@ -1,0 +1,23 @@
+---
+references:
+- id: ID67049167162
+  type: article-journal
+  author:
+  - family: Hendrichsen
+    given: D. K.
+  - family: Topping
+    given: C. J.
+  - family: Forchhammer
+    given: M. C.
+  issued:
+  - year: '2009'
+  title: Predation and fragmentation portrayed in the statistical structure of prey
+    time series
+  container-title: BMC Ecology
+  publisher: Springer Nature
+  page: '10'
+  volume: '9'
+  issue: '1'
+  URL: https://doi.org/10.1186%2F1472-6785-9-10
+  DOI: 10.1186/1472-6785-9-10
+...

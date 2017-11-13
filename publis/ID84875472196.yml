@@ -1,0 +1,40 @@
+---
+references:
+- id: ID84875472196
+  type: article-journal
+  author:
+  - family: Bolduc
+    given: E.
+  - family: Casajus
+    given: N.
+  - family: Legagneux
+    given: P.
+  - family: McKinnon
+    given: L.
+  - family: Gilchrist
+    given: H. G.
+  - family: Leung
+    given: M.
+  - family: Morrison
+    given: R. I. G.
+  - family: Reid
+    given: D.
+  - family: Smith
+    given: P. A.
+  - family: Buddle
+    given: C. M.
+  - family: Bêty
+    given: J.
+  issued:
+  - year: '2013'
+    month: '2'
+  title: 'Terrestrial arthropod abundance and phenology in the Canadian Arctic:
+    Modelling resource availability for Arctic-nesting insectivorous birds'
+  container-title: The Canadian Entomologist
+  publisher: Cambridge University Press (CUP)
+  page: '155-170'
+  volume: '145'
+  issue: '02'
+  URL: https://doi.org/10.4039%2Ftce.2013.4
+  DOI: 10.4039/tce.2013.4
+...

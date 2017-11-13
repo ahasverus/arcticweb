@@ -1,0 +1,24 @@
+---
+references:
+- id: ID77957657839
+  type: article-journal
+  author:
+  - family: Gauthier
+    given: G.
+  - family: Milot
+    given: E.
+  - family: Weimerskirch
+    given: H.
+  issued:
+  - year: '2010'
+    month: '3'
+  title: Small-scale dispersal and survival in a long-lived seabird, the wandering
+    albatross
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '879-887'
+  volume: '79'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2010.01683.x
+  DOI: 10.1111/j.1365-2656.2010.01683.x
+...

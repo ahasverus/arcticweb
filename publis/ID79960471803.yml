@@ -1,0 +1,30 @@
+---
+references:
+- id: ID79960471803
+  type: article-journal
+  author:
+  - family: Meijer
+    given: T.
+  - family: Mattsson
+    given: R.
+  - family: Angerbjörn
+    given: A.
+  - family: Osterman-Lind
+    given: E.
+  - family: Fernández-Aguilar
+    given: X.
+  - family: Gavier-Widén
+    given: D.
+  issued:
+  - year: '2011'
+    month: '2'
+  title: Endoparasites in the endangered Fennoscandian population of arctic foxes
+    (Vulpes lagopus)
+  container-title: European Journal of Wildlife Research
+  publisher: Springer Nature
+  page: '923-927'
+  volume: '57'
+  issue: '4'
+  URL: https://doi.org/10.1007%2Fs10344-011-0505-2
+  DOI: 10.1007/s10344-011-0505-2
+...

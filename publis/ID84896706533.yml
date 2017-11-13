@@ -1,0 +1,27 @@
+---
+references:
+- id: ID84896706533
+  type: article-journal
+  author:
+  - family: Love
+    given: O. P.
+  - family: Madliger
+    given: C. L.
+  - family: Bourgeon
+    given: S.
+  - family: Semeniuk
+    given: C. A. D.
+  - family: Williams
+    given: T. D.
+  issued:
+  - year: '2014'
+    month: '4'
+  title: Evidence for baseline glucocorticoids as mediators of reproductive investment
+    in a wild bird
+  container-title: General and Comparative Endocrinology
+  publisher: Elsevier BV
+  page: '65-69'
+  volume: '199'
+  URL: https://doi.org/10.1016%2Fj.ygcen.2014.01.001
+  DOI: 10.1016/j.ygcen.2014.01.001
+...

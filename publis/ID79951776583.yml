@@ -1,0 +1,25 @@
+---
+references:
+- id: ID79951776583
+  type: article-journal
+  author:
+  - family: Megali
+    given: A.
+  - family: Yannic
+    given: G.
+  - family: Christe
+    given: P.
+  issued:
+  - year: '2010'
+    month: '11'
+  title: 'Disease in the dark: Molecular characterization of Polychromophilus murinus
+    in temperate zone bats revealed a worldwide distribution of this malaria-like
+    disease'
+  container-title: Molecular Ecology
+  publisher: Wiley-Blackwell
+  page: '1039-1048'
+  volume: '20'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.1365-294x.2010.04905.x
+  DOI: 10.1111/j.1365-294x.2010.04905.x
+...

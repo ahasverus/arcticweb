@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84255177445
+  type: article-journal
+  author:
+  - family: Fauteux
+    given: D.
+  - family: Imbeau
+    given: L.
+  - family: Drapeau
+    given: P.
+  - family: Mazerolle
+    given: M. J.
+  issued:
+  - year: '2012'
+    month: '2'
+  title: Small mammal responses to coarse woody debris distribution at different spatial
+    scales in managed and unmanaged boreal forests
+  container-title: Forest Ecology and Management
+  publisher: Elsevier BV
+  page: '194-205'
+  volume: '266'
+  URL: https://doi.org/10.1016%2Fj.foreco.2011.11.020
+  DOI: 10.1016/j.foreco.2011.11.020
+...

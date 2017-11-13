@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84977103396
+  type: article-journal
+  author:
+  - family: Ahlgren
+    given: H.
+  - family: Norén
+    given: K.
+  - family: Angerbjörn
+    given: A.
+  - family: Lidén
+    given: K.
+  issued:
+  - year: '2016'
+    month: '6'
+  title: Multiple prehistoric introductions of the mountain hare (Lepus timidus) on
+    a remote island, as revealed by ancient DNA
+  container-title: Journal of Biogeography
+  publisher: Wiley-Blackwell
+  page: '1786-1796'
+  volume: '43'
+  issue: '9'
+  URL: https://doi.org/10.1111%2Fjbi.12759
+  DOI: 10.1111/jbi.12759
+...

@@ -1,0 +1,25 @@
+---
+references:
+- id: ID33644986728
+  type: article-journal
+  author:
+  - family: Kato
+    given: A.
+  - family: Ropert-Coudert
+    given: Y.
+  - family: Grémillet
+    given: D.
+  - family: Cannell
+    given: B.
+  issued:
+  - year: '2006'
+    month: '2'
+  title: Locomotion and foraging strategy in foot-propelled and wing-propelled shallow-diving
+    seabirds
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: '293-301'
+  volume: '308'
+  URL: https://doi.org/10.3354%2Fmeps308293
+  DOI: 10.3354/meps308293
+...

@@ -1,0 +1,26 @@
+---
+references:
+- id: ID84996553949
+  type: article-journal
+  author:
+  - family: Sorenson
+    given: G. H.
+  - family: Dey
+    given: C. J.
+  - family: Madliger
+    given: C. L.
+  - family: Love
+    given: O. P.
+  issued:
+  - year: '2016'
+    month: '11'
+  title: 'Effectiveness of baseline corticosterone as a monitoring tool for fitness:
+    a meta-analysis in seabirds'
+  container-title: Oecologia
+  publisher: Springer Nature
+  page: '353-365'
+  volume: '183'
+  issue: '2'
+  URL: https://doi.org/10.1007%2Fs00442-016-3774-3
+  DOI: 10.1007/s00442-016-3774-3
+...

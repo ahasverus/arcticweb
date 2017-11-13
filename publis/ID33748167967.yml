@@ -1,0 +1,28 @@
+---
+references:
+- id: ID33748167967
+  type: article-journal
+  author:
+  - family: Mallory
+    given: M. L.
+  - family: Fontaine
+    given: A. J.
+  - family: Smith
+    given: P. A.
+  - family: Robertson
+    given: M. O. W.
+  - family: Gilchrist
+    given: H. G.
+  issued:
+  - year: '2006'
+    month: '7'
+  title: 'Water chemistry of ponds on Southampton Island, Nunavut, Canada: Effects
+    of habitat and ornithogenic inputs'
+  container-title: Archiv für Hydrobiologie
+  publisher: Schweizerbart
+  page: '411-432'
+  volume: '166'
+  issue: '3'
+  URL: https://doi.org/10.1127%2F0003-9136%2F2006%2F0166-0411
+  DOI: 10.1127/0003-9136/2006/0166-0411
+...

@@ -1,0 +1,30 @@
+---
+references:
+- id: ID78650135986
+  type: article-journal
+  author:
+  - family: White
+    given: C. R.
+  - family: Boertmann
+    given: D.
+  - family: Grémillet
+    given: D.
+  - family: Butler
+    given: P. J.
+  - family: Green
+    given: J. A.
+  - family: Martin
+    given: G. R.
+  issued:
+  - year: '2010'
+    month: '10'
+  title: The relationship between sea surface temperature and population change of
+    Great Cormorants Phalacrocorax carbo breeding near Disko Bay, Greenland
+  container-title: Ibis
+  publisher: Wiley-Blackwell
+  page: '170-174'
+  volume: '153'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fj.1474-919x.2010.01068.x
+  DOI: 10.1111/j.1474-919x.2010.01068.x
+...

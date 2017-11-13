@@ -1,0 +1,36 @@
+---
+references:
+- id: ID84865860317
+  type: article-journal
+  author:
+  - family: Nielsen
+    given: A.
+  - family: Yoccoz
+    given: N. G.
+  - family: Steinheim
+    given: G.
+  - family: Storvik
+    given: G. O.
+  - family: Rekdal
+    given: Y.
+  - family: Angeloff
+    given: M.
+  - family: Pettorelli
+    given: N.
+  - family: Holand
+    given: Y.
+  - family: Mysterud
+    given: A.
+  issued:
+  - year: '2012'
+    month: '6'
+  title: Are responses of herbivores to environmental variability spatially consistent
+    in alpine ecosystems?
+  container-title: Global Change Biology
+  publisher: Wiley-Blackwell
+  page: '3050-3062'
+  volume: '18'
+  issue: '10'
+  URL: https://doi.org/10.1111%2Fj.1365-2486.2012.02733.x
+  DOI: 10.1111/j.1365-2486.2012.02733.x
+...

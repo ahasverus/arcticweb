@@ -1,0 +1,33 @@
+---
+references:
+- id: ID85006295319
+  type: article-journal
+  author:
+  - family: Bartomeus
+    given: I.
+  - family: Gravel
+    given: D.
+  - family: Tylianakis
+    given: J. M.
+  - family: Aizen
+    given: M. A.
+  - family: Dickie
+    given: I. A.
+  - family: Bernard-Verdier
+    given: M.
+  editor:
+  - family: Poisot
+    given: Timothée
+  issued:
+  - year: '2016'
+    month: '5'
+  title: A common framework for identifying linkage rules across different types of
+    interactions
+  container-title: Functional Ecology
+  publisher: Wiley-Blackwell
+  page: '1894-1903'
+  volume: '30'
+  issue: '12'
+  URL: https://doi.org/10.1111%2F1365-2435.12666
+  DOI: 10.1111/1365-2435.12666
+...

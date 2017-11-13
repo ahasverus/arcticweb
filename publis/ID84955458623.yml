@@ -1,0 +1,96 @@
+---
+references:
+- id: ID84955458623
+  type: article-journal
+  author:
+  - family: Basset
+    given: Y.
+  - family: Cizek
+    given: L.
+  - family: Cuénoud
+    given: P.
+  - family: Didham
+    given: R. K.
+  - family: Novotny
+    given: V.
+  - family: Ødegaard
+    given: F.
+  - family: Roslin
+    given: T.
+  - family: Tishechkin
+    given: A. K.
+  - family: Schmidl
+    given: J.
+  - family: Winchester
+    given: N. N.
+  - family: Roubik
+    given: D. W.
+  - family: Aberlenc
+    given: H.-P.
+  - family: Bail
+    given: J.
+  - family: Barrios
+    given: H.
+  - family: Bridle
+    given: J. R.
+  - family: Castaño-Meneses
+    given: G.
+  - family: Corbara
+    given: B.
+  - family: Curletti
+    given: G.
+  - family: Rocha
+    given: W. D.
+    dropping-particle: da
+  - family: Bakker
+    given: D.
+    dropping-particle: de
+  - family: Delabie
+    given: J. H. C.
+  - family: Dejean
+    given: A.
+  - family: Fagan
+    given: L. L.
+  - family: Floren
+    given: A.
+  - family: Kitching
+    given: R. L.
+  - family: Medianero
+    given: E.
+  - family: Oliveira
+    given: E. G.
+    dropping-particle: de
+  - family: Orivel
+    given: J.
+  - family: Pollet
+    given: M.
+  - family: Rapp
+    given: M.
+  - family: Ribeiro
+    given: S. P.
+  - family: Roisin
+    given: Y.
+  - family: Schmidt
+    given: J. B.
+  - family: Sørensen
+    given: L.
+  - family: Lewinsohn
+    given: T. M.
+  - family: Leponce
+    given: M.
+  editor:
+  - family: Guralnick
+    given: Robert
+  issued:
+  - year: '2015'
+    month: '12'
+  title: 'Arthropod distribution in a tropical rainforest: Tackling a four dimensional
+    puzzle'
+  container-title: PLOS ONE
+  publisher: Public Library of Science (PLoS)
+  page: 'e0144110'
+  volume: '10'
+  issue: '12'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0144110
+  DOI: 10.1371/journal.pone.0144110
+...

@@ -1,0 +1,45 @@
+---
+references:
+- id: ID78149308446
+  type: article-journal
+  author:
+  - family: Wiens
+    given: J. J.
+  - family: Ackerly
+    given: D. D.
+  - family: Allen
+    given: A. P.
+  - family: Anacker
+    given: B. L.
+  - family: Buckley
+    given: L. B.
+  - family: Cornell
+    given: H. V.
+  - family: Damschen
+    given: E. I.
+  - family: Davies
+    given: T. J.
+  - family: Grytnes
+    given: J.-A.
+  - family: Harrison
+    given: S. P.
+  - family: Hawkins
+    given: B. A.
+  - family: Holt
+    given: R. D.
+  - family: McCain
+    given: C. M.
+  - family: Stephens
+    given: P. R.
+  issued:
+  - year: '2010'
+    month: '7'
+  title: Niche conservatism as an emerging principle in ecology and conservation biology
+  container-title: Ecology Letters
+  publisher: Wiley-Blackwell
+  page: '1310-1324'
+  volume: '13'
+  issue: '10'
+  URL: https://doi.org/10.1111%2Fj.1461-0248.2010.01515.x
+  DOI: 10.1111/j.1461-0248.2010.01515.x
+...

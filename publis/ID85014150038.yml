@@ -1,0 +1,80 @@
+---
+references:
+- id: ID85014150038
+  type: article-journal
+  author:
+  - family: Willner
+    given: W.
+  - family: Jiménez-Alfaro
+    given: B.
+  - family: Agrillo
+    given: E.
+  - family: Biurrun
+    given: I.
+  - family: Campos
+    given: J. A.
+  - family: Čarni
+    given: A.
+  - family: Casella
+    given: L.
+  - family: Csiky
+    given: J.
+  - family: Ćušterevska
+    given: R.
+  - family: Didukh
+    given: Y. P.
+  - family: Ewald
+    given: J.
+  - family: Jandt
+    given: U.
+  - family: Jansen
+    given: F.
+  - family: Kacki
+    given: Z.
+  - family: Kavgaci
+    given: A.
+  - family: Lenoir
+    given: J.
+  - family: Marinšek
+    given: A.
+  - family: Onyshchenko
+    given: V.
+  - family: Rodwell
+    given: J. S.
+  - family: Schaminée
+    given: J. H. J.
+  - family: Šibík
+    given: J.
+  - family: Škvorc
+    given: E.
+  - family: Svenning
+    given: J.-C.
+  - family: Tsiripidis
+    given: I.
+  - family: Turtureanu
+    given: P. D.
+  - family: Tzonev
+    given: R.
+  - family: Vassilev
+    given: K.
+  - family: Venanzoni
+    given: R.
+  - family: Wohlgemuth
+    given: T.
+  - family: Chytrý
+    given: M.
+  editor:
+  - family: Schwabe-Kratochwil
+    given: Angelika
+  issued:
+  - year: '2017'
+    month: '3'
+  title: 'Classification of European beech forests: a Gordian Knot?'
+  container-title: Applied Vegetation Science
+  publisher: Wiley-Blackwell
+  page: '494-512'
+  volume: '20'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Favsc.12299
+  DOI: 10.1111/avsc.12299
+...

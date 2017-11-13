@@ -1,0 +1,25 @@
+---
+references:
+- id: ID84926285967
+  type: article-journal
+  author:
+  - family: Kanarek
+    given: A. R.
+  - family: Webb
+    given: C. T.
+  - family: Barfield
+    given: M.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '2014'
+    month: '11'
+  title: Overcoming allee effects through evolutionary, genetic, and demographic rescue
+  container-title: Journal of Biological Dynamics
+  publisher: Informa UK Limited
+  page: '15-33'
+  volume: '9'
+  issue: '1'
+  URL: https://doi.org/10.1080%2F17513758.2014.978399
+  DOI: 10.1080/17513758.2014.978399
+...

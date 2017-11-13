@@ -1,0 +1,38 @@
+---
+references:
+- id: ID79956261018
+  type: article-journal
+  author:
+  - family: Norén
+    given: K.
+  - family: Carmichael
+    given: L.
+  - family: Dalén
+    given: L.
+  - family: Hersteinsson
+    given: P.
+  - family: Samelius
+    given: G.
+  - family: Fuglei
+    given: E.
+  - family: Kapel
+    given: C. M. O.
+  - family: Menyushina
+    given: I.
+  - family: Strobeck
+    given: C.
+  - family: Angerbjörn
+    given: A.
+  issued:
+  - year: '2010'
+    month: '10'
+  title: 'Arctic fox Vulpes lagopus population structure: Circumpolar patterns and
+    processes'
+  container-title: Oikos
+  publisher: Wiley-Blackwell
+  page: '873-885'
+  volume: '120'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fj.1600-0706.2010.18766.x
+  DOI: 10.1111/j.1600-0706.2010.18766.x
+...

@@ -1,0 +1,21 @@
+---
+references:
+- id: ID0030447863
+  type: article-journal
+  author:
+  - family: Smith
+    given: V. H.
+  - family: Holt
+    given: R. D.
+  issued:
+  - year: '1996'
+    month: '9'
+  title: Resource competition and within-host disease dynamics
+  container-title: Trends in Ecology & Evolution
+  publisher: Elsevier BV
+  page: '386-389'
+  volume: '11'
+  issue: '9'
+  URL: https://doi.org/10.1016%2F0169-5347%2896%2920067-9
+  DOI: 10.1016/0169-5347(96)20067-9
+...

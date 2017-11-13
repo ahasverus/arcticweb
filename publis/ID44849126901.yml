@@ -1,0 +1,29 @@
+---
+references:
+- id: ID44849126901
+  type: article-journal
+  author:
+  - family: Bauer
+    given: S.
+  - family: Dinther
+    given: M.
+    dropping-particle: van
+  - family: Høgda
+    given: K.-A.
+  - family: Klaassen
+    given: M.
+  - family: Madsen
+    given: J.
+  issued:
+  - year: '2008'
+    month: '7'
+  title: The consequences of climate-driven stop-over sites changes on migration schedules
+    and fitness of Arctic geese
+  container-title: Journal of Animal Ecology
+  publisher: Wiley-Blackwell
+  page: '654-660'
+  volume: '77'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Fj.1365-2656.2008.01381.x
+  DOI: 10.1111/j.1365-2656.2008.01381.x
+...

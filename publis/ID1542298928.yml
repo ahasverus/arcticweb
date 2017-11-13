@@ -1,0 +1,29 @@
+---
+references:
+- id: ID1542298928
+  type: article-journal
+  author:
+  - family: Shurin
+    given: J. B.
+  - family: Amarasekare
+    given: P.
+  - family: Chase
+    given: J. M.
+  - family: Holt
+    given: R. D.
+  - family: Hoopes
+    given: M. F.
+  - family: Leibold
+    given: M. A.
+  issued:
+  - year: '2004'
+    month: '4'
+  title: Alternative stable states and regional community structure
+  container-title: Journal of Theoretical Biology
+  publisher: Elsevier BV
+  page: '359-368'
+  volume: '227'
+  issue: '3'
+  URL: https://doi.org/10.1016%2Fj.jtbi.2003.11.013
+  DOI: 10.1016/j.jtbi.2003.11.013
+...

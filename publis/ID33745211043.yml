@@ -1,0 +1,23 @@
+---
+references:
+- id: ID33745211043
+  type: article-journal
+  author:
+  - family: Ropert-Coudert
+    given: Y.
+  - family: Grémillet
+    given: D.
+  - family: Kato
+    given: A.
+  issued:
+  - year: '2006'
+    month: '1'
+  title: Swim speeds of free-ranging great cormorants
+  container-title: Marine Biology
+  publisher: Springer Nature
+  page: '415-422'
+  volume: '149'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs00227-005-0242-8
+  DOI: 10.1007/s00227-005-0242-8
+...

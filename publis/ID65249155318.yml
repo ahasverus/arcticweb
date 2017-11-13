@@ -1,0 +1,32 @@
+---
+references:
+- id: ID65249155318
+  type: article-journal
+  author:
+  - family: Treier
+    given: U. A.
+  - family: Broennimann
+    given: O.
+  - family: Normand
+    given: S.
+  - family: Guisan
+    given: A.
+  - family: Schaffner
+    given: U.
+  - family: Steinger
+    given: T.
+  - family: Müller-Schärer
+    given: H.
+  issued:
+  - year: '2009'
+    month: '5'
+  title: Shift in cytotype frequency and niche space in the invasive plant Centaurea
+    maculosa
+  container-title: Ecology
+  publisher: Wiley-Blackwell
+  page: '1366-1377'
+  volume: '90'
+  issue: '5'
+  URL: https://doi.org/10.1890%2F08-0420.1
+  DOI: 10.1890/08-0420.1
+...

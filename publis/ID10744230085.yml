@@ -1,0 +1,22 @@
+---
+references:
+- id: ID10744230085
+  type: article-journal
+  author:
+  - family: Dalén
+    given: L.
+  - family: Götherström
+    given: A.
+  - family: Angerbjörn
+    given: A.
+  issued:
+  - year: '2004'
+  title: Identifying species from pieces of faeces
+  container-title: Conservation Genetics
+  publisher: Springer Nature
+  page: '109-111'
+  volume: '5'
+  issue: '1'
+  URL: https://doi.org/10.1023%2Fb%3Acoge.0000014060.54070.45
+  DOI: 10.1023/b:coge.0000014060.54070.45
+...

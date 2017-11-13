@@ -1,0 +1,31 @@
+---
+references:
+- id: ID84989932019
+  type: chapter
+  author:
+  - family: Alexander
+    given: C.
+  - family: Arge
+    given: L.
+  - family: Bøcher
+    given: P. K.
+  - family: Revsbæk
+    given: M.
+  - family: Sandel
+    given: B.
+  - family: Svenning
+    given: J.-C.
+  - family: Tsirogiannis
+    given: C.
+  - family: Yang
+    given: J.
+  issued:
+  - year: '2016'
+  title: Computing river floods using massive terrain data
+  container-title: Geographic Information Science
+  publisher: Springer International Publishing
+  page: '3-17'
+  volume: 9927 LNCS
+  URL: https://doi.org/10.1007%2F978-3-319-45738-3_1
+  DOI: 10.1007/978-3-319-45738-3_1
+...

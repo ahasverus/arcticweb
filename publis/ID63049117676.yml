@@ -1,0 +1,29 @@
+---
+references:
+- id: ID63049117676
+  type: article-journal
+  author:
+  - family: Reneerkens
+    given: J.
+  - family: Versteegh
+    given: M. A.
+  - family: Schneider
+    given: A. M.
+  editor:
+  - family: PIERSMA
+    given: THEUNIS
+  - family: BURTT
+    given: EDWARD H.
+  issued:
+  - year: '2008'
+    month: '4'
+  title: 'Seasonally changing preen-wax composition: Red knots’ (Calidris canutus)
+    flexible defense against feather-degrading bacteria?'
+  container-title: The Auk
+  publisher: University of California Press
+  page: '285-290'
+  volume: '125'
+  issue: '2'
+  URL: https://doi.org/10.1525%2Fauk.2008.06217
+  DOI: 10.1525/auk.2008.06217
+...
